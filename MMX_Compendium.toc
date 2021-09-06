@@ -1,0 +1,22 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}About this document}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Mega Man X}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Main plot}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Main Characters}{5}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}X}{5}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Zero}{5}{subsection.2.2.2}%
+\contentsline {section}{\numberline {2.3}Game Mechanics}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Weapons}{5}{section.2.4}%
+\contentsline {section}{\numberline {2.5}First Armor}{5}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Useful Techniques}{5}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Highway Stage}{5}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Ocean}{5}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Snow Mountain}{5}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Gallery}{5}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Factory}{5}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Airport}{5}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Tower}{5}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Power Plant}{5}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Forest}{5}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Sigma Stage (1-4)}{5}{section.2.16}%
