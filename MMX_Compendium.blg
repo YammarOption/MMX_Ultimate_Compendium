@@ -8,49 +8,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "wiki:X1_weapons"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 
 Done.
-You've used 3 entries,
+You've used 14 entries,
             4087 wiz_defined-function locations,
-            834 strings with 7641 characters,
-and the built_in function-call counts, 1007 in all, are:
-= -- 59
-> -- 12
+            882 strings with 9021 characters,
+and the built_in function-call counts, 4463 in all, are:
+= -- 301
+> -- 56
 < -- 0
-+ -- 6
-- -- 3
-* -- 32
-:= -- 192
-add.period$ -- 6
-call.type$ -- 3
-change.case$ -- 3
++ -- 28
+- -- 14
+* -- 98
+:= -- 843
+add.period$ -- 28
+call.type$ -- 14
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 78
-empty$ -- 100
-format.name$ -- 3
-if$ -- 203
+cite$ -- 14
+duplicate$ -- 364
+empty$ -- 463
+format.name$ -- 14
+if$ -- 962
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 21
-newline$ -- 36
-num.names$ -- 3
-pop$ -- 68
+int.to.str$ -- 14
+missing$ -- 98
+newline$ -- 91
+num.names$ -- 14
+pop$ -- 332
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 71
+skip$ -- 323
 stack$ -- 0
 substring$ -- 0
-swap$ -- 38
+swap$ -- 181
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 3
+type$ -- 14
 warning$ -- 0
-while$ -- 3
-width$ -- 4
-write$ -- 46
+while$ -- 14
+width$ -- 16
+write$ -- 145
+(There was 1 warning)
