@@ -23,8 +23,8 @@
 
 \bibitem{wiki:MMX}
 \BIBentryALTinterwordspacing
-{Mega Man X (video game)}. {The Megaman Knowledge Database}. [Online].
-  Available: \url{https://megaman.fandom.com/wiki/Mega_Man_X_(video_game)}
+{Mega Man X (video game)}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Mega_Man_X_(video_game)}
 \BIBentrySTDinterwordspacing
 
 \bibitem{Xcoll1:Manual_X1}
@@ -32,25 +32,25 @@
 
 \bibitem{wiki:MMX_script}
 \BIBentryALTinterwordspacing
-{Mega Man X (video game)/Script}. {The Megaman Knowledge Database}. [Online].
+{Mega Man X (video game)/Script}. {The Megaman Knowledge Base}. [Online].
   Available:
   \url{https://megaman.fandom.com/wiki/Mega_Man_X_(video_game)/Script}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:MM_MHX}
 \BIBentryALTinterwordspacing
-{Mega Man Maverick Hunter X}. {The Megaman Knowledge Database}. [Online].
+{Mega Man Maverick Hunter X}. {The Megaman Knowledge Base}. [Online].
   Available: \url{https://megaman.fandom.com/wiki/Mega_Man_Maverick_Hunter_X}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:MM_MHX_script}
 \BIBentryALTinterwordspacing
-{Mega Man Maverick Hunter X Script (X's story)}. {The Megaman Knowledge
-  Database}. [Online]. Available:
+{Mega Man Maverick Hunter X Script (X's story)}. {The Megaman Knowledge Base}.
+  [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Mega_Man_Maverick_Hunter_X_Script_(X%27s_story)}
 \BIBentrySTDinterwordspacing
 
-\bibitem{X:Cain_journal}
+\bibitem{X:Manual}
 \BIBentryALTinterwordspacing
 {Mega Man X Instruction Booklet}. {Nintendo, Capcom}. [Online]. Available:
   \url{https://www.nintendo.co.jp/clvs/manuals/common/pdf/CLV-P-SABCE.pdf}
@@ -58,13 +58,13 @@
 
 \bibitem{wiki:Cain_journal}
 \BIBentryALTinterwordspacing
-{The Journal of Dr. Cain}. {The Megaman Knowledge Database}. [Online].
-  Available: \url{https://megaman.fandom.com/wiki/The_Journal_of_Dr._Cain}
+{The Journal of Dr. Cain}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/The_Journal_of_Dr._Cain}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:MM_MHX_X}
 \BIBentryALTinterwordspacing
-{Mega Man X (character)/Maverick Hunter X}. {The Megaman Knowledge Database}.
+{Mega Man X (character)/Maverick Hunter X}. {The Megaman Knowledge Base}.
   [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Mega_Man_X_(character)/Maverick_Hunter_X}
 \BIBentrySTDinterwordspacing
@@ -75,34 +75,64 @@
   Available: \url{https://en.wikipedia.org/wiki/Mega_Man_X_(video_game)}
 \BIBentrySTDinterwordspacing
 
+\bibitem{stratwiki:Heart_tank}
+\BIBentryALTinterwordspacing
+{Mega Man X/Heart Tanks}. {STRATEGYWIKI}. [Online]. Available:
+  \url{https://strategywiki.org/wiki/Mega_Man_X/Heart_Tanks}
+\BIBentrySTDinterwordspacing
+
 \bibitem{MHX:manual}
 \BIBentryALTinterwordspacing
 {Mega Man Maverich Haunter X user manual}. {Capcom}. [Online]. Available:
   \url{https://usermanual.wiki/Capcom/CapcomVideoGamesPlaystationportableUsersManual536674.877059048.pdf}
 \BIBentrySTDinterwordspacing
 
+\bibitem{wiki:X_weapons}
+\BIBentryALTinterwordspacing
+{X's weaponry}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/X%27s_weaponry}
+\BIBentrySTDinterwordspacing
+
 \bibitem{wiki:Rolling_shield}
 \BIBentryALTinterwordspacing
-{Rolling Shield}. {The Megaman Knowledge Database}. [Online]. Available:
+{Rolling Shield}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Rolling_Shield}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Homing_torpedo}
+\BIBentryALTinterwordspacing
+{Homing Torpedo}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Homing_Torpedo}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:Boomerang_cutter}
 \BIBentryALTinterwordspacing
-{Boomerang Cutter}. {The Megaman Knowledge Database}. [Online]. Available:
+{Boomerang Cutter}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Boomerang_Cutter}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:Chameleon_sting}
 \BIBentryALTinterwordspacing
-{Chameleon Sting}. {The Megaman Knowledge Database}. [Online]. Available:
+{Chameleon Sting}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Chameleon_Sting}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:Storm_tornado}
 \BIBentryALTinterwordspacing
-{}. {The Megaman Knowledge Database}. [Online]. Available:
+{Storm Tornado}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Storm_Tornado}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:First_armor}
+\BIBentryALTinterwordspacing
+{Armor Parts (Mega Man X)}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Armor_Parts_(Mega_Man_X)}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Hadoken}
+\BIBentryALTinterwordspacing
+{Hadoken}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Hadoken}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
