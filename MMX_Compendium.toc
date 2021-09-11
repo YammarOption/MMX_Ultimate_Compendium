@@ -19,14 +19,14 @@
 \contentsline {subsection}{\numberline {2.5.8}Fire Wave}{9}{subsection.2.5.8}%
 \contentsline {section}{\numberline {2.6}First Armor}{9}{section.2.6}%
 \contentsline {section}{\numberline {2.7}Useful Techniques}{11}{section.2.7}%
-\contentsline {section}{\numberline {2.8}Highway Stage}{11}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Ocean}{11}{section.2.9}%
-\contentsline {section}{\numberline {2.10}Snow Mountain}{11}{section.2.10}%
-\contentsline {section}{\numberline {2.11}Gallery}{11}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Factory}{11}{section.2.12}%
-\contentsline {section}{\numberline {2.13}Airport}{11}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Tower}{11}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Power Plant}{11}{section.2.15}%
-\contentsline {section}{\numberline {2.16}Forest}{11}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{11}{section.2.17}%
-\contentsline {section}{\numberline {2.18}Miscellaneous}{11}{section.2.18}%
+\contentsline {section}{\numberline {2.8}Highway Stage}{12}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Ocean}{12}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Snow Mountain}{12}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Gallery}{12}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Factory}{12}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Airport}{12}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Tower}{12}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Power Plant}{12}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Forest}{12}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{12}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Miscellaneous}{12}{section.2.18}%
