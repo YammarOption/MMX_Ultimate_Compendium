@@ -1,32 +1,38 @@
 \babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}About this document}{2}{section.1.1}%
-\contentsline {chapter}{\numberline {2}Mega Man X}{3}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Main plot}{3}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Main Plot (\textit {MHX}\xspace )}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Main Characters}{5}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}X}{5}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Zero}{6}{subsection.2.3.2}%
-\contentsline {section}{\numberline {2.4}Game Mechanics}{6}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Weapons}{7}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Shotgun Ice}{7}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Electric Spark}{7}{subsection.2.5.2}%
-\contentsline {subsection}{\numberline {2.5.3}Rolling Shield}{8}{subsection.2.5.3}%
-\contentsline {subsection}{\numberline {2.5.4}Homing Torpedo}{8}{subsection.2.5.4}%
-\contentsline {subsection}{\numberline {2.5.5}Boomerang Cutter}{8}{subsection.2.5.5}%
-\contentsline {subsection}{\numberline {2.5.6}Chameleon Sting}{9}{subsection.2.5.6}%
-\contentsline {subsection}{\numberline {2.5.7}Storm Tornado}{9}{subsection.2.5.7}%
-\contentsline {subsection}{\numberline {2.5.8}Fire Wave}{9}{subsection.2.5.8}%
-\contentsline {section}{\numberline {2.6}First Armor}{9}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Useful Techniques}{11}{section.2.7}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}About this document}{3}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Mega Man X}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Main plot}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Main Plot (\textit {MHX}\xspace )}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Main Characters}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}X}{6}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Zero}{7}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Game Mechanics}{7}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Weapons}{8}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Shotgun Ice}{8}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Electric Spark}{8}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2.5.3}Rolling Shield}{9}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2.5.4}Homing Torpedo}{9}{subsection.2.5.4}%
+\contentsline {subsection}{\numberline {2.5.5}Boomerang Cutter}{9}{subsection.2.5.5}%
+\contentsline {subsection}{\numberline {2.5.6}Chameleon Sting}{10}{subsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.5.7}Storm Tornado}{10}{subsection.2.5.7}%
+\contentsline {subsection}{\numberline {2.5.8}Fire Wave}{10}{subsection.2.5.8}%
+\contentsline {section}{\numberline {2.6}First Armor}{10}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Useful Techniques}{12}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Highway Stage}{12}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Ocean}{12}{section.2.9}%
-\contentsline {section}{\numberline {2.10}Snow Mountain}{12}{section.2.10}%
-\contentsline {section}{\numberline {2.11}Gallery}{12}{section.2.11}%
-\contentsline {section}{\numberline {2.12}Factory}{12}{section.2.12}%
-\contentsline {section}{\numberline {2.13}Airport}{12}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Tower}{12}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Power Plant}{12}{section.2.15}%
-\contentsline {section}{\numberline {2.16}Forest}{12}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{12}{section.2.17}%
-\contentsline {section}{\numberline {2.18}Miscellaneous}{12}{section.2.18}%
+\contentsline {section}{\numberline {2.9}Ocean}{13}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Heart Tank}{14}{subsection.2.9.1}%
+\contentsline {subsection}{\numberline {2.9.2}Launch Octopus}{14}{subsection.2.9.2}%
+\contentsline {section}{\numberline {2.10}Snow Mountain}{16}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Gallery}{16}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Factory}{16}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Airport}{16}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Tower}{16}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Power Plant}{16}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Forest}{16}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{16}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Miscellaneous}{16}{section.2.18}%
+\contentsline {chapter}{\numberline {A}Characters}{17}{appendix.1.A}%
+\contentsline {chapter}{\numberline {B}Enemies}{18}{appendix.1.B}%
+\contentsline {section}{\numberline {B.1}Mini-Bosses}{18}{section.1.B.1}%
+\contentsline {section}{\numberline {B.2}Other enemies}{18}{section.1.B.2}%

@@ -3,6 +3,8 @@
 \usepackage[english]{babel}
 \usepackage{hyperref}
 \usepackage{xspace}
+\usepackage[title]{appendix}
+
 \title{The Mega Man X Compedium}
 
 
@@ -27,6 +29,14 @@
 \begin{chapter}{Mega Man X}
 	\input{src/x1.tex}
 \end{chapter}
+
+
+
+\begin{appendices}
+	\chapter {Characters}
+	\chapter{Enemies}
+	\input{src/enemies.tex}
+\end{appendices}
 
 \bibliographystyle{IEEEtran} 
 \bibliography{bibliography}
