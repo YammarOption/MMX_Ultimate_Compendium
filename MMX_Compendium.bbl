@@ -184,4 +184,22 @@
   \url{https://megaman.fandom.com/wiki/Launch_Octopus}
 \BIBentrySTDinterwordspacing
 
+\bibitem{stratwiki:Snow_mountain}
+\BIBentryALTinterwordspacing
+{Mega Man X/Chill Penguin}. {STRATEGYWIKI}. [Online]. Available:
+  \url{https://strategywiki.org/wiki/Mega_Man_X/Chill_Penguin}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Snow_mountain}
+\BIBentryALTinterwordspacing
+{Snow Mountain Stage}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Snow_Mountain_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Chill_Penguin}
+\BIBentryALTinterwordspacing
+{Chill Penguin}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Chill_Penguin}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
