@@ -202,4 +202,17 @@
   \url{https://megaman.fandom.com/wiki/Chill_Penguin}
 \BIBentrySTDinterwordspacing
 
+\bibitem{wiki:Gallery}
+\BIBentryALTinterwordspacing
+{GalleryStage}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Gallery_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wordpress:X_japanese_script}
+\BIBentryALTinterwordspacing
+{keekiyasan}, ``{Rockman X1},'' \emph{{Hondoori Game Center}}. [Online].
+  Available:
+  \url{https://hondoori.wordpress.com/scripts-and-localizations/rockman-series/rockman-x1/}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}

@@ -30,15 +30,16 @@
 \contentsline {section}{\numberline {2.11}Gallery}{18}{section.2.11}%
 \contentsline {subsection}{\numberline {2.11.1}Sub Tank}{19}{subsection.2.11.1}%
 \contentsline {subsection}{\numberline {2.11.2}Heart Tank}{19}{subsection.2.11.2}%
-\contentsline {subsection}{\numberline {2.11.3}Haduken}{20}{subsection.2.11.3}%
-\contentsline {section}{\numberline {2.12}Factory}{20}{section.2.12}%
-\contentsline {section}{\numberline {2.13}Airport}{20}{section.2.13}%
-\contentsline {section}{\numberline {2.14}Tower}{20}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Power Plant}{20}{section.2.15}%
-\contentsline {section}{\numberline {2.16}Forest}{20}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{20}{section.2.17}%
-\contentsline {section}{\numberline {2.18}Miscellaneous}{20}{section.2.18}%
-\contentsline {chapter}{\numberline {A}Characters}{21}{appendix.1.A}%
-\contentsline {chapter}{\numberline {B}Enemies}{22}{appendix.1.B}%
-\contentsline {section}{\numberline {B.1}Mini-Bosses}{22}{section.1.B.1}%
-\contentsline {section}{\numberline {B.2}Other enemies}{22}{section.1.B.2}%
+\contentsline {subsection}{\numberline {2.11.3}Hadouken}{19}{subsection.2.11.3}%
+\contentsline {subsection}{\numberline {2.11.4}Armored Armadillo}{20}{subsection.2.11.4}%
+\contentsline {section}{\numberline {2.12}Factory}{21}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Airport}{21}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Tower}{21}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Power Plant}{21}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Forest}{21}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{21}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Miscellaneous}{21}{section.2.18}%
+\contentsline {chapter}{\numberline {A}Characters}{22}{appendix.1.A}%
+\contentsline {chapter}{\numberline {B}Enemies}{23}{appendix.1.B}%
+\contentsline {section}{\numberline {B.1}Mini-Bosses}{23}{section.1.B.1}%
+\contentsline {section}{\numberline {B.2}Other enemies}{23}{section.1.B.2}%
