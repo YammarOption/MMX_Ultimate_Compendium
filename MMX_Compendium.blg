@@ -14,45 +14,45 @@ Database file #1: bibliography.bib
 Warning--empty year in wordpress:X_japanese_script
 
 Done.
-You've used 32 entries,
+You've used 34 entries,
             4087 wiz_defined-function locations,
-            957 strings with 10970 characters,
-and the built_in function-call counts, 10161 in all, are:
-= -- 704
-> -- 128
+            965 strings with 11151 characters,
+and the built_in function-call counts, 10789 in all, are:
+= -- 748
+> -- 136
 < -- 0
-+ -- 64
-- -- 32
-* -- 218
-:= -- 1920
-add.period$ -- 64
-call.type$ -- 32
-change.case$ -- 32
++ -- 68
+- -- 34
+* -- 230
+:= -- 2038
+add.period$ -- 68
+call.type$ -- 34
+change.case$ -- 34
 chr.to.int$ -- 0
-cite$ -- 33
-duplicate$ -- 838
-empty$ -- 1058
-format.name$ -- 32
-if$ -- 2211
+cite$ -- 35
+duplicate$ -- 890
+empty$ -- 1124
+format.name$ -- 34
+if$ -- 2349
 int.to.chr$ -- 0
-int.to.str$ -- 32
-missing$ -- 222
-newline$ -- 181
-num.names$ -- 32
-pop$ -- 754
+int.to.str$ -- 34
+missing$ -- 236
+newline$ -- 191
+num.names$ -- 34
+pop$ -- 802
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 741
+skip$ -- 787
 stack$ -- 0
 substring$ -- 1
-swap$ -- 417
+swap$ -- 443
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 32
+type$ -- 34
 warning$ -- 1
-while$ -- 32
-width$ -- 34
-write$ -- 308
+while$ -- 34
+width$ -- 36
+write$ -- 326
 (There was 1 warning)

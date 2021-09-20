@@ -204,7 +204,7 @@
 
 \bibitem{wiki:Gallery}
 \BIBentryALTinterwordspacing
-{GalleryStage}. {The Megaman Knowledge Base}. [Online]. Available:
+{Gallery Stage}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Gallery_Stage}
 \BIBentrySTDinterwordspacing
 
@@ -213,6 +213,18 @@
 {keekiyasan}, ``{Rockman X1},'' \emph{{Hondoori Game Center}}. [Online].
   Available:
   \url{https://hondoori.wordpress.com/scripts-and-localizations/rockman-series/rockman-x1/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Factory}
+\BIBentryALTinterwordspacing
+{Factory Stage}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Factory_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Flame_mammoth}
+\BIBentryALTinterwordspacing
+{Flame Mammoth}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Flame_Mammoth}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}
