@@ -227,4 +227,16 @@
   \url{https://megaman.fandom.com/wiki/Flame_Mammoth}
 \BIBentrySTDinterwordspacing
 
+\bibitem{wiki:Airport}
+\BIBentryALTinterwordspacing
+{Airport Stage}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Airport_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Storm_Eagle}
+\BIBentryALTinterwordspacing
+{Storm Eagle}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Storm_Eagle}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
