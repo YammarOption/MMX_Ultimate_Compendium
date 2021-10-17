@@ -171,6 +171,10 @@
   \url{https://megaman.fandom.com/wiki/Ocean_Stage}
 \BIBentrySTDinterwordspacing
 
+\bibitem{book:MMX_Complete_art}
+{Capcom}, \emph{Megaman X Official Complete Artwork}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Udon Entertainement, 2018.
+
 \bibitem{wayback:X_resources}
 \BIBentryALTinterwordspacing
 {Rockman X Collected Sourcebook Information}. {megaman.retrofaction.com,
@@ -237,6 +241,22 @@
 \BIBentryALTinterwordspacing
 {Storm Eagle}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Storm_Eagle}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Tower}
+\BIBentryALTinterwordspacing
+{Tower Stage}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Tower_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{book:MH_field_guide}
+D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
+  1em plus 0.5em minus 0.4em\relax Udon Entertainement, 2021.
+
+\bibitem{wiki:Boomer_kuwanger}
+\BIBentryALTinterwordspacing
+{Boomer Kuwanger}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Boomer_Kuwanger}
 \BIBentrySTDinterwordspacing
 
 \end{thebibliography}

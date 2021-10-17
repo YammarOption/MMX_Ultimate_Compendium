@@ -18,37 +18,39 @@
 \contentsline {subsection}{\numberline {2.5.7}Storm Tornado}{10}{subsection.2.5.7}%
 \contentsline {subsection}{\numberline {2.5.8}Fire Wave}{10}{subsection.2.5.8}%
 \contentsline {section}{\numberline {2.6}First Armor}{11}{section.2.6}%
-\contentsline {section}{\numberline {2.7}Useful Techniques}{12}{section.2.7}%
+\contentsline {section}{\numberline {2.7}Useful Techniques}{13}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Highway Stage}{13}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Ocean}{14}{section.2.9}%
-\contentsline {subsection}{\numberline {2.9.1}Heart Tank}{15}{subsection.2.9.1}%
+\contentsline {section}{\numberline {2.9}Ocean}{15}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Heart Tank}{16}{subsection.2.9.1}%
 \contentsline {subsection}{\numberline {2.9.2}Launch Octopus}{16}{subsection.2.9.2}%
-\contentsline {section}{\numberline {2.10}Snow Mountain}{16}{section.2.10}%
-\contentsline {subsection}{\numberline {2.10.1}Foot Parts}{17}{subsection.2.10.1}%
-\contentsline {subsection}{\numberline {2.10.2}Heart Tank}{17}{subsection.2.10.2}%
-\contentsline {subsection}{\numberline {2.10.3}Chill Penguin}{18}{subsection.2.10.3}%
-\contentsline {section}{\numberline {2.11}Gallery}{20}{section.2.11}%
-\contentsline {subsection}{\numberline {2.11.1}Sub Tank}{21}{subsection.2.11.1}%
-\contentsline {subsection}{\numberline {2.11.2}Heart Tank}{22}{subsection.2.11.2}%
-\contentsline {subsection}{\numberline {2.11.3}Hadouken}{22}{subsection.2.11.3}%
-\contentsline {subsection}{\numberline {2.11.4}Armored Armadillo}{22}{subsection.2.11.4}%
-\contentsline {section}{\numberline {2.12}Factory}{23}{section.2.12}%
-\contentsline {subsection}{\numberline {2.12.1}Arm Parts}{24}{subsection.2.12.1}%
-\contentsline {subsection}{\numberline {2.12.2}Sub Tank}{24}{subsection.2.12.2}%
-\contentsline {subsection}{\numberline {2.12.3}Heart Tank}{25}{subsection.2.12.3}%
-\contentsline {subsection}{\numberline {2.12.4}Flame Mammoth}{25}{subsection.2.12.4}%
-\contentsline {section}{\numberline {2.13}Airport}{26}{section.2.13}%
-\contentsline {subsection}{\numberline {2.13.1}Heart Tank}{27}{subsection.2.13.1}%
-\contentsline {subsection}{\numberline {2.13.2}Sub Tank}{27}{subsection.2.13.2}%
-\contentsline {subsection}{\numberline {2.13.3}Head Parts}{27}{subsection.2.13.3}%
-\contentsline {subsection}{\numberline {2.13.4}Storm Eagle}{27}{subsection.2.13.4}%
-\contentsline {section}{\numberline {2.14}Tower}{28}{section.2.14}%
-\contentsline {section}{\numberline {2.15}Power Plant}{28}{section.2.15}%
-\contentsline {section}{\numberline {2.16}Forest}{28}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{28}{section.2.17}%
-\contentsline {section}{\numberline {2.18}Miscellaneous}{28}{section.2.18}%
-\contentsline {chapter}{\numberline {A}Characters}{29}{appendix.1.A}%
-\contentsline {chapter}{\numberline {B}Vehicles}{30}{appendix.1.B}%
-\contentsline {chapter}{\numberline {C}Enemies}{31}{appendix.1.C}%
-\contentsline {section}{\numberline {C.1}Mini-Bosses}{31}{section.1.C.1}%
-\contentsline {section}{\numberline {C.2}Other enemies}{31}{section.1.C.2}%
+\contentsline {section}{\numberline {2.10}Snow Mountain}{18}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}Foot Parts}{19}{subsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.10.2}Heart Tank}{20}{subsection.2.10.2}%
+\contentsline {subsection}{\numberline {2.10.3}Chill Penguin}{20}{subsection.2.10.3}%
+\contentsline {section}{\numberline {2.11}Gallery}{22}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}Sub Tank}{23}{subsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.11.2}Heart Tank}{24}{subsection.2.11.2}%
+\contentsline {subsection}{\numberline {2.11.3}Hadouken}{24}{subsection.2.11.3}%
+\contentsline {subsection}{\numberline {2.11.4}Armored Armadillo}{24}{subsection.2.11.4}%
+\contentsline {section}{\numberline {2.12}Factory}{25}{section.2.12}%
+\contentsline {subsection}{\numberline {2.12.1}Arm Parts}{27}{subsection.2.12.1}%
+\contentsline {subsection}{\numberline {2.12.2}Sub Tank}{27}{subsection.2.12.2}%
+\contentsline {subsection}{\numberline {2.12.3}Heart Tank}{28}{subsection.2.12.3}%
+\contentsline {subsection}{\numberline {2.12.4}Flame Mammoth}{28}{subsection.2.12.4}%
+\contentsline {section}{\numberline {2.13}Airport}{31}{section.2.13}%
+\contentsline {subsection}{\numberline {2.13.1}Heart Tank}{32}{subsection.2.13.1}%
+\contentsline {subsection}{\numberline {2.13.2}Sub Tank}{32}{subsection.2.13.2}%
+\contentsline {subsection}{\numberline {2.13.3}Head Parts}{33}{subsection.2.13.3}%
+\contentsline {subsection}{\numberline {2.13.4}Storm Eagle}{33}{subsection.2.13.4}%
+\contentsline {section}{\numberline {2.14}Tower}{35}{section.2.14}%
+\contentsline {subsection}{\numberline {2.14.1}Heart Tank}{36}{subsection.2.14.1}%
+\contentsline {subsection}{\numberline {2.14.2}Boomer Kuwanger}{36}{subsection.2.14.2}%
+\contentsline {section}{\numberline {2.15}Power Plant}{37}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Forest}{37}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{37}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Miscellaneous}{37}{section.2.18}%
+\contentsline {chapter}{\numberline {A}Characters}{38}{appendix.1.A}%
+\contentsline {chapter}{\numberline {B}Vehicles}{39}{appendix.1.B}%
+\contentsline {chapter}{\numberline {C}Enemies}{40}{appendix.1.C}%
+\contentsline {section}{\numberline {C.1}Mini-Bosses}{40}{section.1.C.1}%
+\contentsline {section}{\numberline {C.2}Other enemies}{40}{section.1.C.2}%
