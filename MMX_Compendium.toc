@@ -48,12 +48,15 @@
 \contentsline {section}{\numberline {2.15}Power Plant}{39}{section.2.15}%
 \contentsline {subsection}{\numberline {2.15.1}Sub Tank}{40}{subsection.2.15.1}%
 \contentsline {subsection}{\numberline {2.15.2}Heart Tank}{40}{subsection.2.15.2}%
-\contentsline {subsection}{\numberline {2.15.3}Spark Mandrill}{40}{subsection.2.15.3}%
+\contentsline {subsection}{\numberline {2.15.3}Spark Mandrill}{41}{subsection.2.15.3}%
 \contentsline {section}{\numberline {2.16}Forest}{41}{section.2.16}%
-\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{41}{section.2.17}%
-\contentsline {section}{\numberline {2.18}Miscellaneous}{41}{section.2.18}%
-\contentsline {chapter}{\numberline {A}Characters}{42}{appendix.1.A}%
-\contentsline {chapter}{\numberline {B}Vehicles}{43}{appendix.1.B}%
-\contentsline {chapter}{\numberline {C}Enemies}{44}{appendix.1.C}%
-\contentsline {section}{\numberline {C.1}Mini-Bosses}{44}{section.1.C.1}%
-\contentsline {section}{\numberline {C.2}Other enemies}{44}{section.1.C.2}%
+\contentsline {subsection}{\numberline {2.16.1}Armor Parts}{42}{subsection.2.16.1}%
+\contentsline {subsection}{\numberline {2.16.2}Heart Tank}{43}{subsection.2.16.2}%
+\contentsline {subsection}{\numberline {2.16.3}Sting Chameleon}{43}{subsection.2.16.3}%
+\contentsline {section}{\numberline {2.17}Sigma Stage (1-4)}{44}{section.2.17}%
+\contentsline {section}{\numberline {2.18}Miscellaneous}{44}{section.2.18}%
+\contentsline {chapter}{\numberline {A}Characters}{45}{appendix.1.A}%
+\contentsline {chapter}{\numberline {B}Vehicles}{46}{appendix.1.B}%
+\contentsline {chapter}{\numberline {C}Enemies}{47}{appendix.1.C}%
+\contentsline {section}{\numberline {C.1}Mini-Bosses}{47}{section.1.C.1}%
+\contentsline {section}{\numberline {C.2}Other enemies}{47}{section.1.C.2}%

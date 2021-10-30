@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.20)  24 OCT 2021 13:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.3.20)  30 OCT 2021 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -354,7 +354,7 @@ Chapter 2.
 
 LaTeX Warning: Reference `dict:reploids' on page 4 undefined on input line 8.
 
-<figures/X1/Highway_screenshot_4.jpg, id=320, 653.44125pt x 441.65pt>
+<figures/X1/Highway_screenshot_4.jpg, id=335, 653.44125pt x 441.65pt>
 File: figures/X1/Highway_screenshot_4.jpg Graphic file (type jpg)
 <use figures/X1/Highway_screenshot_4.jpg>
 Package pdftex.def Info: figures/X1/Highway_screenshot_4.jpg  used on input lin
@@ -384,12 +384,12 @@ Boomer Kuwanger.
  []
 
 [9] [10]
-<figures/X1/Armor_foot.jpg, id=394, 797.98125pt x 461.725pt>
+<figures/X1/Armor_foot.jpg, id=409, 797.98125pt x 461.725pt>
 File: figures/X1/Armor_foot.jpg Graphic file (type jpg)
 <use figures/X1/Armor_foot.jpg>
 Package pdftex.def Info: figures/X1/Armor_foot.jpg  used on input line 94.
 (pdftex.def)             Requested size: 172.5pt x 99.81143pt.
-<figures/X1/Flame_armor_2.jpg, id=396, 743.77875pt x 559.08875pt>
+<figures/X1/Flame_armor_2.jpg, id=411, 743.77875pt x 559.08875pt>
 File: figures/X1/Flame_armor_2.jpg Graphic file (type jpg)
 <use figures/X1/Flame_armor_2.jpg>
 Package pdftex.def Info: figures/X1/Flame_armor_2.jpg  used on input line 103.
@@ -399,19 +399,19 @@ Package pdftex.def Info: figures/X1/Flame_armor_2.jpg  used on input line 103.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11 <./figures/X1/Armor_foot.jpg>]
-<figures/X1/Storm_armor_2.jpg, id=403, 801.99625pt x 601.24625pt>
+<figures/X1/Storm_armor_2.jpg, id=418, 801.99625pt x 601.24625pt>
 File: figures/X1/Storm_armor_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_armor_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_armor_2.jpg  used on input line 112.
 (pdftex.def)             Requested size: 172.5pt x 129.32047pt.
  [12 <./figures/X1/Flame_armor_2.jpg> <./figures/X1/Storm_armor_2.jpg>] [13]
-<figures/X1/Highway_screenshot_2.jpg, id=425, 797.98125pt x 500.87125pt>
+<figures/X1/Highway_screenshot_2.jpg, id=440, 797.98125pt x 500.87125pt>
 File: figures/X1/Highway_screenshot_2.jpg Graphic file (type jpg)
 <use figures/X1/Highway_screenshot_2.jpg>
 Package pdftex.def Info: figures/X1/Highway_screenshot_2.jpg  used on input lin
 e 153.
 (pdftex.def)             Requested size: 124.19725pt x 77.95523pt.
-<figures/X1/Highway_screenshot_3.jpg, id=426, 776.9025pt x 513.92pt>
+<figures/X1/Highway_screenshot_3.jpg, id=441, 776.9025pt x 513.92pt>
 File: figures/X1/Highway_screenshot_3.jpg Graphic file (type jpg)
 <use figures/X1/Highway_screenshot_3.jpg>
 Package pdftex.def Info: figures/X1/Highway_screenshot_3.jpg  used on input lin
@@ -419,25 +419,25 @@ e 160.
 (pdftex.def)             Requested size: 207.0021pt x 136.9331pt.
  [14 <./figures/X1/Highway_screenshot_2.jpg> <./figures/X1/Highway_screenshot_3
 .jpg>]
-<figures/X1/Full_map.png, id=451, 629.35126pt x 550.055pt>
+<figures/X1/Full_map.png, id=466, 629.35126pt x 550.055pt>
 File: figures/X1/Full_map.png Graphic file (type png)
 <use figures/X1/Full_map.png>
 Package pdftex.def Info: figures/X1/Full_map.png  used on input line 177.
 (pdftex.def)             Requested size: 207.0021pt x 180.9144pt.
  [15 <./figures/X1/Full_map.png>]
-<figures/X1/Octopus_heart_1.jpg, id=472, 796.9775pt x 555.07375pt>
+<figures/X1/Octopus_heart_1.jpg, id=488, 796.9775pt x 555.07375pt>
 File: figures/X1/Octopus_heart_1.jpg Graphic file (type jpg)
 <use figures/X1/Octopus_heart_1.jpg>
 Package pdftex.def Info: figures/X1/Octopus_heart_1.jpg  used on input line 202
 .
 (pdftex.def)             Requested size: 137.9979pt x 96.10605pt.
-<figures/X1/Octopus_heart_2.jpg, id=473, 796.9775pt x 511.9125pt>
+<figures/X1/Octopus_heart_2.jpg, id=489, 796.9775pt x 511.9125pt>
 File: figures/X1/Octopus_heart_2.jpg Graphic file (type jpg)
 <use figures/X1/Octopus_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Octopus_heart_2.jpg  used on input line 207
 .
 (pdftex.def)             Requested size: 137.9979pt x 88.63307pt.
-<figures/X1/Octopus_heart_3.jpg, id=474, 800.9925pt x 599.23875pt>
+<figures/X1/Octopus_heart_3.jpg, id=490, 800.9925pt x 599.23875pt>
 File: figures/X1/Octopus_heart_3.jpg Graphic file (type jpg)
 <use figures/X1/Octopus_heart_3.jpg>
 Package pdftex.def Info: figures/X1/Octopus_heart_3.jpg  used on input line 212
@@ -448,19 +448,19 @@ Package pdftex.def Info: figures/X1/Octopus_heart_3.jpg  used on input line 212
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16]
-<figures/X1/Octopus_missile.jpg, id=493, 465.74pt x 210.7875pt>
+<figures/X1/Octopus_missile.jpg, id=508, 465.74pt x 210.7875pt>
 File: figures/X1/Octopus_missile.jpg Graphic file (type jpg)
 <use figures/X1/Octopus_missile.jpg>
 Package pdftex.def Info: figures/X1/Octopus_missile.jpg  used on input line 226
 .
 (pdftex.def)             Requested size: 172.5pt x 78.07056pt.
-<figures/X1/Octopus_piranha.jpg, id=494, 475.7775pt x 207.77625pt>
+<figures/X1/Octopus_piranha.jpg, id=509, 475.7775pt x 207.77625pt>
 File: figures/X1/Octopus_piranha.jpg Graphic file (type jpg)
 <use figures/X1/Octopus_piranha.jpg>
 Package pdftex.def Info: figures/X1/Octopus_piranha.jpg  used on input line 231
 .
 (pdftex.def)             Requested size: 169.0519pt x 73.82607pt.
-<figures/X1/Octopus_drain.jpg, id=495, 239.89626pt x 293.095pt>
+<figures/X1/Octopus_drain.jpg, id=510, 239.89626pt x 293.095pt>
 File: figures/X1/Octopus_drain.jpg Graphic file (type jpg)
 <use figures/X1/Octopus_drain.jpg>
 Package pdftex.def Info: figures/X1/Octopus_drain.jpg  used on input line 241.
@@ -471,7 +471,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [17 <./figures/X1/Octopus_heart_1.jpg> <./figures/X1/Octopus_heart_2.jpg> <./fi
 gures/X1/Octopus_heart_3.jpg>]
-<figures/X1/Launch_octopus_specs.png, id=506, 636.3775pt x 563.10374pt>
+<figures/X1/Launch_octopus_specs.png, id=521, 636.3775pt x 563.10374pt>
 File: figures/X1/Launch_octopus_specs.png Graphic file (type png)
 <use figures/X1/Launch_octopus_specs.png>
 Package pdftex.def Info: figures/X1/Launch_octopus_specs.png  used on input lin
@@ -491,27 +491,27 @@ Package pdftex.def Info: figures/X1/Armor_foot.jpg  used on input line 285.
 (pdftex.def)             Requested size: 172.5pt x 99.81143pt.
  [19 <./figures/X1/Launch_octopus_specs.png>]
 [20]
-<figures/X1/Chill_shot.jpg, id=552, 547.04375pt x 269.005pt>
+<figures/X1/Chill_shot.jpg, id=567, 547.04375pt x 269.005pt>
 File: figures/X1/Chill_shot.jpg Graphic file (type jpg)
 <use figures/X1/Chill_shot.jpg>
 Package pdftex.def Info: figures/X1/Chill_shot.jpg  used on input line 299.
 (pdftex.def)             Requested size: 172.5pt x 84.82732pt.
-<figures/X1/Chill_frozen.jpg, id=553, 555.07375pt x 224.84pt>
+<figures/X1/Chill_frozen.jpg, id=568, 555.07375pt x 224.84pt>
 File: figures/X1/Chill_frozen.jpg Graphic file (type jpg)
 <use figures/X1/Chill_frozen.jpg>
 Package pdftex.def Info: figures/X1/Chill_frozen.jpg  used on input line 304.
 (pdftex.def)             Requested size: 169.0519pt x 68.47488pt.
-<figures/X1/Chill_shatter.jpg, id=554, 728.7225pt x 156.585pt>
+<figures/X1/Chill_shatter.jpg, id=569, 728.7225pt x 156.585pt>
 File: figures/X1/Chill_shatter.jpg Graphic file (type jpg)
 <use figures/X1/Chill_shatter.jpg>
 Package pdftex.def Info: figures/X1/Chill_shatter.jpg  used on input line 309.
 (pdftex.def)             Requested size: 172.5pt x 37.06508pt.
-<figures/X1/Chill_slide.jpg, id=555, 791.95876pt x 298.11375pt>
+<figures/X1/Chill_slide.jpg, id=570, 791.95876pt x 298.11375pt>
 File: figures/X1/Chill_slide.jpg Graphic file (type jpg)
 <use figures/X1/Chill_slide.jpg>
 Package pdftex.def Info: figures/X1/Chill_slide.jpg  used on input line 314.
 (pdftex.def)             Requested size: 169.0519pt x 63.63377pt.
-<figures/X1/Chill_blizzard.jpg, id=556, 799.98875pt x 595.22375pt>
+<figures/X1/Chill_blizzard.jpg, id=571, 799.98875pt x 595.22375pt>
 File: figures/X1/Chill_blizzard.jpg Graphic file (type jpg)
 <use figures/X1/Chill_blizzard.jpg>
 Package pdftex.def Info: figures/X1/Chill_blizzard.jpg  used on input line 319.
@@ -520,14 +520,14 @@ Package pdftex.def Info: figures/X1/Chill_blizzard.jpg  used on input line 319.
  [21 <./figures/X1/Chill_shot.jpg> <./figures/X1/Chill_frozen.jpg> <./figures/X
 1/Chill_shatter.jpg> <./figures/X1/Chill_slide.jpg> <./figures/X1/Chill_blizzar
 d.jpg>]
-<figures/X1/Chill_penguin_specs.jpg, id=566, 641.39626pt x 551.05875pt>
+<figures/X1/Chill_penguin_specs.jpg, id=581, 641.39626pt x 551.05875pt>
 File: figures/X1/Chill_penguin_specs.jpg Graphic file (type jpg)
 <use figures/X1/Chill_penguin_specs.jpg>
 Package pdftex.def Info: figures/X1/Chill_penguin_specs.jpg  used on input line
  339.
 (pdftex.def)             Requested size: 172.5pt x 148.19925pt.
  [22 <./figures/X1/Chill_penguin_specs.jpg>] [23] [24]
-<figures/X1/Armored_armadillo_specs.png, id=600, 635.37375pt x 549.05125pt>
+<figures/X1/Armored_armadillo_specs.png, id=615, 635.37375pt x 549.05125pt>
 File: figures/X1/Armored_armadillo_specs.png Graphic file (type png)
 <use figures/X1/Armored_armadillo_specs.png>
 Package pdftex.def Info: figures/X1/Armored_armadillo_specs.png  used on input 
@@ -537,12 +537,12 @@ line 385.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/X1/Flame_fire.jpg, id=601, 693.59125pt x 421.575pt>
+<figures/X1/Flame_fire.jpg, id=616, 693.59125pt x 421.575pt>
 File: figures/X1/Flame_fire.jpg Graphic file (type jpg)
 <use figures/X1/Flame_fire.jpg>
 Package pdftex.def Info: figures/X1/Flame_fire.jpg  used on input line 395.
 (pdftex.def)             Requested size: 169.0519pt x 102.74963pt.
-<figures/X1/Flame_frozen.jpg, id=602, 718.685pt x 544.0325pt>
+<figures/X1/Flame_frozen.jpg, id=617, 718.685pt x 544.0325pt>
 File: figures/X1/Flame_frozen.jpg Graphic file (type jpg)
 <use figures/X1/Flame_frozen.jpg>
 Package pdftex.def Info: figures/X1/Flame_frozen.jpg  used on input line 400.
@@ -552,7 +552,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [25] [26 <./figures/X1/Armored_armadillo_specs.png> <./figures/X1/Flame_fire.jp
 g> <./figures/X1/Flame_frozen.jpg>]
-<figures/X1/Flame_armor_1.jpg, id=629, 581.17125pt x 576.1525pt>
+<figures/X1/Flame_armor_1.jpg, id=644, 581.17125pt x 576.1525pt>
 File: figures/X1/Flame_armor_1.jpg Graphic file (type jpg)
 <use figures/X1/Flame_armor_1.jpg>
 Package pdftex.def Info: figures/X1/Flame_armor_1.jpg  used on input line 424.
@@ -565,7 +565,7 @@ Package pdftex.def Info: figures/X1/Flame_armor_2.jpg  used on input line 429.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/X1/Flame_tank.jpg, id=630, 503.8825pt x 596.2275pt>
+<figures/X1/Flame_tank.jpg, id=645, 503.8825pt x 596.2275pt>
 File: figures/X1/Flame_tank.jpg Graphic file (type jpg)
 <use figures/X1/Flame_tank.jpg>
 Package pdftex.def Info: figures/X1/Flame_tank.jpg  used on input line 439.
@@ -574,12 +574,12 @@ Package pdftex.def Info: figures/X1/Flame_tank.jpg  used on input line 439.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [27]
-<figures/X1/Flame_heart_1.jpg, id=636, 703.62875pt x 336.25626pt>
+<figures/X1/Flame_heart_1.jpg, id=651, 703.62875pt x 336.25626pt>
 File: figures/X1/Flame_heart_1.jpg Graphic file (type jpg)
 <use figures/X1/Flame_heart_1.jpg>
 Package pdftex.def Info: figures/X1/Flame_heart_1.jpg  used on input line 452.
 (pdftex.def)             Requested size: 169.0519pt x 80.78523pt.
-<figures/X1/Flame_heart_2.jpg, id=637, 709.65125pt x 476.78125pt>
+<figures/X1/Flame_heart_2.jpg, id=652, 709.65125pt x 476.78125pt>
 File: figures/X1/Flame_heart_2.jpg Graphic file (type jpg)
 <use figures/X1/Flame_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Flame_heart_2.jpg  used on input line 457.
@@ -589,23 +589,23 @@ Package pdftex.def Info: figures/X1/Flame_heart_2.jpg  used on input line 457.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [28 <./figures/X1/Flame_armor_1.jpg> <./figures/X1/Flame_tank.jpg>]
-<figures/X1/Mammoth_oil.jpg, id=651, 376.40625pt x 228.855pt>
+<figures/X1/Mammoth_oil.jpg, id=666, 376.40625pt x 228.855pt>
 File: figures/X1/Mammoth_oil.jpg Graphic file (type jpg)
 <use figures/X1/Mammoth_oil.jpg>
 Package pdftex.def Info: figures/X1/Mammoth_oil.jpg  used on input line 472.
 (pdftex.def)             Requested size: 137.9979pt x 83.90327pt.
-<figures/X1/Mammoth_fire.jpg, id=652, 349.305pt x 220.825pt>
+<figures/X1/Mammoth_fire.jpg, id=667, 349.305pt x 220.825pt>
 File: figures/X1/Mammoth_fire.jpg Graphic file (type jpg)
 <use figures/X1/Mammoth_fire.jpg>
 Package pdftex.def Info: figures/X1/Mammoth_fire.jpg  used on input line 477.
 (pdftex.def)             Requested size: 137.9979pt x 87.24007pt.
-<figures/X1/Mammoth_oil_fire.jpg, id=653, 476.78125pt x 248.93pt>
+<figures/X1/Mammoth_oil_fire.jpg, id=668, 476.78125pt x 248.93pt>
 File: figures/X1/Mammoth_oil_fire.jpg Graphic file (type jpg)
 <use figures/X1/Mammoth_oil_fire.jpg>
 Package pdftex.def Info: figures/X1/Mammoth_oil_fire.jpg  used on input line 48
 2.
 (pdftex.def)             Requested size: 172.5pt x 90.06293pt.
-<figures/X1/Mammoth_trunk.jpg, id=654, 268.00125pt x 251.94125pt>
+<figures/X1/Mammoth_trunk.jpg, id=669, 268.00125pt x 251.94125pt>
 File: figures/X1/Mammoth_trunk.jpg Graphic file (type jpg)
 <use figures/X1/Mammoth_trunk.jpg>
 Package pdftex.def Info: figures/X1/Mammoth_trunk.jpg  used on input line 487.
@@ -614,19 +614,19 @@ Package pdftex.def Info: figures/X1/Mammoth_trunk.jpg  used on input line 487.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/X1/Mammoth_press_1.jpg, id=655, 364.36125pt x 425.59pt>
+<figures/X1/Mammoth_press_1.jpg, id=670, 364.36125pt x 425.59pt>
 File: figures/X1/Mammoth_press_1.jpg Graphic file (type jpg)
 <use figures/X1/Mammoth_press_1.jpg>
 Package pdftex.def Info: figures/X1/Mammoth_press_1.jpg  used on input line 497
 .
 (pdftex.def)             Requested size: 137.9979pt x 161.18687pt.
-<figures/X1/Mammoth_press_2.jpg, id=656, 362.35374pt x 223.83624pt>
+<figures/X1/Mammoth_press_2.jpg, id=671, 362.35374pt x 223.83624pt>
 File: figures/X1/Mammoth_press_2.jpg Graphic file (type jpg)
 <use figures/X1/Mammoth_press_2.jpg>
 Package pdftex.def Info: figures/X1/Mammoth_press_2.jpg  used on input line 502
 .
 (pdftex.def)             Requested size: 172.5pt x 106.55898pt.
-<figures/X1/Flame_mammoth_specs.jpg, id=659, 671.50874pt x 562.1pt>
+<figures/X1/Flame_mammoth_specs.jpg, id=674, 671.50874pt x 562.1pt>
 File: figures/X1/Flame_mammoth_specs.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth_specs.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth_specs.jpg  used on input line
@@ -638,12 +638,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [29 <./figures/X1/Flame_heart_1.jpg> <./figures/X1/Flame_heart_2.jpg>] [30 <./f
 igures/X1/Mammoth_oil.jpg> <./figures/X1/Mammoth_fire.jpg> <./figures/X1/Mammot
 h_oil_fire.jpg> <./figures/X1/Mammoth_trunk.jpg>]
-<figures/X1/Storm_heart_1.jpg, id=683, 801.99625pt x 600.2425pt>
+<figures/X1/Storm_heart_1.jpg, id=698, 801.99625pt x 600.2425pt>
 File: figures/X1/Storm_heart_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_heart_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_heart_1.jpg  used on input line 542.
 (pdftex.def)             Requested size: 137.9979pt x 103.27632pt.
-<figures/X1/Storm_heart_2.jpg, id=684, 801.99625pt x 601.24625pt>
+<figures/X1/Storm_heart_2.jpg, id=699, 801.99625pt x 601.24625pt>
 File: figures/X1/Storm_heart_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_heart_2.jpg  used on input line 547.
@@ -653,12 +653,12 @@ Package pdftex.def Info: figures/X1/Storm_heart_2.jpg  used on input line 547.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [31 <./figures/X1/Mammoth_press_1.jpg> <./figures/X1/Mammoth_press_2.jpg>]
-<figures/X1/Storm_tank_1.jpg, id=695, 800.9925pt x 602.25pt>
+<figures/X1/Storm_tank_1.jpg, id=710, 800.9925pt x 602.25pt>
 File: figures/X1/Storm_tank_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_tank_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_tank_1.jpg  used on input line 560.
 (pdftex.def)             Requested size: 137.9979pt x 103.75038pt.
-<figures/X1/Storm_tank_2.jpg, id=696, 801.99625pt x 599.23875pt>
+<figures/X1/Storm_tank_2.jpg, id=711, 801.99625pt x 599.23875pt>
 File: figures/X1/Storm_tank_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_tank_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_tank_2.jpg  used on input line 565.
@@ -667,7 +667,7 @@ Package pdftex.def Info: figures/X1/Storm_tank_2.jpg  used on input line 565.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figures/X1/Storm_armor_1.jpg, id=697, 800.9925pt x 599.23875pt>
+<figures/X1/Storm_armor_1.jpg, id=712, 800.9925pt x 599.23875pt>
 File: figures/X1/Storm_armor_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_armor_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_armor_1.jpg  used on input line 578.
@@ -678,27 +678,27 @@ Package pdftex.def Info: figures/X1/Storm_armor_2.jpg  used on input line 583.
 (pdftex.def)             Requested size: 137.9979pt x 103.44902pt.
 [32 <./figures/X1/Flame_mammoth_specs.jpg> <./figures/X1/Storm_heart_1.jpg> <./
 figures/X1/Storm_heart_2.jpg>]
-<figures/X1/Eagle_egg_1.jpg, id=708, 352.31625pt x 388.45125pt>
+<figures/X1/Eagle_egg_1.jpg, id=723, 352.31625pt x 388.45125pt>
 File: figures/X1/Eagle_egg_1.jpg Graphic file (type jpg)
 <use figures/X1/Eagle_egg_1.jpg>
 Package pdftex.def Info: figures/X1/Eagle_egg_1.jpg  used on input line 597.
 (pdftex.def)             Requested size: 103.50105pt x 114.112pt.
-<figures/X1/Eagle_egg_2.jpg, id=709, 408.52625pt x 367.3725pt>
+<figures/X1/Eagle_egg_2.jpg, id=724, 408.52625pt x 367.3725pt>
 File: figures/X1/Eagle_egg_2.jpg Graphic file (type jpg)
 <use figures/X1/Eagle_egg_2.jpg>
 Package pdftex.def Info: figures/X1/Eagle_egg_2.jpg  used on input line 602.
 (pdftex.def)             Requested size: 120.7521pt x 108.58694pt.
-<figures/X1/Eagle_push.jpg, id=710, 435.6275pt x 180.675pt>
+<figures/X1/Eagle_push.jpg, id=725, 435.6275pt x 180.675pt>
 File: figures/X1/Eagle_push.jpg Graphic file (type jpg)
 <use figures/X1/Eagle_push.jpg>
 Package pdftex.def Info: figures/X1/Eagle_push.jpg  used on input line 607.
 (pdftex.def)             Requested size: 137.9979pt x 57.23271pt.
-<figures/X1/Eagle_tornado.jpg, id=711, 451.6875pt x 181.67876pt>
+<figures/X1/Eagle_tornado.jpg, id=726, 451.6875pt x 181.67876pt>
 File: figures/X1/Eagle_tornado.jpg Graphic file (type jpg)
 <use figures/X1/Eagle_tornado.jpg>
 Package pdftex.def Info: figures/X1/Eagle_tornado.jpg  used on input line 612.
 (pdftex.def)             Requested size: 137.9979pt x 55.50757pt.
-<figures/X1/Eagle_dive.jpg, id=712, 485.815pt x 235.88126pt>
+<figures/X1/Eagle_dive.jpg, id=727, 485.815pt x 235.88126pt>
 File: figures/X1/Eagle_dive.jpg Graphic file (type jpg)
 <use figures/X1/Eagle_dive.jpg>
 Package pdftex.def Info: figures/X1/Eagle_dive.jpg  used on input line 617.
@@ -711,60 +711,67 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 X1/Storm_armor_1.jpg>] [34 <./figures/X1/Eagle_egg_1.jpg> <./figures/X1/Eagle_e
 gg_2.jpg> <./figures/X1/Eagle_push.jpg> <./figures/X1/Eagle_tornado.jpg> <./fig
 ures/X1/Eagle_dive.jpg>]
-<figures/X1/Storm_eagle_specs.png, id=729, 633.36626pt x 562.1pt>
+<figures/X1/Storm_eagle_specs.png, id=744, 633.36626pt x 562.1pt>
 File: figures/X1/Storm_eagle_specs.png Graphic file (type png)
 <use figures/X1/Storm_eagle_specs.png>
 Package pdftex.def Info: figures/X1/Storm_eagle_specs.png  used on input line 6
 29.
 (pdftex.def)             Requested size: 172.5pt x 153.08987pt.
-<figures/X1/Tower_spike_skip.jpg, id=733, 626.34pt x 464.73625pt>
+<figures/X1/Tower_spike_skip.jpg, id=748, 626.34pt x 464.73625pt>
 File: figures/X1/Tower_spike_skip.jpg Graphic file (type jpg)
 <use figures/X1/Tower_spike_skip.jpg>
 Package pdftex.def Info: figures/X1/Tower_spike_skip.jpg  used on input line 64
 0.
 (pdftex.def)             Requested size: 172.5pt x 127.99077pt.
  [35 <./figures/X1/Storm_eagle_specs.png>]
-<figures/X1/Tower_heart.jpg, id=751, 571.13374pt x 413.545pt>
+<figures/X1/Tower_heart.jpg, id=766, 571.13374pt x 413.545pt>
 File: figures/X1/Tower_heart.jpg Graphic file (type jpg)
 <use figures/X1/Tower_heart.jpg>
 Package pdftex.def Info: figures/X1/Tower_heart.jpg  used on input line 663.
 (pdftex.def)             Requested size: 172.5pt x 124.9037pt.
  [36 <./figures/X1/Tower_spike_skip.jpg>]
-<figures/X1/Boomer_lift_1.jpg, id=773, 283.0575pt x 233.87375pt>
+<figures/X1/Boomer_lift_1.jpg, id=788, 283.0575pt x 233.87375pt>
 File: figures/X1/Boomer_lift_1.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_lift_1.jpg>
 Package pdftex.def Info: figures/X1/Boomer_lift_1.jpg  used on input line 676.
 (pdftex.def)             Requested size: 137.9979pt x 114.02101pt.
-<figures/X1/Boomer_lift_2.jpg, id=774, 266.9975pt x 438.63875pt>
+<figures/X1/Boomer_lift_2.jpg, id=789, 266.9975pt x 438.63875pt>
 File: figures/X1/Boomer_lift_2.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_lift_2.jpg>
 Package pdftex.def Info: figures/X1/Boomer_lift_2.jpg  used on input line 681.
 (pdftex.def)             Requested size: 103.50105pt x 170.03767pt.
-<figures/X1/Boomer_dash.jpg, id=775, 305.14pt x 206.7725pt>
+<figures/X1/Boomer_dash.jpg, id=790, 305.14pt x 206.7725pt>
 File: figures/X1/Boomer_dash.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_dash.jpg>
 Package pdftex.def Info: figures/X1/Boomer_dash.jpg  used on input line 686.
 (pdftex.def)             Requested size: 137.9979pt x 93.5137pt.
-<figures/X1/Boomer_throw.jpg, id=776, 309.155pt x 291.0875pt>
+<figures/X1/Boomer_throw.jpg, id=791, 309.155pt x 291.0875pt>
 File: figures/X1/Boomer_throw.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_throw.jpg>
 Package pdftex.def Info: figures/X1/Boomer_throw.jpg  used on input line 691.
 (pdftex.def)             Requested size: 137.9979pt x 129.93549pt.
  [37 <./figures/X1/Tower_heart.jpg>] [38 <./figures/X1/Boomer_lift_1.jpg> <./fi
 gures/X1/Boomer_lift_2.jpg> <./figures/X1/Boomer_dash.jpg> <./figures/X1/Boomer
-_throw.jpg>] [39] [40]) [41]
+_throw.jpg>]
+<figures/X1/Boomer_kuwanger_specs.png, id=806, 634.37pt x 556.0775pt>
+File: figures/X1/Boomer_kuwanger_specs.png Graphic file (type png)
+<use figures/X1/Boomer_kuwanger_specs.png>
+Package pdftex.def Info: figures/X1/Boomer_kuwanger_specs.png  used on input li
+ne 705.
+(pdftex.def)             Requested size: 172.5pt x 151.21204pt.
+ [39 <./figures/X1/Boomer_kuwanger_specs.png>] [40] [41] [42] [43]) [44]
 Appendix A.
-[42
+[45
 
 ]
 Appendix B.
-[43
+[46
 
 ]
 Appendix C.
-(./src/enemies.tex [44
+(./src/enemies.tex [47
 
-]) (./MMX_Compendium.bbl [45]
+]) (./MMX_Compendium.bbl [48]
 Underfull \hbox (badness 1019) in paragraph at lines 86--89
 []\OT1/cmr/m/n/10 Mega Man Maverich Haunter X user man-ual. Cap-
  []
@@ -781,7 +788,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--89
 8 .
  []
 
-[46
+[49
 
 ]
 Underfull \hbox (badness 1824) in paragraph at lines 180--184
@@ -793,15 +800,15 @@ Underfull \hbox (badness 1603) in paragraph at lines 180--184
 \OT1/cmr/m/n/10 man.retrofaction.com, Way-Back Ma-chine. [On-line]. Avail-
  []
 
-[47])
+[50])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 54.
- [48]
+ [51]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 54.
  (./MMX_Compendium.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 54.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 54.
 Package rerunfilecheck Info: File `MMX_Compendium.out' has not changed.
-(rerunfilecheck)             Checksum: D3B8532C56799C2EFE7F26D05B878B03;3587.
+(rerunfilecheck)             Checksum: 397924347EF97F2DF60B622E5F2C77D2;3791.
 
 
 LaTeX Warning: There were undefined references.
@@ -809,15 +816,18 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 54.
  ) 
 Here is how much of TeX's memory you used:
- 7817 strings out of 481239
- 127631 string characters out of 5920377
- 390450 words of memory out of 5000000
- 22681 multiletter control sequences out of 15000+600000
+ 7847 strings out of 481239
+ 128233 string characters out of 5920377
+ 390664 words of memory out of 5000000
+ 22694 multiletter control sequences out of 15000+600000
  539312 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  48i,8n,46p,2731b,569s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{miniboss:Thunder_slimer} has been referenced but 
-does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{enem:Crag_man} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{miniboss:Thunder_slimer} has been referenced but do
+es not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{enem:Lift_cannon} has been referenced but does not 
 exist, replaced by a fixed one
@@ -839,10 +849,10 @@ ts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.p
 fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></u
 sr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on MMX_Compendium.pdf (49 pages, 7699538 bytes).
+Output written on MMX_Compendium.pdf (52 pages, 8358729 bytes).
 PDF statistics:
- 1000 PDF objects out of 1000 (max. 8388607)
- 874 compressed objects within 9 object streams
- 225 named destinations out of 1000 (max. 500000)
- 720 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1069 PDF objects out of 1200 (max. 8388607)
+ 937 compressed objects within 10 object streams
+ 241 named destinations out of 1000 (max. 500000)
+ 749 words of extra memory for PDF output out of 10000 (max. 10000000)
 

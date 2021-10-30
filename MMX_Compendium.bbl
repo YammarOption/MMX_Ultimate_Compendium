@@ -271,4 +271,22 @@ D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
   \url{https://megaman.fandom.com/wiki/Spark_Mandrill}
 \BIBentrySTDinterwordspacing
 
+\bibitem{wiki:Forest}
+\BIBentryALTinterwordspacing
+{Forest Stage}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Forest_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:RT55J}
+\BIBentryALTinterwordspacing
+{RT-55J}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/RT-55J}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Sting_chameleon}
+\BIBentryALTinterwordspacing
+{Sting Chameleon}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Sting_Chameleon}
+\BIBentrySTDinterwordspacing
+
 \end{thebibliography}
