@@ -8,15 +8,76 @@
 \BOOKMARK [2][-]{subsection.2.3.2}{Zero}{section.2.3}% 8
 \BOOKMARK [1][-]{section.2.4}{Game Mechanics}{chapter.2}% 9
 \BOOKMARK [1][-]{section.2.5}{Weapons}{chapter.2}% 10
-\BOOKMARK [2][-]{subsection.2.5.1}{Shotgun Ice}{section.2.5}% 11
-\BOOKMARK [2][-]{subsection.2.5.2}{Electric Spark}{section.2.5}% 12
-\BOOKMARK [2][-]{subsection.2.5.3}{Rolling Shield}{section.2.5}% 13
-\BOOKMARK [2][-]{subsection.2.5.4}{Homing Torpedo}{section.2.5}% 14
-\BOOKMARK [2][-]{subsection.2.5.5}{Boomerang Cutter}{section.2.5}% 15
-\BOOKMARK [2][-]{subsection.2.5.6}{Chameleon Sting}{section.2.5}% 16
-\BOOKMARK [2][-]{subsection.2.5.7}{Storm Tornado}{section.2.5}% 17
-\BOOKMARK [2][-]{subsection.2.5.8}{Fire Wave}{section.2.5}% 18
+\BOOKMARK [2][-]{subsection.2.5.1}{[scale=0.2]figures/X1/Launchoctopus/Homingt.png Homing Torpedo}{section.2.5}% 11
+\BOOKMARK [2][-]{subsection.2.5.2}{[scale=0.2]figures/X1/Stingchameleon/ChamS.png Chameleon Sting}{section.2.5}% 12
+\BOOKMARK [2][-]{subsection.2.5.3}{[scale=0.2]figures/X1/Armoredarmadillo/RollingS.png Rolling Shield}{section.2.5}% 13
+\BOOKMARK [2][-]{subsection.2.5.4}{[scale=0.2]figures/X1/Flamemammoth/FireW.png Fire Wave}{section.2.5}% 14
+\BOOKMARK [2][-]{subsection.2.5.5}{[scale=0.2]figures/X1/Stormeagle/StormT.png Storm Tornado}{section.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.5.6}{[scale=0.2]figures/X1/Sparkmandrill/ElecS.png Electric Spark}{section.2.5}% 16
+\BOOKMARK [2][-]{subsection.2.5.7}{[scale=0.2]figures/X1/Boomerkuwanger/BoomC.png Boomerang Cutter}{section.2.5}% 17
+\BOOKMARK [2][-]{subsection.2.5.8}{[scale=0.2]figures/X1/Chillpenguin/ShotI.png Shotgun Ice}{section.2.5}% 18
 \BOOKMARK [1][-]{section.2.6}{First Armor}{chapter.2}% 19
+<<<<<<< HEAD
+\BOOKMARK [1][-]{section.2.7}{Highway Stage}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.8}{Ocean}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.8.1}{Heart Tank}{section.2.8}% 22
+\BOOKMARK [2][-]{subsection.2.8.2}{Launch Octopus}{section.2.8}% 23
+\BOOKMARK [1][-]{section.2.9}{Snow Mountain}{chapter.2}% 24
+\BOOKMARK [2][-]{subsection.2.9.1}{Light's Capsule}{section.2.9}% 25
+\BOOKMARK [2][-]{subsection.2.9.2}{Heart Tank}{section.2.9}% 26
+\BOOKMARK [2][-]{subsection.2.9.3}{Chill Penguin}{section.2.9}% 27
+\BOOKMARK [1][-]{section.2.10}{Gallery}{chapter.2}% 28
+\BOOKMARK [2][-]{subsection.2.10.1}{Sub Tank}{section.2.10}% 29
+\BOOKMARK [2][-]{subsection.2.10.2}{Heart Tank}{section.2.10}% 30
+\BOOKMARK [2][-]{subsection.2.10.3}{Hadouken}{section.2.10}% 31
+\BOOKMARK [2][-]{subsection.2.10.4}{Armored Armadillo}{section.2.10}% 32
+\BOOKMARK [1][-]{section.2.11}{Factory}{chapter.2}% 33
+\BOOKMARK [2][-]{subsection.2.11.1}{Light's Capsule}{section.2.11}% 34
+\BOOKMARK [2][-]{subsection.2.11.2}{Sub Tank}{section.2.11}% 35
+\BOOKMARK [2][-]{subsection.2.11.3}{Heart Tank}{section.2.11}% 36
+\BOOKMARK [2][-]{subsection.2.11.4}{Flame Mammoth}{section.2.11}% 37
+\BOOKMARK [1][-]{section.2.12}{Sky}{chapter.2}% 38
+\BOOKMARK [2][-]{subsection.2.12.1}{Heart Tank}{section.2.12}% 39
+\BOOKMARK [2][-]{subsection.2.12.2}{Sub Tank}{section.2.12}% 40
+\BOOKMARK [2][-]{subsection.2.12.3}{Light's Capsule}{section.2.12}% 41
+\BOOKMARK [2][-]{subsection.2.12.4}{Storm Eagle}{section.2.12}% 42
+\BOOKMARK [1][-]{section.2.13}{Tower}{chapter.2}% 43
+\BOOKMARK [2][-]{subsection.2.13.1}{Heart Tank}{section.2.13}% 44
+\BOOKMARK [2][-]{subsection.2.13.2}{Boomer Kuwanger}{section.2.13}% 45
+\BOOKMARK [1][-]{section.2.14}{Power Plant}{chapter.2}% 46
+\BOOKMARK [2][-]{subsection.2.14.1}{Sub Tank}{section.2.14}% 47
+\BOOKMARK [2][-]{subsection.2.14.2}{Heart Tank}{section.2.14}% 48
+\BOOKMARK [2][-]{subsection.2.14.3}{Spark Mandrill}{section.2.14}% 49
+\BOOKMARK [1][-]{section.2.15}{Forest}{chapter.2}% 50
+\BOOKMARK [2][-]{subsection.2.15.1}{Light's Capsule}{section.2.15}% 51
+\BOOKMARK [2][-]{subsection.2.15.2}{Heart Tank}{section.2.15}% 52
+\BOOKMARK [2][-]{subsection.2.15.3}{Sting Chameleon}{section.2.15}% 53
+\BOOKMARK [1][-]{section.2.16}{Sigma's Hideout 1 \(X\)}{chapter.2}% 54
+\BOOKMARK [2][-]{subsection.2.16.1}{Vile}{section.2.16}% 55
+\BOOKMARK [2][-]{subsection.2.16.2}{Bospider}{section.2.16}% 56
+\BOOKMARK [1][-]{section.2.17}{Sigma's Hideout 2 \(X\)}{chapter.2}% 57
+\BOOKMARK [2][-]{subsection.2.17.1}{Rangda Bangda}{section.2.17}% 58
+\BOOKMARK [1][-]{section.2.18}{Sigma's Hideout 3\(X\)}{chapter.2}% 59
+\BOOKMARK [2][-]{subsection.2.18.1}{D-REX}{section.2.18}% 60
+\BOOKMARK [1][-]{section.2.19}{Sigma's Hideout 4 \(X\)}{chapter.2}% 61
+\BOOKMARK [2][-]{subsection.2.19.1}{Velguarder}{section.2.19}% 62
+\BOOKMARK [2][-]{subsection.2.19.2}{Sigma}{section.2.19}% 63
+\BOOKMARK [2][-]{subsection.2.19.3}{Wolf Sigma}{section.2.19}% 64
+\BOOKMARK [1][-]{section.2.20}{Miscellaneous}{chapter.2}% 65
+\BOOKMARK [2][-]{subsection.2.20.1}{Unexplained Game Mechanics}{section.2.20}% 66
+\BOOKMARK [2][-]{subsection.2.20.2}{Iceless jump}{section.2.20}% 67
+\BOOKMARK [2][-]{subsection.2.20.3}{Air Hadouken}{section.2.20}% 68
+\BOOKMARK [2][-]{subsection.2.20.4}{Minor Glitches}{section.2.20}% 69
+\BOOKMARK [2][-]{subsection.2.20.5}{Magic Carpet}{section.2.20}% 70
+\BOOKMARK [2][-]{subsection.2.20.6}{Vile Dialogue Skip}{section.2.20}% 71
+\BOOKMARK [2][-]{subsection.2.20.7}{Armadillo Rematch Skip}{section.2.20}% 72
+\BOOKMARK [2][-]{subsection.2.20.8}{Energy and Life-up Farming}{section.2.20}% 73
+\BOOKMARK [0][-]{appendix.1.A}{Characters}{}% 74
+\BOOKMARK [0][-]{appendix.1.B}{Vehicles}{}% 75
+\BOOKMARK [0][-]{appendix.1.C}{Enemies}{}% 76
+\BOOKMARK [1][-]{section.1.C.1}{Mini-Bosses}{appendix.1.C}% 77
+\BOOKMARK [1][-]{section.1.C.2}{Minor enemies}{appendix.1.C}% 78
+=======
 \BOOKMARK [1][-]{section.2.7}{Useful Techniques}{chapter.2}% 20
 \BOOKMARK [1][-]{section.2.8}{Highway Stage}{chapter.2}% 21
 \BOOKMARK [1][-]{section.2.9}{Ocean}{chapter.2}% 22
@@ -59,3 +120,4 @@
 \BOOKMARK [0][-]{appendix.1.C}{Enemies}{}% 59
 \BOOKMARK [1][-]{section.1.C.1}{Mini-Bosses}{appendix.1.C}% 60
 \BOOKMARK [1][-]{section.1.C.2}{Other enemies}{appendix.1.C}% 61
+>>>>>>> 8fbb191aa7a4db2c0b8b92aaf47c931676d899b9

@@ -77,7 +77,7 @@
 
 \bibitem{stratwiki:Heart_tank}
 \BIBentryALTinterwordspacing
-{Mega Man X/Heart Tanks}. {STRATEGYWIKI}. [Online]. Available:
+{Mega Man X/Heart Tanks}. {StrategyWiki}. [Online]. Available:
   \url{https://strategywiki.org/wiki/Mega_Man_X/Heart_Tanks}
 \BIBentrySTDinterwordspacing
 
@@ -93,22 +93,10 @@
   \url{https://megaman.fandom.com/wiki/X%27s_weaponry}
 \BIBentrySTDinterwordspacing
 
-\bibitem{wiki:Rolling_shield}
-\BIBentryALTinterwordspacing
-{Rolling Shield}. {The Megaman Knowledge Base}. [Online]. Available:
-  \url{https://megaman.fandom.com/wiki/Rolling_Shield}
-\BIBentrySTDinterwordspacing
-
 \bibitem{wiki:Homing_torpedo}
 \BIBentryALTinterwordspacing
 {Homing Torpedo}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Homing_Torpedo}
-\BIBentrySTDinterwordspacing
-
-\bibitem{wiki:Boomerang_cutter}
-\BIBentryALTinterwordspacing
-{Boomerang Cutter}. {The Megaman Knowledge Base}. [Online]. Available:
-  \url{https://megaman.fandom.com/wiki/Boomerang_Cutter}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:Chameleon_sting}
@@ -117,10 +105,22 @@
   \url{https://megaman.fandom.com/wiki/Chameleon_Sting}
 \BIBentrySTDinterwordspacing
 
+\bibitem{wiki:Rolling_shield}
+\BIBentryALTinterwordspacing
+{Rolling Shield}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Rolling_Shield}
+\BIBentrySTDinterwordspacing
+
 \bibitem{wiki:Storm_tornado}
 \BIBentryALTinterwordspacing
 {Storm Tornado}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Storm_Tornado}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Boomerang_cutter}
+\BIBentryALTinterwordspacing
+{Boomerang Cutter}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Boomerang_Cutter}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:First_armor}
@@ -143,7 +143,7 @@
 
 \bibitem{stratwiki:HighWay}
 \BIBentryALTinterwordspacing
-{Mega Man X/Highway Stage}. {STRATEGYWIKI}. [Online]. Available:
+{Mega Man X/Highway Stage}. {StrategyWiki}. [Online]. Available:
   \url{https://strategywiki.org/wiki/Mega_Man_X/Highway_Stage}
 \BIBentrySTDinterwordspacing
 
@@ -155,7 +155,7 @@
 
 \bibitem{stratwiki:Ocean}
 \BIBentryALTinterwordspacing
-{Mega Man X/Launch Octopus}. {STRATEGYWIKI}. [Online]. Available:
+{Mega Man X/Launch Octopus}. {StrategyWiki}. [Online]. Available:
   \url{https://strategywiki.org/wiki/Mega_Man_X/Launch_Octopus}
 \BIBentrySTDinterwordspacing
 
@@ -177,8 +177,8 @@
 
 \bibitem{wayback:X_resources}
 \BIBentryALTinterwordspacing
-{Rockman X Collected Sourcebook Information}. {megaman.retrofaction.com,
-  WayBack Machine}. [Online]. Available:
+{Rockman X Collected Sourcebook Information}. {Wayback Machine}. [Online].
+  Available:
   \url{http://web.archive.org/web/20040603090322/http://megaman.retrofaction.com/mmx/resources/x1sb1.txt}
 \BIBentrySTDinterwordspacing
 
@@ -190,7 +190,7 @@
 
 \bibitem{stratwiki:Snow_mountain}
 \BIBentryALTinterwordspacing
-{Mega Man X/Chill Penguin}. {STRATEGYWIKI}. [Online]. Available:
+{Mega Man X/Chill Penguin}. {StrategyWiki}. [Online]. Available:
   \url{https://strategywiki.org/wiki/Mega_Man_X/Chill_Penguin}
 \BIBentrySTDinterwordspacing
 
@@ -265,12 +265,15 @@ D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
   \url{https://megaman.fandom.com/wiki/Power_Plant_Stage}
 \BIBentrySTDinterwordspacing
 
+<<<<<<< HEAD
+=======
 \bibitem{wiki:Spark_mandrill}
 \BIBentryALTinterwordspacing
 {Spark Mandrill}. {The Megaman Knowledge Base}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Spark_Mandrill}
 \BIBentrySTDinterwordspacing
 
+>>>>>>> 8fbb191aa7a4db2c0b8b92aaf47c931676d899b9
 \bibitem{wiki:Forest}
 \BIBentryALTinterwordspacing
 {Forest Stage}. {The Megaman Knowledge Base}. [Online]. Available:
@@ -289,4 +292,50 @@ D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
   \url{https://megaman.fandom.com/wiki/Sting_Chameleon}
 \BIBentrySTDinterwordspacing
 
+<<<<<<< HEAD
+\bibitem{wiki:sigma_stages}
+\BIBentryALTinterwordspacing
+{Sigma's Hideout (Mega Man X)}. {The Megaman Knowledge Base}. [Online].
+  Available:
+  \url{https://megaman.fandom.com/wiki/Sigma%27s_Hideout_(Mega_Man_X)}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Vile}
+\BIBentryALTinterwordspacing
+{Vile}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Vile}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Bospider}
+\BIBentryALTinterwordspacing
+{Bospider}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Bospider}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Rangda_bangda}
+\BIBentryALTinterwordspacing
+{Rangda Bangda}. {The Megaman Knowledge Base}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Rangda_Bangda}
+\BIBentrySTDinterwordspacing
+
+\bibitem{stratwiki:Sigma_stage_2}
+\BIBentryALTinterwordspacing
+{Mega Man X/Sigma Stage 2}. {StrategyWiki}. [Online]. Available:
+  \url{https://strategywiki.org/wiki/Mega_Man_X/Sigma_Stage_2}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Day_of_Sigma_Script}
+\BIBentryALTinterwordspacing
+{The Day of $\Sigma$ Script}. {The Megaman Knowledge Base}. [Online].
+  Available: \url{https://megaman.fandom.com/wiki/...}
+\BIBentrySTDinterwordspacing
+
+\bibitem{MMX_RTA_wiki:basics}
+\BIBentryALTinterwordspacing
+{Basics}. {Mega Man X RTA Wiki}. [Online]. Available:
+  \url{https://mmxrta.fandom.com/wiki/Basics}
+\BIBentrySTDinterwordspacing
+
+=======
+>>>>>>> 8fbb191aa7a4db2c0b8b92aaf47c931676d899b9
 \end{thebibliography}
