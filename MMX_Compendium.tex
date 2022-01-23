@@ -9,6 +9,8 @@
 \usepackage{graphicx}
 \usepackage{subcaption}
 \usepackage{csquotes}
+\usepackage{longtable,array,booktabs,makecell}
+ \usepackage{booktabs}
 %\usepackage[margin=1.2in]{geometry}
 
 \title{The Mega Man X Compedium}
@@ -26,31 +28,29 @@
 \maketitle
 \tableofcontents
 
-\begin{chapter}{Introduction}
+\chapter{Introduction}
 	\section{About this document}
-	
 	
 	This document aims to be a compendium of all the knowledge available of Mega Man X games, from main plot/lore to game mechanics, including trivia, fun facts and even glitches/bugs. For each games in the series information regarding story, characters (although only in a superficial way), weapons, game mechanics will be presented, as well as an analysis of each stage including its secrets and boss (with both story-related and game game-related information). Following games analysis, a more accurate and complete description of each characters will be presented, combining pieces of information coming from different sources, both in-game and from other official materials.
 	
 	This document is meant to be accessible and understandable to everyone, from experienced players to new ones, from people who want to learn more about the franchise's lore to ones who want to discover tricks and secret of each games. Moreover it is open for editing to anybody: everyone can suggest additions if something is missing or modifications if any mistakes were made.
 	
 	Finally, one last remark has to be done. This document is not meant to be a guide of any kind, nor for new players or speedrunners. While some tips for both of these categories will be gives, what is presented here should not be taken as a guide of any kind.
-\end{chapter}
 
-\begin{chapter}{Mega Man X}
+\chapter{Mega Man X}
 	\input{src/x1.tex}
-\end{chapter}
 
 
 
-\begin{appendices}
+\appendix
 	\chapter {Characters}
+	\input{src/characters.tex}
 	\chapter {Vehicles}
 	\input{src/vehicles.tex}
-	
 	\chapter{Enemies}
 	\input{src/enemies.tex}
-\end{appendices}
+	\chapter{Damage Tables}
+	\input{src/tables.tex}
 
 \bibliographystyle{IEEEtran} 
 \bibliography{bibliography}
