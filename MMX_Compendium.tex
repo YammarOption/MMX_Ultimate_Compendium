@@ -2,7 +2,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english]{babel}
-\usepackage{hyperref}
+\usepackage[table,dvipsnames]{xcolor}
+\usepackage[pdfpagelabels]{hyperref}
 \usepackage{xspace}
 \usepackage[title]{appendix}
 \usepackage{wrapfig}
@@ -10,29 +11,37 @@
 \usepackage{subcaption}
 \usepackage{csquotes}
 \usepackage{longtable,array,booktabs,makecell}
- \usepackage{booktabs}
-%\usepackage[margin=1.2in]{geometry}
+\usepackage{booktabs}
+\usepackage{quotes}
+\usepackage{awesomebox}
+\usepackage{ltablex}
 
 \title{The Mega Man X Compedium}
 
 
 \newcommand{\x}{\textit{X1}\xspace}
 \newcommand{\mhx}{\textit{MHX}\xspace}
+\newcommand{\PtIIWarning}{Part \ref{assumptions} preface}
+\newcommand{\tabline}{\hskip-0.5pt\vrule width 1pt\hspace{\labelsep}}
+\newcommand{\tabdot}{\makebox[0pt]{\textbullet}\tabline}
 
-\makeatletter
-\@addtoreset{footnote}{section}
-\makeatother
+%\makeatletter
+%\@addtoreset{footnote}{section}
+%\makeatother
 
 \begin{document}
+\pagenumbering{Alph}
+\begin{titlepage}
+	\maketitle
+	\thispagestyle{empty}
+\end{titlepage}
+\pagenumbering{arabic}
 
-\maketitle
 \tableofcontents
-
-\chapter{Introduction}
-	\section{About this document}
-	
+\part{Games}
+	\section*{Preface}
 	This document aims to be a compendium of all the knowledge available of Mega Man X games, from main plot/lore to game mechanics, including trivia, fun facts and even glitches/bugs. For each games in the series information regarding story, characters (although only in a superficial way), weapons, game mechanics will be presented, as well as an analysis of each stage including its secrets and boss (with both story-related and game game-related information). Following games analysis, a more accurate and complete description of each characters will be presented, combining pieces of information coming from different sources, both in-game and from other official materials.
-	
+
 	This document is meant to be accessible and understandable to everyone, from experienced players to new ones, from people who want to learn more about the franchise's lore to ones who want to discover tricks and secret of each games. Moreover it is open for editing to anybody: everyone can suggest additions if something is missing or modifications if any mistakes were made.
 	
 	Finally, one last remark has to be done. This document is not meant to be a guide of any kind, nor for new players or speedrunners. While some tips for both of these categories will be gives, what is presented here should not be taken as a guide of any kind.
@@ -40,17 +49,39 @@
 \chapter{Mega Man X}
 	\input{src/x1.tex}
 
+\part{Characters}
+	\chapter*{Preface}
+	In this appendix more detailed information about characters who appear in the Mega Man X series are given. Here, however, information will not only comes from in-games material but also from external (but still official) sources which expand and complete what said inside games. Another difference between this part of the document respect previous ones is the fact that while in precedent chapters only fact were reported and, leaving out any interpretation, here the objective is try to put together all information available, even giving a plausible solution in case of conflicting elements. In any case whenever a solution is proposed it will be clarified, to let readers know what parts come from official sources and what instead are created solely for this document.
 
-
+	\warningbox{\label{assumptions}\small{
+	As the document proceed some time reference will be given for some of the events that occurs. However in some occasions the same events can refers to different points in time depending on game's version or the source of the information. While these discrepancies will still be appointed, since the focus here is to give a coherent timeline of events there will be now listed all time-related assumption made in this part, with a short explanation:
+	\begin{itemize}
+		%\item X's slumber last 100 years (it is never clarified the real duration, but 100 years is always given as minimum value)
+		%\item X wakes up at least in 2114, as it is possible to see in the \x opening observing Dr.~Cain's  PC copyright years.
+		%\item By the previous two statements, X had to be sealed roughly around 2014.
+		\item Maverick Haunters operate for about two years before the first games' event, according to Japanese version of Dr.~Cain's journal, contrary to the two-month stated in the English version of the same source. This due the fact that two month aren't sufficient to explain all event that occur before the first game, such as Zero's awakening, X joining the Haunters or X befriending Zero.
+		\item According to the original story, X doesn't join the Haunters until Sigma's revolution begins. Here we deliberately choose the \mhx storytelling, as it allow us to explain better some relationship between characters.
+		\item After his death, Dr.~Light consciousness keeps living via AI, which communicates with X via his capsules. This due the fact that in multiple occasions Dr.~Light is fully aware of the circumstances and even directly answer posed questions.
+		
+	\end{itemize}
+	}
+	}
+	\input{src/character_X}
+	\input{src/character_Zero}	
+	\input{src/character_Sigma_and_Vile}
+	\input{src/character_others}
 \appendix
-	\chapter {Characters}
-	\input{src/characters.tex}
-	\chapter {Vehicles}
-	\input{src/vehicles.tex}
-	\chapter{Enemies}
-	\input{src/enemies.tex}
-	\chapter{Damage Tables}
-	\input{src/tables.tex}
+\chapter {Vehicles}
+\input{src/vehicles}
+\chapter{Enemies}
+\input{src/enemies}
+
+
+\chapter{Timeline}
+\input{src/timeline}
+
+\chapter{Damage Tables}
+\input{src/tables}
 
 \bibliographystyle{IEEEtran} 
 \bibliography{bibliography}

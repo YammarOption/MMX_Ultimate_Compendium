@@ -8,51 +8,62 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
+I was expecting a `,' or a `}'---line 70 of file bibliography.bib
+ :  
+ :  url={https://megaman.fandom.com/wiki/Mega_Man_Maverick_Hunter_X_Script_(X%27s_story)}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 331 of file bibliography.bib
+ :  
+ :  url={https://gamefaqs.gamespot.com/psp/929705-mega-man-maverick-hunter-x/faqs/41430)}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
-Warning--empty year in wordpress:X_japanese_script
+Warning--empty author in book:RRXD
+Warning--empty author and editor in book:RMZ_Complete_works
 
 Done.
-You've used 52 entries,
+You've used 66 entries,
             4087 wiz_defined-function locations,
-            1039 strings with 12850 characters,
-and the built_in function-call counts, 16526 in all, are:
-= -- 1147
-> -- 213
-< -- 0
-+ -- 106
-- -- 53
-* -- 348
-:= -- 3101
-add.period$ -- 104
-call.type$ -- 52
-change.case$ -- 50
+            1109 strings with 14486 characters,
+and the built_in function-call counts, 21152 in all, are:
+= -- 1484
+> -- 263
+< -- 1
++ -- 132
+- -- 65
+* -- 479
+:= -- 3948
+add.period$ -- 132
+call.type$ -- 66
+change.case$ -- 63
 chr.to.int$ -- 0
-cite$ -- 53
-duplicate$ -- 1363
-empty$ -- 1746
-format.name$ -- 54
-if$ -- 3624
+cite$ -- 68
+duplicate$ -- 1762
+empty$ -- 2242
+format.name$ -- 66
+if$ -- 4650
 int.to.chr$ -- 0
-int.to.str$ -- 52
-missing$ -- 359
-newline$ -- 277
-num.names$ -- 52
-pop$ -- 1222
+int.to.str$ -- 66
+missing$ -- 452
+newline$ -- 339
+num.names$ -- 64
+pop$ -- 1512
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1218
+skip$ -- 1580
 stack$ -- 0
-substring$ -- 1
-swap$ -- 680
-text.length$ -- 0
+substring$ -- 8
+swap$ -- 895
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 52
-warning$ -- 1
-while$ -- 52
-width$ -- 54
-write$ -- 484
-(There was 1 warning)
+type$ -- 66
+warning$ -- 2
+while$ -- 64
+width$ -- 68
+write$ -- 606
+(There were 2 error messages)
