@@ -8,52 +8,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for "wiki:Sea_Canthller"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty author in book:RRXD
 
 Done.
-You've used 94 entries,
+You've used 107 entries,
             4087 wiz_defined-function locations,
-            1227 strings with 17603 characters,
-and the built_in function-call counts, 30310 in all, are:
-= -- 2155
-> -- 378
+            1277 strings with 18885 characters,
+and the built_in function-call counts, 34394 in all, are:
+= -- 2441
+> -- 430
 < -- 2
-+ -- 189
-- -- 94
-* -- 686
-:= -- 5700
-add.period$ -- 188
-call.type$ -- 94
-change.case$ -- 90
++ -- 215
+- -- 107
+* -- 764
+:= -- 6419
+add.period$ -- 214
+call.type$ -- 107
+change.case$ -- 103
 chr.to.int$ -- 0
-cite$ -- 95
-duplicate$ -- 2521
-empty$ -- 3191
-format.name$ -- 95
-if$ -- 6666
+cite$ -- 108
+duplicate$ -- 2859
+empty$ -- 3620
+format.name$ -- 108
+if$ -- 7613
 int.to.chr$ -- 0
-int.to.str$ -- 94
-missing$ -- 642
-newline$ -- 477
-num.names$ -- 93
-pop$ -- 2147
+int.to.str$ -- 107
+missing$ -- 733
+newline$ -- 542
+num.names$ -- 106
+pop$ -- 2459
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 2260
+skip$ -- 2558
 stack$ -- 0
 substring$ -- 13
-swap$ -- 1281
+swap$ -- 1450
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 94
+type$ -- 107
 warning$ -- 1
-while$ -- 94
-width$ -- 96
-write$ -- 864
-(There were 2 warnings)
+while$ -- 107
+width$ -- 110
+write$ -- 981
+(There was 1 warning)

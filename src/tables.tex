@@ -1,5 +1,6 @@
 %Damage table.tex
 Here are reported damage tables for every weapons and every main bosses per game. For each sub-weapon two values are reported, standing for regular and charged shots (except sub-weapons which don't deal damages), and values refer to damage per single hit, not counting eventual multiple hits. For the X-buster four values are reported, one for each level charge included the one given by the arm parts.
+%\begin{landscape}
 \section{X1}
 Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X1}
 
@@ -34,19 +35,25 @@ Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damag
 	}	
 	\caption{Damage chart for main bosses in Mega Man X1.}
 \end{table}
+%\end{landscape}
 
 \newpage
 \section{X2}
 Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X2}. 
+Please not that:
+\begin{itemize}
+\item For X-buster the fourth value is the damage dealt only by the second shot when fired at full power.
+\item For Shoryuken damage reported in applied every two frame of contact, the first number represent the damage dealt to a boss without invincibility frame (i.e the first hit) and the second the damage dealt trough invincibility frames (check sec.~\ref{shoryuken} for detail on how damage dealt is calculated).
 
-For Shoryuken damage reported in applied every two frame of contact, the first number represent the damage dealt to a boss without invincibility frame (i.e the first hit) and the second the damage dealt trough invincibility frames (check sec.~\ref{shoryuken} for detail on how damage dealt is calculated).
+\item For Silk Shot the first set of data is related to the boss' original stage, while the second one refers to the boss rematch, which always result in scrap metal to be tossed. The only exception are X-Hunters, that can be possibly faced in each stage and hence are subjected to each variant of the silk shot. In this case only the main weakness is reported. However this does not apply for their rematches, as the arena is fixed just like the other bosses.% values follow the following list: crystals $\rightarrow$ leafs $\rightarrow$ rocks $\rightarrow$ scraps.
+\end{itemize}
+%\begin{landscape}	
 
-For Silk Shot the first set of data is related to the boss' original stage, while the second one refers to the boss rematch, which always result in scrap metal to be tossed. The only exception are X-Haunters, that can be possibly faced in each stage and hence are subjected to each variant of the silk shot. In this case reported values follow the following list: crystals $\rightarrow$ leafs $\rightarrow$ rocks $\rightarrow$ scraps.
 \begin{table}[htp]
 	\resizebox{\columnwidth}{!}{
 		\begin{tabular}{r *{12}{c}}
 			\toprule
-			& {\includegraphics[width=30px,height=25px]{figures/X1/weapons/Xbuster.png}} &{\includegraphics[width=30px, height=25px]{figures/X2/weapons/C_haunter.png}}
+			& {\includegraphics[width=30px,height=25px]{figures/X1/weapons/Xbuster.png}} &{\includegraphics[width=30px, height=25px]{figures/X2/weapons/C_hunter.png}}
 			&{\includegraphics[width=30px, height=25px]{figures/X2/weapons/B_splash.png}} &{\includegraphics[width=30px, height=25px]{figures/X2/weapons/S_shot.png}} 
 			&{\includegraphics[width=30px, height=25px]{figures/X2/weapons/S_wheel.png}} &{\includegraphics[width=30px, height=25px]{figures/X2/weapons/S_slicer.png}} 
 			&{\includegraphics[width=30px, height=25px]{figures/X2/weapons/S_chain.png}} &{\includegraphics[width=30px, height=25px]{figures/X2/weapons/M_mine.png}} 
@@ -54,7 +61,7 @@ For Silk Shot the first set of data is related to the boss' original stage, whil
 			&{\includegraphics[height=25px]{figures/X2/weapons/Shoryuken_ico.png}}\\
 			\midrule
 			%name				X-buster     CH   BS  	SSh   	  SW  SS  SC  MM  SB  GC S
-			Giant Mechniloid CF 0 & 3-5-8-	&- 	&- 	&- 			&-	&- 	&- 	&- 	 &-	&- 	&- \\
+			\small{Giant Mechaniloid CF 0} & 3-5-8-	&- 	&- 	&- 			&-	&- 	&- 	&- 	 &-	&- 	&- \\
 			Wire Sponge           & 1-1-2-4 &0-0&1-1&1-1/1-2	&1-1&2-5&1-1&1-2&2-1& 2  &16-8\\
 			Morph Moth			  & 1-1-2-4	&0-0&1-1&1-1        &1-1&1-1&1-1&1-2&3-6& 2	  &16-8\\
 			Flame Stag			  & 1-1-2-4	&0-0&2-2&1-1/1-1	&1-1&2-2&1-1&1-1&1-1& 2/3 &8-8\\
@@ -62,19 +69,20 @@ For Silk Shot the first set of data is related to the boss' original stage, whil
 			Overdrive Ostrich	  & 1-1-2-4 &3-0&1-1&2-2/2-2    &1-1&1-1&1-1&1-1&1-1&2    &16-8 \\
 			Bubble Crab			  & 1-1-2-4 &0-0&1-1&1-1/1-1    &3-4&1-1&1-1&1-1&1-1&2 	  &16-8 \\
 			Wheel Gator			  & 1-1-2-4	&0-0&2-1&1-1        &1-1&1-1&3(5)\footnotemark-5&1-1&1-1&2&16-8 \\
-			Crystal Snail		  & 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& \\
-			Violen& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Neo-Violen& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Serges& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Serges Tank& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Agile& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Agile Flyer& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Zero& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Neo-Sigma& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
-			Sigma Virus& 		& 			& 	& 	& 		& 	& 	& 	& 		& 	& &\\
+			Crystal Snail		  & 1-1-2-4	&0-0&1-1&1-1/1-1	&1-2&1-1&1-1&3-4&1-1&2 	&16-8 \\
+			Violen				  & 1-1-2-4 &0-0&2-2&\makecell[ct]{3-5(leaf)\\1-1 other}&1-1&2-2&1-1&1-1&1-1&2&-&\\
+			Neo-Violen		  & 1-1-2-3 &0-0&2-4&0-0&0-0&0-0&0-0&0-0&0-0&2&-&\\
+			Serges&1-1-2-4	  & 0-0	&1-1&\makecell[ct]{1-2(rocks)\\3-5(crystal)\\1-1 (other)} 	& 1-1	&2-5&1-1&1-2&2-1&2 	&- &\\
+			\makecell[rt]{Serges Tank\\(main body)}&1-1-2-3	&0-0&1-1&1-2&0-1&2-5&1-1&1-1&2-1&2 	&- &\\
+			Agile& 		1-1-2-4&0-0	&1-1&\makecell[ct]{3-5(rocks)\\1-1} 	&1-2 		&1-1 	&1-1 	&3-4 	&1-1 		&2 	&- &\\
+			Agile Flyer&1-1-2-3	&0-0&0-0&0-0&0-0&0-0&0-0&2-2&0-0&2 	&16-8 &\\
+			Zero&0-1-2-3&0-0&0-0&0-0&0-0&0-0&0-0&0-0&2-1&0&16-8&\\
+			Neo-Sigma& 1-2-2-4&0-0&0-0&0-0&0-0&2-4&0-0&0-0&0-0&3&16-8 &\\
+			Sigma Virus& 0-0-1-3&0-0&0-0&0-0&0-0&0-0&2-1&0-0&0-0&0-0&16-8&\\
 			\bottomrule
 		\end{tabular}
 	}	
 	\caption{Damage chart for main bosses in Mega Man X2.}
 \end{table}
 \footnotetext{If Wheel Gator is hit by the Strike Chain when flashing, the damage dealt will count as 5 instead of 3}
+%\end{landscape}
