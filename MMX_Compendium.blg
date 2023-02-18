@@ -7,6 +7,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10106 items from 5000.
 Database file #1: bibliography.bib
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
@@ -14,45 +15,45 @@ Database file #1: bibliography.bib
 Warning--empty author in book:RRXD
 
 Done.
-You've used 107 entries,
+You've used 111 entries,
             4087 wiz_defined-function locations,
-            1277 strings with 18885 characters,
-and the built_in function-call counts, 34394 in all, are:
-= -- 2441
-> -- 430
+            1295 strings with 19462 characters,
+and the built_in function-call counts, 35760 in all, are:
+= -- 2543
+> -- 446
 < -- 2
-+ -- 215
-- -- 107
-* -- 764
-:= -- 6419
-add.period$ -- 214
-call.type$ -- 107
-change.case$ -- 103
++ -- 223
+- -- 111
+* -- 804
+:= -- 6676
+add.period$ -- 222
+call.type$ -- 111
+change.case$ -- 107
 chr.to.int$ -- 0
-cite$ -- 108
-duplicate$ -- 2859
-empty$ -- 3620
-format.name$ -- 108
-if$ -- 7613
+cite$ -- 112
+duplicate$ -- 2973
+empty$ -- 3760
+format.name$ -- 112
+if$ -- 7912
 int.to.chr$ -- 0
-int.to.str$ -- 107
-missing$ -- 733
-newline$ -- 542
-num.names$ -- 106
-pop$ -- 2459
+int.to.str$ -- 111
+missing$ -- 761
+newline$ -- 562
+num.names$ -- 110
+pop$ -- 2549
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 2558
+skip$ -- 2658
 stack$ -- 0
-substring$ -- 13
-swap$ -- 1450
+substring$ -- 15
+swap$ -- 1514
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 107
+type$ -- 111
 warning$ -- 1
-while$ -- 107
-width$ -- 110
-write$ -- 981
+while$ -- 111
+width$ -- 114
+write$ -- 1019
 (There was 1 warning)
