@@ -1,0 +1,105 @@
+\babel@toc {english}{}\relax 
+\contentsline {part}{I\hspace {1em}Games}{4}{part.1}%
+\contentsline {chapter}{\numberline {1}Mega Man X}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Main plot}{7}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Main Plot (\textit {MHX}\xspace )}{9}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Main Characters}{10}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}X}{10}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Zero}{11}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Game Mechanics}{12}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Weapons}{13}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}\includegraphics [width=12px, height=10px]{figures/X1/weapons/Homig_T.jpg} Homing Torpedo}{13}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}\includegraphics [width=12px, height=10px]{figures/X1/weapons/C_sting.jpg} Chameleon Sting}{13}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}\includegraphics [width=12px, height=10px]{figures/X1/weapons/Rolling_S.jpg} Rolling Shield}{13}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}\includegraphics [width=12px, height=10px]{figures/X1/weapons/F_wave.jpg} Fire Wave}{14}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}\includegraphics [width=12px, height=10px]{figures/X1/weapons/Storm_T.jpg} Storm Tornado}{15}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.6}\includegraphics [width=12px, height=10px]{figures/X1/weapons/E_Spark.jpg} Electric Spark}{16}{subsection.1.5.6}%
+\contentsline {subsection}{\numberline {1.5.7}\includegraphics [width=12px, height=10px]{figures/X1/weapons/B_cutter.jpg} Boomerang Cutter}{16}{subsection.1.5.7}%
+\contentsline {subsection}{\numberline {1.5.8}\includegraphics [width=12px, height=10px]{figures/X1/weapons/S_ice.jpg} Shotgun Ice}{16}{subsection.1.5.8}%
+\contentsline {section}{\numberline {1.6}First Armor}{17}{section.1.6}%
+\contentsline {section}{\numberline {1.7}Highway (Introduction Stage)}{19}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Ocean}{20}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}Heart Tank}{21}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}Launch Octopus}{22}{subsection.1.8.2}%
+\contentsline {section}{\numberline {1.9}Snow Mountain}{24}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Light's Capsule}{25}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}Heart Tank}{26}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}Chill Penguin}{26}{subsection.1.9.3}%
+\contentsline {section}{\numberline {1.10}Gallery}{29}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}Sub Tank}{30}{subsection.1.10.1}%
+\contentsline {subsection}{\numberline {1.10.2}Heart Tank}{30}{subsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.10.3}Hadoken}{31}{subsection.1.10.3}%
+\contentsline {subsection}{\numberline {1.10.4}Armored Armadillo}{32}{subsection.1.10.4}%
+\contentsline {section}{\numberline {1.11}Factory}{34}{section.1.11}%
+\contentsline {subsection}{\numberline {1.11.1}Light's Capsule}{35}{subsection.1.11.1}%
+\contentsline {subsection}{\numberline {1.11.2}Sub Tank}{35}{subsection.1.11.2}%
+\contentsline {subsection}{\numberline {1.11.3}Heart Tank}{36}{subsection.1.11.3}%
+\contentsline {subsection}{\numberline {1.11.4}Flame Mammoth}{36}{subsection.1.11.4}%
+\contentsline {section}{\numberline {1.12}Sky}{39}{section.1.12}%
+\contentsline {subsection}{\numberline {1.12.1}Heart Tank}{40}{subsection.1.12.1}%
+\contentsline {subsection}{\numberline {1.12.2}Sub Tank}{40}{subsection.1.12.2}%
+\contentsline {subsection}{\numberline {1.12.3}Light's Capsule}{42}{subsection.1.12.3}%
+\contentsline {subsection}{\numberline {1.12.4}Storm Eagle}{42}{subsection.1.12.4}%
+\contentsline {section}{\numberline {1.13}Tower}{45}{section.1.13}%
+\contentsline {subsection}{\numberline {1.13.1}Heart Tank}{46}{subsection.1.13.1}%
+\contentsline {subsection}{\numberline {1.13.2}Boomer Kuwanger}{47}{subsection.1.13.2}%
+\contentsline {section}{\numberline {1.14}Power Plant}{49}{section.1.14}%
+\contentsline {subsection}{\numberline {1.14.1}Sub Tank}{50}{subsection.1.14.1}%
+\contentsline {subsection}{\numberline {1.14.2}Heart Tank}{51}{subsection.1.14.2}%
+\contentsline {subsection}{\numberline {1.14.3}Spark Mandrill}{51}{subsection.1.14.3}%
+\contentsline {section}{\numberline {1.15}Forest}{54}{section.1.15}%
+\contentsline {subsection}{\numberline {1.15.1}Light's Capsule}{55}{subsection.1.15.1}%
+\contentsline {subsection}{\numberline {1.15.2}Heart Tank}{56}{subsection.1.15.2}%
+\contentsline {subsection}{\numberline {1.15.3}Sting Chameleon}{56}{subsection.1.15.3}%
+\contentsline {section}{\numberline {1.16}Sigma's Hideout 1 (X)}{58}{section.1.16}%
+\contentsline {subsection}{\numberline {1.16.1}Vile}{60}{subsection.1.16.1}%
+\contentsline {subsection}{\numberline {1.16.2}Bospider}{63}{subsection.1.16.2}%
+\contentsline {section}{\numberline {1.17}Sigma's Hideout 2 (X)}{64}{section.1.17}%
+\contentsline {subsection}{\numberline {1.17.1}Rangda Bangda}{65}{subsection.1.17.1}%
+\contentsline {section}{\numberline {1.18}Sigma's Hideout 3(X)}{67}{section.1.18}%
+\contentsline {subsection}{\numberline {1.18.1}D-REX}{67}{subsection.1.18.1}%
+\contentsline {section}{\numberline {1.19}Sigma's Hideout 4 (X)}{69}{section.1.19}%
+\contentsline {subsection}{\numberline {1.19.1}Velguarder}{70}{subsection.1.19.1}%
+\contentsline {subsection}{\numberline {1.19.2}Sigma}{71}{subsection.1.19.2}%
+\contentsline {subsection}{\numberline {1.19.3}Wolf Sigma}{74}{subsection.1.19.3}%
+\contentsline {section}{\numberline {1.20}Miscellaneous}{77}{section.1.20}%
+\contentsline {subsection}{\numberline {1.20.1}Unexplained Game Mechanics}{77}{subsection.1.20.1}%
+\contentsline {subsection}{\numberline {1.20.2}Iceless jump}{78}{subsection.1.20.2}%
+\contentsline {subsection}{\numberline {1.20.3}Air hadoken}{78}{subsection.1.20.3}%
+\contentsline {subsection}{\numberline {1.20.4}Minor Glitches}{79}{subsection.1.20.4}%
+\contentsline {subsection}{\numberline {1.20.5}Magic Carpet}{82}{subsection.1.20.5}%
+\contentsline {subsection}{\numberline {1.20.6}Vile Dialogue Skip}{83}{subsection.1.20.6}%
+\contentsline {subsection}{\numberline {1.20.7}Armored Armadillo Rematch Skip}{83}{subsection.1.20.7}%
+\contentsline {subsection}{\numberline {1.20.8}Energy and Life-up Farming}{84}{subsection.1.20.8}%
+\contentsline {chapter}{\numberline {2}Mega Man X2}{86}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Mega Man X3}{87}{chapter.3}%
+\contentsline {part}{II\hspace {1em}Characters}{88}{part.2}%
+\contentsline {chapter}{\numberline {4}X}{91}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Technical Specifications}{92}{section.4.1}%
+\contentsline {paragraph}{General Information}{92}{section*.109}%
+\contentsline {paragraph}{Head equipment}{92}{section*.110}%
+\contentsline {paragraph}{Chest equipment}{92}{section*.111}%
+\contentsline {paragraph}{Leg equipment}{93}{section*.112}%
+\contentsline {paragraph}{Arm equipment}{93}{section*.113}%
+\contentsline {section}{\numberline {4.2}Creation}{93}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Awakening and birth of reploids}{94}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Mavericks and Maverick Hunters}{95}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The X saga and the Maverick Wars}{96}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Zero}{98}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Creation}{98}{section.5.1}%
+\contentsline {section}{\numberline {5.2}The X saga and the Maverick Wars}{99}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Sigma}{101}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Leader of the Maverick Hunters}{102}{section.6.1}%
+\contentsline {section}{\numberline {6.2}The X saga}{102}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Vile}{104}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Before the war}{105}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Mega Man X}{105}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Other Characters}{107}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Dr. Cain}{107}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Serges}{108}{section.8.2}%
+\contentsline {chapter}{\numberline {A}Vehicles}{111}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Enemies}{112}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Mini-Bosses}{112}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Minor enemies}{119}{section.B.2}%
+\contentsline {chapter}{\numberline {C}Timeline}{134}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Damage Tables}{135}{appendix.D}%
