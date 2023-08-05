@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  30 JUL 2023 14:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.2)  5 AUG 2023 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **MMX_Compendium.tex
 (./MMX_Compendium.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21>
-(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
-Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+(c:/texlive/2023/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@chapter=\count186
@@ -20,144 +20,152 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count191
 \c@figure=\count192
 \c@table=\count193
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 )
-(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+(c:/texlive/2023/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 )
-(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/01/26 3.70 The Babel package
+(c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2023/07/15 v3.92 The Babel package
 \babel@savecnt=\count194
-\U@D=\dimen139
+\U@D=\dimen141
 \l@unhyphenated=\language87
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+(c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+(c:/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language29). Reported on input line 105.
+(babel)             (\language21). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language29). Reported on input line 108.
+(babel)             (\language21). Reported on input line 108.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+(c:/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )
-(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+(c:/texlive/2023/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen140
-\ar@mcellbox=\box50
-\extrarowheight=\dimen141
-\NC@list=\toks18
-\extratabsurround=\skip49
-\backup@length=\skip50
-\ar@cellbox=\box51
+(c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box51
+\extrarowheight=\dimen143
+\NC@list=\toks19
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
 )
-\everycr=\toks19
-\minrowclearance=\skip51
-)
+\everycr=\toks20
+\minrowclearance=\skip52
 \rownum=\count196
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
-Package xcolor Info: Model `RGB' extended on input line 1368.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+(c:/texlive/2023/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@@pps=\count197
 \c@@ppsavesec=\count198
 \c@@ppsaveapp=\count199
 )
-(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen142
-\WF@size=\dimen143
+(c:/texlive/2023/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen144
+\WF@size=\dimen145
 \c@WF@wrappedlines=\count266
-\WF@box=\box52
-\WF@everypar=\toks20
+\WF@box=\box53
+\WF@everypar=\toks21
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen144
-\Gin@req@width=\dimen145
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
 )
-(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+(c:/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/07/31 v3.6n Customizing captions (AR)
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen146
-\captionmargin@=\dimen147
-\captionwidth=\dimen148
-\caption@tempdima=\dimen149
-\caption@indent=\dimen150
-\caption@parindent=\dimen151
-\caption@hangindent=\dimen152
+(c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen148
+\captionmargin=\dimen149
+\caption@leftmargin=\dimen150
+\caption@rightmargin=\dimen151
+\caption@width=\dimen152
+\caption@indent=\dimen153
+\caption@parindent=\dimen154
+\caption@hangindent=\dimen155
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count267
 \c@continuedfloat=\count268
 Package caption Info: wrapfig package is loaded.
 )
+Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count269
+Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count270
 )
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+(c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count271
 )
@@ -167,275 +175,275 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \csq@qlevel=\count275
 \csq@maxlvl=\count276
 \csq@tshold=\count277
-\csq@ltx@everypar=\toks22
+\csq@ltx@everypar=\toks23
 
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+(c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip52
-\LTright=\skip53
-\LTpre=\skip54
-\LTpost=\skip55
+\LTleft=\skip53
+\LTright=\skip54
+\LTpre=\skip55
+\LTpost=\skip56
 \LTchunksize=\count278
-\LTcapwidth=\dimen153
-\LT@head=\box53
-\LT@firsthead=\box54
-\LT@foot=\box55
-\LT@lastfoot=\box56
-\LT@gbox=\box57
+\LTcapwidth=\dimen156
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
 \LT@cols=\count279
 \LT@rows=\count280
 \c@LT@tables=\count281
 \c@LT@chunks=\count282
-\LT@p@ftn=\toks23
+\LT@p@ftn=\toks24
 )
-(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+(c:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen154
-\lightrulewidth=\dimen155
-\cmidrulewidth=\dimen156
-\belowrulesep=\dimen157
-\belowbottomsep=\dimen158
-\aboverulesep=\dimen159
-\abovetopsep=\dimen160
-\cmidrulesep=\dimen161
-\cmidrulekern=\dimen162
-\defaultaddspace=\dimen163
+\heavyrulewidth=\dimen157
+\lightrulewidth=\dimen158
+\cmidrulewidth=\dimen159
+\belowrulesep=\dimen160
+\belowbottomsep=\dimen161
+\aboverulesep=\dimen162
+\abovetopsep=\dimen163
+\cmidrulesep=\dimen164
+\cmidrulekern=\dimen165
+\defaultaddspace=\dimen166
 \@cmidla=\count283
 \@cmidlb=\count284
-\@aboverulesep=\dimen164
-\@belowrulesep=\dimen165
+\@aboverulesep=\dimen167
+\@belowrulesep=\dimen168
 \@thisruleclass=\count285
 \@lastruleclass=\count286
-\@thisrulewidth=\dimen166
+\@thisrulewidth=\dimen169
 )
-(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
+(c:/texlive/2023/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen167
+\rotheadsize=\dimen170
 \c@nlinenum=\count287
-\TeXr@lab=\toks24
+\TeXr@lab=\toks25
 )
-(/usr/share/texlive/texmf-dist/tex/latex/bosisio/quotes.sty
+(c:/texlive/2023/texmf-dist/tex/latex/bosisio/quotes.sty
 Package: quotes 1997/12/20 v2.2 Commands to use double quotes (FB)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/awesomebox/awesomebox.sty
+(c:/texlive/2023/texmf-dist/tex/latex/awesomebox/awesomebox.sty
 Package: awesomebox 2019/07/27 v0.6
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
+(c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-06-30 L3 programming layer (loader) 
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count288
-\l__pdf_internal_box=\box58
+\l__pdf_internal_box=\box59
 ))
-Package: fontawesome5 2021/06/04 v5.15.3 Font Awesome 5
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+(c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
 )
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2022-01-12 L3 Experimental document command parser
+(c:/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-help
-er.sty
-Package: fontawesome5-generic-helper 2021/06/04 v5.15.3 non-uTeX helper for fon
+(c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-helper.
+sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
 tawesome5
-
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)
-))
-\aweboxleftmargin=\skip56
-\aweboxcontentwidth=\skip57
-\aweboxvskip=\skip58
-\aweboxsignraise=\skip59
-\aweboxrulewidth=\skip60
- (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+ (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)))
+\aweboxleftmargin=\skip57
+\aweboxcontentwidth=\skip58
+\aweboxvskip=\skip59
+\aweboxsignraise=\skip60
+\aweboxrulewidth=\skip61
+ (c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\aweboxlinewidthvar=\skip61
-\aweboxlinewidthref=\skip62
+\aweboxlinewidthvar=\skip62
+\aweboxlinewidthref=\skip63
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ltablex/ltablex.sty
+(c:/texlive/2023/texmf-dist/tex/latex/ltablex/ltablex.sty
 Package: ltablex 2014/08/13 v1.1 Modified tabularx
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen168
-\TX@old@table=\dimen169
-\TX@old@col=\dimen170
-\TX@target=\dimen171
-\TX@delta=\dimen172
+\TX@col@width=\dimen171
+\TX@old@table=\dimen172
+\TX@old@col=\dimen173
+\TX@target=\dimen174
+\TX@delta=\dimen175
 \TX@cols=\count289
-\TX@ftn=\toks25
+\TX@ftn=\toks26
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/tablefootnote/tablefootnote.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tablefootnote/tablefootnote.sty
 Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
 
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(c:/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+(c:/texlive/2023/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+(c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count290
 \calc@Bcount=\count291
-\calc@Adimen=\dimen173
-\calc@Bdimen=\dimen174
-\calc@Askip=\skip63
-\calc@Bskip=\skip64
+\calc@Adimen=\dimen176
+\calc@Bdimen=\dimen177
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count292
-\calc@Cskip=\skip65
+\calc@Cskip=\skip66
 )
-(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+(c:/texlive/2023/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )))
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(c:/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(c:/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+(c:/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+(c:/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-)
-\@linkdim=\dimen175
-\Hy@linkcounter=\count293
-\Hy@pagecounter=\count294
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+(c:/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count293
+)
+\@linkdim=\dimen178
+\Hy@linkcounter=\count294
+\Hy@pagecounter=\count295
+
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
-nguages
-)
-(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+(c:/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)
-\Hy@SavedSpaceFactor=\count295
+\Hy@SavedSpaceFactor=\count296
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4073.
-Package hyperref Info: Hyper figures OFF on input line 4192.
-Package hyperref Info: Link nesting OFF on input line 4197.
-Package hyperref Info: Hyper index ON on input line 4200.
-Package hyperref Info: Plain pages OFF on input line 4207.
-Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4050.
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count296
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count297
 
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+(c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen176
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen179
 
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+(c:/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(c:/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count297
-\Field@Width=\dimen177
-\Fld@charsize=\dimen178
-Package hyperref Info: Hyper figures OFF on input line 6076.
-Package hyperref Info: Link nesting OFF on input line 6081.
-Package hyperref Info: Hyper index ON on input line 6084.
-Package hyperref Info: backreferencing OFF on input line 6091.
-Package hyperref Info: Link coloring OFF on input line 6096.
-Package hyperref Info: Link coloring with OCG OFF on input line 6101.
-Package hyperref Info: PDF/A mode OFF on input line 6106.
-LaTeX Info: Redefining \ref on input line 6146.
-LaTeX Info: Redefining \pageref on input line 6150.
+\Fld@menulength=\count298
+\Field@Width=\dimen180
+\Fld@charsize=\dimen181
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+(c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count298
-\c@Item=\count299
-\c@Hfootnote=\count300
+\Hy@abspage=\count299
+\c@Item=\count300
+\c@Hfootnote=\count301
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+(c:/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(c:/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count301
-\c@bookmark@seq@number=\count302
+\Fld@listcount=\count302
+\c@bookmark@seq@number=\count303
 
-(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+(c:/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(c:/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-86.
+85.
 )
-\Hy@SectionHShift=\skip66
+\Hy@SectionHShift=\skip67
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 35.
@@ -466,25 +474,25 @@ LaTeX Font Info:    ... okay on input line 48.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
-\scratchdimen=\dimen179
-\scratchbox=\box59
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count306
-\MPscratchDim=\dimen180
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks27
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+\scratchcounter=\count304
+\scratchdimen=\dimen182
+\scratchbox=\box60
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count307
+\MPscratchDim=\dimen183
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks28
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -492,26 +500,11 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+(c:/texlive/2023/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 48.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count309
-)
-LaTeX Info: Redefining \ref on input line 48.
-LaTeX Info: Redefining \pageref on input line 48.
-LaTeX Info: Redefining \nameref on input line 48.
 
 (./MMX_Compendium.out) (./MMX_Compendium.out)
 \@outlinefile=\write3
@@ -529,7 +522,8 @@ LaTeX Warning: No \author given.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./MMX_Compendium.toc
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
+texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./MMX_Compendium.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -598,7 +592,7 @@ Overfull \hbox (0.29532pt too wide) in paragraph at lines 60--61
 nd even glitches/bugs.
  []
 
-[5]
+[5{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Chapter 1.
 (./src/x1.tex
 <figures/X1/mmx_cover.jpeg, id=549, 1003.75pt x 1003.75pt>
@@ -1076,1108 +1070,1102 @@ Package pdftex.def Info: figures/X1/Chill_penguin/Chill_penguin_specs.jpg  used
 File: figures/X1/Armored_armadillo/Armadillo_tank.jpg Graphic file (type jpg)
 <use figures/X1/Armored_armadillo/Armadillo_tank.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_tank.jpg  used 
-on input line 592.
+on input line 591.
 (pdftex.def)             Requested size: 172.5pt x 108.6216pt.
- [29]
-<figures/X1/Armored_armadillo/Armadillo_heart.jpg, id=913, 462.72874pt x 600.24
+<figures/X1/Armored_armadillo/Armadillo_heart.jpg, id=903, 462.72874pt x 600.24
 25pt>
 File: figures/X1/Armored_armadillo/Armadillo_heart.jpg Graphic file (type jpg)
 <use figures/X1/Armored_armadillo/Armadillo_heart.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_heart.jpg  used
- on input line 605.
+ on input line 604.
 (pdftex.def)             Requested size: 103.50105pt x 134.25189pt.
-<figures/X1/Armored_armadillo/Armadillo_heart_2.jpg, id=914, 485.815pt x 628.34
+<figures/X1/Armored_armadillo/Armadillo_heart_2.jpg, id=904, 485.815pt x 628.34
 75pt>
 File: figures/X1/Armored_armadillo/Armadillo_heart_2.jpg Graphic file (type jpg
 )
 <use figures/X1/Armored_armadillo/Armadillo_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_heart_2.jpg  us
-ed on input line 610.
+ed on input line 609.
 (pdftex.def)             Requested size: 103.50105pt x 133.86484pt.
- [30 <./figures/X1/Armored_armadillo/Armadillo_tank.jpg> <./figures/X1/Armored_
-armadillo/Armadillo_heart.jpg> <./figures/X1/Armored_armadillo/Armadillo_heart_
-2.jpg>]
-<figures/X1/Armored_armadillo/Armadillo_hadoken.jpg, id=922, 552.0625pt x 722.7
+ [29]
+<figures/X1/Armored_armadillo/Armadillo_hadoken.jpg, id=915, 552.0625pt x 722.7
 pt>
 File: figures/X1/Armored_armadillo/Armadillo_hadoken.jpg Graphic file (type jpg
 )
 <use figures/X1/Armored_armadillo/Armadillo_hadoken.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_hadoken.jpg  us
-ed on input line 621.
+ed on input line 618.
 (pdftex.def)             Requested size: 103.50105pt x 135.48386pt.
- [31 <./figures/X1/Armored_armadillo/Armadillo_hadoken.jpg>]
-<figures/X1/Armored_armadillo/Armored_armadillo.jpg, id=931, 752.8125pt x 776.9
+ [30 <./figures/X1/Armored_armadillo/Armadillo_tank.jpg> <./figures/X1/Armored_
+armadillo/Armadillo_heart.jpg> <./figures/X1/Armored_armadillo/Armadillo_heart_
+2.jpg>]
+<figures/X1/Armored_armadillo/Armored_armadillo.jpg, id=925, 752.8125pt x 776.9
 025pt>
 File: figures/X1/Armored_armadillo/Armored_armadillo.jpg Graphic file (type jpg
 )
 <use figures/X1/Armored_armadillo/Armored_armadillo.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armored_armadillo.jpg  us
-ed on input line 632.
+ed on input line 628.
 (pdftex.def)             Requested size: 137.84373pt x 142.26378pt.
-<figures/X1/Armored_armadillo/MHXArmoredArmadillo.png, id=932, 351.3125pt x 295
+<figures/X1/Armored_armadillo/MHXArmoredArmadillo.png, id=926, 351.3125pt x 295
 .1025pt>
 File: figures/X1/Armored_armadillo/MHXArmoredArmadillo.png Graphic file (type p
 ng)
 <use figures/X1/Armored_armadillo/MHXArmoredArmadillo.png>
 Package pdftex.def Info: figures/X1/Armored_armadillo/MHXArmoredArmadillo.png  
-used on input line 633.
+used on input line 629.
 (pdftex.def)             Requested size: 169.36247pt x 142.26378pt.
-<figures/X1/Armored_armadillo/Armadillo_rolling.jpg, id=936, 212.795pt x 184.69
+<figures/X1/Armored_armadillo/Armadillo_rolling.jpg, id=930, 212.795pt x 184.69
 pt>
 File: figures/X1/Armored_armadillo/Armadillo_rolling.jpg Graphic file (type jpg
 )
 <use figures/X1/Armored_armadillo/Armadillo_rolling.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_rolling.jpg  us
-ed on input line 644.
+ed on input line 637.
 (pdftex.def)             Requested size: 131.12952pt x 113.81102pt.
-<figures/X1/Armored_armadillo/Armadillo_cannon.jpg, id=937, 362.35374pt x 216.8
+<figures/X1/Armored_armadillo/Armadillo_cannon.jpg, id=931, 362.35374pt x 216.8
 1pt>
 File: figures/X1/Armored_armadillo/Armadillo_cannon.jpg Graphic file (type jpg)
 
 <use figures/X1/Armored_armadillo/Armadillo_cannon.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_cannon.jpg  use
-d on input line 649.
+d on input line 642.
 (pdftex.def)             Requested size: 155.24895pt x 92.89233pt.
-<figures/X1/Armored_armadillo/Armadillo_energy_1.jpg, id=938, 219.82124pt x 204
+<figures/X1/Armored_armadillo/Armadillo_energy_1.jpg, id=932, 219.82124pt x 204
 .765pt>
 File: figures/X1/Armored_armadillo/Armadillo_energy_1.jpg Graphic file (type jp
 g)
 <use figures/X1/Armored_armadillo/Armadillo_energy_1.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_energy_1.jpg  u
-sed on input line 654.
+sed on input line 647.
 (pdftex.def)             Requested size: 122.18335pt x 113.81102pt.
-<figures/X1/Armored_armadillo/Armadillo_energy_2.jpg, id=939, 375.4025pt x 291.
+<figures/X1/Armored_armadillo/Armadillo_energy_2.jpg, id=933, 375.4025pt x 291.
 0875pt>
 File: figures/X1/Armored_armadillo/Armadillo_energy_2.jpg Graphic file (type jp
 g)
 <use figures/X1/Armored_armadillo/Armadillo_energy_2.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_energy_2.jpg  u
-sed on input line 659.
+sed on input line 652.
 (pdftex.def)             Requested size: 146.77298pt x 113.81102pt.
-<figures/X1/Armored_armadillo/Armadillo_shock_1.jpg, id=940, 246.9225pt x 224.8
+<figures/X1/Armored_armadillo/Armadillo_shock_1.jpg, id=934, 246.9225pt x 224.8
 4pt>
 File: figures/X1/Armored_armadillo/Armadillo_shock_1.jpg Graphic file (type jpg
 )
 <use figures/X1/Armored_armadillo/Armadillo_shock_1.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_shock_1.jpg  us
-ed on input line 664.
+ed on input line 657.
 (pdftex.def)             Requested size: 124.99063pt x 113.81102pt.
-<figures/X1/Armored_armadillo/Armadillo_shock_2.jpg, id=941, 347.2975pt x 254.9
+<figures/X1/Armored_armadillo/Armadillo_shock_2.jpg, id=935, 347.2975pt x 254.9
 525pt>
 File: figures/X1/Armored_armadillo/Armadillo_shock_2.jpg Graphic file (type jpg
 )
 <use figures/X1/Armored_armadillo/Armadillo_shock_2.jpg>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armadillo_shock_2.jpg  us
-ed on input line 669.
+ed on input line 662.
 (pdftex.def)             Requested size: 155.03708pt x 113.81102pt.
-<figures/X1/Armored_armadillo/Armored_armadillo_specs.png, id=944, 635.37375pt 
+ [31 <./figures/X1/Armored_armadillo/Armadillo_hadoken.jpg> <./figures/X1/Armor
+ed_armadillo/Armored_armadillo.jpg> <./figures/X1/Armored_armadillo/MHXArmoredA
+rmadillo.png>]
+<figures/X1/Armored_armadillo/Armored_armadillo_specs.png, id=945, 635.37375pt 
 x 549.05125pt>
 File: figures/X1/Armored_armadillo/Armored_armadillo_specs.png Graphic file (ty
 pe png)
 <use figures/X1/Armored_armadillo/Armored_armadillo_specs.png>
 Package pdftex.def Info: figures/X1/Armored_armadillo/Armored_armadillo_specs.p
-ng  used on input line 685.
+ng  used on input line 674.
 (pdftex.def)             Requested size: 155.24895pt x 134.1543pt.
- [32 <./figures/X1/Armored_armadillo/Armored_armadillo.jpg> <./figures/X1/Armor
-ed_armadillo/MHXArmoredArmadillo.png>] [33 <./figures/X1/Armored_armadillo/Arma
-dillo_rolling.jpg> <./figures/X1/Armored_armadillo/Armadillo_cannon.jpg> <./fig
-ures/X1/Armored_armadillo/Armadillo_energy_1.jpg> <./figures/X1/Armored_armadil
-lo/Armadillo_energy_2.jpg> <./figures/X1/Armored_armadillo/Armadillo_shock_1.jp
-g> <./figures/X1/Armored_armadillo/Armadillo_shock_2.jpg>]
-<figures/X1/Flame_mammoth/Flame_fire.jpg, id=959, 693.59125pt x 421.575pt>
+ [32 <./figures/X1/Armored_armadillo/Armadillo_rolling.jpg> <./figures/X1/Armor
+ed_armadillo/Armadillo_cannon.jpg> <./figures/X1/Armored_armadillo/Armadillo_en
+ergy_1.jpg> <./figures/X1/Armored_armadillo/Armadillo_energy_2.jpg> <./figures/
+X1/Armored_armadillo/Armadillo_shock_1.jpg> <./figures/X1/Armored_armadillo/Arm
+adillo_shock_2.jpg>]
+<figures/X1/Flame_mammoth/Flame_fire.jpg, id=955, 693.59125pt x 421.575pt>
 File: figures/X1/Flame_mammoth/Flame_fire.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_fire.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_fire.jpg  used on input
- line 713.
+ line 705.
 (pdftex.def)             Requested size: 169.0519pt x 102.74963pt.
-<figures/X1/Flame_mammoth/Flame_frozen.jpg, id=960, 796.9775pt x 510.90875pt>
+<figures/X1/Flame_mammoth/Flame_frozen.jpg, id=956, 796.9775pt x 510.90875pt>
 File: figures/X1/Flame_mammoth/Flame_frozen.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_frozen.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_frozen.jpg  used on inp
-ut line 718.
+ut line 710.
 (pdftex.def)             Requested size: 160.42374pt x 102.83478pt.
 
-[34 <./figures/X1/Armored_armadillo/Armored_armadillo_specs.png> <./figures/X1/
-Flame_mammoth/Flame_fire.jpg> <./figures/X1/Flame_mammoth/Flame_frozen.jpg>]
-<figures/X1/Flame_mammoth/Flame_armor_1.jpg, id=977, 581.17125pt x 576.1525pt>
+[33 <./figures/X1/Armored_armadillo/Armored_armadillo_specs.png>]
+<figures/X1/Flame_mammoth/Flame_armor_1.jpg, id=974, 581.17125pt x 576.1525pt>
 File: figures/X1/Flame_mammoth/Flame_armor_1.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_armor_1.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_armor_1.jpg  used on in
-put line 742.
+put line 735.
 (pdftex.def)             Requested size: 86.09889pt x 85.35826pt.
-<figures/X1/Flame_mammoth/Flame_armor_2.jpg, id=978, 743.77875pt x 559.08875pt>
+<figures/X1/Flame_mammoth/Flame_armor_2.jpg, id=975, 743.77875pt x 559.08875pt>
 
 File: figures/X1/Flame_mammoth/Flame_armor_2.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_armor_2.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_armor_2.jpg  used on in
-put line 747.
+put line 740.
 (pdftex.def)             Requested size: 113.5481pt x 85.35826pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/X1/Flame_mammoth/Flame_tank.jpg, id=979, 503.8825pt x 596.2275pt>
+ [34 <./figures/X1/Flame_mammoth/Flame_fire.jpg> <./figures/X1/Flame_mammoth/Fl
+ame_frozen.jpg>]
+<figures/X1/Flame_mammoth/Flame_tank.jpg, id=984, 503.8825pt x 596.2275pt>
 File: figures/X1/Flame_mammoth/Flame_tank.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_tank.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_tank.jpg  used on input
- line 759.
+ line 750.
 (pdftex.def)             Requested size: 96.1846pt x 113.81102pt.
-[35]
-<figures/X1/Flame_mammoth/Flame_heart_1.jpg, id=988, 703.62875pt x 336.25626pt>
+<figures/X1/Flame_mammoth/Flame_heart_1.jpg, id=985, 703.62875pt x 336.25626pt>
 
 File: figures/X1/Flame_mammoth/Flame_heart_1.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_heart_1.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_heart_1.jpg  used on in
-put line 772.
+put line 761.
 (pdftex.def)             Requested size: 169.0519pt x 80.78523pt.
-<figures/X1/Flame_mammoth/Flame_heart_2.jpg, id=989, 709.65125pt x 476.78125pt>
+<figures/X1/Flame_mammoth/Flame_heart_2.jpg, id=986, 709.65125pt x 476.78125pt>
 
 File: figures/X1/Flame_mammoth/Flame_heart_2.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_heart_2.jpg  used on in
-put line 777.
+put line 766.
 (pdftex.def)             Requested size: 137.9979pt x 92.7137pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figures/X1/Flame_mammoth/Flame_mammoth.jpg, id=990, 563.85657pt x 779.91376pt>
+ [35 <./figures/X1/Flame_mammoth/Flame_armor_1.jpg> <./figures/X1/Flame_mammoth
+/Flame_armor_2.jpg> <./figures/X1/Flame_mammoth/Flame_tank.jpg>]
+<figures/X1/Flame_mammoth/Flame_mammoth.jpg, id=994, 563.85657pt x 779.91376pt>
 
 File: figures/X1/Flame_mammoth/Flame_mammoth.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_mammoth.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_mammoth.jpg  used on in
-put line 786.
+put line 775.
 (pdftex.def)             Requested size: 102.84918pt x 142.26378pt.
-<figures/X1/Flame_mammoth/MHXFlameMammoth.jpg, id=991, 351.3125pt x 363.3575pt>
+<figures/X1/Flame_mammoth/MHXFlameMammoth.jpg, id=995, 351.3125pt x 363.3575pt>
 
 File: figures/X1/Flame_mammoth/MHXFlameMammoth.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/MHXFlameMammoth.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/MHXFlameMammoth.jpg  used on 
-input line 787.
+input line 776.
 (pdftex.def)             Requested size: 137.54738pt x 142.26378pt.
-[36 <./figures/X1/Flame_mammoth/Flame_armor_1.jpg> <./figures/X1/Flame_mammoth/
-Flame_armor_2.jpg> <./figures/X1/Flame_mammoth/Flame_tank.jpg>]
-<figures/X1/Flame_mammoth/Mammoth_oil.jpg, id=1006, 376.40625pt x 228.855pt>
+<figures/X1/Flame_mammoth/Mammoth_oil.jpg, id=1003, 376.40625pt x 228.855pt>
 File: figures/X1/Flame_mammoth/Mammoth_oil.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_oil.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_oil.jpg  used on inpu
-t line 796.
+t line 786.
 (pdftex.def)             Requested size: 137.9979pt x 83.90327pt.
-<figures/X1/Flame_mammoth/Mammoth_fire.jpg, id=1007, 349.305pt x 220.825pt>
+<figures/X1/Flame_mammoth/Mammoth_fire.jpg, id=1004, 349.305pt x 220.825pt>
 File: figures/X1/Flame_mammoth/Mammoth_fire.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_fire.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_fire.jpg  used on inp
-ut line 801.
+ut line 791.
 (pdftex.def)             Requested size: 137.9979pt x 87.24007pt.
-<figures/X1/Flame_mammoth/Mammoth_oil_fire.jpg, id=1008, 476.78125pt x 248.93pt
+<figures/X1/Flame_mammoth/Mammoth_oil_fire.jpg, id=1005, 476.78125pt x 248.93pt
 >
 File: figures/X1/Flame_mammoth/Mammoth_oil_fire.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_oil_fire.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_oil_fire.jpg  used on
- input line 806.
+ input line 796.
 (pdftex.def)             Requested size: 172.5pt x 90.06293pt.
-<figures/X1/Flame_mammoth/Mammoth_trunk.jpg, id=1009, 268.00125pt x 251.94125pt
+<figures/X1/Flame_mammoth/Mammoth_trunk.jpg, id=1006, 268.00125pt x 251.94125pt
 >
 File: figures/X1/Flame_mammoth/Mammoth_trunk.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_trunk.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_trunk.jpg  used on in
-put line 811.
+put line 801.
 (pdftex.def)             Requested size: 103.50105pt x 97.29561pt.
-<figures/X1/Flame_mammoth/Mammoth_press_1.jpg, id=1010, 364.36125pt x 425.59pt>
+<figures/X1/Flame_mammoth/Mammoth_press_1.jpg, id=1007, 364.36125pt x 425.59pt>
 
 File: figures/X1/Flame_mammoth/Mammoth_press_1.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_press_1.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_press_1.jpg  used on 
-input line 817.
+input line 807.
 (pdftex.def)             Requested size: 103.50105pt x 120.89177pt.
-<figures/X1/Flame_mammoth/Mammoth_press_2.jpg, id=1011, 362.35374pt x 223.83624
+<figures/X1/Flame_mammoth/Mammoth_press_2.jpg, id=1008, 362.35374pt x 223.83624
 pt>
 File: figures/X1/Flame_mammoth/Mammoth_press_2.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_press_2.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_press_2.jpg  used on 
-input line 818.
+input line 808.
 (pdftex.def)             Requested size: 137.9979pt x 85.2465pt.
-<figures/X1/Flame_mammoth/Mammoth_cut.jpg, id=1012, 289.08pt x 248.93pt>
+<figures/X1/Flame_mammoth/Mammoth_cut.jpg, id=1009, 289.08pt x 248.93pt>
 File: figures/X1/Flame_mammoth/Mammoth_cut.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Mammoth_cut.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Mammoth_cut.jpg  used on inpu
-t line 823.
+t line 813.
 (pdftex.def)             Requested size: 103.50105pt x 89.12474pt.
- [37 <./figures/X1/Flame_mammoth/Flame_heart_1.jpg> <./figures/X1/Flame_mammoth
+ [36 <./figures/X1/Flame_mammoth/Flame_heart_1.jpg> <./figures/X1/Flame_mammoth
 /Flame_heart_2.jpg> <./figures/X1/Flame_mammoth/Flame_mammoth.jpg> <./figures/X
-1/Flame_mammoth/MHXFlameMammoth.jpg>] [38 <./figures/X1/Flame_mammoth/Mammoth_o
+1/Flame_mammoth/MHXFlameMammoth.jpg>] [37 <./figures/X1/Flame_mammoth/Mammoth_o
 il.jpg> <./figures/X1/Flame_mammoth/Mammoth_fire.jpg> <./figures/X1/Flame_mammo
 th/Mammoth_oil_fire.jpg> <./figures/X1/Flame_mammoth/Mammoth_trunk.jpg> <./figu
 res/X1/Flame_mammoth/Mammoth_press_1.jpg> <./figures/X1/Flame_mammoth/Mammoth_p
 ress_2.jpg> <./figures/X1/Flame_mammoth/Mammoth_cut.jpg>]
-<figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg, id=1028, 671.50874pt x 562.1
+<figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg, id=1025, 671.50874pt x 562.1
 pt>
 File: figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg Graphic file (type jpg)
 <use figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg>
 Package pdftex.def Info: figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg  used
- on input line 841.
+ on input line 828.
 (pdftex.def)             Requested size: 155.24895pt x 129.94928pt.
- [39 <./figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg>]
-<figures/X1/Storm_eagle/Storm_heart_1.jpg, id=1048, 801.99625pt x 600.2425pt>
+ [38 <./figures/X1/Flame_mammoth/Flame_mammoth_specs.jpg>]
+<figures/X1/Storm_eagle/Storm_heart_1.jpg, id=1045, 801.99625pt x 600.2425pt>
 File: figures/X1/Storm_eagle/Storm_heart_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_heart_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_heart_1.jpg  used on inpu
-t line 884.
+t line 871.
 (pdftex.def)             Requested size: 137.9979pt x 103.27632pt.
-<figures/X1/Storm_eagle/Storm_heart_2.jpg, id=1049, 801.99625pt x 601.24625pt>
+<figures/X1/Storm_eagle/Storm_heart_2.jpg, id=1046, 801.99625pt x 601.24625pt>
 File: figures/X1/Storm_eagle/Storm_heart_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_heart_2.jpg  used on inpu
-t line 889.
+t line 876.
 (pdftex.def)             Requested size: 137.9979pt x 103.44902pt.
-<figures/X1/Storm_eagle/Storm_tank_1.jpg, id=1052, 800.9925pt x 602.25pt>
+<figures/X1/Storm_eagle/Storm_tank_1.jpg, id=1049, 800.9925pt x 602.25pt>
 File: figures/X1/Storm_eagle/Storm_tank_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_tank_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_tank_1.jpg  used on input
- line 902.
+ line 889.
 (pdftex.def)             Requested size: 137.9979pt x 103.75038pt.
-<figures/X1/Storm_eagle/Storm_tank_2.jpg, id=1053, 801.99625pt x 599.23875pt>
+<figures/X1/Storm_eagle/Storm_tank_2.jpg, id=1050, 801.99625pt x 599.23875pt>
 File: figures/X1/Storm_eagle/Storm_tank_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_tank_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_tank_2.jpg  used on input
- line 907.
+ line 894.
 (pdftex.def)             Requested size: 137.9979pt x 103.10362pt.
-<figures/X1/Storm_eagle/Storm_armor_1.jpg, id=1054, 800.9925pt x 599.23875pt>
+<figures/X1/Storm_eagle/Storm_armor_1.jpg, id=1051, 800.9925pt x 599.23875pt>
 File: figures/X1/Storm_eagle/Storm_armor_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_armor_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_armor_1.jpg  used on inpu
-t line 920.
+t line 907.
 (pdftex.def)             Requested size: 137.9979pt x 103.23163pt.
-<figures/X1/Storm_eagle/Storm_armor_2.jpg, id=1055, 801.99625pt x 601.24625pt>
+<figures/X1/Storm_eagle/Storm_armor_2.jpg, id=1052, 801.99625pt x 601.24625pt>
 File: figures/X1/Storm_eagle/Storm_armor_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_armor_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_armor_2.jpg  used on inpu
-t line 925.
+t line 912.
 (pdftex.def)             Requested size: 137.9979pt x 103.44902pt.
- [40] [41 <./figures/X1/Storm_eagle/Storm_heart_1.jpg> <./figures/X1/Storm_eagl
+ [39] [40 <./figures/X1/Storm_eagle/Storm_heart_1.jpg> <./figures/X1/Storm_eagl
 e/Storm_heart_2.jpg> <./figures/X1/Storm_eagle/Storm_tank_1.jpg> <./figures/X1/
 Storm_eagle/Storm_tank_2.jpg>]
-<figures/X1/Storm_eagle/Storm_Eagle.jpg, id=1070, 240.9pt x 264.2673pt>
+<figures/X1/Storm_eagle/Storm_Eagle.jpg, id=1066, 240.9pt x 264.2673pt>
 File: figures/X1/Storm_eagle/Storm_Eagle.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_Eagle.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_Eagle.jpg  used on input 
-line 936.
+line 924.
 (pdftex.def)             Requested size: 103.7467pt x 113.81102pt.
-<figures/X1/Storm_eagle/MHXStormEagle.jpg, id=1071, 351.3125pt x 482.80376pt>
+<figures/X1/Storm_eagle/MHXStormEagle.jpg, id=1067, 351.3125pt x 482.80376pt>
 File: figures/X1/Storm_eagle/MHXStormEagle.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/MHXStormEagle.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/MHXStormEagle.jpg  used on inpu
-t line 937.
+t line 925.
 (pdftex.def)             Requested size: 82.8104pt x 113.81102pt.
- [42 <./figures/X1/Storm_eagle/Storm_armor_1.jpg> <./figures/X1/Storm_eagle/Sto
+ [41 <./figures/X1/Storm_eagle/Storm_armor_1.jpg> <./figures/X1/Storm_eagle/Sto
 rm_armor_2.jpg> <./figures/X1/Storm_eagle/Storm_Eagle.jpg> <./figures/X1/Storm_
 eagle/MHXStormEagle.jpg>]
-<figures/X1/Storm_eagle/Eagle_egg_1.jpg, id=1087, 352.31625pt x 388.45125pt>
+<figures/X1/Storm_eagle/Eagle_egg_1.jpg, id=1080, 352.31625pt x 388.45125pt>
 File: figures/X1/Storm_eagle/Eagle_egg_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Eagle_egg_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Eagle_egg_1.jpg  used on input 
-line 947.
+line 934.
 (pdftex.def)             Requested size: 77.41841pt x 85.35826pt.
-<figures/X1/Storm_eagle/Eagle_egg_2.jpg, id=1088, 408.52625pt x 367.3725pt>
+<figures/X1/Storm_eagle/Eagle_egg_2.jpg, id=1081, 408.52625pt x 367.3725pt>
 File: figures/X1/Storm_eagle/Eagle_egg_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Eagle_egg_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Eagle_egg_2.jpg  used on input 
-line 948.
+line 935.
 (pdftex.def)             Requested size: 94.91904pt x 85.35826pt.
-<figures/X1/Storm_eagle/Eagle_dive.jpg, id=1089, 485.815pt x 235.88126pt>
+<figures/X1/Storm_eagle/Eagle_dive.jpg, id=1082, 485.815pt x 235.88126pt>
 File: figures/X1/Storm_eagle/Eagle_dive.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Eagle_dive.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Eagle_dive.jpg  used on input l
-ine 953.
+ine 940.
 (pdftex.def)             Requested size: 175.80505pt x 85.35826pt.
-<figures/X1/Storm_eagle/Eagle_push.jpg, id=1090, 435.6275pt x 180.675pt>
+<figures/X1/Storm_eagle/Eagle_push.jpg, id=1084, 435.6275pt x 180.675pt>
 File: figures/X1/Storm_eagle/Eagle_push.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Eagle_push.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Eagle_push.jpg  used on input l
-ine 964.
+ine 953.
 (pdftex.def)             Requested size: 205.80849pt x 85.35826pt.
-<figures/X1/Storm_eagle/Eagle_tornado.jpg, id=1091, 451.6875pt x 181.67876pt>
+<figures/X1/Storm_eagle/Eagle_tornado.jpg, id=1085, 451.6875pt x 181.67876pt>
 File: figures/X1/Storm_eagle/Eagle_tornado.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Eagle_tornado.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Eagle_tornado.jpg  used on inpu
-t line 969.
+t line 958.
 (pdftex.def)             Requested size: 212.21733pt x 85.35826pt.
 
-[43 <./figures/X1/Storm_eagle/Eagle_egg_1.jpg> <./figures/X1/Storm_eagle/Eagle_
+[42 <./figures/X1/Storm_eagle/Eagle_egg_1.jpg> <./figures/X1/Storm_eagle/Eagle_
 egg_2.jpg> <./figures/X1/Storm_eagle/Eagle_dive.jpg>]
-<figures/X1/Storm_eagle/Storm_eagle_specs.png, id=1099, 633.36626pt x 562.1pt>
+<figures/X1/Storm_eagle/Storm_eagle_specs.png, id=1093, 633.36626pt x 562.1pt>
 File: figures/X1/Storm_eagle/Storm_eagle_specs.png Graphic file (type png)
 <use figures/X1/Storm_eagle/Storm_eagle_specs.png>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_eagle_specs.png  used on 
-input line 982.
+input line 972.
 (pdftex.def)             Requested size: 128.23663pt x 113.81102pt.
-<figures/X1/Storm_eagle/Storm_prev_1.jpg, id=1102, 758.835pt x 671.50874pt>
+<figures/X1/Storm_eagle/Storm_prev_1.jpg, id=1096, 758.835pt x 671.50874pt>
 File: figures/X1/Storm_eagle/Storm_prev_1.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_prev_1.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_prev_1.jpg  used on input
- line 1008.
+ line 998.
 (pdftex.def)             Requested size: 128.60655pt x 113.81102pt.
-<figures/X1/Storm_eagle/Storm_prev_2.jpg, id=1103, 762.85pt x 674.52pt>
+<figures/X1/Storm_eagle/Storm_prev_2.jpg, id=1097, 762.85pt x 674.52pt>
 File: figures/X1/Storm_eagle/Storm_prev_2.jpg Graphic file (type jpg)
 <use figures/X1/Storm_eagle/Storm_prev_2.jpg>
 Package pdftex.def Info: figures/X1/Storm_eagle/Storm_prev_2.jpg  used on input
- line 1013.
+ line 1003.
 (pdftex.def)             Requested size: 128.705pt x 113.81102pt.
- [44 <./figures/X1/Storm_eagle/Eagle_push.jpg> <./figures/X1/Storm_eagle/Eagle_
+ [43 <./figures/X1/Storm_eagle/Eagle_push.jpg> <./figures/X1/Storm_eagle/Eagle_
 tornado.jpg> <./figures/X1/Storm_eagle/Storm_eagle_specs.png>]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-025.
+015.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+(c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-<figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg, id=1114, 792.9625pt x 495.852
+<figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg, id=1108, 792.9625pt x 495.852
 5pt>
 File: figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg  used 
-on input line 1028.
+on input line 1018.
 (pdftex.def)             Requested size: 172.5pt x 107.86217pt.
- [45 <./figures/X1/Storm_eagle/Storm_prev_1.jpg> <./figures/X1/Storm_eagle/Stor
+ [44 <./figures/X1/Storm_eagle/Storm_prev_1.jpg> <./figures/X1/Storm_eagle/Stor
 m_prev_2.jpg>]
-<figures/X1/Boomer_kuwanger/Tower_heart.jpg, id=1134, 571.13374pt x 413.545pt>
+<figures/X1/Boomer_kuwanger/Tower_heart.jpg, id=1128, 571.13374pt x 413.545pt>
 File: figures/X1/Boomer_kuwanger/Tower_heart.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Tower_heart.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Tower_heart.jpg  used on in
-put line 1054.
+put line 1044.
 (pdftex.def)             Requested size: 137.9979pt x 99.92169pt.
-<figures/X1/Boomer_kuwanger/Boomer_kuwanger.jpg, id=1135, 609.27625pt x 836.123
+<figures/X1/Boomer_kuwanger/Boomer_kuwanger.jpg, id=1129, 609.27625pt x 836.123
 75pt>
 File: figures/X1/Boomer_kuwanger/Boomer_kuwanger.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Boomer_kuwanger.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Boomer_kuwanger.jpg  used o
-n input line 1061.
+n input line 1051.
 (pdftex.def)             Requested size: 103.65926pt x 142.26378pt.
-<figures/X1/Boomer_kuwanger/MHXBoomerKuwanger.jpg, id=1136, 351.3125pt x 467.74
+<figures/X1/Boomer_kuwanger/MHXBoomerKuwanger.jpg, id=1130, 351.3125pt x 467.74
 75pt>
 File: figures/X1/Boomer_kuwanger/MHXBoomerKuwanger.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/MHXBoomerKuwanger.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/MHXBoomerKuwanger.jpg  used
- on input line 1062.
+ on input line 1052.
 (pdftex.def)             Requested size: 106.85263pt x 142.26378pt.
- [46 <./figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg>]
-<figures/X1/Boomer_kuwanger/Boomer_dash.jpg, id=1157, 305.14pt x 206.7725pt>
+ [45 <./figures/X1/Boomer_kuwanger/Tower_spike_skip.jpg>]
+<figures/X1/Boomer_kuwanger/Boomer_dash.jpg, id=1151, 305.14pt x 206.7725pt>
 File: figures/X1/Boomer_kuwanger/Boomer_dash.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Boomer_dash.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Boomer_dash.jpg  used on in
-put line 1070.
+put line 1060.
 (pdftex.def)             Requested size: 125.9649pt x 85.35826pt.
-<figures/X1/Boomer_kuwanger/Boomer_throw.jpg, id=1158, 309.155pt x 291.0875pt>
+<figures/X1/Boomer_kuwanger/Boomer_throw.jpg, id=1152, 309.155pt x 291.0875pt>
 File: figures/X1/Boomer_kuwanger/Boomer_throw.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Boomer_throw.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Boomer_throw.jpg  used on i
-nput line 1075.
+nput line 1065.
 (pdftex.def)             Requested size: 90.65271pt x 85.35826pt.
-<figures/X1/Boomer_kuwanger/Boomer_lift_1.jpg, id=1159, 283.0575pt x 233.87375p
+<figures/X1/Boomer_kuwanger/Boomer_lift_1.jpg, id=1153, 283.0575pt x 233.87375p
 t>
 File: figures/X1/Boomer_kuwanger/Boomer_lift_1.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Boomer_lift_1.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Boomer_lift_1.jpg  used on 
-input line 1080.
+input line 1070.
 (pdftex.def)             Requested size: 103.30864pt x 85.35826pt.
-<figures/X1/Boomer_kuwanger/Boomer_lift_2.jpg, id=1160, 266.9975pt x 438.63875p
+<figures/X1/Boomer_kuwanger/Boomer_lift_2.jpg, id=1154, 266.9975pt x 438.63875p
 t>
 File: figures/X1/Boomer_kuwanger/Boomer_lift_2.jpg Graphic file (type jpg)
 <use figures/X1/Boomer_kuwanger/Boomer_lift_2.jpg>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Boomer_lift_2.jpg  used on 
-input line 1081.
+input line 1071.
 (pdftex.def)             Requested size: 51.95633pt x 85.35826pt.
- [47 <./figures/X1/Boomer_kuwanger/Tower_heart.jpg> <./figures/X1/Boomer_kuwang
+ [46 <./figures/X1/Boomer_kuwanger/Tower_heart.jpg> <./figures/X1/Boomer_kuwang
 er/Boomer_kuwanger.jpg> <./figures/X1/Boomer_kuwanger/MHXBoomerKuwanger.jpg>]
-<figures/X1/Boomer_kuwanger/Boomer_kuwanger_specs.png, id=1170, 634.37pt x 556.
+<figures/X1/Boomer_kuwanger/Boomer_kuwanger_specs.png, id=1164, 634.37pt x 556.
 0775pt>
 File: figures/X1/Boomer_kuwanger/Boomer_kuwanger_specs.png Graphic file (type p
 ng)
 <use figures/X1/Boomer_kuwanger/Boomer_kuwanger_specs.png>
 Package pdftex.def Info: figures/X1/Boomer_kuwanger/Boomer_kuwanger_specs.png  
-used on input line 1099.
+used on input line 1089.
 (pdftex.def)             Requested size: 155.24895pt x 136.0832pt.
-<figures/X1/Spark_mandrill/Mandrill_power.jpg, id=1174, 958.58125pt x 552.0625p
+<figures/X1/Spark_mandrill/Mandrill_power.jpg, id=1168, 958.58125pt x 552.0625p
 t>
 File: figures/X1/Spark_mandrill/Mandrill_power.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_power.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_power.jpg  used on 
-input line 1129.
+input line 1119.
 (pdftex.def)             Requested size: 148.21289pt x 85.35826pt.
-<figures/X1/Spark_mandrill/Mandrill_no_power.jpg, id=1175, 955.57pt x 583.17876
+<figures/X1/Spark_mandrill/Mandrill_no_power.jpg, id=1169, 955.57pt x 583.17876
 pt>
 File: figures/X1/Spark_mandrill/Mandrill_no_power.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_no_power.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_no_power.jpg  used 
-on input line 1134.
+on input line 1124.
 (pdftex.def)             Requested size: 139.85909pt x 85.35826pt.
- [48 <./figures/X1/Boomer_kuwanger/Boomer_dash.jpg> <./figures/X1/Boomer_kuwang
+ [47 <./figures/X1/Boomer_kuwanger/Boomer_dash.jpg> <./figures/X1/Boomer_kuwang
 er/Boomer_throw.jpg> <./figures/X1/Boomer_kuwanger/Boomer_lift_1.jpg> <./figure
-s/X1/Boomer_kuwanger/Boomer_lift_2.jpg>] [49 <./figures/X1/Boomer_kuwanger/Boom
+s/X1/Boomer_kuwanger/Boomer_lift_2.jpg>] [48 <./figures/X1/Boomer_kuwanger/Boom
 er_kuwanger_specs.png> <./figures/X1/Spark_mandrill/Mandrill_power.jpg> <./figu
 res/X1/Spark_mandrill/Mandrill_no_power.jpg>]
-<figures/X1/Spark_mandrill/Mandrill_tank.jpg, id=1202, 960.58875pt x 626.34pt>
+<figures/X1/Spark_mandrill/Mandrill_tank.jpg, id=1196, 960.58875pt x 626.34pt>
 File: figures/X1/Spark_mandrill/Mandrill_tank.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_tank.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_tank.jpg  used on i
-nput line 1162.
+nput line 1152.
 (pdftex.def)             Requested size: 130.9051pt x 85.35826pt.
- [50 <./figures/X1/Spark_mandrill/Mandrill_tank.jpg>]
-<figures/X1/Spark_mandrill/Mandrill_heart.jpg, id=1211, 458.71375pt x 713.66624
+ [49 <./figures/X1/Spark_mandrill/Mandrill_tank.jpg>]
+<figures/X1/Spark_mandrill/Mandrill_heart.jpg, id=1205, 458.71375pt x 713.66624
 pt>
 File: figures/X1/Spark_mandrill/Mandrill_heart.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_heart.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_heart.jpg  used on 
-input line 1172.
+input line 1162.
 (pdftex.def)             Requested size: 73.15071pt x 113.81102pt.
-<figures/X1/Spark_mandrill/SparkMandrill.jpg, id=1212, 752.8125pt x 618.05907pt
+<figures/X1/Spark_mandrill/SparkMandrill.jpg, id=1206, 752.8125pt x 618.05907pt
 >
 File: figures/X1/Spark_mandrill/SparkMandrill.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/SparkMandrill.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/SparkMandrill.jpg  used on i
-nput line 1179.
+nput line 1169.
 (pdftex.def)             Requested size: 173.28107pt x 142.26378pt.
-<figures/X1/Spark_mandrill/MHXSparkMandrill.png, id=1213, 640.64343pt x 784.430
+<figures/X1/Spark_mandrill/MHXSparkMandrill.png, id=1207, 640.64343pt x 784.430
 62pt>
 File: figures/X1/Spark_mandrill/MHXSparkMandrill.png Graphic file (type png)
 <use figures/X1/Spark_mandrill/MHXSparkMandrill.png>
 Package pdftex.def Info: figures/X1/Spark_mandrill/MHXSparkMandrill.png  used o
-n input line 1180.
+n input line 1170.
 (pdftex.def)             Requested size: 116.18085pt x 142.26378pt.
- [51 <./figures/X1/Spark_mandrill/Mandrill_heart.jpg> <./figures/X1/Spark_mandr
+ [50 <./figures/X1/Spark_mandrill/Mandrill_heart.jpg> <./figures/X1/Spark_mandr
 ill/SparkMandrill.jpg> <./figures/X1/Spark_mandrill/MHXSparkMandrill.png>]
-<figures/X1/Spark_mandrill/Mandrill_punch.jpg, id=1226, 403.5075pt x 292.09125p
+<figures/X1/Spark_mandrill/Mandrill_punch.jpg, id=1220, 403.5075pt x 292.09125p
 t>
 File: figures/X1/Spark_mandrill/Mandrill_punch.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_punch.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_punch.jpg  used on 
-input line 1194.
+input line 1184.
 (pdftex.def)             Requested size: 137.57246pt x 99.58464pt.
-<figures/X1/Spark_mandrill/Mandrill_spark.jpg, id=1227, 437.635pt x 282.05376pt
+<figures/X1/Spark_mandrill/Mandrill_spark.jpg, id=1221, 437.635pt x 282.05376pt
 >
 File: figures/X1/Spark_mandrill/Mandrill_spark.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_spark.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_spark.jpg  used on 
-input line 1199.
+input line 1189.
 (pdftex.def)             Requested size: 154.51677pt x 99.58464pt.
-<figures/X1/Spark_mandrill/Mandrill_hang.jpg, id=1228, 363.3575pt x 323.2075pt>
+<figures/X1/Spark_mandrill/Mandrill_hang.jpg, id=1222, 363.3575pt x 323.2075pt>
 
 File: figures/X1/Spark_mandrill/Mandrill_hang.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_hang.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_hang.jpg  used on i
-nput line 1204.
+nput line 1194.
 (pdftex.def)             Requested size: 127.9477pt x 113.81102pt.
-<figures/X1/Spark_mandrill/Mandrill_frozen.jpg, id=1229, 337.26pt x 303.1325pt>
+<figures/X1/Spark_mandrill/Mandrill_frozen.jpg, id=1223, 337.26pt x 303.1325pt>
 
 File: figures/X1/Spark_mandrill/Mandrill_frozen.jpg Graphic file (type jpg)
 <use figures/X1/Spark_mandrill/Mandrill_frozen.jpg>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Mandrill_frozen.jpg  used on
- input line 1209.
+ input line 1199.
 (pdftex.def)             Requested size: 110.79695pt x 99.58464pt.
- [52 <./figures/X1/Spark_mandrill/Mandrill_punch.jpg> <./figures/X1/Spark_mandr
+ [51 <./figures/X1/Spark_mandrill/Mandrill_punch.jpg> <./figures/X1/Spark_mandr
 ill/Mandrill_spark.jpg> <./figures/X1/Spark_mandrill/Mandrill_hang.jpg> <./figu
 res/X1/Spark_mandrill/Mandrill_frozen.jpg>]
-<figures/X1/Spark_mandrill/Spark_mandril_specs.png, id=1236, 634.37pt x 554.07p
+<figures/X1/Spark_mandrill/Spark_mandril_specs.png, id=1230, 634.37pt x 554.07p
 t>
 File: figures/X1/Spark_mandrill/Spark_mandril_specs.png Graphic file (type png)
 
 <use figures/X1/Spark_mandrill/Spark_mandril_specs.png>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Spark_mandril_specs.png  use
-d on input line 1221.
+d on input line 1211.
 (pdftex.def)             Requested size: 137.9979pt x 120.52615pt.
 File: figures/X1/Spark_mandrill/Spark_mandril_specs.png Graphic file (type png)
 
 <use figures/X1/Spark_mandrill/Spark_mandril_specs.png>
 Package pdftex.def Info: figures/X1/Spark_mandrill/Spark_mandril_specs.png  use
-d on input line 1229.
+d on input line 1219.
 (pdftex.def)             Requested size: 155.24895pt x 135.59192pt.
- [53 <./figures/X1/Spark_mandrill/Spark_mandril_specs.png>]
-<figures/X1/Sting_chameleon/Sting_no_water.jpg, id=1247, 959.585pt x 721.69624p
+ [52 <./figures/X1/Spark_mandrill/Spark_mandril_specs.png>]
+<figures/X1/Sting_chameleon/Sting_no_water.jpg, id=1241, 959.585pt x 721.69624p
 t>
 File: figures/X1/Sting_chameleon/Sting_no_water.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Sting_no_water.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Sting_no_water.jpg  used on
- input line 1256.
+ input line 1246.
 (pdftex.def)             Requested size: 137.9979pt x 103.77881pt.
-<figures/X1/Sting_chameleon/Sting_water.jpg, id=1248, 960.58875pt x 721.69624pt
+<figures/X1/Sting_chameleon/Sting_water.jpg, id=1242, 960.58875pt x 721.69624pt
 >
 File: figures/X1/Sting_chameleon/Sting_water.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Sting_water.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Sting_water.jpg  used on in
-put line 1261.
+put line 1251.
 (pdftex.def)             Requested size: 137.9979pt x 103.66869pt.
- [54 <./figures/X1/Sting_chameleon/Sting_no_water.jpg> <./figures/X1/Sting_cham
+ [53 <./figures/X1/Sting_chameleon/Sting_no_water.jpg> <./figures/X1/Sting_cham
 eleon/Sting_water.jpg>]
-<figures/X1/Sting_chameleon/Sting_armor_capsule.jpg, id=1272, 942.52126pt x 690
+<figures/X1/Sting_chameleon/Sting_armor_capsule.jpg, id=1265, 942.52126pt x 690
 .58pt>
 File: figures/X1/Sting_chameleon/Sting_armor_capsule.jpg Graphic file (type jpg
 )
 <use figures/X1/Sting_chameleon/Sting_armor_capsule.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Sting_armor_capsule.jpg  us
-ed on input line 1289.
+ed on input line 1279.
 (pdftex.def)             Requested size: 172.5pt x 126.38544pt.
-<figures/X1/Sting_chameleon/Sting_heart_1.jpg, id=1273, 956.57375pt x 721.69624
+<figures/X1/Sting_chameleon/Sting_heart_1.jpg, id=1266, 956.57375pt x 721.69624
 pt>
 File: figures/X1/Sting_chameleon/Sting_heart_1.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Sting_heart_1.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Sting_heart_1.jpg  used on 
-input line 1299.
+input line 1289.
 (pdftex.def)             Requested size: 131.99272pt x 99.58464pt.
-<figures/X1/Sting_chameleon/Sting_heart_2.jpg, id=1274, 962.59625pt x 661.47125
+<figures/X1/Sting_chameleon/Sting_heart_2.jpg, id=1267, 962.59625pt x 661.47125
 pt>
 File: figures/X1/Sting_chameleon/Sting_heart_2.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Sting_heart_2.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Sting_heart_2.jpg  used on 
-input line 1303.
+input line 1293.
 (pdftex.def)             Requested size: 144.91197pt x 99.58464pt.
- [55 <./figures/X1/Sting_chameleon/Sting_armor_capsule.jpg>]
-<figures/X1/Sting_chameleon/Stingchameleon.jpg, id=1284, 752.8125pt x 628.59843
+ [54 <./figures/X1/Sting_chameleon/Sting_armor_capsule.jpg>]
+<figures/X1/Sting_chameleon/Stingchameleon.jpg, id=1278, 752.8125pt x 628.59843
 pt>
 File: figures/X1/Sting_chameleon/Stingchameleon.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Stingchameleon.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Stingchameleon.jpg  used on
- input line 1311.
+ input line 1301.
 (pdftex.def)             Requested size: 169.0519pt x 141.15997pt.
-<figures/X1/Sting_chameleon/MHXStingChameleon.jpg, id=1285, 1003.75pt x 553.066
+<figures/X1/Sting_chameleon/MHXStingChameleon.jpg, id=1279, 1003.75pt x 553.066
 25pt>
 File: figures/X1/Sting_chameleon/MHXStingChameleon.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/MHXStingChameleon.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/MHXStingChameleon.jpg  used
- on input line 1312.
+ on input line 1302.
 (pdftex.def)             Requested size: 169.0519pt x 93.14235pt.
-<figures/X1/Sting_chameleon/Chameleon_tongue_1.jpg, id=1291, 497.86pt x 443.657
+<figures/X1/Sting_chameleon/Chameleon_tongue_1.jpg, id=1285, 497.86pt x 443.657
 5pt>
 File: figures/X1/Sting_chameleon/Chameleon_tongue_1.jpg Graphic file (type jpg)
 
 <use figures/X1/Sting_chameleon/Chameleon_tongue_1.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Chameleon_tongue_1.jpg  use
-d on input line 1320.
+d on input line 1310.
 (pdftex.def)             Requested size: 137.9979pt x 122.97763pt.
-<figures/X1/Sting_chameleon/Chameleon_tongue_2.jpg, id=1292, 521.95pt x 281.05p
+<figures/X1/Sting_chameleon/Chameleon_tongue_2.jpg, id=1286, 521.95pt x 281.05p
 t>
 File: figures/X1/Sting_chameleon/Chameleon_tongue_2.jpg Graphic file (type jpg)
 
 <use figures/X1/Sting_chameleon/Chameleon_tongue_2.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Chameleon_tongue_2.jpg  use
-d on input line 1321.
+d on input line 1311.
 (pdftex.def)             Requested size: 172.5pt x 92.884pt.
-<figures/X1/Sting_chameleon/Chameleon_sting.jpg, id=1293, 343.2825pt x 394.4737
+<figures/X1/Sting_chameleon/Chameleon_sting.jpg, id=1287, 343.2825pt x 394.4737
 5pt>
 File: figures/X1/Sting_chameleon/Chameleon_sting.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Chameleon_sting.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Chameleon_sting.jpg  used o
-n input line 1326.
+n input line 1316.
 (pdftex.def)             Requested size: 99.04128pt x 113.81102pt.
-<figures/X1/Sting_chameleon/Chameleon_spike_fall.jpg, id=1294, 456.70625pt x 63
+<figures/X1/Sting_chameleon/Chameleon_spike_fall.jpg, id=1288, 456.70625pt x 63
 1.35875pt>
 File: figures/X1/Sting_chameleon/Chameleon_spike_fall.jpg Graphic file (type jp
 g)
 <use figures/X1/Sting_chameleon/Chameleon_spike_fall.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Chameleon_spike_fall.jpg  u
-sed on input line 1331.
+sed on input line 1321.
 (pdftex.def)             Requested size: 82.32204pt x 113.81102pt.
-<figures/X1/Sting_chameleon/Chameleon_blend.jpg, id=1295, 270.00874pt x 364.361
+<figures/X1/Sting_chameleon/Chameleon_blend.jpg, id=1289, 270.00874pt x 364.361
 25pt>
 File: figures/X1/Sting_chameleon/Chameleon_blend.jpg Graphic file (type jpg)
 <use figures/X1/Sting_chameleon/Chameleon_blend.jpg>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Chameleon_blend.jpg  used o
-n input line 1336.
+n input line 1326.
 (pdftex.def)             Requested size: 84.33632pt x 113.81102pt.
- [56 <./figures/X1/Sting_chameleon/Sting_heart_1.jpg> <./figures/X1/Sting_chame
+ [55 <./figures/X1/Sting_chameleon/Sting_heart_1.jpg> <./figures/X1/Sting_chame
 leon/Sting_heart_2.jpg> <./figures/X1/Sting_chameleon/Stingchameleon.jpg> <./fi
-gures/X1/Sting_chameleon/MHXStingChameleon.jpg>] [57 <./figures/X1/Sting_chamel
+gures/X1/Sting_chameleon/MHXStingChameleon.jpg>] [56 <./figures/X1/Sting_chamel
 eon/Chameleon_tongue_1.jpg> <./figures/X1/Sting_chameleon/Chameleon_tongue_2.jp
 g> <./figures/X1/Sting_chameleon/Chameleon_sting.jpg> <./figures/X1/Sting_chame
 leon/Chameleon_spike_fall.jpg> <./figures/X1/Sting_chameleon/Chameleon_blend.jp
 g>]
-<figures/X1/Sting_chameleon/Sting_chameleon_specs.png, id=1312, 638.385pt x 552
+<figures/X1/Sting_chameleon/Sting_chameleon_specs.png, id=1306, 638.385pt x 552
 .0625pt>
 File: figures/X1/Sting_chameleon/Sting_chameleon_specs.png Graphic file (type p
 ng)
 <use figures/X1/Sting_chameleon/Sting_chameleon_specs.png>
 Package pdftex.def Info: figures/X1/Sting_chameleon/Sting_chameleon_specs.png  
-used on input line 1353.
+used on input line 1343.
 (pdftex.def)             Requested size: 155.24895pt x 134.24985pt.
- [58 <./figures/X1/Sting_chameleon/Sting_chameleon_specs.png>]
-[59]
-<figures/X1/Sigma_stages/Vile.jpg, id=1339, 676.5275pt x 850.17625pt>
+ [57 <./figures/X1/Sting_chameleon/Sting_chameleon_specs.png>] [58]
+<figures/X1/Sigma_stages/Vile.jpg, id=1333, 676.5275pt x 850.17625pt>
 File: figures/X1/Sigma_stages/Vile.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Vile.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Vile.jpg  used on input line 1
-406.
+396.
 (pdftex.def)             Requested size: 113.20163pt x 142.26378pt.
-<figures/X1/Sigma_stages/MhxVile.png, id=1340, 730.73pt x 1155.31625pt>
+<figures/X1/Sigma_stages/MhxVile.png, id=1334, 730.73pt x 1155.31625pt>
 File: figures/X1/Sigma_stages/MhxVile.png Graphic file (type png)
 <use figures/X1/Sigma_stages/MhxVile.png>
 Package pdftex.def Info: figures/X1/Sigma_stages/MhxVile.png  used on input lin
-e 1407.
+e 1397.
 (pdftex.def)             Requested size: 120.7521pt x 190.90102pt.
-<figures/X1/Sigma_stages/VileRideArmor.jpg, id=1347, 738.76pt x 808.01875pt>
+<figures/X1/Sigma_stages/VileRideArmor.jpg, id=1341, 738.76pt x 808.01875pt>
 File: figures/X1/Sigma_stages/VileRideArmor.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/VileRideArmor.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/VileRideArmor.jpg  used on inp
-ut line 1413.
+ut line 1403.
 (pdftex.def)             Requested size: 104.04567pt x 113.81102pt.
- [60 <./figures/X1/Sigma_stages/Vile.jpg> <./figures/X1/Sigma_stages/MhxVile.pn
-g>]
-<figures/X1/Sigma_stages/Vile_cannon_1.jpg, id=1361, 312.16624pt x 205.76875pt>
+
+[59 <./figures/X1/Sigma_stages/Vile.jpg> <./figures/X1/Sigma_stages/MhxVile.png
+>]
+<figures/X1/Sigma_stages/Vile_cannon_1.jpg, id=1354, 312.16624pt x 205.76875pt>
 
 File: figures/X1/Sigma_stages/Vile_cannon_1.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Vile_cannon_1.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Vile_cannon_1.jpg  used on inp
-ut line 1425.
+ut line 1415.
 (pdftex.def)             Requested size: 129.49417pt x 85.35826pt.
-<figures/X1/Sigma_stages/Vile_bomb_1.jpg, id=1362, 281.05pt x 293.095pt>
+<figures/X1/Sigma_stages/Vile_bomb_1.jpg, id=1355, 281.05pt x 293.095pt>
 File: figures/X1/Sigma_stages/Vile_bomb_1.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Vile_bomb_1.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Vile_bomb_1.jpg  used on input
- line 1430.
+ line 1420.
 (pdftex.def)             Requested size: 81.84976pt x 85.35826pt.
-<figures/X1/Sigma_stages/Vile_bomb_2.jpg, id=1363, 301.125pt x 493.845pt>
+<figures/X1/Sigma_stages/Vile_bomb_2.jpg, id=1356, 301.125pt x 493.845pt>
 File: figures/X1/Sigma_stages/Vile_bomb_2.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Vile_bomb_2.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Vile_bomb_2.jpg  used on input
- line 1431.
+ line 1421.
 (pdftex.def)             Requested size: 52.0452pt x 85.35826pt.
-<figures/X1/Sigma_stages/Vile_dash.jpg, id=1364, 353.32pt x 265.99374pt>
+<figures/X1/Sigma_stages/Vile_dash.jpg, id=1357, 353.32pt x 265.99374pt>
 File: figures/X1/Sigma_stages/Vile_dash.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Vile_dash.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Vile_dash.jpg  used on input l
-ine 1436.
+ine 1426.
 (pdftex.def)             Requested size: 132.27364pt x 99.58464pt.
-<figures/X1/Sigma_stages/Vile_leap.jpg, id=1365, 355.3275pt x 284.06125pt>
+<figures/X1/Sigma_stages/Vile_leap.jpg, id=1358, 355.3275pt x 284.06125pt>
 File: figures/X1/Sigma_stages/Vile_leap.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Vile_leap.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Vile_leap.jpg  used on input l
-ine 1441.
+ine 1431.
 (pdftex.def)             Requested size: 124.56708pt x 99.58464pt.
- [61 <./figures/X1/Sigma_stages/VileRideArmor.jpg>]
-<figures/X1/Sigma_stages/Bospider.jpg, id=1377, 531.48563pt x 624.08156pt>
+ [60 <./figures/X1/Sigma_stages/VileRideArmor.jpg>]
+<figures/X1/Sigma_stages/Bospider.jpg, id=1371, 531.48563pt x 624.08156pt>
 File: figures/X1/Sigma_stages/Bospider.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Bospider.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Bospider.jpg  used on input li
-ne 1468.
+ne 1458.
 (pdftex.def)             Requested size: 121.1524pt x 142.26378pt.
- [62 <./figures/X1/Sigma_stages/Vile_cannon_1.jpg> <./figures/X1/Sigma_stages/V
+ [61 <./figures/X1/Sigma_stages/Vile_cannon_1.jpg> <./figures/X1/Sigma_stages/V
 ile_bomb_1.jpg> <./figures/X1/Sigma_stages/Vile_bomb_2.jpg> <./figures/X1/Sigma
 _stages/Vile_dash.jpg> <./figures/X1/Sigma_stages/Vile_leap.jpg>]
-<figures/X1/Sigma_stages/Bospider_core.jpg, id=1388, 409.53pt x 438.63875pt>
+<figures/X1/Sigma_stages/Bospider_core.jpg, id=1382, 409.53pt x 438.63875pt>
 File: figures/X1/Sigma_stages/Bospider_core.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Bospider_core.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Bospider_core.jpg  used on inp
-ut line 1479.
+ut line 1469.
 (pdftex.def)             Requested size: 106.25656pt x 113.81102pt.
-<figures/X1/Sigma_stages/Bospider_summon.jpg, id=1389, 409.53pt x 327.2225pt>
+<figures/X1/Sigma_stages/Bospider_summon.jpg, id=1383, 409.53pt x 327.2225pt>
 File: figures/X1/Sigma_stages/Bospider_summon.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Bospider_summon.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Bospider_summon.jpg  used on i
-nput line 1484.
+nput line 1474.
 (pdftex.def)             Requested size: 142.43779pt x 113.81102pt.
- [63 <./figures/X1/Sigma_stages/Bospider.jpg>] [64 <./figures/X1/Sigma_stages/B
+ [62 <./figures/X1/Sigma_stages/Bospider.jpg>] [63 <./figures/X1/Sigma_stages/B
 ospider_core.jpg> <./figures/X1/Sigma_stages/Bospider_summon.jpg>]
-<figures/X1/Sigma_stages/RangdaBangda.jpg, id=1416, 752.8125pt x 673.76718pt>
+<figures/X1/Sigma_stages/RangdaBangda.jpg, id=1410, 752.8125pt x 673.76718pt>
 File: figures/X1/Sigma_stages/RangdaBangda.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/RangdaBangda.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/RangdaBangda.jpg  used on inpu
-t line 1525.
+t line 1515.
 (pdftex.def)             Requested size: 158.9568pt x 142.26378pt.
-<figures/X1/Sigma_stages/Rangdabangdasprite.png, id=1417, 224.84pt x 209.78375p
+<figures/X1/Sigma_stages/Rangdabangdasprite.png, id=1411, 224.84pt x 209.78375p
 t>
 File: figures/X1/Sigma_stages/Rangdabangdasprite.png Graphic file (type png)
 <use figures/X1/Sigma_stages/Rangdabangdasprite.png>
 Package pdftex.def Info: figures/X1/Sigma_stages/Rangdabangdasprite.png  used o
-n input line 1526.
+n input line 1516.
 (pdftex.def)             Requested size: 152.47404pt x 142.26378pt.
-<figures/X1/Sigma_stages/Rangda_green.jpg, id=1423, 244.915pt x 313.17pt>
+<figures/X1/Sigma_stages/Rangda_green.jpg, id=1417, 244.915pt x 313.17pt>
 File: figures/X1/Sigma_stages/Rangda_green.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Rangda_green.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Rangda_green.jpg  used on inpu
-t line 1537.
+t line 1527.
 (pdftex.def)             Requested size: 89.00642pt x 113.81102pt.
-<figures/X1/Sigma_stages/Rangda_blue.jpg, id=1424, 242.9075pt x 313.17pt>
+<figures/X1/Sigma_stages/Rangda_blue.jpg, id=1418, 242.9075pt x 313.17pt>
 File: figures/X1/Sigma_stages/Rangda_blue.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Rangda_blue.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Rangda_blue.jpg  used on input
- line 1542.
+ line 1532.
 (pdftex.def)             Requested size: 88.27687pt x 113.81102pt.
-<figures/X1/Sigma_stages/Rangda_red_1.jpg, id=1425, 244.915pt x 314.17375pt>
+<figures/X1/Sigma_stages/Rangda_red_1.jpg, id=1419, 244.915pt x 314.17375pt>
 File: figures/X1/Sigma_stages/Rangda_red_1.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Rangda_red_1.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Rangda_red_1.jpg  used on inpu
-t line 1547.
+t line 1537.
 (pdftex.def)             Requested size: 88.71867pt x 113.81102pt.
-<figures/X1/Sigma_stages/Rangda_red_2.jpg, id=1426, 367.3725pt x 353.32pt>
+<figures/X1/Sigma_stages/Rangda_red_2.jpg, id=1420, 367.3725pt x 353.32pt>
 File: figures/X1/Sigma_stages/Rangda_red_2.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Rangda_red_2.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Rangda_red_2.jpg  used on inpu
-t line 1552.
+t line 1542.
 (pdftex.def)             Requested size: 118.33517pt x 113.81102pt.
-<figures/X1/Sigma_stages/Rangda_nose.jpg, id=1427, 423.5825pt x 679.53876pt>
+<figures/X1/Sigma_stages/Rangda_nose.jpg, id=1421, 423.5825pt x 679.53876pt>
 File: figures/X1/Sigma_stages/Rangda_nose.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Rangda_nose.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Rangda_nose.jpg  used on input
- line 1558.
+ line 1548.
 (pdftex.def)             Requested size: 70.94162pt x 113.81102pt.
 
-Underfull \hbox (badness 2951) in paragraph at lines 1559--1559
+Underfull \hbox (badness 2951) in paragraph at lines 1549--1549
 []\T1/cmr/m/n/9 (e) |Nose bounc-ing be-
  []
 
-[65 <./figures/X1/Sigma_stages/RangdaBangda.jpg> <./figures/X1/Sigma_stages/Ran
-gdabangdasprite.png>] [66 <./figures/X1/Sigma_stages/Rangda_green.jpg> <./figur
+[64 <./figures/X1/Sigma_stages/RangdaBangda.jpg> <./figures/X1/Sigma_stages/Ran
+gdabangdasprite.png>] [65 <./figures/X1/Sigma_stages/Rangda_green.jpg> <./figur
 es/X1/Sigma_stages/Rangda_blue.jpg> <./figures/X1/Sigma_stages/Rangda_red_1.jpg
 > <./figures/X1/Sigma_stages/Rangda_red_2.jpg> <./figures/X1/Sigma_stages/Rangd
 a_nose.jpg>]
-<figures/X1/Sigma_stages/Drex.jpg, id=1461, 752.8125pt x 642.90187pt>
+<figures/X1/Sigma_stages/Drex.jpg, id=1453, 752.8125pt x 642.90187pt>
 File: figures/X1/Sigma_stages/Drex.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Drex.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Drex.jpg  used on input line 1
-605.
+595.
 (pdftex.def)             Requested size: 166.58417pt x 142.26378pt.
-<figures/X1/Sigma_stages/Drex_crush.jpg, id=1465, 399.4925pt x 308.15125pt>
+<figures/X1/Sigma_stages/Drex_crush.jpg, id=1457, 399.4925pt x 308.15125pt>
 File: figures/X1/Sigma_stages/Drex_crush.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Drex_crush.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Drex_crush.jpg  used on input 
-line 1615.
+line 1605.
 (pdftex.def)             Requested size: 110.65627pt x 85.35826pt.
-<figures/X1/Sigma_stages/Drex_press.jpg, id=1466, 514.92375pt x 298.11375pt>
+<figures/X1/Sigma_stages/Drex_press.jpg, id=1458, 514.92375pt x 298.11375pt>
 File: figures/X1/Sigma_stages/Drex_press.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Drex_press.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Drex_press.jpg  used on input 
-line 1620.
+line 1610.
 (pdftex.def)             Requested size: 147.43835pt x 85.35826pt.
-<figures/X1/Sigma_stages/Drex_trip.jpg, id=1467, 413.545pt x 265.99374pt>
+<figures/X1/Sigma_stages/Drex_trip.jpg, id=1459, 413.545pt x 265.99374pt>
 File: figures/X1/Sigma_stages/Drex_trip.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Drex_trip.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Drex_trip.jpg  used on input l
-ine 1625.
+ine 1615.
 (pdftex.def)             Requested size: 132.70308pt x 85.35826pt.
-<figures/X1/Sigma_stages/Drex_laser_1.jpg, id=1468, 352.31625pt x 417.56pt>
+<figures/X1/Sigma_stages/Drex_laser_1.jpg, id=1460, 352.31625pt x 417.56pt>
 File: figures/X1/Sigma_stages/Drex_laser_1.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Drex_laser_1.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Drex_laser_1.jpg  used on inpu
-t line 1634.
+t line 1624.
 (pdftex.def)             Requested size: 84.02003pt x 99.58464pt.
-<figures/X1/Sigma_stages/Drex_laser_2.jpg, id=1469, 727.71875pt x 405.515pt>
+<figures/X1/Sigma_stages/Drex_laser_2.jpg, id=1461, 727.71875pt x 405.515pt>
 File: figures/X1/Sigma_stages/Drex_laser_2.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Drex_laser_2.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Drex_laser_2.jpg  used on inpu
-t line 1635.
+t line 1625.
 (pdftex.def)             Requested size: 178.70905pt x 99.58464pt.
- [67] [68 <./figures/X1/Sigma_stages/Drex.jpg> <./figures/X1/Sigma_stages/Drex_
+ [66] [67 <./figures/X1/Sigma_stages/Drex.jpg> <./figures/X1/Sigma_stages/Drex_
 crush.jpg> <./figures/X1/Sigma_stages/Drex_press.jpg> <./figures/X1/Sigma_stage
-s/Drex_trip.jpg>] [69 <./figures/X1/Sigma_stages/Drex_laser_1.jpg> <./figures/X
+s/Drex_trip.jpg>] [68 <./figures/X1/Sigma_stages/Drex_laser_1.jpg> <./figures/X
 1/Sigma_stages/Drex_laser_2.jpg>]
-<figures/X1/Sigma_stages/Velguarder.jpg, id=1490, 723.45282pt x 614.295pt>
+<figures/X1/Sigma_stages/Velguarder.jpg, id=1484, 723.45282pt x 614.295pt>
 File: figures/X1/Sigma_stages/Velguarder.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Velguarder.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Velguarder.jpg  used on input 
-line 1667.
+line 1657.
 (pdftex.def)             Requested size: 167.5387pt x 142.26378pt.
-<figures/X1/Sigma_stages/Sigma_logo.png, id=1491, 1006.69057pt x 855.02534pt>
+<figures/X1/Sigma_stages/Sigma_logo.png, id=1485, 1006.69057pt x 855.02534pt>
 File: figures/X1/Sigma_stages/Sigma_logo.png Graphic file (type png)
 <use figures/X1/Sigma_stages/Sigma_logo.png>
 Package pdftex.def Info: figures/X1/Sigma_stages/Sigma_logo.png  used on input 
-line 1668.
+line 1658.
 (pdftex.def)             Requested size: 167.49461pt x 142.26378pt.
-<figures/X1/Sigma_stages/Velguarder_leap_1.jpg, id=1494, 916.42375pt x 369.38pt
+<figures/X1/Sigma_stages/Velguarder_leap_1.jpg, id=1488, 916.42375pt x 369.38pt
 >
 File: figures/X1/Sigma_stages/Velguarder_leap_1.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Velguarder_leap_1.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Velguarder_leap_1.jpg  used on
- input line 1679.
+ input line 1669.
 (pdftex.def)             Requested size: 176.47154pt x 71.13188pt.
 
-Overfull \hbox (7.41965pt too wide) in paragraph at lines 1679--1680
+Overfull \hbox (7.41965pt too wide) in paragraph at lines 1669--1670
  [][] 
  []
 
-<figures/X1/Sigma_stages/Velguarder_plasma.jpg, id=1495, 439.6425pt x 285.065pt
+<figures/X1/Sigma_stages/Velguarder_plasma.jpg, id=1489, 439.6425pt x 285.065pt
 >
 File: figures/X1/Sigma_stages/Velguarder_plasma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Velguarder_plasma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Velguarder_plasma.jpg  used on
- input line 1684.
+ input line 1674.
 (pdftex.def)             Requested size: 109.7024pt x 71.13188pt.
-<figures/X1/Sigma_stages/Velguarder_fire.jpg, id=1496, 597.23125pt x 252.945pt>
+<figures/X1/Sigma_stages/Velguarder_fire.jpg, id=1490, 597.23125pt x 252.945pt>
 
 File: figures/X1/Sigma_stages/Velguarder_fire.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Velguarder_fire.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Velguarder_fire.jpg  used on i
-nput line 1695.
+nput line 1685.
 (pdftex.def)             Requested size: 201.54317pt x 85.35826pt.
-[70 <./figures/X1/Sigma_stages/Velguarder.jpg> <./figures/X1/Sigma_stages/Sigma
+[69 <./figures/X1/Sigma_stages/Velguarder.jpg> <./figures/X1/Sigma_stages/Sigma
 _logo.png> <./figures/X1/Sigma_stages/Velguarder_leap_1.jpg> <./figures/X1/Sigm
 a_stages/Velguarder_plasma.jpg>]
-<figures/X1/Sigma_stages/Sigma.jpg, id=1505, 671.50874pt x 906.38625pt>
+<figures/X1/Sigma_stages/Sigma.jpg, id=1499, 671.50874pt x 906.38625pt>
 File: figures/X1/Sigma_stages/Sigma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Sigma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Sigma.jpg  used on input line 
-1718.
+1708.
 (pdftex.def)             Requested size: 105.39432pt x 142.26378pt.
-<figures/X1/Sigma_stages/MHXSigma.jpg, id=1506, 240.9pt x 280.6485pt>
+<figures/X1/Sigma_stages/MHXSigma.jpg, id=1500, 240.9pt x 280.6485pt>
 File: figures/X1/Sigma_stages/MHXSigma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/MHXSigma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/MHXSigma.jpg  used on input li
-ne 1719.
+ne 1709.
 (pdftex.def)             Requested size: 122.11484pt x 142.26378pt.
- [71 <./figures/X1/Sigma_stages/Velguarder_fire.jpg>]
-<figures/X1/Sigma_stages/Sigma_leap_3.jpg, id=1528, 228.855pt x 244.915pt>
+ [70 <./figures/X1/Sigma_stages/Velguarder_fire.jpg>]
+<figures/X1/Sigma_stages/Sigma_leap_3.jpg, id=1522, 228.855pt x 244.915pt>
 File: figures/X1/Sigma_stages/Sigma_leap_3.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Sigma_leap_3.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Sigma_leap_3.jpg  used on inpu
-t line 1733.
+t line 1723.
 (pdftex.def)             Requested size: 103.50105pt x 110.76381pt.
-<figures/X1/Sigma_stages/Sigma_leap.jpg, id=1529, 591.20876pt x 299.1175pt>
+<figures/X1/Sigma_stages/Sigma_leap.jpg, id=1523, 591.20876pt x 299.1175pt>
 File: figures/X1/Sigma_stages/Sigma_leap.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Sigma_leap.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Sigma_leap.jpg  used on input 
-line 1735.
+line 1725.
 (pdftex.def)             Requested size: 220.79979pt x 111.71236pt.
-<figures/X1/Sigma_stages/Sigma_plasma.jpg, id=1530, 317.185pt x 212.795pt>
+<figures/X1/Sigma_stages/Sigma_plasma.jpg, id=1524, 317.185pt x 212.795pt>
 File: figures/X1/Sigma_stages/Sigma_plasma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Sigma_plasma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Sigma_plasma.jpg  used on inpu
-t line 1740.
+t line 1730.
 (pdftex.def)             Requested size: 148.34747pt x 99.5266pt.
-<figures/X1/Sigma_stages/Sigma_sword.jpg, id=1531, 354.32375pt x 255.95625pt>
+<figures/X1/Sigma_stages/Sigma_sword.jpg, id=1525, 354.32375pt x 255.95625pt>
 File: figures/X1/Sigma_stages/Sigma_sword.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/Sigma_sword.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/Sigma_sword.jpg  used on input
- line 1745.
+ line 1735.
 (pdftex.def)             Requested size: 137.9979pt x 99.68974pt.
- [72 <./figures/X1/Sigma_stages/Sigma.jpg> <./figures/X1/Sigma_stages/MHXSigma.
+ [71 <./figures/X1/Sigma_stages/Sigma.jpg> <./figures/X1/Sigma_stages/MHXSigma.
 jpg>]
-<figures/X1/Sigma_stages/WolfSigma.jpg, id=1546, 513.92pt x 502.87875pt>
+<figures/X1/Sigma_stages/WolfSigma.jpg, id=1539, 513.92pt x 502.87875pt>
 File: figures/X1/Sigma_stages/WolfSigma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma.jpg  used on input l
-ine 1773.
+ine 1763.
 (pdftex.def)             Requested size: 145.38655pt x 142.26378pt.
- [73 <./figures/X1/Sigma_stages/Sigma_leap_3.jpg> <./figures/X1/Sigma_stages/Si
+ [72 <./figures/X1/Sigma_stages/Sigma_leap_3.jpg> <./figures/X1/Sigma_stages/Si
 gma_leap.jpg> <./figures/X1/Sigma_stages/Sigma_plasma.jpg> <./figures/X1/Sigma_
 stages/Sigma_sword.jpg>]
-<figures/X1/Sigma_stages/WolfSigma_thunder.jpg, id=1555, 510.90875pt x 486.8187
+<figures/X1/Sigma_stages/WolfSigma_thunder.jpg, id=1549, 510.90875pt x 486.8187
 6pt>
 File: figures/X1/Sigma_stages/WolfSigma_thunder.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_thunder.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_thunder.jpg  used on
- input line 1783.
+ input line 1773.
 (pdftex.def)             Requested size: 190.61208pt x 181.62062pt.
-<figures/X1/Sigma_stages/WolfSigma_thunder_2.jpg, id=1556, 249.93375pt x 482.80
+<figures/X1/Sigma_stages/WolfSigma_thunder_2.jpg, id=1550, 249.93375pt x 482.80
 376pt>
 File: figures/X1/Sigma_stages/WolfSigma_thunder_2.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_thunder_2.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_thunder_2.jpg  used 
-on input line 1784.
+on input line 1774.
 (pdftex.def)             Requested size: 93.84282pt x 181.27934pt.
-<figures/X1/Sigma_stages/WolfSigma_fire.jpg, id=1557, 360.34625pt x 642.4pt>
+<figures/X1/Sigma_stages/WolfSigma_fire.jpg, id=1551, 360.34625pt x 642.4pt>
 File: figures/X1/Sigma_stages/WolfSigma_fire.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_fire.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_fire.jpg  used on in
-put line 1789.
+put line 1779.
 (pdftex.def)             Requested size: 82.8019pt x 147.61166pt.
-<figures/X1/Sigma_stages/WolfSigma_plasma.jpg, id=1558, 403.5075pt x 578.16pt>
+<figures/X1/Sigma_stages/WolfSigma_plasma.jpg, id=1552, 403.5075pt x 578.16pt>
 File: figures/X1/Sigma_stages/WolfSigma_plasma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_plasma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_plasma.jpg  used on 
-input line 1794.
+input line 1784.
 (pdftex.def)             Requested size: 103.50105pt x 148.2978pt.
-<figures/X1/Sigma_stages/WolfSigma_claw.jpg, id=1559, 421.575pt x 612.2875pt>
+<figures/X1/Sigma_stages/WolfSigma_claw.jpg, id=1553, 421.575pt x 612.2875pt>
 File: figures/X1/Sigma_stages/WolfSigma_claw.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_claw.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_claw.jpg  used on in
-put line 1799.
+put line 1789.
 (pdftex.def)             Requested size: 103.50105pt x 150.31538pt.
-<figures/X1/Sigma_stages/WolfSigma_hitbox.jpg, id=1560, 356.33125pt x 350.30875
+<figures/X1/Sigma_stages/WolfSigma_hitbox.jpg, id=1554, 356.33125pt x 350.30875
 pt>
 File: figures/X1/Sigma_stages/WolfSigma_hitbox.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_hitbox.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_hitbox.jpg  used on 
-input line 1809.
+input line 1799.
 (pdftex.def)             Requested size: 137.9979pt x 135.66306pt.
- [74 <./figures/X1/Sigma_stages/WolfSigma.jpg>] [75 <./figures/X1/Sigma_stages/
+ [73 <./figures/X1/Sigma_stages/WolfSigma.jpg>] [74 <./figures/X1/Sigma_stages/
 WolfSigma_thunder.jpg> <./figures/X1/Sigma_stages/WolfSigma_thunder_2.jpg> <./f
 igures/X1/Sigma_stages/WolfSigma_fire.jpg> <./figures/X1/Sigma_stages/WolfSigma
 _plasma.jpg> <./figures/X1/Sigma_stages/WolfSigma_claw.jpg>]
-<figures/X1/Sigma_stages/WolfSigma_claw_2.jpg, id=1573, 483.8075pt x 333.245pt>
+<figures/X1/Sigma_stages/WolfSigma_claw_2.jpg, id=1567, 483.8075pt x 333.245pt>
 
 File: figures/X1/Sigma_stages/WolfSigma_claw_2.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/WolfSigma_claw_2.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/WolfSigma_claw_2.jpg  used on 
-input line 1817.
+input line 1807.
 (pdftex.def)             Requested size: 172.5pt x 118.81891pt.
- [76 <./figures/X1/Sigma_stages/WolfSigma_hitbox.jpg> <./figures/X1/Sigma_stage
-s/WolfSigma_claw_2.jpg>] [77]
-<figures/X1/Miscs/Flying_hadoken.jpg, id=1590, 467.7475pt x 649.42625pt>
+ [75 <./figures/X1/Sigma_stages/WolfSigma_hitbox.jpg> <./figures/X1/Sigma_stage
+s/WolfSigma_claw_2.jpg>] [76]
+<figures/X1/Miscs/Flying_hadoken.jpg, id=1583, 467.7475pt x 649.42625pt>
 File: figures/X1/Miscs/Flying_hadoken.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Flying_hadoken.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Flying_hadoken.jpg  used on input lin
-e 1871.
+e 1861.
 (pdftex.def)             Requested size: 137.9979pt x 191.59889pt.
- [78]
-<figures/X1/Miscs/Intro_softlock.jpg, id=1597, 667.49374pt x 524.96124pt>
+ [77]
+<figures/X1/Miscs/Intro_softlock.jpg, id=1590, 667.49374pt x 524.96124pt>
 File: figures/X1/Miscs/Intro_softlock.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Intro_softlock.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Intro_softlock.jpg  used on input lin
-e 1883.
+e 1873.
 (pdftex.def)             Requested size: 172.5pt x 135.66164pt.
-<figures/X1/Miscs/Tower_glitched_heart.jpg, id=1598, 690.58pt x 380.42125pt>
+<figures/X1/Miscs/Tower_glitched_heart.jpg, id=1591, 690.58pt x 380.42125pt>
 File: figures/X1/Miscs/Tower_glitched_heart.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Tower_glitched_heart.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Tower_glitched_heart.jpg  used on inp
-ut line 1890.
+ut line 1880.
 (pdftex.def)             Requested size: 172.5pt x 95.0238pt.
- [79 <./figures/X1/Miscs/Flying_hadoken.jpg>]
-<figures/X1/Miscs/Wall_clipping.jpg, id=1604, 672.5125pt x 454.69875pt>
+ [78 <./figures/X1/Miscs/Flying_hadoken.jpg>]
+<figures/X1/Miscs/Wall_clipping.jpg, id=1598, 672.5125pt x 454.69875pt>
 File: figures/X1/Miscs/Wall_clipping.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Wall_clipping.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Wall_clipping.jpg  used on input line
- 1897.
+ 1887.
 (pdftex.def)             Requested size: 172.5pt x 116.63005pt.
- [80 <./figures/X1/Miscs/Intro_softlock.jpg> <./figures/X1/Miscs/Tower_glitched
+ [79 <./figures/X1/Miscs/Intro_softlock.jpg> <./figures/X1/Miscs/Tower_glitched
 _heart.jpg>]
-<figures/X1/Miscs/Factory_glitch_heart.jpg, id=1611, 679.53876pt x 463.7325pt>
+<figures/X1/Miscs/Factory_glitch_heart.jpg, id=1605, 679.53876pt x 463.7325pt>
 File: figures/X1/Miscs/Factory_glitch_heart.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Factory_glitch_heart.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Factory_glitch_heart.jpg  used on inp
-ut line 1903.
+ut line 1893.
 (pdftex.def)             Requested size: 172.5pt x 117.71597pt.
-<figures/X1/Miscs/Charged_hadoken_glitch.jpg, id=1612, 962.59625pt x 343.2825pt
+<figures/X1/Miscs/Charged_hadoken_glitch.jpg, id=1606, 962.59625pt x 343.2825pt
 >
 File: figures/X1/Miscs/Charged_hadoken_glitch.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Charged_hadoken_glitch.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Charged_hadoken_glitch.jpg  used on i
-nput line 1910.
+nput line 1900.
 (pdftex.def)             Requested size: 172.5pt x 61.5158pt.
- [81 <./figures/X1/Miscs/Wall_clipping.jpg> <./figures/X1/Miscs/Factory_glitch_
+ [80 <./figures/X1/Miscs/Wall_clipping.jpg> <./figures/X1/Miscs/Factory_glitch_
 heart.jpg>]
-<figures/X1/Miscs/ending_legs.jpg, id=1619, 365.365pt x 456.70625pt>
+<figures/X1/Miscs/ending_legs.jpg, id=1613, 365.365pt x 456.70625pt>
 File: figures/X1/Miscs/ending_legs.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/ending_legs.jpg>
 Package pdftex.def Info: figures/X1/Miscs/ending_legs.jpg  used on input line 1
-916.
+906.
 (pdftex.def)             Requested size: 172.5pt x 215.62758pt.
- [82 <./figures/X1/Miscs/Charged_hadoken_glitch.jpg> <./figures/X1/Miscs/ending
+ [81 <./figures/X1/Miscs/Charged_hadoken_glitch.jpg> <./figures/X1/Miscs/ending
 _legs.jpg>]
-<figures/X1/Miscs/Dillo_skip_1.jpg, id=1628, 574.145pt x 520.94624pt>
+<figures/X1/Miscs/Dillo_skip_1.jpg, id=1622, 574.145pt x 520.94624pt>
 File: figures/X1/Miscs/Dillo_skip_1.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Dillo_skip_1.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Dillo_skip_1.jpg  used on input line 
-1930.
+1920.
 (pdftex.def)             Requested size: 155.24895pt x 140.86403pt.
-<figures/X1/Miscs/Dillo_skip_2.jpg, id=1629, 574.145pt x 520.94624pt>
+<figures/X1/Miscs/Dillo_skip_2.jpg, id=1623, 574.145pt x 520.94624pt>
 File: figures/X1/Miscs/Dillo_skip_2.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Dillo_skip_2.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Dillo_skip_2.jpg  used on input line 
-1931.
+1921.
 (pdftex.def)             Requested size: 155.24895pt x 140.86403pt.
- [83]
-<figures/X1/Miscs/Dillo_glitch.jpg, id=1635, 798.985pt x 364.36125pt>
+ [82]
+<figures/X1/Miscs/Dillo_glitch.jpg, id=1629, 798.985pt x 364.36125pt>
 File: figures/X1/Miscs/Dillo_glitch.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Dillo_glitch.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Dillo_glitch.jpg  used on input line 
-1939.
+1929.
 (pdftex.def)             Requested size: 172.5pt x 78.66415pt.
-<figures/X1/Miscs/Farming_spot.jpg, id=1636, 609.27625pt x 519.9425pt>
+<figures/X1/Miscs/Farming_spot.jpg, id=1630, 609.27625pt x 519.9425pt>
 File: figures/X1/Miscs/Farming_spot.jpg Graphic file (type jpg)
 <use figures/X1/Miscs/Farming_spot.jpg>
 Package pdftex.def Info: figures/X1/Miscs/Farming_spot.jpg  used on input line 
-1947.
+1937.
 (pdftex.def)             Requested size: 172.5pt x 147.2093pt.
- [84 <./figures/X1/Miscs/Dillo_skip_1.jpg> <./figures/X1/Miscs/Dillo_skip_2.jpg
-> <./figures/X1/Miscs/Dillo_glitch.jpg>]) [85 <./figures/X1/Miscs/Farming_spot.
+ [83 <./figures/X1/Miscs/Dillo_skip_1.jpg> <./figures/X1/Miscs/Dillo_skip_2.jpg
+> <./figures/X1/Miscs/Dillo_glitch.jpg>]) [84 <./figures/X1/Miscs/Farming_spot.
 jpg>]
 Chapter 2.
-[86
+[85
 
 ]
 Chapter 3.
-[87
+[86
 
-] [88
+] [87
 
 ]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
 nput line 110.
 
-(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
+(c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 110.
 
-[89
+[88
 
-] (./src/character_X.tex [90]
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
+(./src/character_X.tex [89]
 Chapter 4.
-<figures/Characters/Char_MMX.png, id=1676, 1003.75pt x 991.705pt>
+<figures/Characters/Char_MMX.png, id=1669, 1003.75pt x 991.705pt>
 File: figures/Characters/Char_MMX.png Graphic file (type png)
 <use figures/Characters/Char_MMX.png>
 Package pdftex.def Info: figures/Characters/Char_MMX.png  used on input line 5.
 
 (pdftex.def)             Requested size: 207.0021pt x 204.51141pt.
-[91
+[90
 
- <./figures/Characters/Char_MMX.png>] [92]
-<figures/Characters/Char_X_build.jpg, id=1698, 1284.8pt x 722.7pt>
+ <./figures/Characters/Char_MMX.png>] [91]
+<figures/Characters/Char_X_build.jpg, id=1692, 1284.8pt x 722.7pt>
 File: figures/Characters/Char_X_build.jpg Graphic file (type jpg)
 <use figures/Characters/Char_X_build.jpg>
 Package pdftex.def Info: figures/Characters/Char_X_build.jpg  used on input lin
 e 56.
 (pdftex.def)             Requested size: 241.49895pt x 135.83673pt.
- [93] [94 <./figures/Characters/Char_X_build.jpg>] [95]
-<figures/X1/Sigma_scar.jpg, id=1733, 1284.8pt x 722.7pt>
+ [92] [93 <./figures/Characters/Char_X_build.jpg>] [94]
+<figures/X1/Sigma_scar.jpg, id=1727, 1284.8pt x 722.7pt>
 File: figures/X1/Sigma_scar.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_scar.jpg>
 Package pdftex.def Info: figures/X1/Sigma_scar.jpg  used on input line 77.
 (pdftex.def)             Requested size: 172.5pt x 97.03096pt.
- [96 <./figures/X1/Sigma_scar.jpg>])
-(./src/character_Zero.tex [97]
+ [95 <./figures/X1/Sigma_scar.jpg>])
+(./src/character_Zero.tex [96]
 Chapter 5.
-<figures/Characters/Char_Z.png, id=1747, 1003.75pt x 1442.38875pt>
+<figures/Characters/Char_Z.png, id=1741, 1003.75pt x 1442.38875pt>
 File: figures/Characters/Char_Z.png Graphic file (type png)
 <use figures/Characters/Char_Z.png>
 Package pdftex.def Info: figures/Characters/Char_Z.png  used on input line 7.
 (pdftex.def)             Requested size: 137.9979pt x 198.30156pt.
-[98
+[97
 
  <./figures/Characters/Char_Z.png>]) (./src/character_Sigma_and_Vile.tex
-[99] [100]
+[98] [99]
 Chapter 6.
 File: figures/X1/Sigma_stages/MHXSigma.jpg Graphic file (type jpg)
 <use figures/X1/Sigma_stages/MHXSigma.jpg>
 Package pdftex.def Info: figures/X1/Sigma_stages/MHXSigma.jpg  used on input li
 ne 5.
 (pdftex.def)             Requested size: 137.9979pt x 160.7721pt.
-[101
+[100
 
 ]
-<figures/X2/Hunter_stages/Sigma_Virus.png, id=1777, 321.2pt x 321.2pt>
+<figures/X2/Hunter_stages/Sigma_Virus.png, id=1771, 321.2pt x 321.2pt>
 File: figures/X2/Hunter_stages/Sigma_Virus.png Graphic file (type png)
 <use figures/X2/Hunter_stages/Sigma_Virus.png>
 Package pdftex.def Info: figures/X2/Hunter_stages/Sigma_Virus.png  used on inpu
 t line 21.
 (pdftex.def)             Requested size: 137.9979pt x 138.00058pt.
- [102] [103 <./figures/X2/Hunter_stages/Sigma_Virus.png>]
+ [101] [102 <./figures/X2/Hunter_stages/Sigma_Virus.png>]
 Chapter 7.
 File: figures/X1/Sigma_stages/MhxVile.png Graphic file (type png)
 <use figures/X1/Sigma_stages/MhxVile.png>
 Package pdftex.def Info: figures/X1/Sigma_stages/MhxVile.png  used on input lin
 e 29.
 (pdftex.def)             Requested size: 103.50105pt x 163.62944pt.
-[104
+[103
 
-] [105]) (./src/character_others.tex [106]
+] [104]) (./src/character_others.tex [105]
 Chapter 8.
-<figures/Characters/Char_Cain_MHX.jpg, id=1824, 1284.8pt x 722.7pt>
+<figures/Characters/Char_Cain_MHX.jpg, id=1818, 1284.8pt x 722.7pt>
 File: figures/Characters/Char_Cain_MHX.jpg Graphic file (type jpg)
 <use figures/Characters/Char_Cain_MHX.jpg>
 Package pdftex.def Info: figures/Characters/Char_Cain_MHX.jpg  used on input li
 ne 10.
 (pdftex.def)             Requested size: 172.5pt x 97.03096pt.
-[107
+[106
 
  <./figures/Characters/Char_Cain_MHX.jpg>]
-<figures/Characters/Char_Serges.png, id=1838, 1003.75pt x 979.66pt>
+<figures/Characters/Char_Serges.png, id=1832, 1003.75pt x 979.66pt>
 File: figures/Characters/Char_Serges.png Graphic file (type png)
 <use figures/Characters/Char_Serges.png>
 Package pdftex.def Info: figures/Characters/Char_Serges.png  used on input line
@@ -2187,204 +2175,204 @@ Package pdftex.def Info: figures/Characters/Char_Serges.png  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[108] [109 <./figures/Characters/Char_Serges.png>]) [110]
+[107] [108 <./figures/Characters/Char_Serges.png>]) [109]
 Appendix A.
-[111
+[110
 
 ]
 Appendix B.
 (./src/enemies.tex
-<figures/X1/Enemies/Anglerge.jpg, id=1883, 752.8125pt x 584.1825pt>
+<figures/X1/Enemies/Anglerge.jpg, id=1877, 752.8125pt x 584.1825pt>
 File: figures/X1/Enemies/Anglerge.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/Anglerge.jpg>
 Package pdftex.def Info: figures/X1/Enemies/Anglerge.jpg  used on input line 17
 .
 (pdftex.def)             Requested size: 120.7521pt x 93.70287pt.
- [112
+ [111
 
  <./figures/X1/Enemies/Anglerge.jpg>]
-<figures/X1/Enemies/BeeBlader.jpg, id=1892, 752.8125pt x 486.31688pt>
+<figures/X1/Enemies/BeeBlader.jpg, id=1886, 752.8125pt x 486.31688pt>
 File: figures/X1/Enemies/BeeBlader.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/BeeBlader.jpg>
 Package pdftex.def Info: figures/X1/Enemies/BeeBlader.jpg  used on input line 2
 5.
 (pdftex.def)             Requested size: 137.9979pt x 89.14352pt.
-<figures/X1/Enemies/BeeBlader_Dive.png, id=1893, 1003.75pt x 732.7375pt>
+<figures/X1/Enemies/BeeBlader_Dive.png, id=1887, 1003.75pt x 732.7375pt>
 File: figures/X1/Enemies/BeeBlader_Dive.png Graphic file (type png)
 <use figures/X1/Enemies/BeeBlader_Dive.png>
 Package pdftex.def Info: figures/X1/Enemies/BeeBlader_Dive.png  used on input l
 ine 26.
 (pdftex.def)             Requested size: 137.9979pt x 100.73773pt.
-<figures/X2/Enemies/ChopRegister.png, id=1894, 697.60625pt x 840.13875pt>
+<figures/X2/Enemies/ChopRegister.png, id=1888, 697.60625pt x 840.13875pt>
 File: figures/X2/Enemies/ChopRegister.png Graphic file (type png)
 <use figures/X2/Enemies/ChopRegister.png>
 Package pdftex.def Info: figures/X2/Enemies/ChopRegister.png  used on input lin
 e 34.
 (pdftex.def)             Requested size: 113.85063pt x 137.10422pt.
-<figures/X2/Enemies/ChopRegister_Dive.png, id=1895, 1204.5pt x 1284.8pt>
+<figures/X2/Enemies/ChopRegister_Dive.png, id=1889, 1204.5pt x 1284.8pt>
 File: figures/X2/Enemies/ChopRegister_Dive.png Graphic file (type png)
 <use figures/X2/Enemies/ChopRegister_Dive.png>
 Package pdftex.def Info: figures/X2/Enemies/ChopRegister_Dive.png  used on inpu
 t line 35.
 (pdftex.def)             Requested size: 113.85063pt x 121.42992pt.
- [113 <./figures/X1/Enemies/BeeBlader.jpg> <./figures/X1/Enemies/BeeBlader_Dive
+ [112 <./figures/X1/Enemies/BeeBlader.jpg> <./figures/X1/Enemies/BeeBlader_Dive
 .png> <./figures/X2/Enemies/ChopRegister.png> <./figures/X2/Enemies/ChopRegiste
 r_Dive.png>]
-<figures/X1/Enemies/Cruiziller.jpg, id=1905, 752.8125pt x 351.56343pt>
+<figures/X1/Enemies/Cruiziller.jpg, id=1899, 752.8125pt x 351.56343pt>
 File: figures/X1/Enemies/Cruiziller.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/Cruiziller.jpg>
 Package pdftex.def Info: figures/X1/Enemies/Cruiziller.jpg  used on input line 
 43.
 (pdftex.def)             Requested size: 189.75105pt x 88.61482pt.
-<figures/X2/Enemies/MagnaQuartz.png, id=1906, 607.26875pt x 842.14626pt>
+<figures/X2/Enemies/MagnaQuartz.png, id=1900, 607.26875pt x 842.14626pt>
 File: figures/X2/Enemies/MagnaQuartz.png Graphic file (type png)
 <use figures/X2/Enemies/MagnaQuartz.png>
 Package pdftex.def Info: figures/X2/Enemies/MagnaQuartz.png  used on input line
  53.
 (pdftex.def)             Requested size: 103.50105pt x 143.52277pt.
-<figures/X2/Enemies/MagnaQuartz_Dive.png, id=1907, 1003.75pt x 1520.68124pt>
+<figures/X2/Enemies/MagnaQuartz_Dive.png, id=1901, 1003.75pt x 1520.68124pt>
 File: figures/X2/Enemies/MagnaQuartz_Dive.png Graphic file (type png)
 <use figures/X2/Enemies/MagnaQuartz_Dive.png>
 Package pdftex.def Info: figures/X2/Enemies/MagnaQuartz_Dive.png  used on input
  line 54.
 (pdftex.def)             Requested size: 86.25pt x 130.66002pt.
-<figures/X1/Enemies/MoleBorer.jpg, id=1908, 508.90125pt x 628.59843pt>
+<figures/X1/Enemies/MoleBorer.jpg, id=1902, 508.90125pt x 628.59843pt>
 File: figures/X1/Enemies/MoleBorer.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/MoleBorer.jpg>
 Package pdftex.def Info: figures/X1/Enemies/MoleBorer.jpg  used on input line 6
 2.
 (pdftex.def)             Requested size: 103.50105pt x 127.8372pt.
-<figures/X1/Enemies/MoleBorer_Dive.png, id=1909, 1003.75pt x 1191.45125pt>
+<figures/X1/Enemies/MoleBorer_Dive.png, id=1903, 1003.75pt x 1191.45125pt>
 File: figures/X1/Enemies/MoleBorer_Dive.png Graphic file (type png)
 <use figures/X1/Enemies/MoleBorer_Dive.png>
 Package pdftex.def Info: figures/X1/Enemies/MoleBorer_Dive.png  used on input l
 ine 63.
 (pdftex.def)             Requested size: 103.50105pt x 122.84265pt.
 
-[114 <./figures/X1/Enemies/Cruiziller.jpg>] [115 <./figures/X2/Enemies/MagnaQua
+[113 <./figures/X1/Enemies/Cruiziller.jpg>] [114 <./figures/X2/Enemies/MagnaQua
 rtz.png> <./figures/X2/Enemies/MagnaQuartz_Dive.png> <./figures/X1/Enemies/Mole
 Borer.jpg> <./figures/X1/Enemies/MoleBorer_Dive.png>]
-<figures/X2/Enemies/OldRobot.png, id=1928, 561.09625pt x 839.135pt>
+<figures/X2/Enemies/OldRobot.png, id=1922, 561.09625pt x 839.135pt>
 File: figures/X2/Enemies/OldRobot.png Graphic file (type png)
 <use figures/X2/Enemies/OldRobot.png>
 Package pdftex.def Info: figures/X2/Enemies/OldRobot.png  used on input line 72
 .
 (pdftex.def)             Requested size: 101.43216pt x 151.69078pt.
-<figures/X2/Enemies/OldRobot_Dive.png, id=1929, 1003.75pt x 1664.2175pt>
+<figures/X2/Enemies/OldRobot_Dive.png, id=1923, 1003.75pt x 1664.2175pt>
 File: figures/X2/Enemies/OldRobot_Dive.png Graphic file (type png)
 <use figures/X2/Enemies/OldRobot_Dive.png>
 Package pdftex.def Info: figures/X2/Enemies/OldRobot_Dive.png  used on input li
 ne 73.
 (pdftex.def)             Requested size: 101.43216pt x 168.15828pt.
-<figures/X2/Enemies/PararoidS38.png, id=1930, 735.74875pt x 833.1125pt>
+<figures/X2/Enemies/PararoidS38.png, id=1924, 735.74875pt x 833.1125pt>
 File: figures/X2/Enemies/PararoidS38.png Graphic file (type png)
 <use figures/X2/Enemies/PararoidS38.png>
 Package pdftex.def Info: figures/X2/Enemies/PararoidS38.png  used on input line
  76.
 (pdftex.def)             Requested size: 68.99895pt x 78.12952pt.
-<figures/X2/Enemies/RaiderKiller.png, id=1933, 868.24374pt x 1030.85126pt>
+<figures/X2/Enemies/RaiderKiller.png, id=1927, 868.24374pt x 1030.85126pt>
 File: figures/X2/Enemies/RaiderKiller.png Graphic file (type png)
 <use figures/X2/Enemies/RaiderKiller.png>
 Package pdftex.def Info: figures/X2/Enemies/RaiderKiller.png  used on input lin
 e 94.
 (pdftex.def)             Requested size: 103.50105pt x 122.87888pt.
-<figures/X2/Enemies/RaiderKiller_Dive.png, id=1934, 1003.75pt x 1115.16624pt>
+<figures/X2/Enemies/RaiderKiller_Dive.png, id=1928, 1003.75pt x 1115.16624pt>
 File: figures/X2/Enemies/RaiderKiller_Dive.png Graphic file (type png)
 <use figures/X2/Enemies/RaiderKiller_Dive.png>
 Package pdftex.def Info: figures/X2/Enemies/RaiderKiller_Dive.png  used on inpu
 t line 95.
 (pdftex.def)             Requested size: 103.50105pt x 114.9774pt.
- [116 <./figures/X2/Enemies/OldRobot.png> <./figures/X2/Enemies/OldRobot_Dive.p
+ [115 <./figures/X2/Enemies/OldRobot.png> <./figures/X2/Enemies/OldRobot_Dive.p
 ng> <./figures/X2/Enemies/PararoidS38.png>]
-<figures/X1/Enemies/RT-55J.jpg, id=1944, 523.20468pt x 768.62157pt>
+<figures/X1/Enemies/RT-55J.jpg, id=1938, 523.20468pt x 768.62157pt>
 File: figures/X1/Enemies/RT-55J.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/RT-55J.jpg>
 Package pdftex.def Info: figures/X1/Enemies/RT-55J.jpg  used on input line 103.
 
 (pdftex.def)             Requested size: 103.50105pt x 152.04445pt.
-<figures/X1/Enemies/RT55J_Dive.png, id=1945, 1003.75pt x 821.0675pt>
+<figures/X1/Enemies/RT55J_Dive.png, id=1939, 1003.75pt x 821.0675pt>
 File: figures/X1/Enemies/RT55J_Dive.png Graphic file (type png)
 <use figures/X1/Enemies/RT55J_Dive.png>
 Package pdftex.def Info: figures/X1/Enemies/RT55J_Dive.png  used on input line 
 104.
 (pdftex.def)             Requested size: 172.5pt x 141.09557pt.
- [117 <./figures/X2/Enemies/RaiderKiller.png> <./figures/X2/Enemies/RaiderKille
+ [116 <./figures/X2/Enemies/RaiderKiller.png> <./figures/X2/Enemies/RaiderKille
 r_Dive.png> <./figures/X1/Enemies/RT-55J.jpg> <./figures/X1/Enemies/RT55J_Dive.
 png>]
-<figures/X2/Enemies/SeaCanthller.png, id=1958, 1003.75pt x 690.58pt>
+<figures/X2/Enemies/SeaCanthller.png, id=1952, 1003.75pt x 690.58pt>
 File: figures/X2/Enemies/SeaCanthller.png Graphic file (type png)
 <use figures/X2/Enemies/SeaCanthller.png>
 Package pdftex.def Info: figures/X2/Enemies/SeaCanthller.png  used on input lin
 e 112.
 (pdftex.def)             Requested size: 137.9979pt x 94.94186pt.
-<figures/X1/Enemies/ThunderSlimer.jpg, id=1959, 615.80063pt x 625.58719pt>
+<figures/X1/Enemies/ThunderSlimer.jpg, id=1953, 615.80063pt x 625.58719pt>
 File: figures/X1/Enemies/ThunderSlimer.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/ThunderSlimer.jpg>
 Package pdftex.def Info: figures/X1/Enemies/ThunderSlimer.jpg  used on input li
 ne 123.
 (pdftex.def)             Requested size: 103.50105pt x 105.14566pt.
- [118 <./figures/X2/Enemies/SeaCanthller.png> <./figures/X1/Enemies/ThunderSlim
+ [117 <./figures/X2/Enemies/SeaCanthller.png> <./figures/X1/Enemies/ThunderSlim
 er.jpg>]
-<figures/X1/Enemies/Utuboros.jpg, id=1968, 499.11469pt x 627.09282pt>
+<figures/X1/Enemies/Utuboros.jpg, id=1962, 499.11469pt x 627.09282pt>
 File: figures/X1/Enemies/Utuboros.jpg Graphic file (type jpg)
 <use figures/X1/Enemies/Utuboros.jpg>
 Package pdftex.def Info: figures/X1/Enemies/Utuboros.jpg  used on input line 13
 1.
 (pdftex.def)             Requested size: 137.9979pt x 173.37444pt.
-<figures/X2/Enemies/sprite_aclanda.png, id=1969, 67.25125pt x 60.225pt>
+<figures/X2/Enemies/sprite_aclanda.png, id=1963, 67.25125pt x 60.225pt>
 File: figures/X2/Enemies/sprite_aclanda.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_aclanda.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_aclanda.png  used on input l
 ine 142.
 (pdftex.def)             Requested size: 33.62553pt x 30.11261pt.
-<figures/X1/Enemies/sprite_amenhopper.png, id=1970, 24.69225pt x 13.2495pt>
+<figures/X1/Enemies/sprite_amenhopper.png, id=1964, 24.69225pt x 13.2495pt>
 File: figures/X1/Enemies/sprite_amenhopper.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_amenhopper.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_amenhopper.png  used on inpu
 t line 145.
 (pdftex.def)             Requested size: 24.69217pt x 13.24945pt.
-<figures/X1/Enemies/sprite_armor_soldier.png, id=1971, 6.9861pt x 10.1178pt>
+<figures/X1/Enemies/sprite_armor_soldier.png, id=1965, 6.9861pt x 10.1178pt>
 File: figures/X1/Enemies/sprite_armor_soldier.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_armor_soldier.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_armor_soldier.png  used on i
 nput line 151.
 (pdftex.def)             Requested size: 13.86212pt x 20.07507pt.
- [119 <./figures/X1/Enemies/Utuboros.jpg> <./figures/X2/Enemies/sprite_aclanda.
+ [118 <./figures/X1/Enemies/Utuboros.jpg> <./figures/X2/Enemies/sprite_aclanda.
 png> <./figures/X1/Enemies/sprite_amenhopper.png>]
-<figures/X1/Enemies/sprite_axemax.png, id=1981, 44.5665pt x 30.1125pt>
+<figures/X1/Enemies/sprite_axemax.png, id=1974, 44.5665pt x 30.1125pt>
 File: figures/X1/Enemies/sprite_axemax.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_axemax.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_axemax.png  used on input li
 ne 156.
 (pdftex.def)             Requested size: 30.11261pt x 20.34709pt.
-<figures/X1/Enemies/sprite_balldevoux.png, id=1982, 29.10875pt x 53.19875pt>
+<figures/X1/Enemies/sprite_balldevoux.png, id=1975, 29.10875pt x 53.19875pt>
 File: figures/X1/Enemies/sprite_balldevoux.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_balldevoux.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_balldevoux.png  used on inpu
 t line 159.
 (pdftex.def)             Requested size: 10.98459pt x 20.07507pt.
-<figures/X2/Enemies/sprite_barwayings.png, id=1983, 36.135pt x 97.36375pt>
+<figures/X2/Enemies/sprite_barwayings.png, id=1976, 36.135pt x 97.36375pt>
 File: figures/X2/Enemies/sprite_barwayings.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_barwayings.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_barwayings.png  used on inpu
 t line 163.
 (pdftex.def)             Requested size: 11.17581pt x 30.11261pt.
-<figures/X2/Enemies/sprite_BariteLastar.png, id=1984, 26.0975pt x 43.16125pt>
+<figures/X2/Enemies/sprite_BariteLastar.png, id=1977, 26.0975pt x 43.16125pt>
 File: figures/X2/Enemies/sprite_BariteLastar.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_BariteLastar.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_BariteLastar.png  used on in
 put line 167.
 (pdftex.def)             Requested size: 18.20798pt x 30.11261pt.
-<figures/X2/Enemies/sprite_BarrierAttacker.png, id=1985, 28.105pt x 38.1425pt>
+<figures/X2/Enemies/sprite_BarrierAttacker.png, id=1978, 28.105pt x 38.1425pt>
 File: figures/X2/Enemies/sprite_BarrierAttacker.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_BarrierAttacker.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_BarrierAttacker.png  used on
  input line 170.
 (pdftex.def)             Requested size: 22.18896pt x 30.11261pt.
- [120 <./figures/X1/Enemies/sprite_armor_soldier.png> <./figures/X1/Enemies/spr
+ [119 <./figures/X1/Enemies/sprite_armor_soldier.png> <./figures/X1/Enemies/spr
 ite_axemax.png> <./figures/X1/Enemies/sprite_balldevoux.png> <./figures/X2/Enem
 ies/sprite_barwayings.png> <./figures/X2/Enemies/sprite_BariteLastar.png>]
-<figures/X1/Enemies/sprite_battonbone.png, id=1999, 24.69225pt x 13.85175pt>
+<figures/X1/Enemies/sprite_battonbone.png, id=1992, 24.69225pt x 13.85175pt>
 File: figures/X1/Enemies/sprite_battonbone.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_battonbone.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_battonbone.png  used on inpu
@@ -2395,35 +2383,35 @@ File: figures/X1/Enemies/sprite_battonbone.png Graphic file (type png)
 Package pdftex.def Info: figures/X1/Enemies/sprite_battonbone.png  used on inpu
 t line 176.
 (pdftex.def)             Requested size: 24.69217pt x 13.8517pt.
-<figures/X1/Enemies/sprite_battonm501.png, id=2000, 30.86531pt x 18.0675pt>
+<figures/X1/Enemies/sprite_battonm501.png, id=1993, 30.86531pt x 18.0675pt>
 File: figures/X1/Enemies/sprite_battonm501.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_battonm501.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_battonm501.png  used on inpu
 t line 179.
 (pdftex.def)             Requested size: 25.72086pt x 15.0563pt.
-<figures/X2/Enemies/sprite_beetron.png, id=2002, 88.33pt x 57.21375pt>
+<figures/X2/Enemies/sprite_beetron.png, id=1995, 88.33pt x 57.21375pt>
 File: figures/X2/Enemies/sprite_beetron.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_beetron.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_beetron.png  used on input l
 ine 182.
 (pdftex.def)             Requested size: 46.48984pt x 30.11261pt.
-<figures/X2/Enemies/sprite_blecker.png, id=2003, 34.1275pt x 42.1575pt>
+<figures/X2/Enemies/sprite_blecker.png, id=1996, 34.1275pt x 42.1575pt>
 File: figures/X2/Enemies/sprite_blecker.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_blecker.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_blecker.png  used on input l
 ine 188.
 (pdftex.def)             Requested size: 24.377pt x 30.11261pt.
-<figures/X1/Enemies/sprite_bombeen.png, id=2004, 22.28325pt x 22.8855pt>
+<figures/X1/Enemies/sprite_bombeen.png, id=1997, 22.28325pt x 22.8855pt>
 File: figures/X1/Enemies/sprite_bombeen.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_bombeen.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_bombeen.png  used on input l
 ine 191.
 (pdftex.def)             Requested size: 22.28317pt x 22.88544pt.
 
-[121 <./figures/X2/Enemies/sprite_BarrierAttacker.png> <./figures/X1/Enemies/sp
+[120 <./figures/X2/Enemies/sprite_BarrierAttacker.png> <./figures/X1/Enemies/sp
 rite_battonbone.png> <./figures/X1/Enemies/sprite_battonm501.png> <./figures/X2
 /Enemies/sprite_beetron.png> <./figures/X2/Enemies/sprite_blecker.png>]
-<figures/X2/Enemies/sprite_CannonDriver.png, id=2019, 57.21375pt x 73.27374pt>
+<figures/X2/Enemies/sprite_CannonDriver.png, id=2013, 57.21375pt x 73.27374pt>
 File: figures/X2/Enemies/sprite_CannonDriver.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_CannonDriver.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_CannonDriver.png  used on in
@@ -2435,67 +2423,67 @@ Overfull \hbox (24.38567pt too wide) in paragraph at lines 195--195
 or tank. Pow-er-ful mechaniloid
  []
 
-<figures/X1/Enemies/sprite_cragman.png, id=2021, 22.28325pt x 24.09pt>
+<figures/X1/Enemies/sprite_cragman.png, id=2015, 22.28325pt x 24.09pt>
 File: figures/X1/Enemies/sprite_cragman.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_cragman.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_cragman.png  used on input l
 ine 207.
 (pdftex.def)             Requested size: 18.56918pt x 20.07507pt.
-<figures/X2/Enemies/sprite_CrashRoader.png, id=2023, 41.15375pt x 31.11626pt>
+<figures/X2/Enemies/sprite_CrashRoader.png, id=2017, 41.15375pt x 31.11626pt>
 File: figures/X2/Enemies/sprite_CrashRoader.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_CrashRoader.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_CrashRoader.png  used on inp
 ut line 210.
 (pdftex.def)             Requested size: 19.9137pt x 15.0563pt.
-<figures/X1/Enemies/sprite_creeper.png, id=2025, 12.64725pt x 9.03375pt>
+<figures/X1/Enemies/sprite_creeper.png, id=2019, 12.64725pt x 9.03375pt>
 File: figures/X1/Enemies/sprite_creeper.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_creeper.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_creeper.png  used on input l
 ine 213.
 (pdftex.def)             Requested size: 14.05325pt x 10.03754pt.
-<figures/X2/Enemies/sprite_CroakHopper.png, id=2027, 28.105pt x 33.12375pt>
+<figures/X2/Enemies/sprite_CroakHopper.png, id=2021, 28.105pt x 33.12375pt>
 File: figures/X2/Enemies/sprite_CroakHopper.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_CroakHopper.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_CroakHopper.png  used on inp
 ut line 216.
 (pdftex.def)             Requested size: 17.03337pt x 20.07507pt.
-[122 <./figures/X1/Enemies/sprite_bombeen.png> <./figures/X2/Enemies/sprite_Can
+[121 <./figures/X1/Enemies/sprite_bombeen.png> <./figures/X2/Enemies/sprite_Can
 nonDriver.png> <./figures/X1/Enemies/sprite_cragman.png> <./figures/X2/Enemies/
 sprite_CrashRoader.png> <./figures/X1/Enemies/sprite_creeper.png>]
-<figures/X1/Enemies/sprite_crusher.png, id=2042, 11.3223pt x 9.1542pt>
+<figures/X1/Enemies/sprite_crusher.png, id=2036, 11.3223pt x 9.1542pt>
 File: figures/X1/Enemies/sprite_crusher.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_crusher.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_crusher.png  used on input l
 ine 219.
 (pdftex.def)             Requested size: 24.83449pt x 20.07507pt.
-<figures/X1/Enemies/sprite_diglabour.png, id=2043, 20.4765pt x 23.48775pt>
+<figures/X1/Enemies/sprite_diglabour.png, id=2037, 20.4765pt x 23.48775pt>
 File: figures/X1/Enemies/sprite_diglabour.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_diglabour.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_diglabour.png  used on input
  line 222.
 (pdftex.def)             Requested size: 17.50226pt x 20.07507pt.
-<figures/X2/Enemies/sprite_DiskBoy08.png, id=2044, 41.15375pt x 40.15pt>
+<figures/X2/Enemies/sprite_DiskBoy08.png, id=2038, 41.15375pt x 40.15pt>
 File: figures/X2/Enemies/sprite_DiskBoy08.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_DiskBoy08.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_DiskBoy08.png  used on input
  line 225.
 (pdftex.def)             Requested size: 20.57744pt x 20.07507pt.
-<figures/X1/Enemies/sprite_dodgeblaster.png, id=2045, 15.05624pt x 20.4765pt>
+<figures/X1/Enemies/sprite_dodgeblaster.png, id=2039, 15.05624pt x 20.4765pt>
 File: figures/X1/Enemies/sprite_dodgeblaster.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_dodgeblaster.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_dodgeblaster.png  used on in
 put line 228.
 (pdftex.def)             Requested size: 14.76236pt x 20.07507pt.
-<figures/X2/Enemies/sprite_Fishern.png, id=2046, 68.255pt x 23.08624pt>
+<figures/X2/Enemies/sprite_Fishern.png, id=2040, 68.255pt x 23.08624pt>
 File: figures/X2/Enemies/sprite_Fishern.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Fishern.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Fishern.png  used on input l
 ine 235.
 (pdftex.def)             Requested size: 44.51414pt x 15.0563pt.
- [123 <./figures/X2/Enemies/sprite_CroakHopper.png> <./figures/X1/Enemies/sprit
+ [122 <./figures/X2/Enemies/sprite_CroakHopper.png> <./figures/X1/Enemies/sprit
 e_crusher.png> <./figures/X1/Enemies/sprite_diglabour.png> <./figures/X2/Enemie
 s/sprite_DiskBoy08.png> <./figures/X1/Enemies/sprite_dodgeblaster.png>]
-<figures/X1/Enemies/sprite_flamer.png, id=2061, 20.4765pt x 16.26076pt>
+<figures/X1/Enemies/sprite_flamer.png, id=2055, 20.4765pt x 16.26076pt>
 File: figures/X1/Enemies/sprite_flamer.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_flamer.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_flamer.png  used on input li
@@ -2507,97 +2495,97 @@ Overfull \hbox (5.4551pt too wide) in paragraph at lines 239--239
 amethrower ma-chine.
  []
 
-<figures/X1/Enemies/sprite_flammingle.png, id=2062, 17.46526pt x 45.771pt>
+<figures/X1/Enemies/sprite_flammingle.png, id=2056, 17.46526pt x 45.771pt>
 File: figures/X1/Enemies/sprite_flammingle.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_flammingle.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_flammingle.png  used on inpu
 t line 241.
 (pdftex.def)             Requested size: 11.49059pt x 30.11261pt.
-<figures/X2/Enemies/sprite_GarakutaRobot.png, id=2063, 43.16125pt x 52.195pt>
+<figures/X2/Enemies/sprite_GarakutaRobot.png, id=2057, 43.16125pt x 52.195pt>
 File: figures/X2/Enemies/sprite_GarakutaRobot.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_GarakutaRobot.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_GarakutaRobot.png  used on i
 nput line 247.
 (pdftex.def)             Requested size: 24.90115pt x 30.11261pt.
-<figures/X1/Enemies/sprite_gulpfer.png, id=2068, 25.2945pt x 28.30576pt>
+<figures/X1/Enemies/sprite_gulpfer.png, id=2062, 25.2945pt x 28.30576pt>
 File: figures/X1/Enemies/sprite_gulpfer.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_gulpfer.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_gulpfer.png  used on input l
 ine 250.
 (pdftex.def)             Requested size: 17.9399pt x 20.07507pt.
-<figures/X1/Enemies/sprite_gunvolt.png, id=2069, 10.5996pt x 14.2131pt>
+<figures/X1/Enemies/sprite_gunvolt.png, id=2063, 10.5996pt x 14.2131pt>
 File: figures/X1/Enemies/sprite_gunvolt.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_gunvolt.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_gunvolt.png  used on input l
 ine 253.
 (pdftex.def)             Requested size: 14.9713pt x 20.07507pt.
-[124 <./figures/X2/Enemies/sprite_Fishern.png> <./figures/X1/Enemies/sprite_fla
+[123 <./figures/X2/Enemies/sprite_Fishern.png> <./figures/X1/Enemies/sprite_fla
 mer.png> <./figures/X1/Enemies/sprite_flammingle.png> <./figures/X2/Enemies/spr
 ite_GarakutaRobot.png> <./figures/X1/Enemies/sprite_gulpfer.png>]
-<figures/X2/Enemies/sprite_HangedReploid.png, id=2083, 18.0675pt x 71.26625pt>
+<figures/X2/Enemies/sprite_HangedReploid.png, id=2077, 18.0675pt x 71.26625pt>
 File: figures/X2/Enemies/sprite_HangedReploid.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_HangedReploid.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_HangedReploid.png  used on i
 nput line 260.
 (pdftex.def)             Requested size: 7.63405pt x 30.11261pt.
-<figures/X1/Enemies/sprite_hoganmer.png, id=2085, 22.8855pt x 21.07875pt>
+<figures/X1/Enemies/sprite_hoganmer.png, id=2079, 22.8855pt x 21.07875pt>
 File: figures/X1/Enemies/sprite_hoganmer.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_hoganmer.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_hoganmer.png  used on input 
 line 272.
 (pdftex.def)             Requested size: 21.79626pt x 20.07507pt.
-<figures/X1/Enemies/sprite_hotarion.png, id=2086, 29.51025pt x 30.1125pt>
+<figures/X1/Enemies/sprite_hotarion.png, id=2080, 29.51025pt x 30.1125pt>
 File: figures/X1/Enemies/sprite_hotarion.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_hotarion.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_hotarion.png  used on input 
 line 275.
 (pdftex.def)             Requested size: 19.67404pt x 20.07507pt.
-<figures/X2/Enemies/sprite_Installer.png, id=2087, 50.1875pt x 50.1875pt>
+<figures/X2/Enemies/sprite_Installer.png, id=2081, 50.1875pt x 50.1875pt>
 File: figures/X2/Enemies/sprite_Installer.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Installer.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Installer.png  used on input
  line 278.
 (pdftex.def)             Requested size: 30.11348pt x 30.11261pt.
- [125 <./figures/X1/Enemies/sprite_gunvolt.png> <./figures/X2/Enemies/sprite_Ha
+ [124 <./figures/X1/Enemies/sprite_gunvolt.png> <./figures/X2/Enemies/sprite_Ha
 ngedReploid.png> <./figures/X1/Enemies/sprite_hoganmer.png> <./figures/X1/Enemi
 es/sprite_hotarion.png> <./figures/X2/Enemies/sprite_Installer.png>]
-<figures/X1/Enemies/sprite_jamminger.png, id=2104, 19.87425pt x 20.4765pt>
+<figures/X1/Enemies/sprite_jamminger.png, id=2098, 19.87425pt x 20.4765pt>
 File: figures/X1/Enemies/sprite_jamminger.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_jamminger.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_jamminger.png  used on input
  line 281.
 (pdftex.def)             Requested size: 19.48631pt x 20.07507pt.
-<figures/X2/Enemies/sprite_JellySeeker.png, id=2105, 26.0975pt x 42.1575pt>
+<figures/X2/Enemies/sprite_JellySeeker.png, id=2099, 26.0975pt x 42.1575pt>
 File: figures/X2/Enemies/sprite_JellySeeker.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_JellySeeker.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_JellySeeker.png  used on inp
 ut line 284.
 (pdftex.def)             Requested size: 12.42749pt x 20.07507pt.
-<figures/X1/Enemies/sprite_ladderyadder.png, id=2106, 16.863pt x 19.87425pt>
+<figures/X1/Enemies/sprite_ladderyadder.png, id=2100, 16.863pt x 19.87425pt>
 File: figures/X1/Enemies/sprite_ladderyadder.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_ladderyadder.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_ladderyadder.png  used on in
 put line 287.
 (pdftex.def)             Requested size: 17.0343pt x 20.07507pt.
-<figures/X1/Enemies/sprite_liftcannon.png, id=2107, 8.1906pt x 22.4037pt>
+<figures/X1/Enemies/sprite_liftcannon.png, id=2101, 8.1906pt x 22.4037pt>
 File: figures/X1/Enemies/sprite_liftcannon.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_liftcannon.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_liftcannon.png  used on inpu
 t line 290.
 (pdftex.def)             Requested size: 7.33958pt x 20.07507pt.
-<figures/X1/Enemies/sprite_madpecker.png, id=2108, 13.85175pt x 22.8855pt>
+<figures/X1/Enemies/sprite_madpecker.png, id=2102, 13.85175pt x 22.8855pt>
 File: figures/X1/Enemies/sprite_madpecker.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_madpecker.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_madpecker.png  used on input
  line 293.
 (pdftex.def)             Requested size: 12.15088pt x 20.07507pt.
-<figures/X2/Enemies/sprite_MechaArm.png, id=2110, 20.075pt x 94.3525pt>
+<figures/X2/Enemies/sprite_MechaArm.png, id=2104, 20.075pt x 94.3525pt>
 File: figures/X2/Enemies/sprite_MechaArm.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_MechaArm.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_MechaArm.png  used on input 
 line 296.
 (pdftex.def)             Requested size: 6.40697pt x 30.11261pt.
- [126 <./figures/X1/Enemies/sprite_jamminger.png> <./figures/X2/Enemies/sprite_
+ [125 <./figures/X1/Enemies/sprite_jamminger.png> <./figures/X2/Enemies/sprite_
 JellySeeker.png> <./figures/X1/Enemies/sprite_ladderyadder.png> <./figures/X1/E
 nemies/sprite_liftcannon.png> <./figures/X1/Enemies/sprite_madpecker.png>]
 Overfull \hbox (24.25606pt too wide) in paragraph at lines 297--297
@@ -2605,80 +2593,80 @@ Overfull \hbox (24.25606pt too wide) in paragraph at lines 297--297
 ion sys-tem in the mechaniloid
  []
 
-<figures/X1/Enemies/sprite_megatortoise.png, id=2121, 43.362pt x 28.30576pt>
+<figures/X1/Enemies/sprite_megatortoise.png, id=2114, 43.362pt x 28.30576pt>
 File: figures/X1/Enemies/sprite_megatortoise.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_megatortoise.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_megatortoise.png  used on in
 put line 299.
 (pdftex.def)             Requested size: 30.11261pt x 19.65666pt.
-<figures/X1/Enemies/sprite_metalwing.png, id=2122, 22.28325pt x 11.44275pt>
+<figures/X1/Enemies/sprite_metalwing.png, id=2115, 22.28325pt x 11.44275pt>
 File: figures/X1/Enemies/sprite_metalwing.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_metalwing.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_metalwing.png  used on input
  line 305.
 (pdftex.def)             Requested size: 22.28317pt x 11.4427pt.
-<figures/X1/Enemies/sprite_mettalc15.png, id=2123, 13.85175pt x 13.2495pt>
+<figures/X1/Enemies/sprite_mettalc15.png, id=2116, 13.85175pt x 13.2495pt>
 File: figures/X1/Enemies/sprite_mettalc15.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_mettalc15.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_mettalc15.png  used on input
  line 308.
 (pdftex.def)             Requested size: 13.8517pt x 13.24945pt.
-<figures/X2/Enemies/sprite_Morgun.png, id=2124, 41.15375pt x 47.17625pt>
+<figures/X2/Enemies/sprite_Morgun.png, id=2117, 41.15375pt x 47.17625pt>
 File: figures/X2/Enemies/sprite_Morgun.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Morgun.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Morgun.png  used on input li
 ne 312.
 (pdftex.def)             Requested size: 26.2686pt x 30.11261pt.
-<figures/X2/Enemies/sprite_pararoid.png, id=2125, 37.13875pt x 28.105pt>
+<figures/X2/Enemies/sprite_pararoid.png, id=2118, 37.13875pt x 28.105pt>
 File: figures/X2/Enemies/sprite_pararoid.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_pararoid.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_pararoid.png  used on input 
 line 317.
 (pdftex.def)             Requested size: 26.52907pt x 20.07507pt.
-[127 <./figures/X2/Enemies/sprite_MechaArm.png> <./figures/X1/Enemies/sprite_me
+[126 <./figures/X2/Enemies/sprite_MechaArm.png> <./figures/X1/Enemies/sprite_me
 gatortoise.png> <./figures/X1/Enemies/sprite_metalwing.png> <./figures/X1/Enemi
 es/sprite_mettalc15.png> <./figures/X2/Enemies/sprite_Morgun.png>]
-<figures/X2/Enemies/sprite_pararoidv1.png, id=2138, 32.12pt x 12.045pt>
+<figures/X2/Enemies/sprite_pararoidv1.png, id=2132, 32.12pt x 12.045pt>
 File: figures/X2/Enemies/sprite_pararoidv1.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_pararoidv1.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_pararoidv1.png  used on inpu
 t line 320.
 (pdftex.def)             Requested size: 26.76642pt x 10.03754pt.
-<figures/X1/Enemies/sprite_planty.png, id=2139, 13.2495pt x 13.85175pt>
+<figures/X1/Enemies/sprite_planty.png, id=2133, 13.2495pt x 13.85175pt>
 File: figures/X1/Enemies/sprite_planty.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_planty.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_planty.png  used on input li
 ne 323.
 (pdftex.def)             Requested size: 13.24945pt x 13.8517pt.
-<figures/X1/Enemies/sprite_raybit.png, id=2140, 17.46526pt x 19.87425pt>
+<figures/X1/Enemies/sprite_raybit.png, id=2134, 17.46526pt x 19.87425pt>
 File: figures/X1/Enemies/sprite_raybit.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_raybit.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_raybit.png  used on input li
 ne 326.
 (pdftex.def)             Requested size: 17.46521pt x 19.87419pt.
-<figures/X1/Enemies/sprite_raytrap.png, id=2141, 6.0225pt x 6.2634pt>
+<figures/X1/Enemies/sprite_raytrap.png, id=2135, 6.0225pt x 6.2634pt>
 File: figures/X1/Enemies/sprite_raytrap.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_raytrap.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_raytrap.png  used on input l
 ine 329.
 (pdftex.def)             Requested size: 14.47871pt x 15.0563pt.
-<figures/X2/Enemies/sprite_Refleczer.png, id=2142, 24.09pt x 36.135pt>
+<figures/X2/Enemies/sprite_Refleczer.png, id=2136, 24.09pt x 36.135pt>
 File: figures/X2/Enemies/sprite_Refleczer.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Refleczer.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Refleczer.png  used on input
  line 332.
 (pdftex.def)             Requested size: 13.38332pt x 20.07507pt.
- [128 <./figures/X2/Enemies/sprite_pararoid.png> <./figures/X2/Enemies/sprite_p
+ [127 <./figures/X2/Enemies/sprite_pararoid.png> <./figures/X2/Enemies/sprite_p
 araroidv1.png> <./figures/X1/Enemies/sprite_planty.png> <./figures/X1/Enemies/s
 prite_raybit.png> <./figures/X1/Enemies/sprite_raytrap.png> <./figures/X2/Enemi
 es/sprite_Refleczer.png>]
-<figures/X2/Enemies/sprite_RideloidG.png, id=2157, 62.2325pt x 63.23625pt>
+<figures/X2/Enemies/sprite_RideloidG.png, id=2150, 62.2325pt x 63.23625pt>
 File: figures/X2/Enemies/sprite_RideloidG.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_RideloidG.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_RideloidG.png  used on input
  line 335.
 (pdftex.def)             Requested size: 29.63481pt x 30.11261pt.
-<figures/X2/Enemies/sprite_Rightod.png, id=2158, 39.14626pt x 42.1575pt>
+<figures/X2/Enemies/sprite_Rightod.png, id=2151, 39.14626pt x 42.1575pt>
 File: figures/X2/Enemies/sprite_Rightod.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Rightod.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Rightod.png  used on input l
@@ -2690,156 +2678,156 @@ Overfull \hbox (0.7618pt too wide) in paragraph at lines 339--339
 num-ber one dropped
  []
 
-<figures/X1/Enemies/sprite_roadattacker.png, id=2159, 42.1575pt x 22.8855pt>
+<figures/X1/Enemies/sprite_roadattacker.png, id=2152, 42.1575pt x 22.8855pt>
 File: figures/X1/Enemies/sprite_roadattacker.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_roadattacker.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_roadattacker.png  used on in
 put line 341.
 (pdftex.def)             Requested size: 30.11261pt x 16.34694pt.
-<figures/X2/Enemies/sprite_RideChaserCheval.png, id=2160, 53.19875pt x 46.1725p
+<figures/X2/Enemies/sprite_RideChaserCheval.png, id=2153, 53.19875pt x 46.1725p
 t>
 File: figures/X2/Enemies/sprite_RideChaserCheval.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_RideChaserCheval.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_RideChaserCheval.png  used o
 n input line 344.
 (pdftex.def)             Requested size: 23.1299pt x 20.07507pt.
-<figures/X1/Enemies/sprite_rollinggabyoall.png, id=2161, 13.85175pt x 15.6585pt
+<figures/X1/Enemies/sprite_rollinggabyoall.png, id=2154, 13.85175pt x 15.6585pt
 >
 File: figures/X1/Enemies/sprite_rollinggabyoall.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_rollinggabyoall.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_rollinggabyoall.png  used on
  input line 347.
 (pdftex.def)             Requested size: 13.8517pt x 15.65843pt.
-<figures/X1/Enemies/sprite_rushroader.png, id=2162, 30.1125pt x 20.4765pt>
+<figures/X1/Enemies/sprite_rushroader.png, id=2155, 30.1125pt x 20.4765pt>
 File: figures/X1/Enemies/sprite_rushroader.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_rushroader.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_rushroader.png  used on inpu
 t line 350.
 (pdftex.def)             Requested size: 30.11241pt x 20.47644pt.
-[129 <./figures/X2/Enemies/sprite_RideloidG.png> <./figures/X2/Enemies/sprite_R
+[128 <./figures/X2/Enemies/sprite_RideloidG.png> <./figures/X2/Enemies/sprite_R
 ightod.png> <./figures/X1/Enemies/sprite_roadattacker.png> <./figures/X2/Enemie
 s/sprite_RideChaserCheval.png> <./figures/X1/Enemies/sprite_rollinggabyoall.png
 >]
-<figures/X2/Enemies/sprite_Sabottein.png, id=2175, 20.075pt x 38.1425pt>
+<figures/X2/Enemies/sprite_Sabottein.png, id=2169, 20.075pt x 38.1425pt>
 File: figures/X2/Enemies/sprite_Sabottein.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Sabottein.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Sabottein.png  used on input
  line 353.
 (pdftex.def)             Requested size: 15.84926pt x 30.11261pt.
-<figures/X2/Enemies/sprite_scrambler.png, id=2176, 34.1275pt x 45.16875pt>
+<figures/X2/Enemies/sprite_scrambler.png, id=2170, 34.1275pt x 45.16875pt>
 File: figures/X2/Enemies/sprite_scrambler.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_scrambler.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_scrambler.png  used on input
  line 356.
 (pdftex.def)             Requested size: 15.16766pt x 20.07507pt.
-<figures/X1/Enemies/sprite_scraprobo.png, id=2177, 21.681pt x 22.8855pt>
+<figures/X1/Enemies/sprite_scraprobo.png, id=2171, 21.681pt x 22.8855pt>
 File: figures/X1/Enemies/sprite_scraprobo.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_scraprobo.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_scraprobo.png  used on input
  line 359.
 (pdftex.def)             Requested size: 19.01878pt x 20.07507pt.
-<figures/X2/Enemies/sprite_scriver.png, id=2178, 37.13875pt x 26.0975pt>
+<figures/X2/Enemies/sprite_scriver.png, id=2172, 37.13875pt x 26.0975pt>
 File: figures/X2/Enemies/sprite_scriver.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_scriver.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_scriver.png  used on input l
 ine 362.
 (pdftex.def)             Requested size: 14.28458pt x 10.03754pt.
-<figures/X1/Enemies/sprite_seaattacker.png, id=2179, 13.85175pt x 24.09pt>
+<figures/X1/Enemies/sprite_seaattacker.png, id=2173, 13.85175pt x 24.09pt>
 File: figures/X1/Enemies/sprite_seaattacker.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_seaattacker.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_seaattacker.png  used on inp
 ut line 366.
 (pdftex.def)             Requested size: 11.543pt x 20.07507pt.
- [130 <./figures/X1/Enemies/sprite_rushroader.png> <./figures/X2/Enemies/sprite
+ [129 <./figures/X1/Enemies/sprite_rushroader.png> <./figures/X2/Enemies/sprite
 _Sabottein.png> <./figures/X2/Enemies/sprite_scrambler.png> <./figures/X1/Enemi
 es/sprite_scraprobo.png> <./figures/X2/Enemies/sprite_scriver.png>]
-<figures/X1/Enemies/sprite_sinefaller.png, id=2192, 15.6585pt x 18.0675pt>
+<figures/X1/Enemies/sprite_sinefaller.png, id=2186, 15.6585pt x 18.0675pt>
 File: figures/X1/Enemies/sprite_sinefaller.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_sinefaller.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_sinefaller.png  used on inpu
 t line 369.
 (pdftex.def)             Requested size: 15.65843pt x 18.06744pt.
-<figures/X1/Enemies/sprite_skyclaw.png, id=2193, 20.4765pt x 23.48775pt>
+<figures/X1/Enemies/sprite_skyclaw.png, id=2187, 20.4765pt x 23.48775pt>
 File: figures/X1/Enemies/sprite_skyclaw.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_skyclaw.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_skyclaw.png  used on input l
 ine 372.
 (pdftex.def)             Requested size: 17.50226pt x 20.07507pt.
-<figures/X2/Enemies/sprite_SkyFarmer.png, id=2194, 32.12pt x 59.22125pt>
+<figures/X2/Enemies/sprite_SkyFarmer.png, id=2188, 32.12pt x 59.22125pt>
 File: figures/X2/Enemies/sprite_SkyFarmer.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_SkyFarmer.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_SkyFarmer.png  used on input
  line 375.
 (pdftex.def)             Requested size: 16.33195pt x 30.11261pt.
-<figures/X2/Enemies/sprite_slidame.png, id=2195, 40.15pt x 32.12pt>
+<figures/X2/Enemies/sprite_slidame.png, id=2189, 40.15pt x 32.12pt>
 File: figures/X2/Enemies/sprite_slidame.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_slidame.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_slidame.png  used on input l
 ine 378.
 (pdftex.def)             Requested size: 25.09428pt x 20.07507pt.
-<figures/X1/Enemies/sprite_slidecannon.png, id=2196, 39.7485pt x 20.4765pt>
+<figures/X1/Enemies/sprite_slidecannon.png, id=2190, 39.7485pt x 20.4765pt>
 File: figures/X1/Enemies/sprite_slidecannon.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_slidecannon.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_slidecannon.png  used on inp
 ut line 381.
 (pdftex.def)             Requested size: 30.11261pt x 15.5126pt.
-<figures/X1/Enemies/sprite_snowshooter.png, id=2197, 12.64725pt x 27.10126pt>
+<figures/X1/Enemies/sprite_snowshooter.png, id=2191, 12.64725pt x 27.10126pt>
 File: figures/X1/Enemies/sprite_snowshooter.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_snowshooter.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_snowshooter.png  used on inp
 ut line 384.
 (pdftex.def)             Requested size: 9.36884pt x 20.07507pt.
- [131 <./figures/X1/Enemies/sprite_seaattacker.png> <./figures/X1/Enemies/sprit
+ [130 <./figures/X1/Enemies/sprite_seaattacker.png> <./figures/X1/Enemies/sprit
 e_sinefaller.png> <./figures/X1/Enemies/sprite_skyclaw.png> <./figures/X2/Enemi
 es/sprite_SkyFarmer.png> <./figures/X2/Enemies/sprite_slidame.png> <./figures/X
 1/Enemies/sprite_slidecannon.png>]
-<figures/X2/Enemies/sprite_SoleSolar.png, id=2210, 31.11626pt x 86.3225pt>
+<figures/X2/Enemies/sprite_SoleSolar.png, id=2204, 31.11626pt x 86.3225pt>
 File: figures/X2/Enemies/sprite_SoleSolar.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_SoleSolar.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_SoleSolar.png  used on input
  line 387.
 (pdftex.def)             Requested size: 10.85428pt x 30.11261pt.
-<figures/X1/Enemies/sprite_spiky.png, id=2211, 37.13875pt x 37.13875pt>
+<figures/X1/Enemies/sprite_spiky.png, id=2205, 37.13875pt x 37.13875pt>
 File: figures/X1/Enemies/sprite_spiky.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_spiky.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_spiky.png  used on input lin
 e 390.
 (pdftex.def)             Requested size: 20.07559pt x 20.07507pt.
-<figures/X2/Enemies/sprite_tiranos.png, id=2212, 40.15pt x 34.1275pt>
+<figures/X2/Enemies/sprite_tiranos.png, id=2206, 40.15pt x 34.1275pt>
 File: figures/X2/Enemies/sprite_tiranos.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_tiranos.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_tiranos.png  used on input l
 ine 393.
 (pdftex.def)             Requested size: 23.61783pt x 20.07507pt.
-<figures/X1/Enemies/sprite_tombot.png, id=2213, 24.69225pt x 11.44275pt>
+<figures/X1/Enemies/sprite_tombot.png, id=2207, 24.69225pt x 11.44275pt>
 File: figures/X1/Enemies/sprite_tombot.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_tombot.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_tombot.png  used on input li
 ne 396.
 (pdftex.def)             Requested size: 24.69217pt x 11.4427pt.
-<figures/X2/Enemies/sprite_TubamailGenerator.png, id=2214, 50.1875pt x 19.07124
+<figures/X2/Enemies/sprite_TubamailGenerator.png, id=2208, 50.1875pt x 19.07124
 pt>
 File: figures/X2/Enemies/sprite_TubamailGenerator.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_TubamailGenerator.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_TubamailGenerator.png  used 
 on input line 402.
 (pdftex.def)             Requested size: 26.41544pt x 10.03754pt.
- [132 <./figures/X1/Enemies/sprite_snowshooter.png> <./figures/X2/Enemies/sprit
+ [131 <./figures/X1/Enemies/sprite_snowshooter.png> <./figures/X2/Enemies/sprit
 e_SoleSolar.png> <./figures/X1/Enemies/sprite_spiky.png> <./figures/X2/Enemies/
 sprite_tiranos.png> <./figures/X1/Enemies/sprite_tombot.png>]
-<figures/X2/Enemies/sprite_Tubamail-s.png, id=2228, 42.1575pt x 26.0975pt>
+<figures/X2/Enemies/sprite_Tubamail-s.png, id=2221, 42.1575pt x 26.0975pt>
 File: figures/X2/Enemies/sprite_Tubamail-s.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_Tubamail-s.png>
 Package pdftex.def Info: figures/X2/Enemies/sprite_Tubamail-s.png  used on inpu
 t line 405.
 (pdftex.def)             Requested size: 32.43048pt x 20.07507pt.
-<figures/X1/Enemies/sprite_turncannon.png, id=2229, 8.1906pt x 5.2998pt>
+<figures/X1/Enemies/sprite_turncannon.png, id=2222, 8.1906pt x 5.2998pt>
 File: figures/X1/Enemies/sprite_turncannon.png Graphic file (type png)
 <use figures/X1/Enemies/sprite_turncannon.png>
 Package pdftex.def Info: figures/X1/Enemies/sprite_turncannon.png  used on inpu
 t line 408.
 (pdftex.def)             Requested size: 20.07507pt x 12.99146pt.
-<figures/X2/Enemies/sprite_weathercrystal.png, id=2230, 30.1125pt x 33.12375pt>
+<figures/X2/Enemies/sprite_weathercrystal.png, id=2223, 30.1125pt x 33.12375pt>
 
 File: figures/X2/Enemies/sprite_weathercrystal.png Graphic file (type png)
 <use figures/X2/Enemies/sprite_weathercrystal.png>
@@ -2852,18 +2840,18 @@ Overfull \hbox (9.28749pt too wide) in paragraph at lines 416--416
 ains the ar-ti-fi-cial weather
  []
 
-) [133 <./figures/X2/Enemies/sprite_TubamailGenerator.png> <./figures/X2/Enemie
+) [132 <./figures/X2/Enemies/sprite_TubamailGenerator.png> <./figures/X2/Enemie
 s/sprite_Tubamail-s.png> <./figures/X1/Enemies/sprite_turncannon.png> <./figure
 s/X2/Enemies/sprite_weathercrystal.png>]
 Appendix C.
-[134
+[133
 
 ]
 Appendix D.
-(./MMX_Compendium.bbl [135
+(./MMX_Compendium.bbl [134
 
 ]
-Underfull \hbox (badness 1199) in paragraph at lines 84--87
+Underfull \hbox (badness 1515) in paragraph at lines 84--87
 \T1/cmr/m/n/10 ual. [On-line]. Avail-able: [][]$https : / / usermanual . wiki /
  Capcom /
  []
@@ -2874,79 +2862,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--87
  .
  []
 
-[136
+[135
 
-] [137] [138] [139] [140] [141]
-Underfull \hbox (badness 1158) in paragraph at lines 606--610
+] [136] [137]
+Underfull \hbox (badness 1354) in paragraph at lines 378--382
 []\T1/cmr/m/n/10 LanceHeart, ``Does the rock-man zero col-lec-tion sto-
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 606--610
+Underfull \hbox (badness 2503) in paragraph at lines 378--382
 \T1/cmr/m/n/10 ry-line ex-plain ev-ery-thing?'' Apr 2010. [On-
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 606--610
+Underfull \hbox (badness 1728) in paragraph at lines 378--382
 \T1/cmr/m/n/10 line]. Avail-able: [][]$http : / / www . themmnetwork . com / 20
 10 / 04 / 09 /
  []
 
-
-Overfull \hbox (27.30066pt too wide) in paragraph at lines 643--647
+[138]
+Overfull \hbox (22.30188pt too wide) in paragraph at lines 415--419
 \T1/cmr/m/n/10 there-[]were-[]originally-[]24-[]maverick-[]hunter-[]units-[]and
 -[]other-[]mega-[]man-[]x-[]tidbits/$[][] 
  []
 
-) [142] (./MMX_Compendium.aux)
+) [139] (./MMX_Compendium.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-06-30>
+ ***********
 Package rerunfilecheck Info: File `MMX_Compendium.out' has not changed.
 (rerunfilecheck)             Checksum: CB297171616518A2A4B71334D8691FB7;14619.
  ) 
 Here is how much of TeX's memory you used:
- 19485 strings out of 478287
- 386021 string characters out of 5849289
- 601750 words of memory out of 5000000
- 36492 multiletter control sequences out of 15000+600000
- 488505 words of font info for 63 fonts, out of 8000000 for 9000
+ 19512 strings out of 475237
+ 395164 string characters out of 5768556
+ 1936238 words of memory out of 5000000
+ 39913 multiletter control sequences out of 15000+600000
+ 577315 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,12n,77p,2503b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{enem:Helit} has been referenced but does not exis
-t, replaced by a fixed one
+ 80i,12n,93p,2505b,662s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{enem:Helit} has been referenced but does not exist,
+ replaced by a fixed one
+
 
 pdfTeX warning (dest): name{enem:Carry_Arm} has been referenced but does not ex
 ist, replaced by a fixed one
 
+
 pdfTeX warning (dest): name{vehicle:Death_Rogumer} has been referenced but does
  not exist, replaced by a fixed one
 
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fo
-nts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/en
-c/dvips/fontawesome5/fa5free1.enc}</usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfbi1440.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfbx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1
-200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/
-texmf/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texmf/fonts/type1/pu
-blic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm06
-00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/t
-exmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/pub
-lic/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm100
-0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/te
-xmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/publ
-ic/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on MMX_Compendium.pdf (143 pages, 39549549 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-So
+lid.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
+c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbi1440.pfb><c:
+/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2
+023/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2023/texmf-
+dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2023/texmf-dist/fonts
+/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pub
+lic/cm-super/sfbx2488.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-sup
+er/sfrm0600.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm070
+0.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb><c:/
+texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:/texlive/20
+23/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2023/texmf-d
+ist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2023/texmf-dist/fonts/
+type1/public/cm-super/sfrm1728.pfb><c:/texlive/2023/texmf-dist/fonts/type1/publ
+ic/cm-super/sfti0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-supe
+r/sfti0900.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti1000
+.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on MMX_Compendium.pdf (140 pages, 39540714 bytes).
 PDF statistics:
- 2755 PDF objects out of 2984 (max. 8388607)
- 2116 compressed objects within 22 object streams
- 618 named destinations out of 1000 (max. 500000)
+ 2639 PDF objects out of 2984 (max. 8388607)
+ 2004 compressed objects within 21 object streams
+ 580 named destinations out of 1000 (max. 500000)
  2263 words of extra memory for PDF output out of 10000 (max. 10000000)
 

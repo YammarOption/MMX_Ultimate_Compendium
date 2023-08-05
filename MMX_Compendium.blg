@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: MMX_Compendium.aux
 The style file: IEEEtran.bst
@@ -7,60 +7,52 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10336 items from 5000.
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for "Xcoll1:Manual_X3"
-Warning--I didn't find a database entry for "X3:enem_drop_gfaqs"
-Warning--I didn't find a database entry for "wiki:third_armor"
-Warning--I didn't find a database entry for "wiki:X3_opening"
-Warning--I didn't find a database entry for "wayback:X3_resources"
-Warning--I didn't find a database entry for "wiki:Weapon_factory"
-Warning--I didn't find a database entry for "wiki:Blast_hornet"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty author in book:RRXD
 
 Done.
-You've used 109 entries,
+You've used 74 entries,
             4087 wiz_defined-function locations,
-            1297 strings with 19342 characters,
-and the built_in function-call counts, 35132 in all, are:
-= -- 2499
-> -- 438
-< -- 2
-+ -- 219
-- -- 109
-* -- 792
-:= -- 6558
-add.period$ -- 218
-call.type$ -- 109
-change.case$ -- 105
+            1147 strings with 15689 characters,
+and the built_in function-call counts, 24000 in all, are:
+= -- 1706
+> -- 298
+< -- 1
++ -- 149
+- -- 74
+* -- 566
+:= -- 4481
+add.period$ -- 148
+call.type$ -- 74
+change.case$ -- 70
 chr.to.int$ -- 0
-cite$ -- 110
-duplicate$ -- 2921
-empty$ -- 3694
-format.name$ -- 110
-if$ -- 7774
+cite$ -- 75
+duplicate$ -- 1991
+empty$ -- 2532
+format.name$ -- 75
+if$ -- 5302
 int.to.chr$ -- 0
-int.to.str$ -- 109
-missing$ -- 747
-newline$ -- 552
-num.names$ -- 108
-pop$ -- 2501
+int.to.str$ -- 74
+missing$ -- 505
+newline$ -- 381
+num.names$ -- 73
+pop$ -- 1687
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 2612
+skip$ -- 1787
 stack$ -- 0
-substring$ -- 15
-swap$ -- 1488
-text.length$ -- 2
+substring$ -- 11
+swap$ -- 1020
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 109
+type$ -- 74
 warning$ -- 1
-while$ -- 109
-width$ -- 112
-write$ -- 1001
-(There were 8 warnings)
+while$ -- 73
+width$ -- 76
+write$ -- 687
+(There was 1 warning)
