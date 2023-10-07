@@ -7,53 +7,54 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated field_info (elt_size=4) to 10106 items from 5000.
 Database file #1: bibliography.bib
+Warning--I didn't find a database entry for "wiki:Weapon_factory"
+Warning--I didn't find a database entry for "wiki:Blizzard_buffalo"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty author in book:RRXD
 
 Done.
-You've used 111 entries,
+You've used 38 entries,
             4087 wiz_defined-function locations,
-            1295 strings with 19462 characters,
-and the built_in function-call counts, 35760 in all, are:
-= -- 2543
-> -- 446
-< -- 2
-+ -- 223
-- -- 111
-* -- 804
-:= -- 6676
-add.period$ -- 222
-call.type$ -- 111
-change.case$ -- 107
+            1008 strings with 12613 characters,
+and the built_in function-call counts, 12715 in all, are:
+= -- 915
+> -- 154
+< -- 1
++ -- 77
+- -- 38
+* -- 355
+:= -- 2381
+add.period$ -- 76
+call.type$ -- 38
+change.case$ -- 34
 chr.to.int$ -- 0
-cite$ -- 112
-duplicate$ -- 2973
-empty$ -- 3760
-format.name$ -- 112
-if$ -- 7912
+cite$ -- 39
+duplicate$ -- 1058
+empty$ -- 1346
+format.name$ -- 39
+if$ -- 2799
 int.to.chr$ -- 0
-int.to.str$ -- 111
-missing$ -- 761
-newline$ -- 562
-num.names$ -- 110
-pop$ -- 2549
+int.to.str$ -- 38
+missing$ -- 253
+newline$ -- 201
+num.names$ -- 37
+pop$ -- 823
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 2658
+skip$ -- 960
 stack$ -- 0
-substring$ -- 15
-swap$ -- 1514
-text.length$ -- 2
+substring$ -- 12
+swap$ -- 553
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 111
+type$ -- 38
 warning$ -- 1
-while$ -- 111
-width$ -- 114
-write$ -- 1019
-(There was 1 warning)
+while$ -- 37
+width$ -- 40
+write$ -- 363
+(There were 3 warnings)
