@@ -8,53 +8,53 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bibliography.bib
-Warning--I didn't find a database entry for "wiki:Weapon_factory"
-Warning--I didn't find a database entry for "wiki:Blizzard_buffalo"
+Warning--I didn't find a database entry for "wiki:Dollpler_stage"
+Warning--I didn't find a database entry for "video:seahorse_two_cicle"
 -- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
 Warning--empty author in book:RRXD
 
 Done.
-You've used 38 entries,
+You've used 65 entries,
             4087 wiz_defined-function locations,
-            1008 strings with 12613 characters,
-and the built_in function-call counts, 12715 in all, are:
-= -- 915
-> -- 154
+            1115 strings with 15240 characters,
+and the built_in function-call counts, 21265 in all, are:
+= -- 1522
+> -- 262
 < -- 1
-+ -- 77
-- -- 38
-* -- 355
-:= -- 2381
-add.period$ -- 76
-call.type$ -- 38
-change.case$ -- 34
++ -- 131
+- -- 65
+* -- 528
+:= -- 3977
+add.period$ -- 130
+call.type$ -- 65
+change.case$ -- 61
 chr.to.int$ -- 0
-cite$ -- 39
-duplicate$ -- 1058
-empty$ -- 1346
-format.name$ -- 39
-if$ -- 2799
+cite$ -- 66
+duplicate$ -- 1767
+empty$ -- 2239
+format.name$ -- 66
+if$ -- 4697
 int.to.chr$ -- 0
-int.to.str$ -- 38
-missing$ -- 253
-newline$ -- 201
-num.names$ -- 37
-pop$ -- 823
+int.to.str$ -- 65
+missing$ -- 440
+newline$ -- 336
+num.names$ -- 64
+pop$ -- 1459
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 960
+skip$ -- 1589
 stack$ -- 0
-substring$ -- 12
-swap$ -- 553
+substring$ -- 13
+swap$ -- 908
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 38
+type$ -- 65
 warning$ -- 1
-while$ -- 37
-width$ -- 40
-write$ -- 363
+while$ -- 64
+width$ -- 67
+write$ -- 608
 (There were 3 warnings)

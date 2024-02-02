@@ -1,80 +1,123 @@
 \babel@toc {english}{}\relax 
-\contentsline {part}{I\hspace {1em}Games}{4}{part.1}%
-\contentsline {chapter}{\numberline {1}Mega Man X}{6}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Mega Man X2}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Mega Man X3}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Main plot}{8}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Main Characters}{10}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}X}{10}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Zero}{10}{subsection.3.2.2}%
-\contentsline {section}{\numberline {3.3}Game Mechanics}{10}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Weapons}{11}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}\includegraphics [width=12px, height=10px]{figures/X3/weapons/A_burst.jpg} Acid Burst}{11}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}\includegraphics [width=12px, height=10px]{figures/X3/weapons/P_bomb.jpg} Parasitic Bomb}{12}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}\includegraphics [width=12px, height=10px]{figures/X3/weapons/T_thunder.jpg} Triad Thunder}{13}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3.4.4}\includegraphics [width=12px, height=10px]{figures/X3/weapons/S_blade.jpg} Spinning Blade}{13}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3.4.5}\includegraphics [width=12px, height=10px]{figures/X3/weapons/R_splasher.jpg} Ray Splasher}{14}{subsection.3.4.5}%
-\contentsline {subsection}{\numberline {3.4.6}\includegraphics [width=12px, height=10px]{figures/X3/weapons/G_well.jpg} Gravity Well}{14}{subsection.3.4.6}%
-\contentsline {subsection}{\numberline {3.4.7}\includegraphics [width=12px, height=10px]{figures/X3/weapons/F_shield.jpg} Frost Shield}{16}{subsection.3.4.7}%
-\contentsline {subsection}{\numberline {3.4.8}\includegraphics [width=12px, height=10px]{figures/X3/weapons/T_fang.jpg} Tornado Fang}{16}{subsection.3.4.8}%
-\contentsline {section}{\numberline {3.5}Third Armor + Beam-saber}{17}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Zero Change}{21}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Ride Armors}{22}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Opening Stage: Hunter Base}{23}{section.3.8}%
-\contentsline {subsection}{\numberline {3.8.1}Maoh the Giant}{24}{subsection.3.8.1}%
-\contentsline {section}{\numberline {3.9}Weapons Factory}{24}{section.3.9}%
-\contentsline {subsection}{\numberline {3.9.1}Head Chip Capsule}{25}{subsection.3.9.1}%
-\contentsline {subsection}{\numberline {3.9.2}Ride Armor Chimera}{25}{subsection.3.9.2}%
-\contentsline {subsection}{\numberline {3.9.3}Heart Tank}{26}{subsection.3.9.3}%
-\contentsline {subsection}{\numberline {3.9.4}Blast Hornet}{26}{subsection.3.9.4}%
-\contentsline {section}{\numberline {3.10}Frozen Town}{27}{section.3.10}%
-\contentsline {subsection}{\numberline {3.10.1}Heart Tank}{28}{subsection.3.10.1}%
-\contentsline {subsection}{\numberline {3.10.2}Sub Tank}{28}{subsection.3.10.2}%
-\contentsline {subsection}{\numberline {3.10.3}Foot Parts}{28}{subsection.3.10.3}%
-\contentsline {subsection}{\numberline {3.10.4}Blizzard Buffalo}{28}{subsection.3.10.4}%
-\contentsline {section}{\numberline {3.11}Airborne Aircraft Carrier}{29}{section.3.11}%
-\contentsline {subsection}{\numberline {3.11.1}Heart Tank}{30}{subsection.3.11.1}%
-\contentsline {subsection}{\numberline {3.11.2}Change F}{31}{subsection.3.11.2}%
-\contentsline {subsection}{\numberline {3.11.3}Armor Chip Capsule}{31}{subsection.3.11.3}%
-\contentsline {subsection}{\numberline {3.11.4}Gravity Beetle}{31}{subsection.3.11.4}%
-\contentsline {section}{\numberline {3.12}Giant Dam}{32}{section.3.12}%
-\contentsline {section}{\numberline {3.13}Power Control Center}{32}{section.3.13}%
-\contentsline {section}{\numberline {3.14}Shipyard}{32}{section.3.14}%
-\contentsline {section}{\numberline {3.15}Quarry}{32}{section.3.15}%
-\contentsline {section}{\numberline {3.16}Safari Park}{32}{section.3.16}%
-\contentsline {section}{\numberline {3.17}Doppler Stage 1}{32}{section.3.17}%
-\contentsline {section}{\numberline {3.18}Doppler Stage 2}{32}{section.3.18}%
-\contentsline {section}{\numberline {3.19}Doppler Stage 3}{32}{section.3.19}%
-\contentsline {section}{\numberline {3.20}Miscellaneous}{32}{section.3.20}%
-\contentsline {part}{II\hspace {1em}Characters}{33}{part.2}%
-\contentsline {chapter}{\numberline {4}X}{36}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Technical Specifications}{37}{section.4.1}%
-\contentsline {paragraph}{General Information}{37}{section*.22}%
-\contentsline {paragraph}{Head equipment}{37}{section*.23}%
-\contentsline {paragraph}{Chest equipment}{37}{section*.24}%
-\contentsline {paragraph}{Leg equipment}{38}{section*.25}%
-\contentsline {paragraph}{Arm equipment}{38}{section*.26}%
-\contentsline {section}{\numberline {4.2}Creation}{38}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Awakening and birth of reploids}{39}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Mavericks and Maverick Hunters}{40}{section.4.4}%
-\contentsline {section}{\numberline {4.5}The X saga and the Maverick Wars}{41}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Zero}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Creation}{43}{section.5.1}%
-\contentsline {section}{\numberline {5.2}The X saga and the Maverick Wars}{44}{section.5.2}%
-\contentsline {chapter}{\numberline {6}Sigma}{46}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Leader of the Maverick Hunters}{47}{section.6.1}%
-\contentsline {section}{\numberline {6.2}The X saga}{47}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Vile}{49}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Before the war}{50}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Mega Man X}{50}{section.7.2}%
-\contentsline {chapter}{\numberline {8}Other Characters}{52}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Dr. Cain}{52}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Serges}{53}{section.8.2}%
-\contentsline {chapter}{\numberline {A}Vehicles}{56}{appendix.A}%
-\contentsline {chapter}{\numberline {B}Enemies}{59}{appendix.B}%
-\contentsline {section}{\numberline {B.1}Mini-Bosses}{59}{section.B.1}%
-\contentsline {section}{\numberline {B.2}Minor enemies}{66}{section.B.2}%
-\contentsline {chapter}{\numberline {C}Timeline}{81}{appendix.C}%
-\contentsline {chapter}{\numberline {D}Damage Tables}{82}{appendix.D}%
-\contentsline {section}{\numberline {D.1}X1}{82}{section.D.1}%
-\contentsline {section}{\numberline {D.2}X2}{83}{section.D.2}%
+\contentsline {part}{I\hspace {1em}Games}{5}{part.1}%
+\contentsline {chapter}{\numberline {1}Mega Man X}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Mega Man X2}{8}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Mega Man X3}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Main plot}{10}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Main Characters}{12}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}X}{12}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Zero}{12}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Game Mechanics}{13}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Weapons}{14}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}\includegraphics [width=12px, height=10px]{figures/X3/weapons/A_burst.jpg} Acid Burst}{14}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}\includegraphics [width=12px, height=10px]{figures/X3/weapons/P_bomb.jpg} Parasitic Bomb}{14}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}\includegraphics [width=12px, height=10px]{figures/X3/weapons/T_thunder.jpg} Triad Thunder}{16}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}\includegraphics [width=12px, height=10px]{figures/X3/weapons/S_blade.jpg} Spinning Blade}{16}{subsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.4.5}\includegraphics [width=12px, height=10px]{figures/X3/weapons/R_splasher.jpg} Ray Splasher}{17}{subsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.4.6}\includegraphics [width=12px, height=10px]{figures/X3/weapons/G_well.jpg} Gravity Well}{18}{subsection.3.4.6}%
+\contentsline {subsection}{\numberline {3.4.7}\includegraphics [width=12px, height=10px]{figures/X3/weapons/F_shield.jpg} Frost Shield}{18}{subsection.3.4.7}%
+\contentsline {subsection}{\numberline {3.4.8}\includegraphics [width=12px, height=10px]{figures/X3/weapons/T_fang.jpg} Tornado Fang}{19}{subsection.3.4.8}%
+\contentsline {section}{\numberline {3.5}Third Armor + Beam-saber}{20}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Zero Change}{23}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Ride Armors}{25}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Opening Stage: Hunter Base}{26}{section.3.8}%
+\contentsline {subsection}{\numberline {3.8.1}Maoh the Giant}{26}{subsection.3.8.1}%
+\contentsline {section}{\numberline {3.9}Weapons Factory}{28}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Head Chip Capsule}{30}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Ride Armor Chimera}{30}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Heart Tank}{31}{subsection.3.9.3}%
+\contentsline {subsection}{\numberline {3.9.4}Blast Hornet}{31}{subsection.3.9.4}%
+\contentsline {section}{\numberline {3.10}Frozen Town}{33}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Heart Tank}{35}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Sub Tank}{35}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.3}Foot Parts}{35}{subsection.3.10.3}%
+\contentsline {subsection}{\numberline {3.10.4}Blizzard Buffalo}{36}{subsection.3.10.4}%
+\contentsline {section}{\numberline {3.11}Airborne Aircraft Carrier}{38}{section.3.11}%
+\contentsline {subsection}{\numberline {3.11.1}Heart Tank}{39}{subsection.3.11.1}%
+\contentsline {subsection}{\numberline {3.11.2}Change F}{40}{subsection.3.11.2}%
+\contentsline {subsection}{\numberline {3.11.3}Armor Chip Capsule}{41}{subsection.3.11.3}%
+\contentsline {subsection}{\numberline {3.11.4}Gravity Beetle}{41}{subsection.3.11.4}%
+\contentsline {section}{\numberline {3.12}Giant Dam}{43}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}Heart Tank}{44}{subsection.3.12.1}%
+\contentsline {subsection}{\numberline {3.12.2}Change K}{44}{subsection.3.12.2}%
+\contentsline {subsection}{\numberline {3.12.3}Foot Chip Capsule}{44}{subsection.3.12.3}%
+\contentsline {subsection}{\numberline {3.12.4}Toxic Seahorse}{45}{subsection.3.12.4}%
+\contentsline {section}{\numberline {3.13}Power Control Center}{46}{section.3.13}%
+\contentsline {subsection}{\numberline {3.13.1}Heart Tank}{48}{subsection.3.13.1}%
+\contentsline {subsection}{\numberline {3.13.2}Body Parts}{48}{subsection.3.13.2}%
+\contentsline {subsection}{\numberline {3.13.3}Sub Tank}{49}{subsection.3.13.3}%
+\contentsline {subsection}{\numberline {3.13.4}Volt Catfish}{49}{subsection.3.13.4}%
+\contentsline {section}{\numberline {3.14}Shipyard}{52}{section.3.14}%
+\contentsline {subsection}{\numberline {3.14.1}Change H}{52}{subsection.3.14.1}%
+\contentsline {subsection}{\numberline {3.14.2}Heart Tank}{53}{subsection.3.14.2}%
+\contentsline {subsection}{\numberline {3.14.3}Body Chip Capsule}{53}{subsection.3.14.3}%
+\contentsline {subsection}{\numberline {3.14.4}Crush Crawfish}{54}{subsection.3.14.4}%
+\contentsline {section}{\numberline {3.15}Quarry}{56}{section.3.15}%
+\contentsline {subsection}{\numberline {3.15.1}Hearth Tank}{57}{subsection.3.15.1}%
+\contentsline {subsection}{\numberline {3.15.2}Sub Tank}{58}{subsection.3.15.2}%
+\contentsline {subsection}{\numberline {3.15.3}Head Parts}{58}{subsection.3.15.3}%
+\contentsline {subsection}{\numberline {3.15.4}Tunnel Rhino}{58}{subsection.3.15.4}%
+\contentsline {section}{\numberline {3.16}Safari Park}{60}{section.3.16}%
+\contentsline {subsection}{\numberline {3.16.1}Sub Tank}{63}{subsection.3.16.1}%
+\contentsline {subsection}{\numberline {3.16.2}Arm Parts}{63}{subsection.3.16.2}%
+\contentsline {subsection}{\numberline {3.16.3}Heart Tank}{63}{subsection.3.16.3}%
+\contentsline {subsection}{\numberline {3.16.4}Neon Tiger}{65}{subsection.3.16.4}%
+\contentsline {section}{\numberline {3.17}Vile Stage}{66}{section.3.17}%
+\contentsline {section}{\numberline {3.18}Doppler Stage A}{68}{section.3.18}%
+\contentsline {subsection}{\numberline {3.18.1}Secret Capsule - Hyper Chip}{69}{subsection.3.18.1}%
+\contentsline {subsection}{\numberline {3.18.2}Bit - Vajurila FF}{69}{subsection.3.18.2}%
+\contentsline {subsection}{\numberline {3.18.3}Byte - Madarela BB}{72}{subsection.3.18.3}%
+\contentsline {subsection}{\numberline {3.18.4}Godkarmachine O Inari}{75}{subsection.3.18.4}%
+\contentsline {subsection}{\numberline {3.18.5}Press Disposer}{77}{subsection.3.18.5}%
+\contentsline {section}{\numberline {3.19}Doppler Stage B}{79}{section.3.19}%
+\contentsline {subsection}{\numberline {3.19.1}Vile mkII}{81}{subsection.3.19.1}%
+\contentsline {subsection}{\numberline {3.19.2}Volt Kurageil}{84}{subsection.3.19.2}%
+\contentsline {section}{\numberline {3.20}Doppler Stage C}{85}{section.3.20}%
+\contentsline {subsection}{\numberline {3.20.1}Dr.~Doppler}{86}{subsection.3.20.1}%
+\contentsline {section}{\numberline {3.21}Doppler Stage D}{89}{section.3.21}%
+\contentsline {subsection}{\numberline {3.21.1}Sigma}{89}{subsection.3.21.1}%
+\contentsline {subsection}{\numberline {3.21.2}Kaiser Sigma}{91}{subsection.3.21.2}%
+\contentsline {section}{\numberline {3.22}Miscellaneous}{94}{section.3.22}%
+\contentsline {subsection}{\numberline {3.22.1}Neon Jump}{94}{subsection.3.22.1}%
+\contentsline {subsection}{\numberline {3.22.2}1-frame door entrance}{94}{subsection.3.22.2}%
+\contentsline {subsection}{\numberline {3.22.3}Zero against mid-bosses}{94}{subsection.3.22.3}%
+\contentsline {subsection}{\numberline {3.22.4}Unlimited charged shots}{94}{subsection.3.22.4}%
+\contentsline {subsection}{\numberline {3.22.5}Blizzard Buffalo AI glitch}{94}{subsection.3.22.5}%
+\contentsline {subsection}{\numberline {3.22.6}Toxic Seahorse quick kill}{94}{subsection.3.22.6}%
+\contentsline {subsection}{\numberline {3.22.7}Crush Crawfish faulted AI}{94}{subsection.3.22.7}%
+\contentsline {subsection}{\numberline {3.22.8}Crush Crawfish instant kill}{94}{subsection.3.22.8}%
+\contentsline {subsection}{\numberline {3.22.9}Godkarmachine-O-Inary stasis glitch}{95}{subsection.3.22.9}%
+\contentsline {part}{II\hspace {1em}Characters}{96}{part.2}%
+\contentsline {chapter}{\numberline {4}X}{99}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Technical Specifications}{100}{section.4.1}%
+\contentsline {paragraph}{General Information}{100}{section*.121}%
+\contentsline {paragraph}{Head equipment}{100}{section*.122}%
+\contentsline {paragraph}{Chest equipment}{100}{section*.123}%
+\contentsline {paragraph}{Leg equipment}{101}{section*.124}%
+\contentsline {paragraph}{Arm equipment}{101}{section*.125}%
+\contentsline {section}{\numberline {4.2}Creation}{101}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Awakening and birth of reploids}{102}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Mavericks and Maverick Hunters}{103}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The X saga and the Maverick Wars}{104}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Zero}{106}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Creation}{106}{section.5.1}%
+\contentsline {section}{\numberline {5.2}The X saga and the Maverick Wars}{107}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Sigma}{109}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Leader of the Maverick Hunters}{110}{section.6.1}%
+\contentsline {section}{\numberline {6.2}The X saga}{110}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Vile}{112}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Before the war}{113}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Mega Man X}{113}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Mega Man X3: Vile mk.II}{114}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Other Characters}{115}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Dr. Cain}{115}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Serges}{116}{section.8.2}%
+\contentsline {chapter}{\numberline {A}Vehicles}{119}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Enemies}{123}{appendix.B}%
+\contentsline {section}{\numberline {B.1}Mini-Bosses}{123}{section.B.1}%
+\contentsline {section}{\numberline {B.2}Minor enemies}{132}{section.B.2}%
+\contentsline {chapter}{\numberline {C}Timeline}{152}{appendix.C}%
+\contentsline {chapter}{\numberline {D}Damage Tables}{153}{appendix.D}%
+\contentsline {section}{\numberline {D.1}X1}{153}{section.D.1}%
+\contentsline {section}{\numberline {D.2}X2}{154}{section.D.2}%
+\contentsline {section}{\numberline {D.3}X3}{155}{section.D.3}%

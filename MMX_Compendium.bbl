@@ -21,6 +21,10 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{book:MMX_Complete_art}
+{Capcom}, \emph{Megaman X Official Complete Artwork}.\hskip 1em plus 0.5em
+  minus 0.4em\relax Udon Entertainment Corp., 2018.
+
 \bibitem{Xcoll1:Manual_X3}
 {Megaman X3 Gallery}. {Megaman X legacy collection 1}.
 
@@ -31,10 +35,22 @@
   \url{https://gamefaqs.gamespot.com/boards/588481-mega-man-x3/76972644}
 \BIBentrySTDinterwordspacing
 
+\bibitem{wiki:damage_chart_X3}
+\BIBentryALTinterwordspacing
+{Twilight Man}. {Mega Man X3 Damage Data Chart}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Mega_Man_X3_Damage_Data_Chart}
+\BIBentrySTDinterwordspacing
+
 \bibitem{wiki:third_armor}
 \BIBentryALTinterwordspacing
 {The Megaman Knowledge Base}. { Armor Parts (Mega Man X3)}. [Online].
   Available: \url{https://megaman.fandom.com/wiki/Armor_Parts_(Mega_Man_X3)}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Zero_change}
+\BIBentryALTinterwordspacing
+------. {Zero Change}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Zero_Change}
 \BIBentrySTDinterwordspacing
 
 \bibitem{X3:Manual}
@@ -62,20 +78,26 @@
   \url{http://web.archive.org/web/20030820110538/http://megaman.retrofaction.com/mmx/resources/x3sb1.txt}
 \BIBentrySTDinterwordspacing
 
-\bibitem{wiki:Blast_hornet}
-\BIBentryALTinterwordspacing
-{The Megaman Knowledge Base}. {Blast Hornet}. [Online]. Available:
-  \url{https://megaman.fandom.com/wiki/Blast_Hornet}
-\BIBentrySTDinterwordspacing
-
 \bibitem{book:Compendium}
 {Capcom}, \emph{Rokkuman X Daizensho}.\hskip 1em plus 0.5em minus 0.4em\relax
   Futabasha, 2005.
 
-\bibitem{wiki:wire_sponge}
+\bibitem{wiki:Maoh}
 \BIBentryALTinterwordspacing
-{The Megaman Knowledge Base}. {Wire Sponge}. [Online]. Available:
-  \url{https://megaman.fandom.com/wiki/Wire_Sponge}
+{The Megaman Knowledge Base}. {Maoh the Giant}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Maoh_the_Giant}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Weapons_factory}
+\BIBentryALTinterwordspacing
+------. {Weapons Factory Stage}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Weapons_Factory_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Blast_hornet}
+\BIBentryALTinterwordspacing
+------. {Blast Hornet}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Blast_Hornet}
 \BIBentrySTDinterwordspacing
 
 \bibitem{wiki:Frozen_Town}
@@ -84,14 +106,15 @@
   \url{https://megaman.fandom.com/wiki/Frozen_Town_Stage}
 \BIBentrySTDinterwordspacing
 
-\bibitem{book:MMX_Complete_art}
-{Capcom}, \emph{Megaman X Official Complete Artwork}.\hskip 1em plus 0.5em
-  minus 0.4em\relax Udon Entertainment Corp., 2018.
+\bibitem{wiki:Blizzard_buffalo}
+\BIBentryALTinterwordspacing
+------. {Blizzard Buffalo}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Blizzard_Buffalo}
+\BIBentrySTDinterwordspacing
 
 \bibitem{wiki:Airborne_carrier}
 \BIBentryALTinterwordspacing
-{The Megaman Knowledge Base}. {Airborne Aircraft Carrier Stage}. [Online].
-  Available:
+------. {Airborne Aircraft Carrier Stage}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Airborne_Aircraft_Carrier_Stage}
 \BIBentrySTDinterwordspacing
 
@@ -99,6 +122,155 @@
 \BIBentryALTinterwordspacing
 ------. {Gravity Beetle}. [Online]. Available:
   \url{https://megaman.fandom.com/wiki/Gravity_Beetle}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Giant_Dam}
+\BIBentryALTinterwordspacing
+------. {Giant Dam Stage}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Giant_Dam_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Toxic_seahorse}
+\BIBentryALTinterwordspacing
+------. {Toxic Seahorse}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Toxic_Seahorse}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Power_control}
+\BIBentryALTinterwordspacing
+------. {Power Control Center Stage}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Power_Control_Center_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Volt_catfish}
+\BIBentryALTinterwordspacing
+------. {Volt Catfish}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Volt_Catfish}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Shipyard}
+\BIBentryALTinterwordspacing
+------. {Shipyard Stage}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Shipyard_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Crush_crawfish}
+\BIBentryALTinterwordspacing
+------. {Crush Crawfish}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Crush_Crawfish}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Tunnel_rhino}
+\BIBentryALTinterwordspacing
+------. {Tunnel Rhino}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Tunnel_Rhino}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Worm_seeker}
+\BIBentryALTinterwordspacing
+------. {Worm Seeker-R}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Worm_Seeker-R}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:safari}
+\BIBentryALTinterwordspacing
+------. {Safari Park Stage}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Safari_Park_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Neon_tiger}
+\BIBentryALTinterwordspacing
+------. {Neon Tiger}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Neon_Tiger}
+\BIBentrySTDinterwordspacing
+
+\bibitem{stratwiki:Safari}
+\BIBentryALTinterwordspacing
+{Strategywiki}. {Mega Man X3/Neon Tiger}. [Online]. Available:
+  \url{https://strategywiki.org/wiki/Mega_Man_X3/Neon_Tiger}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Vile_stage}
+\BIBentryALTinterwordspacing
+{The Megaman Knowledge Base}. {Vile Stage}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Vile_Stage}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Doppler_stage}
+\BIBentryALTinterwordspacing
+------. {Dr. Doppler's Laboratory}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Dr._Doppler%27s_Laboratory}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Bit}
+\BIBentryALTinterwordspacing
+------. {Bit}. [Online]. Available: \url{https://megaman.fandom.com/wiki/Bit}
+\BIBentrySTDinterwordspacing
+
+\bibitem{book:MH_field_guide}
+D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
+  1em plus 0.5em minus 0.4em\relax Udon Entertainement, 2021.
+
+\bibitem{wiki:Byte}
+\BIBentryALTinterwordspacing
+{The Megaman Knowledge Base}. {Byte}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Byte}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wordpress:X3_japanese_script}
+\BIBentryALTinterwordspacing
+{keekiyasan}, ``{Rockman X2},'' \emph{{Hondoori Game Center}}, 2014. [Online].
+  Available:
+  \url{https://hondoori.wordpress.com/scripts-and-localizations/rockman-series/rockman-x3/}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Godkarmachine}
+\BIBentryALTinterwordspacing
+{The Megaman Knowledge Base}. {Godkarmachine O Inary}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Godkarmachine_O_Inary}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Press_disposer}
+\BIBentryALTinterwordspacing
+------. {Press Disposer}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Press_Dìsposer}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Vile2}
+\BIBentryALTinterwordspacing
+------. {Vile MK-II}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Vile_MK-II}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wayback:X2_resources}
+\BIBentryALTinterwordspacing
+{Wayback Machine}. {Rockman X2 Collected Sourcebook Information}. [Online].
+  Available:
+  \url{http://web.archive.org/web/20031009010437/http://megaman.retrofaction.com/mmx/resources/x2sb1.txt}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Volt_kurageil}
+\BIBentryALTinterwordspacing
+{The Megaman Knowledge Base}. {Volt Kurageil}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Volt_Kurageil}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Doppler}
+\BIBentryALTinterwordspacing
+------. {Dr. Doppler}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Dr._Doppler}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:X3_enemies}
+\BIBentryALTinterwordspacing
+------. {List of Mega Man X3 enemies}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/List_of_Mega_Man_X3_enemies}
+\BIBentrySTDinterwordspacing
+
+\bibitem{wiki:Sigma3}
+\BIBentryALTinterwordspacing
+------. {Sigma/Mega Man X3}. [Online]. Available:
+  \url{https://megaman.fandom.com/wiki/Sigma/Mega_Man_X3}
 \BIBentrySTDinterwordspacing
 
 \bibitem{book:RRXD}
@@ -196,10 +368,6 @@ Protodude, ``'dr. light's research journal' now available in english!'' Feb
   \url{https://megaman.fandom.com/wiki/The_Journal_of_Dr._Cain}
 \BIBentrySTDinterwordspacing
 
-\bibitem{book:MH_field_guide}
-D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
-  1em plus 0.5em minus 0.4em\relax Udon Entertainement, 2021.
-
 \bibitem{art:Serges_and_Isoc}
 \BIBentryALTinterwordspacing
 {Zan Sidera}, ``Serges and isoc - the wily connection,'' May 2020. [Online].
@@ -207,16 +375,10 @@ D.~Oxford and N.~Oxford, \emph{Megaman X Maverick Haunter Field Guide}.\hskip
   \url{https://www.rockman-corner.com/2020/05/serges-and-isoc-wily-connection_31.html}
 \BIBentrySTDinterwordspacing
 
-\bibitem{wayback:X2_resources}
-\BIBentryALTinterwordspacing
-{Wayback Machine}. {Rockman X2 Collected Sourcebook Information}. [Online].
-  Available:
-  \url{http://web.archive.org/web/20031009010437/http://megaman.retrofaction.com/mmx/resources/x2sb1.txt}
-\BIBentrySTDinterwordspacing
-
 \bibitem{wayback:X_resources}
 \BIBentryALTinterwordspacing
-------. {Rockman X Collected Sourcebook Information}. [Online]. Available:
+{Wayback Machine}. {Rockman X Collected Sourcebook Information}. [Online].
+  Available:
   \url{http://web.archive.org/web/20040603090322/http://megaman.retrofaction.com/mmx/resources/x1sb1.txt}
 \BIBentrySTDinterwordspacing
 
