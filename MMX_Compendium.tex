@@ -1,4 +1,4 @@
-\documentclass[openany]{report}
+\documentclass[openany,draft]{report}
 %\documentclass[a4paper]{book}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -25,7 +25,7 @@
 \newcommand{\x}{\textit{X1}\xspace}
 \newcommand{\mhx}{\textit{MHX}\xspace}
 \newcommand{\PtIIWarning}{Part \ref{assumptions} preface}
-\newcommand{\portraitsize}{5cm}
+\newcommand{\portraitsize}{4cm}
 \hypersetup{
 	colorlinks=true,
 	linkcolor=blue,
@@ -54,10 +54,8 @@
 \pagenumbering{arabic}
 
 \tableofcontents
-
-\part{Games}
 	\section*{Preface}
-	This document aims to serve as a comprehensive compendium of all available knowledge on the Mega Man X games, encompassing both the main plot/lore and game mechanics. It will also include trivia, fun facts, and even glitches/bugs. Each game in the series will be covered with information regarding its story, characters (albeit in a superficial manner), weapons, and game mechanics. Additionally, a thorough analysis of each stage, including its secrets and boss (with both story-related and game-related details), will be provided.
+	This document aims to serve as a comprehensive compendium of all available knowledge on the Mega Man X games, encompassing both the main plot/lore and game mechanics. It will also include trivia and even glitches/bugs. Each game in the series will be covered with information regarding its story, characters (albeit in a superficial manner), weapons, and game mechanics. Additionally, a thorough analysis of each stage, including its secrets and boss (with both story-related and game-related details), will be provided.
 	
 	Following the analysis of the games, a more accurate and complete description of each character will be presented. This will be achieved by combining information from various sources, including in-game content and other official materials.
 	
@@ -83,20 +81,21 @@
 %TODO contorllo artwork dive a eventualemente aggiungereli
 %TODO METTERE REFERENZE A ATTACCHI NEMICI NELLE TABELLE DI DANNO
 %TODO METTERE EMPH NOMI MOSSE
-\chapter{Mega Man X}
-\label{cha:X1}
-%	\input{src/x1.tex}
+\part{Mega Man X}
 
-\chapter[Mega Man X2]{Mega Man X2\\[2ex]\Large\itshape{VS X-Hunters}}
+\label{cha:X1}
+%\input{src/x1.tex}
+
+\part[Mega Man X2]{Mega Man X2\\[2ex]\Large\itshape{VS X-Hunters}}
 \label{cha:X2}
-%	\input{src/x2.tex}
+\input{src/x2.tex}
 	
-\chapter{Mega Man X3}
-	\label{cha:X3}
-	\input{src/x3.tex}
+\part{Mega Man X3}
+\label{cha:X3}
+%\input{src/x3.tex}
 \part{Characters}
 	\chapter*{Preface}
-	In this part more detailed information about characters who appear in the Mega Man X series are given. Here, however, information will not only come from in-game material but also from external (but still official) sources which expand and complete what is said inside the games. Another difference between this part of the document and the previous ones is the fact that while in precedent chapters only facts were reported, leaving out any possible interpretation, here the objective is to try to put together all available data, even giving a plausible solution in case of conflicting elements. In any case it will be clarified whenever a solution is proposed, to let readers know what parts come from official sources and what instead are supposed solely for this document.
+	In this part more detailed information about characters who appear in the Mega Man X series are given. Here, however, information will not only come from in-game material but also from external (but still official) sources which expand and complete what is said within the games. Another difference between this part of the document and the previous ones is the fact that while in precedent chapters only facts were reported, leaving out any possible interpretation, here the objective is to try to put together all available data, even giving a plausible solution in case of conflicting elements. In any case it will be clarified whenever a solution is proposed, to let readers know what parts come from official sources and what instead are supposed solely for this document.
 	
 	\warningbox{\label{assumptions}\small{
 	As the document proceeds some time reference will be given for some of the events that occur. However in some occasions the same events can refer to different points in time depending on the game's version or the source of the information. While these discrepancies will still be appointed, since the focus here is to give a coherent timeline of events, all time-related assumption made in this part will be now listed with a short explanation:
@@ -105,7 +104,7 @@
 	%\item X wakes up at least in 2114, as it is possible to see in the \x opening observing Dr.~Cain's  PC copyright years.
 	%\item By the previous two statements, X had to be sealed roughly around 2014.
 		\item Maverick Hunters operate for about two years before the first game's events, according to the Japanese version of Dr.~Cain's journal and contrary to the two-month stated in the English version of the same source. This due the fact that two months aren't sufficient to explain all events that occur before the first game, such as Zero's awakening, X joining the Hunters or X befriending Zero.
-		\item According to the original story, X does not join the Hunters until Sigma's revolution begins. Here we deliberately choose the remake storytelling, as it allows us to better explain some relationship between characters.
+		\item According to the original story, X does not join the Hunters until Sigma's revolution begins. Here we deliberately choose the remake storytelling, as it allows us to better explain some relationship between the characters.
 		\item Events shown in \textit{Day of $\Sigma$}, save for Dr.~Cain's fate, actually happens. This is mainly due to the fact that what is shown isn't in direct contrast with anything shown in games except the previously mentioned event.		
 	\end{itemize}
 	}
@@ -115,16 +114,16 @@
 		\begin{itemize}	
 				\item After his death, Dr.~Light consciousness keeps living via an AI, which communicates with X through the capsules. This is due the fact that on multiple occasions Dr.~Light's hologram is fully aware of the circumstances and even directly answers posed questions.
 				\item The events of Bass' endings in both \textit{Mega Man: The Power Battle} and \textit{ Mega Man 2: The Power Fighters} are considered to be canon, as they do not contradict any other statement of other games and also provide a little more insight on Zero's origins.
-				\item Just like Dr.~Light's consciousness manages to live on, Wily's too manages to survive death. It is unclear how he manages to do this, but the presence of Wily's figure which operates throughout the games heavily suggests that he managed to make his consciousness live on.
+				\item Just like Dr.~Light's consciousness manages to live on, Wily's too manages to survive death, although unclear how. However the presence of a figure very close of Wily's one which operates throughout the games heavily suggests that he managed to make his consciousness live on.
 				\item The canon ending for X2 is considered to be the one where Zero is rescued. This is due the presence, in the X5 opening, of a scene depicting Zero against his clone. Since this scene is supposed to be a summary of X and Zero's past battle, here that battle is considered to have happened.
 		\end{itemize}
 	}
 }
 
-\input{src/character_X}
-\input{src/character_Zero}	
-\input{src/character_Sigma_and_Vile}
-\input{src/character_others}
+%\input{src/character_X}
+%\input{src/character_Zero}	
+%\input{src/character_Sigma_and_Vile}
+%\input{src/character_others}
 
 \appendix
 \chapter {Vehicles}
