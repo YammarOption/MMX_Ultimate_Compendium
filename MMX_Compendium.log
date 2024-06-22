@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.11)  28 APR 2024 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.11)  22 JUN 2024 12:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -447,7 +447,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 35.
+Package hyperref Info: Option `colorlinks' set `true' on input line 36.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -456,24 +456,24 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 (./MMX_Compendium.aux)
 \openout1 = `MMX_Compendium.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
-LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -509,13 +509,13 @@ Package caption Info: End \AtBeginDocument code.
 
 Package hyperref Warning: Draft mode on.
 
-Package hyperref Info: Link coloring ON on input line 48.
+Package hyperref Info: Link coloring ON on input line 49.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 52.
+(Font)              <12> on input line 53.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 52.
+(Font)              <8> on input line 53.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 52.
+(Font)              <6> on input line 53.
 
 LaTeX Warning: No \author given.
 
@@ -524,23 +524,23 @@ LaTeX Warning: No \author given.
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/
 texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./MMX_Compendium.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 5.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
-<figures/X2/weapons/C_Hunter.png, id=8, 46.1725pt x 41.15375pt>
+(Font)              <5> on input line 6.
+<figures/X3/weapons/A_burst.jpg, id=8, 50.1875pt x 43.16125pt>
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-3.
+2.
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-<figures/X2/weapons/B_splash.png, id=10, 46.1725pt x 41.15375pt>
-<figures/X2/weapons/S_shot.png, id=11, 46.1725pt x 40.15pt>
-<figures/X2/weapons/S_wheel.png, id=12, 46.1725pt x 41.15375pt>
-<figures/X2/weapons/S_slicer.png, id=13, 46.1725pt x 40.15pt>
-<figures/X2/weapons/S_chain.png, id=14, 46.1725pt x 40.15pt>
-<figures/X2/weapons/M_mine.png, id=15, 46.1725pt x 41.15375pt>
-<figures/X2/weapons/S_burner.png, id=16, 46.1725pt x 41.15375pt>
+<figures/X3/weapons/P_bomb.jpg, id=9, 50.1875pt x 43.16125pt>
+<figures/X3/weapons/T_thunder.jpg, id=10, 50.1875pt x 43.16125pt>
+<figures/X3/weapons/S_blade.jpg, id=11, 50.1875pt x 43.16125pt>
+<figures/X3/weapons/R_splasher.jpg, id=12, 50.1875pt x 43.16125pt>
+<figures/X3/weapons/G_well.jpg, id=13, 50.1875pt x 43.16125pt>
+<figures/X3/weapons/F_shield.jpg, id=14, 50.1875pt x 43.16125pt>
+<figures/X3/weapons/T_fang.jpg, id=15, 50.1875pt x 43.16125pt>
  [1
 
 ] [2])
@@ -552,643 +552,587 @@ File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 
 ] [6
 
+] [7
+
 ]
-(./src/x2.tex
+(./src/x3.tex
 Chapter 1.
-<figures/X2/Mega_Man_X2_Box_Art.png, id=45, 1003.75pt x 706.64pt>
-<figures/X2/Rockman_X2_Box_Art.png, id=46, 1003.75pt x 1812.7725pt>
-<figures/X2/story_1.jpg, id=47, 797.98125pt x 577.15625pt>
-[7
+<figures/X3/Mmx3_box.jpg, id=47, 369.38pt x 271.0125pt>
+<figures/X3/X3_ps.jpg, id=48, 231.264pt x 231.264pt>
+<figures/X3/Story_1.jpg, id=49, 804.00375pt x 346.29375pt>
+[8
 
 ]
-<figures/X2/story_2.jpg, id=52, 803.0pt x 598.235pt>
- [8]
-<figures/X2/story_3_2.jpg, id=56, 799.98875pt x 598.235pt>
-<figures/X2/story_3.jpg, id=57, 795.97375pt x 599.23875pt>
+<figures/X3/Story_2.jpg, id=54, 784.9325pt x 534.99875pt>
  [9]
-<figures/X2/Ending.jpg, id=61, 400.49625pt x 279.0425pt>
-<figures/X2/X.png, id=62, 632.3625pt x 836.12375pt>
+<figures/X3/Story_3.jpg, id=58, 794.97pt x 423.5825pt>
+<figures/X3/Story_32.jpg, id=59, 798.985pt x 423.5825pt>
+<figures/X3/X.png, id=60, 596.2275pt x 843.15pt>
+ [10]
 
+LaTeX Warning: Reference `char:X' on page 11 undefined on input line 50.
 
-LaTeX Warning: Reference `char:X' on page 10 undefined on input line 66.
+<figures/X3/Zero.png, id=64, 720.6925pt x 1033.8625pt>
 
-[10]
-<figures/X1/Zero_X1.png, id=66, 638.21535pt x 855.02534pt>
-<figures/X2/Hunter_stages/Zero.png, id=67, 808.01875pt x 1079.03125pt>
-
-
-LaTeX Warning: Reference `char:Zero' on page 11 undefined on input line 79.
+LaTeX Warning: Reference `char:Zero' on page 11 undefined on input line 60.
 
 [11]
-<figures/Characters/Char_Cain_X2.png, id=71, 107.40125pt x 185.69376pt>
-
-
-LaTeX Warning: Reference `char:Cain' on page 12 undefined on input line 89.
-
-<figures/X2/Enemies/X_Hunters.jpg, id=72, 301.125pt x 329.23pt>
-
-LaTeX Warning: Reference `char:Serges' on page 12 undefined on input line 100.
-
-[12] [13]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 121.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 74.
+ [12]
+<figures/X3/weapons/A_burst.png, id=72, 250.9375pt x 180.675pt>
+<figures/X3/weapons/A_burst_up.png, id=74, 250.9375pt x 180.675pt>
+<figures/X3/weapons/A_burst_Down.png, id=75, 250.9375pt x 180.675pt>
+<figures/X3/weapons/A_burst_charge.png, id=76, 320.19624pt x 180.675pt>
+<figures/X3/weapons/A_burst_water.png, id=77, 250.9375pt x 180.675pt>
+ [13]
+<figures/X3/weapons/P_bomb.png, id=82, 478.78876pt x 240.9pt>
+<figures/X3/weapons/P_bomb_C.jpg, id=83, 478.78876pt x 240.9pt>
  [14]
-<figures/X2/weapons/C_Hunter_1.png, id=84, 335.2525pt x 217.81375pt>
-<figures/X2/weapons/C_Hunter_2.png, id=85, 329.23pt x 302.12875pt>
-<figures/X2/weapons/B_splash_1.jpg, id=86, 437.635pt x 238.8925pt>
-<figures/X2/weapons/B_splash_2.jpg, id=87, 244.915pt x 197.73875pt>
+<figures/X3/weapons/T_thunder.png, id=88, 401.5pt x 401.5pt>
+<figures/X3/weapons/T_thunder_3.png, id=89, 401.5pt x 401.5pt>
+<figures/X3/weapons/T_thunder_2.png, id=90, 401.5pt x 384.43625pt>
+<figures/X3/weapons/T_thunder_C.png, id=91, 602.25pt x 258.9675pt>
  [15]
-<figures/X2/weapons/S_shot_1.png, id=91, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_2.png, id=92, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_3.png, id=93, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_4.png, id=94, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_5.png, id=95, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_6.png, id=96, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_7.png, id=97, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_shot_8.png, id=98, 308.15125pt x 193.72375pt>
- [16]
-<figures/X2/weapons/S_wheel_1.png, id=103, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/S_wheel_2.png, id=104, 343.2825pt x 377.41pt>
- [17]
-<figures/X2/weapons/S_slicer_1.png, id=108, 490.83376pt x 193.72375pt>
-<figures/X2/weapons/S_slicer_2.png, id=109, 308.15125pt x 263.98625pt>
-<figures/X2/weapons/S_slicer_3.png, id=110, 630.355pt x 193.72375pt>
-<figures/X2/weapons/S_chain_1.png, id=111, 382.42876pt x 193.72375pt>
-<figures/X2/weapons/S_chain_2.png, id=112, 382.42876pt x 193.72375pt>
-<figures/X2/weapons/S_chain_grub.jpg, id=113, 583.17876pt x 284.06125pt>
+<figures/X3/weapons/S_blade.png, id=95, 501.875pt x 313.17pt>
+<figures/X3/weapons/S_blade_1.png, id=96, 501.875pt x 351.3125pt>
+<figures/X3/weapons/S_blade_C.png, id=97, 501.875pt x 351.3125pt>
+<figures/X3/weapons/S_blade_C1.png, id=98, 501.875pt x 351.3125pt>
+<figures/X3/weapons/R_splasher.png, id=99, 357.335pt x 301.125pt>
+<figures/X3/weapons/R_splasher_C.png, id=100, 150.5625pt x 301.125pt>
+<figures/X3/weapons/G_well.png, id=101, 401.5pt x 342.27875pt>
+<figures/X3/weapons/G_well_C.png, id=102, 250.9375pt x 401.5pt>
+<figures/X3/weapons/G_well_C_1.png, id=103, 552.0625pt x 401.5pt>
+ [16] [17]
+<figures/X3/weapons/F_shield.png, id=110, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_1.jpg, id=111, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_C.png, id=112, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_2.png, id=113, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_3.png, id=114, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_C_1.png, id=115, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_C_2.png, id=116, 351.3125pt x 250.9375pt>
+<figures/X3/weapons/F_shield_C_3.png, id=117, 351.3125pt x 250.9375pt>
  [18]
-<figures/X2/weapons/M_mine_1.png, id=118, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/M_mine_2.png, id=119, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/M_mine_3.png, id=120, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/M_mine_4.png, id=121, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/M_mine_5.png, id=122, 308.15125pt x 193.72375pt>
-<figures/X2/weapons/M_mine_6.png, id=123, 308.15125pt x 229.85875pt>
+<figures/X3/weapons/T_fang.png, id=122, 301.125pt x 200.75pt>
+<figures/X3/weapons/T_fang_1.png, id=123, 301.125pt x 200.75pt>
+<figures/X3/weapons/T_fang_C.png, id=124, 301.125pt x 200.75pt>
+<figures/X3/weapons/T_fang_C_1.png, id=125, 301.125pt x 200.75pt>
  [19]
-<figures/X2/weapons/S_burner_1.png, id=127, 520.94624pt x 193.72375pt>
-<figures/X2/weapons/S_burner_2.png, id=128, 520.94624pt x 193.72375pt>
-<figures/X2/weapons/S_burner_3.png, id=129, 520.94624pt x 193.72375pt>
-<figures/X2/weapons/S_burner_4.png, id=130, 520.94624pt x 193.72375pt>
+<figures/X3/weapons/Armor_shield.png, id=129, 229.85875pt x 205.76875pt>
+<figures/X3/weapons/Combo_shot.png, id=130, 383.4325pt x 283.0575pt>
  [20]
-<figures/X2/X2armor.png, id=134, 878.28125pt x 960.58875pt>
-<figures/X2/weapons/G_crush_1.png, id=135, 595.22375pt x 604.2575pt>
- [21]
-<figures/X2/weapons/Double_shot.png, id=143, 703.62875pt x 182.6825pt>
-<figures/X2/weapons/Tracer.png, id=144, 308.15125pt x 193.72375pt>
- [22]
-<figures/X2/weapons/Shoryuken.png, id=148, 228.855pt x 223.83624pt>
- [23] [24]
+<figures/X3/Blast_hornet/map.png, id=134, 773.89125pt x 450.68375pt>
+<figures/X3/weapons/orange_shield.png, id=135, 205.76875pt x 208.78pt>
+<figures/X3/weapons/Hyper_shot.png, id=136, 490.83376pt x 501.875pt>
+ [21] [22]
+<figures/X3/weapons/Z_saber_1.png, id=143, 451.6875pt x 230.8625pt>
+<figures/X3/weapons/Z_saber_2.png, id=144, 451.6875pt x 230.8625pt>
+<figures/X3/weapons/Zero_screen.png, id=145, 750.805pt x 558.085pt>
+ [23]
+<figures/X3/weapons/zero_shot_1.png, id=149, 622.325pt x 220.825pt>
+<figures/X3/weapons/zero_shot_2.png, id=150, 622.325pt x 220.825pt>
+<figures/X3/weapons/zero_shot_3.png, id=151, 622.325pt x 220.825pt>
+<figures/X3/weapons/zero_shot_4.png, id=152, 622.325pt x 220.825pt>
+<figures/X3/weapons/zero_shot_5.png, id=153, 622.325pt x 220.825pt>
+ [24] [25]
 Chapter 2.
-[25
+<figures/X3/maohthegiant.png, id=161, 633.86812pt x 797.98125pt>
+<figures/X3/Maoh_the_Giant.png, id=162, 1003.75pt x 666.49pt>
+<figures/X3/Diagonal_Ball.jpg, id=163, 611.28375pt x 465.74pt>
+<figures/X3/Vertiacal_Ball.jpg, id=164, 611.28375pt x 465.74pt>
+[26
 
 ]
-<figures/X2/Enemies/CF0.png, id=160, 781.92125pt x 1008.76875pt>
-<figures/X2/Enemies/Gigantic_Mechaniloid_CF0.png, id=161, 1003.75pt x 1201.4887
-5pt>
-<figures/X2/cf_punch.jpg, id=162, 766.865pt x 508.90125pt>
-<figures/X2/cf_walk.jpg, id=163, 680.5425pt x 522.95375pt>
- [26]
-<figures/X2/map.png, id=167, 799.98875pt x 599.23875pt>
- [27]
-<figures/X2/Wire_sponge/sponge_crystal_default.jpg, id=171, 501.875pt x 301.125
-pt>
-<figures/X2/Wire_sponge/sponge_crystal_cloud.jpg, id=172, 501.875pt x 301.125pt
->
-<figures/X2/Wire_sponge/sponge_crystal_sun.jpg, id=173, 501.875pt x 301.125pt>
-<figures/X2/Wire_sponge/sponge_crystal_rain.jpg, id=174, 501.875pt x 301.125pt>
-
-<figures/X2/Wire_sponge/sponge_crystal_fog.jpg, id=175, 501.875pt x 301.125pt>
-<figures/X2/Wire_sponge/sponge_crystal_broken.jpg, id=176, 501.875pt x 301.125p
-t>
- [28]
-<figures/X2/Wire_sponge/Sponge_heart.jpg, id=180, 796.9775pt x 557.08125pt>
-<figures/X2/Wire_sponge/Sponge_Hunter_room.jpg, id=181, 783.92876pt x 553.06625
-pt>
-<figures/X2/Wire_sponge/Sponge_tank.jpg, id=182, 678.535pt x 590.205pt>
+<figures/X3/Map.png, id=168, 798.985pt x 601.24625pt>
+ [27] [28]
+<figures/X3/Blast_hornet/map_.png, id=175, 759.83875pt x 181.67876pt>
+<figures/X3/Blast_hornet/Armor_1.png, id=176, 782.925pt x 552.0625pt>
+<figures/X3/Blast_hornet/Armor_2.png, id=177, 782.925pt x 552.0625pt>
  [29]
-<figures/X2/Wire_sponge/Wire_Sponge.png, id=186, 962.59625pt x 995.72pt>
-<figures/X2/Wire_sponge/Sponge_spin.png, id=187, 216.81pt x 194.7275pt>
-<figures/X2/Wire_sponge/Sponge_pull.jpg, id=188, 342.27875pt x 151.56625pt>
-<figures/X2/Wire_sponge/Sponge_hang.jpg, id=189, 298.11375pt x 495.8525pt>
-<figures/X2/Wire_sponge/Sponge_phase2.jpg, id=190, 279.0425pt x 194.7275pt>
-<figures/X2/Wire_sponge/Sponge_DM.jpg, id=191, 279.0425pt x 194.7275pt>
-<figures/X2/Wire_sponge/Sponge_charged.jpg, id=192, 216.81pt x 194.7275pt>
-<figures/X2/Wire_sponge/Sponge_cut.jpg, id=193, 246.9225pt x 254.9525pt>
- [30] [31] [32] [33]
-<figures/X2/Morph_moth/Moth_heart_1.jpg, id=207, 553.06625pt x 552.0625pt>
-<figures/X2/Morph_moth/Moth_heart_2.jpg, id=208, 656.4525pt x 502.87875pt>
-<figures/X2/Morph_moth/Moth_capsule_1.jpg, id=209, 617.30624pt x 333.245pt>
-<figures/X2/Morph_moth/Moth_capsule_2.jpg, id=210, 617.30624pt x 333.245pt>
-<figures/X2/Morph_moth/Moth_hunter_entrance.jpg, id=211, 596.2275pt x 499.8675p
-t>
-<figures/X2/Morph_moth/Moth_hunter_room.jpg, id=212, 697.60625pt x 417.56pt>
-<figures/X2/Morph_moth/Morph_Moth.png, id=213, 1003.75pt x 1166.3575pt>
-<figures/X2/Morph_moth/Moth_1.jpg, id=214, 150.5625pt x 135.50626pt>
-<figures/X2/Morph_moth/Moth_2.jpg, id=215, 150.5625pt x 135.50626pt>
-<figures/X2/Morph_moth/Moth_3.jpg, id=216, 150.5625pt x 135.50626pt>
-<figures/X2/Morph_moth/Moth_4.jpg, id=217, 150.5625pt x 135.50626pt>
-<figures/X2/Morph_moth/Moth_5.jpg, id=218, 150.5625pt x 135.50626pt>
-<figures/X2/Morph_moth/Moth_6.jpg, id=219, 150.5625pt x 135.50626pt>
+<figures/X3/Blast_hornet/Ride_2.jpg, id=181, 565.11125pt x 499.8675pt>
+<figures/X3/Blast_hornet/Ride_3.jpg, id=182, 787.94376pt x 472.76625pt>
+<figures/X3/Blast_hornet/Heart_1.jpg, id=183, 730.73pt x 506.89375pt>
+<figures/X3/Blast_hornet/Heart_2.jpg, id=184, 797.98125pt x 234.8775pt>
+ [30]
+<figures/X3/Blast_hornet/blasthornet.png, id=189, 652.68843pt x 791.20593pt>
+<figures/X3/Blast_hornet/Hornet_bees.jpg, id=190, 539.01375pt x 284.06125pt>
+<figures/X3/Blast_hornet/Hornet_bees_2.jpg, id=191, 185.69376pt x 205.76875pt>
+<figures/X3/Blast_hornet/Hornet_dive.jpg, id=192, 350.30875pt x 411.5375pt>
+<figures/X3/Blast_hornet/Hornet_aim.jpg, id=193, 348.30125pt x 430.60875pt>
+<figures/X3/Blast_hornet/Hornet_gravity.jpg, id=194, 364.36125pt x 282.05376pt>
+
+ [31]
+<figures/X3/Blizzard_buffalo/Stage_1.jpg, id=199, 800.9925pt x 598.235pt>
+<figures/X3/Blizzard_buffalo/Stage_2.jpg, id=200, 799.98875pt x 599.23875pt>
+<figures/X3/Blizzard_buffalo/Stage_11.jpg, id=201, 799.98875pt x 596.2275pt>
+<figures/X3/Blizzard_buffalo/Stage_12.jpg, id=202, 799.98875pt x 596.2275pt>
+ [32] [33]
+<figures/X3/Blizzard_buffalo/Map.jpg, id=209, 607.26875pt x 135.50626pt>
+<figures/X3/Blizzard_buffalo/Heart_1.jpg, id=210, 338.26375pt x 422.57875pt>
+<figures/X3/Blizzard_buffalo/Heart_2.jpg, id=211, 760.8425pt x 463.7325pt>
+<figures/X3/Blizzard_buffalo/Tank.jpg, id=212, 375.4025pt x 585.18625pt>
  [34]
-<figures/X2/Morph_moth/Moth_swing.jpg, id=223, 301.125pt x 250.9375pt>
-<figures/X2/Morph_moth/Moth_underground.jpg, id=224, 250.9375pt x 150.5625pt>
-<figures/X2/Morph_moth/Moth_absorb.jpg, id=225, 502.87875pt x 463.7325pt>
-<figures/X2/Morph_moth/Moth_burn.jpg, id=226, 150.5625pt x 135.50626pt>
- [35]
-<figures/X2/Morph_moth/Moth_powder.jpg, id=230, 351.3125pt x 150.5625pt>
-<figures/X2/Morph_moth/Moth_beam.png, id=231, 346.29375pt x 343.2825pt>
-<figures/X2/Morph_moth/Moth_hurt.jpg, id=232, 200.75pt x 200.75pt>
- [36] [37]
-<figures/X2/Flame_stag/Stag_tank_2.jpg, id=240, 592.2125pt x 488.82625pt>
-<figures/X2/Flame_stag/Stag_tank_3.jpg, id=241, 788.9475pt x 543.02875pt>
-<figures/X2/Flame_stag/Stag_tank.png, id=242, 679.53876pt x 567.11874pt>
-<figures/X2/Flame_stag/Stag_heart.png, id=243, 693.59125pt x 534.99875pt>
- [38]
-<figures/X2/Flame_stag/Stag_Hunter_room.png, id=247, 769.87625pt x 564.1075pt>
-
-
-LaTeX Warning: Reference `boss:Boomer_Kuwanger' on page 39 undefined on input l
-ine 776.
-
-<figures/X2/Flame_stag/Flame_Stag.png, id=248, 724.7075pt x 1042.89626pt>
-<figures/X2/Flame_stag/Stag_projectile.png, id=249, 301.125pt x 140.525pt>
-<figures/X2/Flame_stag/Stag_dash.png, id=250, 363.3575pt x 157.58875pt>
-[39]
-<figures/X2/Flame_stag/Stag_triangle.png, id=254, 250.9375pt x 250.9375pt>
-<figures/X2/Flame_stag/Stag_phase_2.png, id=255, 220.825pt x 220.825pt>
-<figures/X2/Flame_stag/Stag_uppercut.png, id=256, 225.84375pt x 331.2375pt>
-<figures/X2/Flame_stag/Stag_descend.png, id=257, 225.84375pt x 331.2375pt>
- [40] [41] [42]
-<figures/X2/Magna_centipede/Centipede_heart_1.png, id=268, 366.36874pt x 582.17
-5pt>
-<figures/X2/Magna_centipede/Centipede_heart_2.png, id=269, 586.19pt x 582.175pt
->
-<figures/X2/Magna_centipede/Centipede_tank_1.png, id=270, 523.9575pt x 522.9537
-5pt>
-<figures/X2/Magna_centipede/Centipede_tank.png, id=271, 602.25pt x 381.425pt>
-<figures/X2/Magna_centipede/Centipede_Hunter_room.png, id=272, 455.7025pt x 416
-.55624pt>
- [43]
-<figures/X2/Magna_centipede/Magna_Centipede.png, id=276, 1003.75pt x 1540.75626
-pt>
-<figures/X2/Magna_centipede/XMagna_Centipede.png, id=277, 1003.75pt x 1090.0725
-pt>
-<figures/X2/Magna_centipede/Centipede_shuriken.png, id=278, 301.125pt x 301.125
-pt>
-<figures/X2/Magna_centipede/Centipede_injection.png, id=279, 301.125pt x 301.12
-5pt>
-<figures/X2/Magna_centipede/Centipede_magnet.png, id=280, 656.4525pt x 301.125p
+<figures/X3/Blizzard_buffalo/Armor_1.png, id=216, 752.8125pt x 301.125pt>
+<figures/X3/Blizzard_buffalo/Armor_3.jpg, id=217, 783.92876pt x 403.5075pt>
+<figures/X3/Blizzard_buffalo/blizzardbuffalo.png, id=218, 670.00313pt x 895.094
+06pt>
+<figures/X3/Blizzard_buffalo/Buffalo_charge.jpg, id=219, 625.33624pt x 220.825p
 t>
- [44]
-<figures/X2/Magna_centipede/Centipede_teleport.png, id=284, 301.125pt x 301.125
-pt>
-<figures/X2/Magna_centipede/Centipede_no_tail.png, id=285, 301.125pt x 301.125p
+<figures/X3/Blizzard_buffalo/Buffalo_charge_2.jpg, id=220, 569.12625pt x 228.85
+5pt>
+<figures/X3/Blizzard_buffalo/Buffalo_shield.jpg, id=221, 604.2575pt x 291.0875p
 t>
- [45] [46] [47]
-<figures/X2/Overdrive_ostrich/Ostrich_Hunter_room.png, id=295, 662.475pt x 416.
-55624pt>
-<figures/X2/Overdrive_ostrich/Ostrich_heart.png, id=296, 511.9125pt x 582.175pt
->
-<figures/X2/Overdrive_ostrich/Ostrich_capsule.jpg, id=297, 558.085pt x 319.1925
+<figures/X3/Blizzard_buffalo/Buffalo_beam.jpg, id=222, 673.51625pt x 243.91125p
+t>
+ [35] [36] [37]
+<figures/X3/Gravity_beetle/Stage_2.jpg, id=233, 797.98125pt x 598.235pt>
+<figures/X3/Gravity_beetle/Stage_1.jpg, id=234, 797.98125pt x 598.235pt>
+<figures/X3/Gravity_beetle/Map.jpg, id=235, 659.46375pt x 289.08pt>
+<figures/X3/Gravity_beetle/Heart_1.jpg, id=236, 798.985pt x 599.23875pt>
+<figures/X3/Gravity_beetle/Heart_2.jpg, id=237, 800.9925pt x 598.235pt>
+<figures/X3/Gravity_beetle/Frog.jpg, id=238, 799.98875pt x 595.22375pt>
+<figures/X3/Gravity_beetle/Armor_1.png, id=239, 792.9625pt x 555.07375pt>
+<figures/X3/Gravity_beetle/Armor_2.png, id=240, 792.9625pt x 562.1pt>
+ [38] [39]
+<figures/X3/Gravity_beetle/gravitybeetle.png, id=247, 1003.75pt x 835.12pt>
+
+
+LaTeX Warning: Reference `boss:Boomer_kuwanger' on page 40 undefined on input l
+ine 801.
+
+[40]
+<figures/X3/Gravity_beetle/Beetle_shot.jpg, id=251, 501.875pt x 250.9375pt>
+<figures/X3/Gravity_beetle/Beetle_shot_2.jpg, id=252, 301.125pt x 501.875pt>
+<figures/X3/Gravity_beetle/Beetle_charge.jpg, id=253, 501.875pt x 250.9375pt>
+<figures/X3/Gravity_beetle/Beetle_charge_2.jpg, id=254, 340.27126pt x 462.72874
 pt>
+<figures/X3/Gravity_beetle/Beetle_hole_1.jpg, id=255, 301.125pt x 501.875pt>
+<figures/X3/Gravity_beetle/Beetle_hole_2.jpg, id=256, 451.6875pt x 501.875pt>
+ [41] [42]
+<figures/X3/Toxic_seahorse/Map.jpg, id=264, 610.28pt x 180.675pt>
+<figures/X3/Toxic_seahorse/hear_1.jpg, id=265, 634.37pt x 599.23875pt>
+<figures/X3/Toxic_seahorse/hear_2.jpg, id=266, 599.23875pt x 476.78125pt>
+<figures/X3/Toxic_seahorse/underwater.jpg, id=267, 205.76875pt x 600.2425pt>
+<figures/X3/Toxic_seahorse/kanga.jpg, id=268, 558.085pt x 586.19pt>
+<figures/X3/Toxic_seahorse/Armor_1.png, id=269, 672.5125pt x 441.65pt>
+<figures/X3/Toxic_seahorse/Armor_2.png, id=270, 672.5125pt x 441.65pt>
+<figures/X3/Toxic_seahorse/toxicseahorse.png, id=271, 718.93594pt x 721.19438pt
+>
+<figures/X3/Toxic_seahorse/XToxic_Seahorse.png, id=272, 1003.75pt x 1259.70625p
+t>
+ [43] [44]
+<figures/X3/Toxic_seahorse/Seahorse_acid.jpg, id=279, 323.2075pt x 255.95625pt>
+
+<figures/X3/Toxic_seahorse/Seahorse_blend.jpg, id=280, 278.03876pt x 215.80624p
+t>
+<figures/X3/Toxic_seahorse/Seahorse_double.jpg, id=281, 479.7925pt x 216.81pt>
+ [45]
+<figures/X3/Volt_catfish/map.jpg, id=285, 335.2525pt x 224.84pt>
+ [46]
+<figures/X3/Volt_catfish/heart_1.jpg, id=289, 727.71875pt x 517.935pt>
+<figures/X3/Volt_catfish/heart_2.jpg, id=290, 667.49374pt x 469.755pt>
+<figures/X3/Volt_catfish/Armor_1.png, id=291, 792.9625pt x 501.875pt>
+<figures/X3/Volt_catfish/Armor_2.png, id=292, 792.9625pt x 501.875pt>
+<figures/X3/Volt_catfish/tank_1.jpg, id=293, 522.95375pt x 553.06625pt>
+<figures/X3/Volt_catfish/tank_2.jpg, id=294, 718.685pt x 501.875pt>
+ [47]
+<figures/X3/Volt_catfish/voltcatfish.png, id=298, 720.44156pt x 704.6325pt>
  [48]
-<figures/X2/Overdrive_ostrich/Overdrive_Ostrich.png, id=302, 479.7925pt x 839.1
-35pt>
-<figures/X2/Overdrive_ostrich/XOverdrive_Ostrich.png, id=303, 1003.75pt x 1306.
-8825pt>
- [49]
-<figures/X2/Overdrive_ostrich/Ostrich_running.png, id=307, 679.53876pt x 163.61
-125pt>
-<figures/X2/Overdrive_ostrich/Ostrich_run&jump.png, id=308, 301.125pt x 301.125
-pt>
-<figures/X2/Overdrive_ostrich/Ostrich_sonic_slicer.png, id=309, 401.5pt x 200.7
-5pt>
-<figures/X2/Overdrive_ostrich/Ostrich_charged_SS.png, id=310, 210.7875pt x 329.
-23pt>
-<figures/X2/Overdrive_ostrich/Ostrich_charged_SS_2.png, id=311, 602.25pt x 329.
-23pt>
-<figures/X2/Overdrive_ostrich/Ostrich_background_2.png, id=312, 351.3125pt x 20
-0.75pt>
-<figures/X2/Overdrive_ostrich/Ostrich_background.png, id=313, 200.75pt x 451.68
-75pt>
-<figures/X2/Overdrive_ostrich/Ostrich_freeze.png, id=314, 200.75pt x 200.75pt>
- [50] [51] [52]
-<figures/X2/Bubble_crab/Crab_heart.png, id=325, 793.96625pt x 550.055pt>
-<figures/X2/Bubble_crab/Crab_tank.png, id=326, 795.97375pt x 597.23125pt>
-
-
-LaTeX Warning: Reference `X1:game_mechanics' on page 53 undefined on input line
- 1113.
-
-[53]
-<figures/X2/Bubble_crab/Crab_Hunter_room.png, id=330, 769.87625pt x 555.07375pt
+<figures/X3/Volt_catfish/catfish_flop.jpg, id=303, 346.29375pt x 250.9375pt>
+<figures/X3/Volt_catfish/catfish_bullet.jpg, id=304, 381.425pt x 250.9375pt>
+<figures/X3/Volt_catfish/catfish_mine_1.jpg, id=305, 301.125pt x 250.9375pt>
+<figures/X3/Volt_catfish/catfish_mine_2.jpg, id=306, 301.125pt x 250.9375pt>
+<figures/X3/Volt_catfish/catfish_mine_3.jpg, id=307, 250.9375pt x 250.9375pt>
+<figures/X3/Volt_catfish/catfish_dm_1.jpg, id=308, 401.5pt x 401.5pt>
+<figures/X3/Volt_catfish/catfish_dm_2.jpg, id=309, 401.5pt x 373.395pt>
+ [49] [50]
+<figures/X3/Crush_crawfish/map.jpg, id=317, 581.17125pt x 202.7575pt>
+<figures/X3/Crush_crawfish/hawk_1.jpg, id=318, 326.21875pt x 379.4175pt>
+<figures/X3/Crush_crawfish/hawk_2.jpg, id=319, 528.97626pt x 489.83pt>
+ [51]
+<figures/X3/Crush_crawfish/heart_1.jpg, id=323, 702.625pt x 301.125pt>
+<figures/X3/Crush_crawfish/heart_2.jpg, id=324, 702.625pt x 301.125pt>
+<figures/X3/Crush_crawfish/heart_3.jpg, id=325, 611.28375pt x 301.125pt>
+<figures/X3/Crush_crawfish/Armor_1.png, id=326, 632.3625pt x 542.025pt>
+<figures/X3/Crush_crawfish/Armor_2.png, id=327, 632.3625pt x 542.025pt>
+<figures/X3/Crush_crawfish/crushcrawfish.png, id=328, 1003.75pt x 729.72626pt>
+ [52] [53]
+<figures/X3/Crush_crawfish/crush_dash.jpg, id=335, 404.51125pt x 291.0875pt>
+<figures/X3/Crush_crawfish/crush_dash_1.jpg, id=336, 249.93375pt x 291.0875pt>
+<figures/X3/Crush_crawfish/crush_dash_2.jpg, id=337, 424.58624pt x 291.0875pt>
+<figures/X3/Crush_crawfish/crush_fire.jpg, id=338, 371.3875pt x 291.0875pt>
+<figures/X3/Crush_crawfish/crush_boomerang.jpg, id=339, 407.5225pt x 291.0875pt
 >
-<figures/X2/Bubble_crab/Bubble_Crab.png, id=331, 1003.75pt x 785.93625pt>
  [54]
-<figures/X2/Bubble_crab/Crab_bubble.png, id=336, 283.0575pt x 230.8625pt>
-<figures/X2/Bubble_crab/Crab_splasher.png, id=337, 283.0575pt x 230.8625pt>
-<figures/X2/Bubble_crab/Crab_minicrab.png, id=338, 722.7pt x 269.005pt>
-<figures/X2/Bubble_crab/Crab_pinch.png, id=339, 251.94125pt x 250.9375pt>
-<figures/X2/Bubble_crab/Crab_DM.png, id=340, 230.8625pt x 230.8625pt>
- [55] [56]
-<figures/X2/Wheel_gator/Gator_day.jpg, id=347, 501.875pt x 501.875pt>
-<figures/X2/Wheel_gator/Gator_day_1.jpg, id=348, 501.875pt x 501.875pt>
-<figures/X2/Wheel_gator/Gator_day_2.jpg, id=349, 501.875pt x 501.875pt>
-<figures/X2/Wheel_gator/Gator_day_3.jpg, id=350, 501.875pt x 501.875pt>
+[55]
+<figures/X3/Tunnel_rhino/map.jpg, id=347, 583.17876pt x 180.675pt>
+<figures/X3/Tunnel_rhino/heart_1.jpg, id=348, 662.475pt x 501.875pt>
+<figures/X3/Tunnel_rhino/heart_2.jpg, id=349, 662.475pt x 501.875pt>
+<figures/X3/Tunnel_rhino/tank.jpg, id=350, 744.7825pt x 573.14125pt>
+ [56]
+<figures/X3/Tunnel_rhino/Armor_1.png, id=354, 772.8875pt x 531.9875pt>
+<figures/X3/Tunnel_rhino/Armor_2.png, id=355, 772.8875pt x 531.9875pt>
+<figures/X3/Tunnel_rhino/tunnelrhino.png, id=356, 1003.75pt x 925.4575pt>
  [57]
-<figures/X2/Wheel_gator/Gator_capsule_1.jpg, id=354, 569.12625pt x 510.90875pt>
-
-<figures/X2/Wheel_gator/Gator_capsule_2.jpg, id=355, 676.5275pt x 536.0025pt>
-<figures/X2/Wheel_gator/Gator_heart.png, id=356, 718.685pt x 464.73625pt>
- [58]
-<figures/X2/Wheel_gator/Gator_Hunter_room.png, id=360, 716.6775pt x 503.8825pt>
-
-<figures/X2/Wheel_gator/Wheel_Gator.png, id=361, 801.99625pt x 842.14626pt>
-
-
-LaTeX Warning: Reference `boss:Launch_octopus' on page 59 undefined on input li
-ne 1250.
-
-[59]
-<figures/X2/Wheel_gator/Gator_Spinning_wheel.png, id=365, 743.77875pt x 338.263
-75pt>
-<figures/X2/Wheel_gator/Gator_spinning_wheel_2.png, id=366, 301.125pt x 160.6pt
->
-<figures/X2/Wheel_gator/Gator_bite.png, id=367, 203.76125pt x 285.065pt>
-<figures/X2/Wheel_gator/Gator_mouth.png, id=368, 301.125pt x 160.6pt>
-<figures/X2/Wheel_gator/Gator_absorb.png, id=369, 301.125pt x 160.6pt>
-<figures/X2/Wheel_gator/Gator_spit.png, id=370, 417.56pt x 160.6pt>
-<figures/X2/Wheel_gator/Gator_DM.png, id=371, 301.125pt x 160.6pt>
- [60] [61] [62]
-<figures/X2/Crystal_snail/Crystal_heart.png, id=382, 770.88pt x 581.17125pt>
-<figures/X2/Crystal_snail/Crystal_heart_starting_spot.png, id=383, 800.9925pt x
- 584.1825pt>
- [63]
-<figures/X2/Crystal_snail/Crystal_hunter_room.png, id=387, 794.97pt x 592.2125p
-t>
-<figures/X2/Crystal_snail/Crystal_capsule.jpg, id=388, 530.98375pt x 290.08376p
-t>
- [64]
-<figures/X2/Crystal_snail/Crystal_Snail.png, id=392, 823.075pt x 838.13126pt>
-<figures/X2/Crystal_snail/Crystal_hunter.png, id=393, 351.3125pt x 200.75pt>
-<figures/X2/Crystal_snail/Crystal_trapped_X.png, id=394, 351.3125pt x 200.75pt>
-
-<figures/X2/Crystal_snail/Crystal_shell_jet.png, id=395, 351.3125pt x 200.75pt>
-
-<figures/X2/Crystal_snail/Crystal_DM.png, id=396, 351.3125pt x 200.75pt>
- [65]
-<figures/X2/Crystal_snail/Crystal_weakness.png, id=400, 351.3125pt x 200.75pt>
-<figures/X2/Crystal_snail/Crystal_weakness_2.png, id=401, 351.3125pt x 200.75pt
->
-<figures/X2/Crystal_snail/Crystal_no_shell.png, id=402, 501.875pt x 250.9375pt>
-
-<figures/X2/Crystal_snail/Crystal_hunter_absorb.png, id=403, 501.875pt x 250.93
-75pt>
- [66] [67]
-<figures/X2/Hunter_stages/Violen.png, id=411, 663.47874pt x 878.28125pt>
-<figures/X2/Hunter_stages/Violen_swing.png, id=412, 331.2375pt x 220.825pt>
-<figures/X2/Hunter_stages/Violen_bullet.png, id=413, 331.2375pt x 220.825pt>
-<figures/X2/Hunter_stages/Violen_air_bullet.png, id=414, 331.2375pt x 260.975pt
->
+<figures/X3/Tunnel_rhino/rhyno_dash.jpg, id=360, 552.0625pt x 230.8625pt>
+<figures/X3/Tunnel_rhino/rhyno_dm.jpg, id=361, 552.0625pt x 230.8625pt>
+<figures/X3/Tunnel_rhino/rhyno_tri.jpg, id=362, 401.5pt x 230.8625pt>
+<figures/X3/Tunnel_rhino/rhyno_fang.jpg, id=363, 401.5pt x 230.8625pt>
+ [58] [59] [60]
+<figures/X3/Neon_tiger/map.jpg, id=374, 732.7375pt x 112.42pt>
+<figures/X3/Neon_tiger/tank_1.jpg, id=375, 572.1375pt x 421.575pt>
+<figures/X3/Neon_tiger/tank_2.jpg, id=376, 572.1375pt x 421.575pt>
+<figures/X3/Neon_tiger/Armor_1.png, id=377, 400.49625pt x 254.9525pt>
+<figures/X3/Neon_tiger/Armor_2.png, id=378, 602.25pt x 401.5pt>
+<figures/X3/Neon_tiger/Armor_3.png, id=379, 602.25pt x 401.5pt>
+ [61]
+<figures/X3/Neon_tiger/heart.jpg, id=383, 492.84125pt x 591.20876pt>
+<figures/X3/Neon_tiger/neontiger.png, id=384, 1003.75pt x 935.495pt>
+ [62]
+<figures/X3/Neon_tiger/tiger_ray.jpg, id=388, 431.6125pt x 301.125pt>
+<figures/X3/Neon_tiger/tiger_ray_wall.jpg, id=389, 284.06125pt x 301.125pt>
+<figures/X3/Neon_tiger/tiger_claw.jpg, id=390, 431.6125pt x 301.125pt>
+<figures/X3/Neon_tiger/tiger_dm.jpg, id=391, 431.6125pt x 301.125pt>
+<figures/X3/Neon_tiger/tiger_guard.jpg, id=392, 431.6125pt x 301.125pt>
+ [63] [64] [65]
+<figures/X3/Crush_crawfish/vile_1.jpg, id=405, 668.4975pt x 577.15625pt>
+<figures/X3/Crush_crawfish/vile_11.jpg, id=406, 580.1675pt x 504.88625pt>
+<figures/X3/Crush_crawfish/vile_2.jpg, id=407, 525.965pt x 537.00626pt>
+<figures/X3/Volt_catfish/vile_1.jpg, id=408, 630.355pt x 486.81876pt>
+<figures/X3/Volt_catfish/vile_2.jpg, id=409, 699.61375pt x 342.27875pt>
+<figures/X3/Blizzard_buffalo/Vile_1.jpg, id=410, 465.74pt x 588.1975pt>
+<figures/X3/Blizzard_buffalo/Vile_2.jpg, id=411, 493.845pt x 526.96875pt>
+ [66]
+<figures/X3/Doppler_stages/drex_kill.jpg, id=416, 718.685pt x 309.155pt>
+ [67]
+<figures/X3/Doppler_stages/Hyper_chip_1.png, id=421, 462.72874pt x 588.1975pt>
+<figures/X3/Doppler_stages/Hyper_chip.png, id=422, 789.95125pt x 545.03625pt>
+<figures/X3/Enemies/bit.png, id=423, 512.66531pt x 721.19438pt>
+<figures/X3/Enemies/bit_saber.jpg, id=424, 301.125pt x 200.75pt>
+<figures/X3/Enemies/bit_ring.jpg, id=425, 301.125pt x 200.75pt>
+<figures/X3/Enemies/bit_shot.jpg, id=426, 301.125pt x 200.75pt>
  [68] [69]
-<figures/Characters/Char_Serges.png, id=421, 1003.75pt x 979.66pt>
-
-
-LaTeX Warning: Reference `char:Serges' on page 70 undefined on input line 1525.
-
+<figures/X3/Enemies/byte.png, id=433, 599.99156pt x 721.19438pt>
 
 [70]
-<figures/X2/Hunter_stages/Serges_mines.png, id=425, 170.6375pt x 250.9375pt>
-<figures/X2/Hunter_stages/Serges_barrier.png, id=426, 170.6375pt x 250.9375pt>
-<figures/X2/Hunter_stages/Serges_beams.png, id=427, 341.275pt x 250.9375pt>
-<figures/X2/Hunter_stages/Serges_barrier_jump.png, id=428, 170.6375pt x 501.875
-pt>
-
-Overfull \hbox (3.61298pt too wide) in paragraph at lines 1536--1567
-[]\T1/cmr/m/n/10 In their first en-counter, Serges faces the player while atop 
-his float-ing pedestal.|
- []
-
-[71]
-<figures/X2/Hunter_stages/Serges_hurt.png, id=432, 170.6375pt x 250.9375pt>
-<figures/X2/Hunter_stages/Serges_cloak.jpg, id=433, 293.095pt x 309.155pt>
+<figures/X3/Enemies/byte_manget.jpg, id=437, 351.3125pt x 351.3125pt>
+<figures/X3/Enemies/byte_combo_1.jpg, id=438, 351.3125pt x 351.3125pt>
+<figures/X3/Enemies/byte_combo_2.jpg, id=439, 351.3125pt x 461.725pt>
+<figures/X3/Enemies/byte_combo_3.jpg, id=440, 351.3125pt x 351.3125pt>
+ [71]
+<figures/X3/Doppler_stages/Godkarmachine.png, id=444, 1003.75pt x 1069.9975pt>
+<figures/X3/Doppler_stages/Godkarmachine_dive.png, id=445, 1003.75pt x 1079.031
+25pt>
  [72]
-<figures/X2/Hunter_stages/Serges_tank_1.png, id=438, 481.8pt x 501.875pt>
-<figures/X2/Hunter_stages/Serges_tank_2.png, id=439, 481.8pt x 501.875pt>
-<figures/X2/Hunter_stages/Serges_tank_3.png, id=440, 481.8pt x 501.875pt>
-<figures/X2/Hunter_stages/Serges_tank_4.png, id=441, 481.8pt x 501.875pt>
-<figures/X2/Hunter_stages/Serges_tank_5.jpg, id=442, 501.875pt x 481.8pt>
-<figures/X2/Hunter_stages/Serges_tank_6.jpg, id=443, 501.875pt x 481.8pt>
+<figures/X3/Doppler_stages/gkarma_punch_1.jpg, id=450, 592.2125pt x 501.875pt>
+<figures/X3/Doppler_stages/gkarma_punch_2.jpg, id=451, 592.2125pt x 501.875pt>
+<figures/X3/Doppler_stages/gkarma_saber.jpg, id=452, 513.92pt x 301.125pt>
+<figures/X3/Doppler_stages/gkarma_sphere.jpg, id=453, 513.92pt x 301.125pt>
+<figures/X3/Doppler_stages/gkarma_crush.jpg, id=454, 384.43625pt x 394.47375pt>
+
  [73] [74]
-<figures/X2/Hunter_stages/Shoryuken_1.png, id=450, 670.505pt x 569.12625pt>
-<figures/X2/Hunter_stages/Shoryuken_2.png, id=451, 752.8125pt x 552.0625pt>
-<figures/X2/Hunter_stages/Shoryuken_3.png, id=452, 752.8125pt x 552.0625pt>
-<figures/X2/Hunter_stages/Shoryuken_4.png, id=453, 752.8125pt x 552.0625pt>
- [75]
-<figures/X2/Hunter_stages/Agile.png, id=457, 524.96124pt x 970.62625pt>
- [76]
-<figures/X2/Hunter_stages/Agile_crescent.png, id=461, 194.7275pt x 326.21875pt>
+<figures/X3/Doppler_stages/pressdisposer.png, id=461, 1003.75pt x 827.09pt>
+<figures/X3/Doppler_stages/press_scrap_1.jpg, id=462, 170.6375pt x 441.65pt>
+<figures/X3/Doppler_stages/press_scrap_2.jpg, id=463, 170.6375pt x 441.65pt>
+<figures/X3/Doppler_stages/press_acid.jpg, id=464, 572.1375pt x 331.2375pt>
+<figures/X3/Doppler_stages/press_arm.jpg, id=465, 572.1375pt x 331.2375pt>
+<figures/X3/Doppler_stages/press_flood.jpg, id=466, 336.25626pt x 291.0875pt>
+ [75] [76]
+<figures/X3/Doppler_stages/dopp_B_1.jpg, id=473, 803.0pt x 602.25pt>
+<figures/X3/Doppler_stages/dopp_B_2.jpg, id=474, 803.0pt x 602.25pt>
+ [77] [78]
+<figures/X3/Doppler_stages/vile2.png, id=482, 880.28876pt x 1319.93124pt>
+<figures/X3/Doppler_stages/vile2_dive.png, id=483, 1003.75pt x 914.41624pt>
 
-<figures/X2/Hunter_stages/Agile_dash.png, id=462, 355.3275pt x 161.60374pt>
- [77]
-<figures/X2/Hunter_stages/Agile_flyer_spike_shock.png, id=466, 746.79pt x 571.1
-3374pt>
-<figures/X2/Hunter_stages/Agile_flyer_missile.png, id=467, 435.6275pt x 405.515
-pt>
-<figures/X2/Hunter_stages/Agile_flyer_dash.jpg, id=468, 761.84625pt x 601.24625
-pt>
- [78]
-<figures/X2/Hunter_stages/map-4.png, id=473, 435.6275pt x 419.5675pt>
- [79]
-<figures/X2/Hunter_stages/Zero_shot.png, id=477, 401.5pt x 200.75pt>
-<figures/X2/Hunter_stages/Zero_combo_1.png, id=478, 401.5pt x 200.75pt>
-<figures/X2/Hunter_stages/Zero_combo_2.png, id=479, 401.5pt x 200.75pt>
-<figures/X2/Hunter_stages/Zero_combo_3.png, id=480, 401.5pt x 200.75pt>
-<figures/X2/Hunter_stages/Zero_dash.png, id=481, 401.5pt x 200.75pt>
-<figures/X2/Hunter_stages/Zero_guard.png, id=482, 200.75pt x 200.75pt>
-<figures/X2/Hunter_stages/Zero_earth_gaizer.png, id=483, 401.5pt x 401.5pt>
- [80] [81]
-<figures/X2/Hunter_stages/Neo_Sigma.png, id=490, 1003.75pt x 737.75626pt>
-<figures/X2/Hunter_stages/Sigma_claw.png, id=491, 351.3125pt x 301.125pt>
-<figures/X2/Hunter_stages/Sigma_spark.png, id=492, 351.3125pt x 301.125pt>
-<figures/X2/Hunter_stages/Sigma_electric_wall.png, id=493, 702.625pt x 301.125p
+
+LaTeX Warning: Reference `boss:Vile' on page 79 undefined on input line 1753.
+
+<figures/X3/Doppler_stages/vile_armor_punch.jpg, id=484, 361.35pt x 250.9375pt>
+
+<figures/X3/Doppler_stages/vile_bb_punch.jpg, id=485, 361.35pt x 250.9375pt>
+<figures/X3/Doppler_stages/vile_bb_shot.jpg, id=486, 271.0125pt x 321.2pt>
+<figures/X3/Doppler_stages/vile_bb_trap_1.jpg, id=487, 271.0125pt x 321.2pt>
+<figures/X3/Doppler_stages/vile_bb_trap_2.jpg, id=488, 373.395pt x 321.2pt>
+[79] [80]
+<figures/X3/Doppler_stages/vile_bomb_1.jpg, id=495, 240.9pt x 291.0875pt>
+<figures/X3/Doppler_stages/vile_bomb_2.jpg, id=496, 226.8475pt x 220.825pt>
+<figures/X3/Doppler_stages/vile_gatling.jpg, id=497, 331.2375pt x 220.825pt>
+<figures/X3/Doppler_stages/vile_par_1.jpg, id=498, 240.9pt x 291.0875pt>
+<figures/X3/Doppler_stages/vile_par_11.jpg, id=499, 240.9pt x 291.0875pt>
+<figures/X3/Doppler_stages/vile_par_2.jpg, id=500, 202.7575pt x 220.825pt>
+<figures/X3/Doppler_stages/vile_dash_1.jpg, id=501, 331.2375pt x 220.825pt>
+<figures/X3/Doppler_stages/vile_dash_2.jpg, id=502, 331.2375pt x 220.825pt>
+ [81]
+<figures/X3/Doppler_stages/Volt_Kurageil.png, id=506, 1003.75pt x 703.62875pt>
+<figures/X3/Doppler_stages/kurageil_missile.jpg, id=507, 439.6425pt x 463.7325p
 t>
-<figures/X2/Hunter_stages/Sigma_dive.png, id=494, 351.3125pt x 584.1825pt>
- [82] [83]
-<figures/X2/Hunter_stages/Sigma_Virus.png, id=501, 321.2pt x 321.2pt>
-<figures/X2/Hunter_stages/Sigma_virus_laser.png, id=502, 401.5pt x 401.5pt>
-<figures/X2/Hunter_stages/Sigma_virus_spawn.png, id=503, 401.5pt x 401.5pt>
-<figures/X2/Hunter_stages/Sigma_virus_trap.png, id=504, 401.5pt x 401.5pt>
- [84]
-<figures/X2/Hunter_stages/Sigma_virus_phase_2.png, id=509, 250.9375pt x 250.937
-5pt>
-<figures/X2/Hunter_stages/Sigma_virus_phase_3.png, id=510, 250.9375pt x 250.937
-5pt>
-<figures/X2/Hunter_stages/Sigma_virus_phase_4.png, id=511, 250.9375pt x 250.937
-5pt>
-<figures/X2/Hunter_stages/Sigma_virus_phase_5.png, id=512, 250.9375pt x 250.937
-5pt>
-<figures/X2/Hunter_stages/Sigma_virus_phase_6.png, id=513, 250.9375pt x 250.937
-5pt>
-<figures/X2/Hunter_stages/Sigma_virus_phase_7.png, id=514, 250.9375pt x 250.937
-5pt>
- [85]
-[86]
-Chapter 3.
+<figures/X3/Doppler_stages/kurageil_plasma.jpg, id=508, 411.5375pt x 421.575pt>
 
-LaTeX Warning: Reference `X1:game_mechanics' on page 87 undefined on input line
- 2002.
-
-<figures/X2/Bubble_crab/Crab_farming_spot.png, id=523, 789.95125pt x 481.8pt>
-<figures/X2/Overdrive_ostrich/ostrich_refill.jpg, id=524, 668.4975pt x 489.83pt
+<figures/X3/Doppler_stages/kurageil_claw.jpg, id=509, 547.04375pt x 306.14375pt
 >
-[87
-
-]
-<figures/X2/Crystal_snail/Crystal_farming_spot.png, id=528, 698.61pt x 576.1525
+ [82] [83]
+<figures/X3/Doppler_stages/rematch.png, id=516, 768.8725pt x 483.8075pt>
+ [84]
+<figures/X3/Doppler_stages/drdoppler.png, id=521, 587.19376pt x 843.15pt>
+<figures/X3/Doppler_stages/doppler_spark.jpg, id=522, 240.9pt x 240.9pt>
+<figures/X3/Doppler_stages/doppler_dash.jpg, id=523, 262.9825pt x 240.9pt>
+<figures/X3/Doppler_stages/doppler_barrier.jpg, id=524, 240.9pt x 240.9pt>
+ [85] [86]
+<figures/X3/Doppler_stages/Sigma.png, id=531, 1003.75pt x 1066.98625pt>
+ [87]
+<figures/X3/Doppler_stages/sigma_fball.jpg, id=535, 632.3625pt x 250.9375pt>
+<figures/X3/Doppler_stages/sigma_fball_1.jpg, id=536, 407.5225pt x 431.6125pt>
+<figures/X3/Doppler_stages/sigma_fball_2.jpg, id=537, 361.35pt x 431.6125pt>
+<figures/X3/Doppler_stages/sigma_shield.jpg, id=538, 313.17pt x 250.9375pt>
+<figures/X3/Doppler_stages/sigma_shield_2.jpg, id=539, 411.5375pt x 521.95pt>
+<figures/X3/Doppler_stages/KaiserSigma.png, id=540, 1003.75pt x 1382.16376pt>
+ [88] [89]
+<figures/X3/Doppler_stages/kaiser_mine.jpg, id=547, 379.4175pt x 451.6875pt>
+<figures/X3/Doppler_stages/kaiser_missile_1.jpg, id=548, 418.56375pt x 451.6875
 pt>
-<figures/X2/Miscs/Chain_clip.jpg, id=529, 651.43375pt x 453.695pt>
- [88]
-<figures/X2/Crystal_snail/snail_skip.png, id=533, 381.425pt x 314.17375pt>
- [89]
-<figures/X2/Crystal_snail/snail_shell_glitch.png, id=537, 593.21625pt x 447.170
-62pt>
-<figures/X2/Miscs/Sigma_glitch_start.png, id=538, 799.98875pt x 599.23875pt>
-<figures/X2/Miscs/glithced_double_shot.png, id=539, 415.5525pt x 205.76875pt>
- [90] [91]) [92] [93
-
-] [94
+<figures/X3/Doppler_stages/kaiser_missile_2.jpg, id=549, 336.25626pt x 451.6875
+pt>
+<figures/X3/Doppler_stages/kaiser_beam_1.jpg, id=550, 582.175pt x 511.9125pt>
+<figures/X3/Doppler_stages/kaiser_beam_2.jpg, id=551, 582.175pt x 511.9125pt>
+ [90] [91]
+<figures/X3/Doppler_stages/kaiser_hitbox.jpg, id=559, 310.15875pt x 280.04625pt
+>
+ [92] [93])
+[94] [95] [96
 
 ]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 111.
+nput line 112.
 
 (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 111.
+(Font)              <9> on input line 112.
 
-[95
+[97
 
 {c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-[96]
+[98]
 Appendix A.
 (./src/vehicles.tex
-<figures/X1/Storm_eagle/DeathRogumer.jpg, id=567, 752.8125pt x 450.18187pt>
-<figures/X1/Enemies/ArmorSoldier.jpg, id=568, 551.05875pt x 625.58719pt>
-<figures/X2/Enemies/Ride_armor_RABBIT.png, id=569, 887.315pt x 1016.79875pt>
- [97
+<figures/X1/Storm_eagle/DeathRogumer.jpg, id=586, 752.8125pt x 450.18187pt>
+<figures/X1/Enemies/ArmorSoldier.jpg, id=587, 551.05875pt x 625.58719pt>
+<figures/X2/Enemies/Ride_armor_RABBIT.png, id=588, 887.315pt x 1016.79875pt>
+ [99
 
 ]
-<figures/X3/weapons/Chimera.png, id=574, 523.20468pt x 632.3625pt>
-<figures/X3/weapons/Frog.png, id=575, 597.73312pt x 632.3625pt>
-<figures/X3/weapons/Kangaroo.png, id=576, 679.03688pt x 632.3625pt>
-<figures/X3/weapons/Hawk.png, id=577, 667.74469pt x 632.3625pt>
- [98]
-<figures/X3/Doppler_stages/vile2_armor.png, id=581, 1003.75pt x 1126.2075pt>
-<figures/X2/weapons/RCCheval.png, id=582, 1003.75pt x 890.32625pt>
- [99]) [100]
+<figures/X3/weapons/Chimera.png, id=593, 523.20468pt x 632.3625pt>
+<figures/X3/weapons/Frog.png, id=594, 597.73312pt x 632.3625pt>
+<figures/X3/weapons/Kangaroo.png, id=595, 679.03688pt x 632.3625pt>
+<figures/X3/weapons/Hawk.png, id=596, 667.74469pt x 632.3625pt>
+ [100]
+<figures/X3/Doppler_stages/vile2_armor.png, id=601, 1003.75pt x 1126.2075pt>
+<figures/X2/weapons/RCCheval.png, id=602, 1003.75pt x 890.32625pt>
+ [101]) [102]
 Appendix B.
 (./src/enemies.tex
-<figures/X1/Enemies/Anglerge.jpg, id=590, 752.8125pt x 584.1825pt>
-<figures/X1/Enemies/BeeBlader.jpg, id=591, 752.8125pt x 486.31688pt>
-<figures/X1/Enemies/BeeBlader_Dive.png, id=592, 1003.75pt x 732.7375pt>
- [101
+<figures/X1/Enemies/Anglerge.jpg, id=610, 752.8125pt x 584.1825pt>
+<figures/X1/Enemies/BeeBlader.jpg, id=611, 752.8125pt x 486.31688pt>
+<figures/X1/Enemies/BeeBlader_Dive.png, id=612, 1003.75pt x 732.7375pt>
+ [103
 
 ]
-<figures/X2/Enemies/ChopRegister.png, id=596, 697.60625pt x 840.13875pt>
-<figures/X2/Enemies/ChopRegister_Dive.png, id=597, 1204.5pt x 1284.8pt>
- [102]
-<figures/X1/Enemies/Cruiziller.jpg, id=602, 752.8125pt x 351.56343pt>
-<figures/X3/Enemies/hellcrusher.png, id=603, 728.7225pt x 731.73375pt>
-<figures/X3/Enemies/hellcrusher_dive.png, id=604, 1003.75pt x 782.925pt>
-<figures/X3/Enemies/hotareeca.png, id=605, 548.0475pt x 632.3625pt>
- [103]
-<figures/X3/Enemies/mac.png, id=609, 668.4975pt x 718.18312pt>
-<figures/X2/Enemies/MagnaQuartz.png, id=610, 607.26875pt x 842.14626pt>
-<figures/X2/Enemies/MagnaQuartz_Dive.png, id=611, 1003.75pt x 1520.68124pt>
+<figures/X2/Enemies/ChopRegister.png, id=616, 697.60625pt x 840.13875pt>
+<figures/X2/Enemies/ChopRegister_Dive.png, id=617, 1204.5pt x 1284.8pt>
  [104]
-<figures/X1/Enemies/MoleBorer.jpg, id=615, 508.90125pt x 628.59843pt>
-<figures/X1/Enemies/MoleBorer_Dive.png, id=616, 1003.75pt x 1191.45125pt>
-<figures/X3/Enemies/mosquitus.png, id=617, 672.26157pt x 632.3625pt>
+<figures/X1/Enemies/Cruiziller.jpg, id=621, 752.8125pt x 351.56343pt>
+<figures/X3/Enemies/hellcrusher.png, id=622, 728.7225pt x 731.73375pt>
+<figures/X3/Enemies/hellcrusher_dive.png, id=623, 1003.75pt x 782.925pt>
+<figures/X3/Enemies/hotareeca.png, id=624, 548.0475pt x 632.3625pt>
  [105]
-<figures/X2/Enemies/OldRobot.png, id=621, 561.09625pt x 839.135pt>
-<figures/X2/Enemies/OldRobot_Dive.png, id=622, 1003.75pt x 1664.2175pt>
-<figures/X2/Enemies/PararoidS38.png, id=623, 735.74875pt x 833.1125pt>
+<figures/X3/Enemies/mac.png, id=628, 668.4975pt x 718.18312pt>
+<figures/X2/Enemies/MagnaQuartz.png, id=629, 607.26875pt x 842.14626pt>
+<figures/X2/Enemies/MagnaQuartz_Dive.png, id=630, 1003.75pt x 1520.68124pt>
  [106]
-<figures/X2/Enemies/RaiderKiller.png, id=627, 868.24374pt x 1030.85126pt>
-<figures/X2/Enemies/RaiderKiller_Dive.png, id=628, 1003.75pt x 1115.16624pt>
-<figures/X3/Enemies/rex2000.png, id=629, 634.62094pt x 632.3625pt>
-<figures/X3/Enemies/rex200_dive.png, id=630, 1003.75pt x 923.45pt>
-<figures/X1/Enemies/RT-55J.jpg, id=631, 523.20468pt x 768.62157pt>
-<figures/X1/Enemies/RT55J_Dive.png, id=632, 1003.75pt x 821.0675pt>
+<figures/X1/Enemies/MoleBorer.jpg, id=634, 508.90125pt x 628.59843pt>
+<figures/X1/Enemies/MoleBorer_Dive.png, id=635, 1003.75pt x 1191.45125pt>
+<figures/X3/Enemies/mosquitus.png, id=636, 672.26157pt x 632.3625pt>
  [107]
-<figures/X2/Enemies/SeaCanthller.png, id=636, 1003.75pt x 690.58pt>
-<figures/X3/Enemies/shurikein.png, id=637, 1003.75pt x 784.9325pt>
-<figures/X3/Enemies/shurikein_dive.png, id=638, 1003.75pt x 1082.0425pt>
+<figures/X2/Enemies/OldRobot.png, id=640, 561.09625pt x 839.135pt>
+<figures/X2/Enemies/OldRobot_Dive.png, id=641, 1003.75pt x 1664.2175pt>
+<figures/X2/Enemies/PararoidS38.png, id=642, 735.74875pt x 833.1125pt>
  [108]
-<figures/X1/Enemies/ThunderSlimer.jpg, id=643, 615.80063pt x 625.58719pt>
-<figures/X1/Enemies/Utuboros.jpg, id=644, 499.11469pt x 627.09282pt>
+<figures/X2/Enemies/RaiderKiller.png, id=647, 868.24374pt x 1030.85126pt>
+<figures/X2/Enemies/RaiderKiller_Dive.png, id=648, 1003.75pt x 1115.16624pt>
+<figures/X3/Enemies/rex2000.png, id=649, 634.62094pt x 632.3625pt>
+<figures/X3/Enemies/rex200_dive.png, id=650, 1003.75pt x 923.45pt>
+<figures/X1/Enemies/RT-55J.jpg, id=651, 523.20468pt x 768.62157pt>
+<figures/X1/Enemies/RT55J_Dive.png, id=652, 1003.75pt x 821.0675pt>
  [109]
-<figures/X3/Enemies/wormseekerr.png, id=648, 565.36218pt x 632.3625pt>
-<figures/X2/Enemies/sprite_aclanda.png, id=649, 67.25125pt x 60.225pt>
-<figures/X1/Enemies/sprite_amenhopper.png, id=650, 24.69225pt x 13.2495pt>
-<figures/X1/Enemies/sprite_armor_soldier.png, id=651, 6.9861pt x 10.1178pt>
-
-[110]
-<figures/X3/Enemies/Atareeter.png, id=655, 44.165pt x 29.10875pt>
-<figures/X1/Enemies/sprite_axemax.png, id=656, 44.5665pt x 30.1125pt>
-<figures/X1/Enemies/sprite_balldevoux.png, id=657, 29.10875pt x 53.19875pt>
-<figures/X2/Enemies/sprite_barwayings.png, id=658, 36.135pt x 97.36375pt>
-<figures/X2/Enemies/sprite_BariteLastar.png, id=659, 26.0975pt x 43.16125pt>
+<figures/X2/Enemies/SeaCanthller.png, id=656, 1003.75pt x 690.58pt>
+<figures/X3/Enemies/shurikein.png, id=657, 1003.75pt x 784.9325pt>
+<figures/X3/Enemies/shurikein_dive.png, id=658, 1003.75pt x 1082.0425pt>
+ [110]
+<figures/X1/Enemies/ThunderSlimer.jpg, id=662, 615.80063pt x 625.58719pt>
+<figures/X1/Enemies/Utuboros.jpg, id=663, 499.11469pt x 627.09282pt>
  [111]
-<figures/X2/Enemies/sprite_BarrierAttacker.png, id=663, 28.105pt x 38.1425pt>
-<figures/X1/Enemies/sprite_battonbone.png, id=664, 24.69225pt x 13.85175pt>
-<figures/X1/Enemies/sprite_battonm501.png, id=665, 30.86531pt x 18.0675pt>
-<figures/X2/Enemies/sprite_beetron.png, id=666, 88.33pt x 57.21375pt>
-<figures/X3/Enemies/bladeysprite.png, id=667, 44.165pt x 44.165pt>
- [112]
-<figures/X2/Enemies/sprite_blecker.png, id=671, 34.1275pt x 42.1575pt>
-<figures/X1/Enemies/sprite_bombeen.png, id=672, 22.28325pt x 22.8855pt>
-<figures/X2/Enemies/sprite_CannonDriver.png, id=673, 57.21375pt x 73.27374pt>
-<figures/X3/Enemies/carryarmsprite.png, id=674, 38.1425pt x 61.22874pt>
-<figures/X3/Enemies/caterkillersprite.png, id=675, 30.1125pt x 37.13875pt>
+<figures/X3/Enemies/wormseekerr.png, id=667, 565.36218pt x 632.3625pt>
+<figures/X2/Enemies/sprite_aclanda.png, id=668, 67.25125pt x 60.225pt>
+<figures/X1/Enemies/sprite_amenhopper.png, id=669, 24.69225pt x 13.2495pt>
+<figures/X1/Enemies/sprite_armor_soldier.png, id=670, 6.9861pt x 10.1178pt>
+
+[112]
+<figures/X3/Enemies/Atareeter.png, id=674, 44.165pt x 29.10875pt>
+<figures/X1/Enemies/sprite_axemax.png, id=675, 44.5665pt x 30.1125pt>
+<figures/X1/Enemies/sprite_balldevoux.png, id=676, 29.10875pt x 53.19875pt>
+<figures/X2/Enemies/sprite_barwayings.png, id=677, 36.135pt x 97.36375pt>
+<figures/X2/Enemies/sprite_BariteLastar.png, id=678, 26.0975pt x 43.16125pt>
  [113]
-<figures/X3/Enemies/Crablaster.png, id=679, 48.18pt x 29.10875pt>
-<figures/X1/Enemies/sprite_cragman.png, id=680, 22.28325pt x 24.09pt>
-<figures/X2/Enemies/sprite_CrashRoader.png, id=681, 41.15375pt x 31.11626pt>
-<figures/X1/Enemies/sprite_creeper.png, id=682, 12.64725pt x 9.03375pt>
-<figures/X2/Enemies/sprite_CroakHopper.png, id=683, 28.105pt x 33.12375pt>
-<figures/X1/Enemies/sprite_crusher.png, id=684, 11.3223pt x 9.1542pt>
+<figures/X2/Enemies/sprite_BarrierAttacker.png, id=682, 28.105pt x 38.1425pt>
+<figures/X1/Enemies/sprite_battonbone.png, id=683, 24.69225pt x 13.85175pt>
+<figures/X1/Enemies/sprite_battonm501.png, id=684, 30.86531pt x 18.0675pt>
+<figures/X2/Enemies/sprite_beetron.png, id=685, 88.33pt x 57.21375pt>
+<figures/X3/Enemies/bladeysprite.png, id=686, 44.165pt x 44.165pt>
  [114]
-<figures/X1/Enemies/sprite_diglabour.png, id=689, 20.4765pt x 23.48775pt>
-<figures/X2/Enemies/sprite_DiskBoy08.png, id=690, 41.15375pt x 40.15pt>
-<figures/X1/Enemies/sprite_dodgeblaster.png, id=691, 15.05624pt x 20.4765pt>
-<figures/X3/Enemies/drillwayingsprite.png, id=692, 23.08624pt x 98.3675pt>
-<figures/X3/Enemies/DrimoleW.png, id=693, 54.2025pt x 36.135pt>
-<figures/X3/Enemies/earthcommandersprite.png, id=694, 29.10875pt x 30.1125pt>
+<figures/X2/Enemies/sprite_blecker.png, id=691, 34.1275pt x 42.1575pt>
+<figures/X1/Enemies/sprite_bombeen.png, id=692, 22.28325pt x 22.8855pt>
+<figures/X2/Enemies/sprite_CannonDriver.png, id=693, 57.21375pt x 73.27374pt>
+<figures/X3/Enemies/carryarmsprite.png, id=694, 38.1425pt x 61.22874pt>
+<figures/X3/Enemies/caterkillersprite.png, id=695, 30.1125pt x 37.13875pt>
  [115]
-<figures/X3/Enemies/escanail.png, id=698, 32.12pt x 63.23625pt>
-<figures/X2/Enemies/sprite_Fishern.png, id=699, 68.255pt x 23.08624pt>
-<figures/X1/Enemies/sprite_flamer.png, id=700, 20.4765pt x 16.26076pt>
-<figures/X1/Enemies/sprite_flammingle.png, id=701, 17.46526pt x 45.771pt>
-<figures/X3/Enemies/GansekiCarrierwebp.png, id=702, 50.1875pt x 74.2775pt>
+<figures/X3/Enemies/Crablaster.png, id=699, 48.18pt x 29.10875pt>
+<figures/X1/Enemies/sprite_cragman.png, id=700, 22.28325pt x 24.09pt>
+<figures/X2/Enemies/sprite_CrashRoader.png, id=701, 41.15375pt x 31.11626pt>
+<figures/X1/Enemies/sprite_creeper.png, id=702, 12.64725pt x 9.03375pt>
+<figures/X2/Enemies/sprite_CroakHopper.png, id=703, 28.105pt x 33.12375pt>
+<figures/X1/Enemies/sprite_crusher.png, id=704, 11.3223pt x 9.1542pt>
  [116]
-<figures/X2/Enemies/sprite_GarakutaRobot.png, id=706, 43.16125pt x 52.195pt>
-<figures/X1/Enemies/sprite_gulpfer.png, id=707, 25.2945pt x 28.30576pt>
-<figures/X1/Enemies/sprite_gunvolt.png, id=708, 10.5996pt x 14.2131pt>
-<figures/X3/Enemies/HammaHamma.png, id=709, 58.2175pt x 57.21375pt>
-<figures/X2/Enemies/sprite_HangedReploid.png, id=710, 18.0675pt x 71.26625pt>
+<figures/X1/Enemies/sprite_diglabour.png, id=708, 20.4765pt x 23.48775pt>
+<figures/X2/Enemies/sprite_DiskBoy08.png, id=709, 41.15375pt x 40.15pt>
+<figures/X1/Enemies/sprite_dodgeblaster.png, id=710, 15.05624pt x 20.4765pt>
+<figures/X3/Enemies/drillwayingsprite.png, id=711, 23.08624pt x 98.3675pt>
+<figures/X3/Enemies/DrimoleW.png, id=712, 54.2025pt x 36.135pt>
+<figures/X3/Enemies/earthcommandersprite.png, id=713, 29.10875pt x 30.1125pt>
  [117]
-<figures/X3/Enemies/hangerter.png, id=714, 49.18375pt x 24.09pt>
-<figures/X3/Enemies/headgunnercustomer.png, id=715, 38.1425pt x 45.16875pt>
-<figures/X3/Enemies/headgunnermasspro.png, id=716, 39.14626pt x 40.15pt>
-<figures/X3/Enemies/helitsprite.png, id=717, 39.14626pt x 36.135pt>
-<figures/X1/Enemies/sprite_hoganmer.png, id=718, 22.8855pt x 21.07875pt>
-<figures/X1/Enemies/sprite_hotarion.png, id=719, 29.51025pt x 30.1125pt>
+<figures/X3/Enemies/escanail.png, id=717, 32.12pt x 63.23625pt>
+<figures/X2/Enemies/sprite_Fishern.png, id=718, 68.255pt x 23.08624pt>
+<figures/X1/Enemies/sprite_flamer.png, id=719, 20.4765pt x 16.26076pt>
+<figures/X1/Enemies/sprite_flammingle.png, id=720, 17.46526pt x 45.771pt>
+<figures/X3/Enemies/GansekiCarrierwebp.png, id=721, 50.1875pt x 74.2775pt>
  [118]
-<figures/X3/Enemies/icedevoux.png, id=723, 35.13126pt x 37.13875pt>
-<figures/X2/Enemies/sprite_Installer.png, id=724, 50.1875pt x 50.1875pt>
-<figures/X3/Enemies/iwandevoux.png, id=725, 35.13126pt x 37.13875pt>
-<figures/X1/Enemies/sprite_jamminger.png, id=726, 19.87425pt x 20.4765pt>
-<figures/X2/Enemies/sprite_JellySeeker.png, id=727, 26.0975pt x 42.1575pt>
+<figures/X2/Enemies/sprite_GarakutaRobot.png, id=725, 43.16125pt x 52.195pt>
+<figures/X1/Enemies/sprite_gulpfer.png, id=726, 25.2945pt x 28.30576pt>
+<figures/X1/Enemies/sprite_gunvolt.png, id=727, 10.5996pt x 14.2131pt>
+<figures/X3/Enemies/HammaHamma.png, id=728, 58.2175pt x 57.21375pt>
+<figures/X2/Enemies/sprite_HangedReploid.png, id=729, 18.0675pt x 71.26625pt>
  [119]
-<figures/X1/Enemies/sprite_ladderyadder.png, id=731, 16.863pt x 19.87425pt>
-<figures/X1/Enemies/sprite_liftcannon.png, id=732, 8.1906pt x 22.4037pt>
-<figures/X1/Enemies/sprite_madpecker.png, id=733, 13.85175pt x 22.8855pt>
-<figures/X2/Enemies/sprite_MechaArm.png, id=734, 20.075pt x 94.3525pt>
-<figures/X1/Enemies/sprite_megatortoise.png, id=735, 43.362pt x 28.30576pt>
-<figures/X3/Enemies/Metacapsule.png, id=736, 36.135pt x 31.11626pt>
+<figures/X3/Enemies/hangerter.png, id=733, 49.18375pt x 24.09pt>
+<figures/X3/Enemies/headgunnercustomer.png, id=734, 38.1425pt x 45.16875pt>
+<figures/X3/Enemies/headgunnermasspro.png, id=735, 39.14626pt x 40.15pt>
+<figures/X3/Enemies/helitsprite.png, id=736, 39.14626pt x 36.135pt>
+<figures/X1/Enemies/sprite_hoganmer.png, id=737, 22.8855pt x 21.07875pt>
+<figures/X1/Enemies/sprite_hotarion.png, id=738, 29.51025pt x 30.1125pt>
  [120]
-<figures/X1/Enemies/sprite_metalwing.png, id=741, 22.28325pt x 11.44275pt>
-<figures/X1/Enemies/sprite_mettalc15.png, id=742, 13.85175pt x 13.2495pt>
-<figures/X3/Enemies/MineTortoise.png, id=743, 42.1575pt x 39.14626pt>
-<figures/X2/Enemies/sprite_Morgun.png, id=744, 41.15375pt x 47.17625pt>
-<figures/X3/Enemies/notorbanger.png, id=745, 41.15375pt x 34.1275pt>
+<figures/X3/Enemies/icedevoux.png, id=743, 35.13126pt x 37.13875pt>
+<figures/X2/Enemies/sprite_Installer.png, id=744, 50.1875pt x 50.1875pt>
+<figures/X3/Enemies/iwandevoux.png, id=745, 35.13126pt x 37.13875pt>
+<figures/X1/Enemies/sprite_jamminger.png, id=746, 19.87425pt x 20.4765pt>
+<figures/X2/Enemies/sprite_JellySeeker.png, id=747, 26.0975pt x 42.1575pt>
  [121]
-<figures/X2/Enemies/sprite_pararoid.png, id=749, 37.13875pt x 28.105pt>
-<figures/X2/Enemies/sprite_pararoidv1.png, id=750, 32.12pt x 12.045pt>
-<figures/X1/Enemies/sprite_planty.png, id=751, 13.2495pt x 13.85175pt>
-<figures/X1/Enemies/sprite_raybit.png, id=752, 17.46526pt x 19.87425pt>
-<figures/X1/Enemies/sprite_raytrap.png, id=753, 6.0225pt x 6.2634pt>
-<figures/X2/Enemies/sprite_Refleczer.png, id=754, 24.09pt x 36.135pt>
-
-[122]
-<figures/X2/Enemies/sprite_RideloidG.png, id=758, 62.2325pt x 63.23625pt>
-<figures/X2/Enemies/sprite_Rightod.png, id=759, 39.14626pt x 42.1575pt>
-<figures/X1/Enemies/sprite_roadattacker.png, id=760, 42.1575pt x 22.8855pt>
-<figures/X2/Enemies/sprite_RideChaserCheval.png, id=761, 53.19875pt x 46.1725pt
->
-<figures/X1/Enemies/sprite_rollinggabyoall.png, id=762, 13.85175pt x 15.6585pt>
-
+<figures/X1/Enemies/sprite_ladderyadder.png, id=751, 16.863pt x 19.87425pt>
+<figures/X1/Enemies/sprite_liftcannon.png, id=752, 8.1906pt x 22.4037pt>
+<figures/X1/Enemies/sprite_madpecker.png, id=753, 13.85175pt x 22.8855pt>
+<figures/X2/Enemies/sprite_MechaArm.png, id=754, 20.075pt x 94.3525pt>
+<figures/X1/Enemies/sprite_megatortoise.png, id=755, 43.362pt x 28.30576pt>
+<figures/X3/Enemies/Metacapsule.png, id=756, 36.135pt x 31.11626pt>
+ [122]
+<figures/X1/Enemies/sprite_metalwing.png, id=760, 22.28325pt x 11.44275pt>
+<figures/X1/Enemies/sprite_mettalc15.png, id=761, 13.85175pt x 13.2495pt>
+<figures/X3/Enemies/MineTortoise.png, id=762, 42.1575pt x 39.14626pt>
+<figures/X2/Enemies/sprite_Morgun.png, id=763, 41.15375pt x 47.17625pt>
+<figures/X3/Enemies/notorbanger.png, id=764, 41.15375pt x 34.1275pt>
  [123]
-<figures/X1/Enemies/sprite_rushroader.png, id=766, 30.1125pt x 20.4765pt>
-<figures/X2/Enemies/sprite_Sabottein.png, id=767, 20.075pt x 38.1425pt>
-<figures/X2/Enemies/sprite_scrambler.png, id=768, 34.1275pt x 45.16875pt>
-<figures/X1/Enemies/sprite_scraprobo.png, id=769, 21.681pt x 22.8855pt>
-<figures/X2/Enemies/sprite_scriver.png, id=770, 37.13875pt x 26.0975pt>
- [124]
-<figures/X1/Enemies/sprite_seaattacker.png, id=774, 13.85175pt x 24.09pt>
-<figures/X1/Enemies/sprite_sinefaller.png, id=775, 15.6585pt x 18.0675pt>
-<figures/X1/Enemies/sprite_skyclaw.png, id=776, 20.4765pt x 23.48775pt>
-<figures/X2/Enemies/sprite_SkyFarmer.png, id=777, 32.12pt x 59.22125pt>
-<figures/X2/Enemies/sprite_slidame.png, id=778, 40.15pt x 32.12pt>
-<figures/X1/Enemies/sprite_slidecannon.png, id=779, 39.7485pt x 20.4765pt>
+<figures/X2/Enemies/sprite_pararoid.png, id=768, 37.13875pt x 28.105pt>
+<figures/X2/Enemies/sprite_pararoidv1.png, id=769, 32.12pt x 12.045pt>
+<figures/X1/Enemies/sprite_planty.png, id=770, 13.2495pt x 13.85175pt>
+<figures/X1/Enemies/sprite_raybit.png, id=771, 17.46526pt x 19.87425pt>
+<figures/X1/Enemies/sprite_raytrap.png, id=772, 6.0225pt x 6.2634pt>
+<figures/X2/Enemies/sprite_Refleczer.png, id=773, 24.09pt x 36.135pt>
+
+[124]
+<figures/X2/Enemies/sprite_RideloidG.png, id=777, 62.2325pt x 63.23625pt>
+<figures/X2/Enemies/sprite_Rightod.png, id=778, 39.14626pt x 42.1575pt>
+<figures/X1/Enemies/sprite_roadattacker.png, id=779, 42.1575pt x 22.8855pt>
+<figures/X2/Enemies/sprite_RideChaserCheval.png, id=780, 53.19875pt x 46.1725pt
+>
+<figures/X1/Enemies/sprite_rollinggabyoall.png, id=781, 13.85175pt x 15.6585pt>
+
  [125]
-<figures/X1/Enemies/sprite_snowshooter.png, id=783, 12.64725pt x 27.10126pt>
-<figures/X3/Enemies/SnowRider.png, id=784, 43.16125pt x 36.135pt>
-<figures/X3/Enemies/SnowSlider.png, id=785, 69.25874pt x 36.135pt>
-<figures/X2/Enemies/sprite_SoleSolar.png, id=786, 31.11626pt x 86.3225pt>
-<figures/X1/Enemies/sprite_spiky.png, id=787, 37.13875pt x 37.13875pt>
-<figures/X2/Enemies/sprite_tiranos.png, id=788, 40.15pt x 34.1275pt>
+<figures/X1/Enemies/sprite_rushroader.png, id=785, 30.1125pt x 20.4765pt>
+<figures/X2/Enemies/sprite_Sabottein.png, id=786, 20.075pt x 38.1425pt>
+<figures/X2/Enemies/sprite_scrambler.png, id=787, 34.1275pt x 45.16875pt>
+<figures/X1/Enemies/sprite_scraprobo.png, id=788, 21.681pt x 22.8855pt>
+<figures/X2/Enemies/sprite_scriver.png, id=789, 37.13875pt x 26.0975pt>
  [126]
-<figures/X1/Enemies/sprite_tombot.png, id=793, 24.69225pt x 11.44275pt>
-<figures/X3/Enemies/Tombort.png, id=794, 43.16125pt x 26.0975pt>
-<figures/X3/Enemies/Trapper.png, id=795, 26.0975pt x 17.06375pt>
-<figures/X2/Enemies/sprite_TubamailGenerator.png, id=796, 50.1875pt x 19.07124p
-t>
-<figures/X2/Enemies/sprite_Tubamail-s.png, id=797, 42.1575pt x 26.0975pt>
-<figures/X1/Enemies/sprite_turncannon.png, id=798, 8.1906pt x 5.2998pt>
+<figures/X1/Enemies/sprite_seaattacker.png, id=794, 13.85175pt x 24.09pt>
+<figures/X1/Enemies/sprite_sinefaller.png, id=795, 15.6585pt x 18.0675pt>
+<figures/X1/Enemies/sprite_skyclaw.png, id=796, 20.4765pt x 23.48775pt>
+<figures/X2/Enemies/sprite_SkyFarmer.png, id=797, 32.12pt x 59.22125pt>
+<figures/X2/Enemies/sprite_slidame.png, id=798, 40.15pt x 32.12pt>
+<figures/X1/Enemies/sprite_slidecannon.png, id=799, 39.7485pt x 20.4765pt>
  [127]
-<figures/X3/Enemies/victoroid.png, id=802, 68.255pt x 54.2025pt>
-<figures/X3/Enemies/victoroidcustomer.png, id=803, 68.255pt x 54.2025pt>
-<figures/X3/Enemies/WalkBlaster.png, id=804, 43.16125pt x 41.15375pt>
-<figures/X3/Enemies/Wallcancer.png, id=805, 36.135pt x 46.1725pt>
-<figures/X2/Enemies/sprite_weathercrystal.png, id=806, 30.1125pt x 33.12375pt>
+<figures/X1/Enemies/sprite_snowshooter.png, id=803, 12.64725pt x 27.10126pt>
+<figures/X3/Enemies/SnowRider.png, id=804, 43.16125pt x 36.135pt>
+<figures/X3/Enemies/SnowSlider.png, id=805, 69.25874pt x 36.135pt>
+<figures/X2/Enemies/sprite_SoleSolar.png, id=806, 31.11626pt x 86.3225pt>
+<figures/X1/Enemies/sprite_spiky.png, id=807, 37.13875pt x 37.13875pt>
+<figures/X2/Enemies/sprite_tiranos.png, id=808, 40.15pt x 34.1275pt>
  [128]
-<figures/X3/Enemies/WildTank.png, id=810, 52.195pt x 55.20625pt>
-) [129]
+<figures/X1/Enemies/sprite_tombot.png, id=812, 24.69225pt x 11.44275pt>
+<figures/X3/Enemies/Tombort.png, id=813, 43.16125pt x 26.0975pt>
+<figures/X3/Enemies/Trapper.png, id=814, 26.0975pt x 17.06375pt>
+<figures/X2/Enemies/sprite_TubamailGenerator.png, id=815, 50.1875pt x 19.07124p
+t>
+<figures/X2/Enemies/sprite_Tubamail-s.png, id=816, 42.1575pt x 26.0975pt>
+<figures/X1/Enemies/sprite_turncannon.png, id=817, 8.1906pt x 5.2998pt>
+ [129]
+<figures/X3/Enemies/victoroid.png, id=821, 68.255pt x 54.2025pt>
+<figures/X3/Enemies/victoroidcustomer.png, id=822, 68.255pt x 54.2025pt>
+<figures/X3/Enemies/WalkBlaster.png, id=823, 43.16125pt x 41.15375pt>
+<figures/X3/Enemies/Wallcancer.png, id=824, 36.135pt x 46.1725pt>
+<figures/X2/Enemies/sprite_weathercrystal.png, id=825, 30.1125pt x 33.12375pt>
+ [130]
+<figures/X3/Enemies/WildTank.png, id=829, 52.195pt x 55.20625pt>
+) [131]
 Appendix C.
-[130
+[132
 
 ]
 Appendix D.
 (./src/tables.tex
-<figures/X1/weapons/Xbuster.png, id=817, 60.225pt x 51.19125pt>
-<figures/X1/weapons/Homig_T.jpg, id=818, 60.225pt x 50.1875pt>
-<figures/X1/weapons/C_sting.jpg, id=819, 60.225pt x 50.1875pt>
-<figures/X1/weapons/Rolling_S.jpg, id=820, 60.225pt x 50.1875pt>
-<figures/X1/weapons/F_wave.jpg, id=821, 60.225pt x 50.1875pt>
-<figures/X1/weapons/Storm_T.jpg, id=822, 60.225pt x 51.19125pt>
-<figures/X1/weapons/E_Spark.jpg, id=823, 60.225pt x 51.19125pt>
-<figures/X1/weapons/B_cutter.jpg, id=824, 60.225pt x 50.1875pt>
-<figures/X1/weapons/S_ice.jpg, id=825, 60.225pt x 51.19125pt>
-<figures/X1/weapons/hadoken_sprite.png, id=826, 73.27374pt x 56.21pt>
- [131
+<figures/X1/weapons/Xbuster.png, id=837, 60.225pt x 51.19125pt>
+<figures/X1/weapons/Homig_T.jpg, id=838, 60.225pt x 50.1875pt>
+<figures/X1/weapons/C_sting.jpg, id=839, 60.225pt x 50.1875pt>
+<figures/X1/weapons/Rolling_S.jpg, id=840, 60.225pt x 50.1875pt>
+<figures/X1/weapons/F_wave.jpg, id=841, 60.225pt x 50.1875pt>
+<figures/X1/weapons/Storm_T.jpg, id=842, 60.225pt x 51.19125pt>
+<figures/X1/weapons/E_Spark.jpg, id=843, 60.225pt x 51.19125pt>
+<figures/X1/weapons/B_cutter.jpg, id=844, 60.225pt x 50.1875pt>
+<figures/X1/weapons/S_ice.jpg, id=845, 60.225pt x 51.19125pt>
+<figures/X1/weapons/hadoken_sprite.png, id=846, 73.27374pt x 56.21pt>
+ [133
 
 ]
-<figures/X2/weapons/C_hunter.png, id=830, 46.1725pt x 41.15375pt>
-<figures/X2/weapons/G_crush.png, id=831, 46.1725pt x 40.15pt>
-<figures/X2/weapons/Shoryuken_ico.png, id=832, 36.135pt x 81.30376pt>
- [132]
-<figures/X3/weapons/A_burst.jpg, id=837, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/P_bomb.jpg, id=838, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/T_thunder.jpg, id=839, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/S_blade.jpg, id=840, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/R_splasher.jpg, id=841, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/G_well.jpg, id=842, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/F_shield.jpg, id=843, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/T_fang.jpg, id=844, 50.1875pt x 43.16125pt>
-<figures/X3/weapons/Saber.png, id=845, 10.1178pt x 12.2859pt>
-) (./MMX_Compendium.bbl [133]
+
+LaTeX Warning: Reference `shoryuken' on page 134 undefined on input line 46.
+
+<figures/X2/weapons/C_hunter.png, id=850, 46.1725pt x 41.15375pt>
+<figures/X2/weapons/B_splash.png, id=851, 46.1725pt x 41.15375pt>
+<figures/X2/weapons/S_shot.png, id=852, 46.1725pt x 40.15pt>
+<figures/X2/weapons/S_wheel.png, id=853, 46.1725pt x 41.15375pt>
+<figures/X2/weapons/S_slicer.png, id=854, 46.1725pt x 40.15pt>
+<figures/X2/weapons/S_chain.png, id=855, 46.1725pt x 40.15pt>
+<figures/X2/weapons/M_mine.png, id=856, 46.1725pt x 41.15375pt>
+<figures/X2/weapons/S_burner.png, id=857, 46.1725pt x 41.15375pt>
+<figures/X2/weapons/G_crush.png, id=858, 46.1725pt x 40.15pt>
+<figures/X2/weapons/Shoryuken_ico.png, id=859, 36.135pt x 81.30376pt>
+[134]
+<figures/X3/weapons/Saber.png, id=863, 10.1178pt x 12.2859pt>
+) (./MMX_Compendium.bbl [135]
 Underfull \hbox (badness 1199) in paragraph at lines 84--87
 \T1/cmr/m/n/10 ual. [On-line]. Avail-able: $https : / / usermanual . wiki / Cap
 com /
@@ -1200,9 +1144,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--87
  .
  []
 
-[134
+[136
 
-] [135] [136] [137] [138] [139] [140] [141]) [142] (./MMX_Compendium.aux)
+] [137] [138] [139] [140] [141] [142] [143]) [144] (./MMX_Compendium.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1213,39 +1157,38 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 19239 strings out of 474221
- 398946 string characters out of 5750188
+ 19328 strings out of 474221
+ 399602 string characters out of 5750188
  1957978 words of memory out of 5000000
- 41240 multiletter control sequences out of 15000+600000
- 577956 words of font info for 73 fonts, out of 8000000 for 9000
+ 41329 multiletter control sequences out of 15000+600000
+ 578329 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,18n,93p,2810b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 80i,18n,93p,2110b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-
-Solid.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texli
-ve/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/f
-onts/type1/public/cm-super/sfbi1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1
-/public/cm-super/sfbi1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm
--super/sfbx1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfb
-x1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb>
-<c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texliv
-e/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2023/tex
-mf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2023/texmf-dist/fo
-nts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
-public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-
-super/sfrm0900.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm
-1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><
-c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive
-/2023/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb><c:/texlive/2023/texm
-f-dist/fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2023/texmf-dist/fon
-ts/type1/public/cm-super/sftt0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
-ublic/cm-super/sftt1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-s
-uper/sftt1200.pfb>
-Output written on MMX_Compendium.pdf (143 pages, 746763 bytes).
+Solid.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/tex
+mf-dist/fonts/type1/public/cm-super/sfbi1000.pfb><c:/texlive/2023/texmf-dist/fo
+nts/type1/public/cm-super/sfbi1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/
+public/cm-super/sfbx1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-
+super/sfbx1200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx
+1440.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb><
+c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb><c:/texlive
+/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb><c:/texlive/2023/texm
+f-dist/fonts/type1/public/cm-super/sfrm0700.pfb><c:/texlive/2023/texmf-dist/fon
+ts/type1/public/cm-super/sfrm0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/p
+ublic/cm-super/sfrm0900.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-s
+uper/sfrm1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1
+200.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c
+:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb><c:/texlive/
+2023/texmf-dist/fonts/type1/public/cm-super/sfti0900.pfb><c:/texlive/2023/texmf
+-dist/fonts/type1/public/cm-super/sfti1000.pfb><c:/texlive/2023/texmf-dist/font
+s/type1/public/cm-super/sftt1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/pu
+blic/cm-super/sftt1200.pfb>
+Output written on MMX_Compendium.pdf (145 pages, 745034 bytes).
 PDF statistics:
- 988 PDF objects out of 1000 (max. 8388607)
- 395 compressed objects within 4 object streams
+ 1005 PDF objects out of 1200 (max. 8388607)
+ 398 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 1966 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2036 words of extra memory for PDF output out of 10000 (max. 10000000)
 
