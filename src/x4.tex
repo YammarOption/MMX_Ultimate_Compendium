@@ -3,10 +3,9 @@
 \chapter{Game overview}
 \textit{Mega Man X4} is the fourth installment in the Mega Man X series. Initially intended to be a Sega Saturn exclusive, the game was ultimately released on both the Sega Saturn and PlayStation in August and September 1997 in Japan and America, respectively. This made it the second game in the franchise to be available on these platforms, following its predecessor. The European version, however, was released exclusively for the PlayStation in October 1997. The game later became available for PC in Japan in December of the following year and in America and Europe in June 1999.
 
-While retaining the series' core features, \textit{Mega Man X4} significantly changes its visual style, transitioning from a 16-bit to a fully 32-bit art style. Character sprites were entirely redesigned, nearly doubling the total number of animations~\cite{wikip
-}, and the quality of the backgrounds was also enhanced. Due to the large number of sprites, the developers implemented a compression routine to fit everything, which resulted in almost all stages being split into two sections. Additionally, this is the first game in the series to feature fully voiced FMV cutscenes, although its predecessor had non-voiced ones. Notably, the game also marks the first time that Zero is fully playable, offering a radically different playstyle and a dedicated campaign compared to X.
+While retaining the series' core features, \textit{Mega Man X4} significantly changes its visual style, transitioning from a 16-bit to a fully 32-bit art style. Character sprites were entirely redesigned, nearly doubling the total number of animations~\cite{wikip}, and the quality of the backgrounds was also enhanced. Due to the large number of sprites, the developers implemented a compression routine to fit everything, which resulted in almost all stages being split into two sections. Additionally, this is the first game in the series to feature fully voiced FMV cutscenes, although its predecessor had non-voiced ones. Notably, the game also marks the first time that Zero is fully playable, offering a radically different playstyle and a dedicated campaign compared to X.
 
-Overall, the game was praised for the changes it introduced to the series, particularly the addition of Zero and the updated graphics. However, it faced criticism for its limited innovation in gameplay compared to its predecessor and, most notably, for the poor quality of the voice acting, which is still remembered today.
+Overall, the game was praised for the changes it introduced to the series, particularly the addition of Zero and the updated graphics. However, it faced criticism for its limited innovation in gameplay compared to its predecessor and, most notably, for the poor quality of the voice acting, which is still remembered today. Interestingly, not all the game's elements received adaptation, as the eight bosses' battle quote kept their japanese voice acting (this does not apply to later bosses) and their pre-battle dialogue with the player characters were completely removed.
 
 \section{Main plot}
 
@@ -46,6 +45,7 @@ Following the path set by its predecessors, Mega Man X4 continues to innovate it
 	\item Similarly, the Ride Armor system has been changed back to the way it was in the X1-X2 games, with the removal of summoning platforms and upgrade modules.
 	\item \textbf{Ride Chaser Return}: The Ride Chaser vehicles from Mega Man X2 make a return. However, unlike in X2 where they functioned more like Ride Armors, in this game, the Ride Chaser is featured in a high-speed, auto-scrolling section limited to a single stage.
 	\item \textbf{Dual Fire Button}: Thanks to upgraded hardware, the game allows players to map two buttons to the fire command, one for the regular X-Buster and another for the sub-weapon. This enables players to use both the regular fire and sub-weapon at the same time, unlike previous games where only one could be used at once. However, it’s not possible to charge one while using the other, as firing a sub-weapon interrupts the charge of the main weapon and vice-versa.
+	\item \textbf{Two-part stages}: A new element for this game consists in having most of the stages divided into two big areas, often differentiated by enemies inside and background/environment. Reaching the second area of a stage also act as an intermediate check point, as players have to choice to restart from the beginning of it should they receive a game-over.
 \end{itemize}
 
 
@@ -152,38 +152,142 @@ Shippuuga is Zero's final technique, obtained after defeating Slash Beast~\ref{b
 
 
 \section{Fourth Armor}\label{X4:Armor}
+Following the tradition established by previous games, Mega Man X4 introduces a new set of armor parts split into four different capsules hidden across distinct stages. However, unlike previous entries, Mega Man X4 breaks the tradition of having a secret fifth capsule obtainable by collecting all hidden collectibles. Obviously, the capsule system is exclusive to X's campaign, as armor capsules do not appear at all during Zero's campaign.
 
+The Fourth Armor, also referred to in different sources as the \textit{Normal Armor}~\cite{book:Compendium} or \textit{Force Armor}~\cite{X5:manual}, consists of the following parts:
 
 \begin{itemize}
-	\item \emph{Foot parts}
-		
-	\item \emph{Body Parts}
+	\item \emph{Foot Parts:} These allow X to perform an air dash, similar to previous games. Additionally, by pressing the jump button a second time while in the air, X can hover in place for a few seconds. While hovering, X can move slightly forward or backward without turning, though moving significantly reduces hover time. The capsule containing the Foot Parts is hidden in Web Spider's stage, in a side path behind a waterfall near the beginning.
 	
-	\item \emph{Arm Parts}
+	\item \emph{Body Parts:} Found in Magma Dragoon's stage, near the end of the second section and where the Ride Armor can be found, hidden behind a wall breakable only by using a charged Twin Slasher. These parts halve all incoming damage and convert it into energy for the Nova Strike—an invincible, high-damage air dash executed by pressing the Giga-Attack button.
 	
-	\item \emph{Head Parts}
+	\item \emph{Arm Parts:} Upgrade the X-Buster, enabling the charge-up of special weapons and unlocking a third level of charged shots. Hidden in Storm Owl's stage, these parts are located in a secret path accessible only by using the Lightning Web before the stage's mini-boss. Uniquely, players will find two capsules and can choose one of two versions of this upgrade, which can be swapped any time by revisiting the other capsule:
+	\begin{itemize}
+		\item \emph{Stock Charged Shot:} Allows X to store up to four smaller charged shots, which are displayed as icons under X's health bar. Pressing the shoot button fires a stored charged shot instead of a regular one if available. The Arm Parts for this version are white and blue.
+		\item \emph{Plasma Charged Shot:} Fires a single, larger charged shot that travels through enemies and walls, leaving up to three smaller plasma balls upon impact. These plasma balls deal continuous damage but take priority over other damage sources, canceling out other attacks. The Arm Parts for this version are black and yellow.
+	\end{itemize}
+	
+	\item \emph{Head Parts:} Located in Cyber Peacock's stage, these are awarded for achieving an S Rank in the third time trial. These parts reduce the energy cost of all sub-weapons to zero for their regular fire, making them effectively infinite unless energy is used for charged attacks.
 \end{itemize}
+
+Although, as stated, there is no secret capsule in this game, players can unlock an alternate armor by inputting a special code on the character selection screen. If entered correctly, X appears with a darker color scheme and receives the full \emph{Ultimate Armor} set upon entering any capsule. This armor, which becomes a staple in subsequent games, replaces the secret capsule mechanic from previous entries.%A better description on who and how the armor was developed are instead given in section \ref{boss:X}
+
+Technically, the Ultimate Armor functions identically to the regular Fourth Armor in most respects, except for its darker color scheme and the key addition of an infinite charge for the Nova Strike. This enhanced Nova Strike also features a larger hitbox, making it exceptionally effective for quickly defeating bosses.
+
 
 
 \chapter{Stages}
 
-\section{Opening Stage: Hunter Base}\label{X4:intro_stage}
+\section{Opening Stage: Sky Lagoon}\label{X4:intro_stage}
+Sky Lagoon is the first stage players encounter in the game, regardless of whether they choose X or Zero. The stage is split into two distinct halves: the first takes place in the floating city of Sky Lagoon, which is under attack by Maverick forces, while the second occurs in the ruins after the city's catastrophic fall. As with any introductory stage, this level serves as a tutorial to teach players the basic game mechanics.
 
-\section{Weapons Factory}
+The first area is a linear section where the stage boss, Eregion, intermittently attacks from the background or foreground, attacking with either its claws or by firing plasma shots. Players must progress while evading these attacks and dealing with shut doors, which can either be destroyed or jumped over, except for the final door, which has be destroyed. Destroying the final door causes Eregion to flee. Interestingly, players can also defeat Eregion by attacking its claws when it strikes, forcing it to retreat earlier without any significant consequences. After Eregion retreats, players traverse a long corridor filled with enemies, eventually reaching the generator room of Sky Lagoon. Here, X or Zero encounters Magma Dragoon, who declares that Sky Lagoon is doomed to fall before escaping. X or Zero are forced to teleport away as the floating city crashes to the ground.
 
-\section{Frozen Town}
+The ruins of Sky Lagoon provide the setting for the second half of the stage. The primary threats here include falling debris, which can crush X or Zero, and \hyperlink{miniboss:trap_blast}{Trap Blast} enemies, which emerge from the debris. Near the end of the stage, the floor collapses, leading to a pit containing collectibles that requires players to wall-jump to escape. However, skilled players who move quickly can avoid falling into the pit altogether, reaching the next section where Eregion, the stage boss, awaits.
+
+
+Sky Lagoon is home to following enemies:
+\begin{itemize}
+	\item \hyperlink{enem:Knot_Beret_B}{Knot Beret B}
+	\item \hyperlink{enem:Knot_Beret_G}{Knot Beret G}
+	\item \hyperlink{enem:Kyunnbyunn}{Kyunnbyunn}
+	\item \hyperlink{enem:Mad_Bull_97}{Mad Bull 97}
+	\item \hyperlink{enem:Spike_Marl}{Spike Marl}
+	\item \hyperlink{enem:Tonboroid_S}{Tonboroid S}
+	\item \hyperlink{enem:Trap_Blast}{Trap Blast}
+\end{itemize}
+\subsection{Eregion}\label{boss:Eregion}
+Eregion is a giant, dragon-like Mechaniloid equipped with massive wings that allow it to soar through the skies and attack with electric shots fired from its mouth. The origins and purpose of Eregion remain unknown, the only certain thing being that under the orders of Magma Dragoon, Eregion wreaked havoc on the city of Sky Lagoon to serve as a distraction, giving Magma Dragoon the opportunity to sabotage the city's systems and cause its catastrophic crash to the ground. Surviving the impact due to its ability to fly, Eregion resumed its rampage, only to be ultimately stopped by X or Zero (with Zero arriving to rescue Iris).
+
+As the first boss in the game, Eregion is relatively straightforward and manageable. During its initial encounter in Sky Lagoon, it attacks the player either by slamming his claw onto the ground, throwing a punch from below, piercing the floor, or firing plasma shots after flying in the foreground.
+Players can retaliate during the Claw Slam and the punch attacks by striking its claws, dealing damage and eventually forcing it to retreat. However, damaging Eregion during this phase has no bearing on the final boss fight.
+
+The actual battle against Eregion occurs at the end of the stage, within the ruins of Sky Lagoon. During this encounter, Eregion lands to engage the player directly and employs three main attacks~\cite{book:Compendium}: \emph{Claw Attack}, a wide swing of its claw aimed at the player; \emph{Tackle}, a flying swoop across the screen to reposition; \emph{Electromagnetic Shot}, an electric attacks from its mouth, either as a three-sphere projectile or a rapid stream that sweeps the ground. The variation depends on Eregion's remaining health.
+
+
+As the first boss, players have no access to any technique or weapon, meaning the only way to deal with it is either X's charged shots and Zero's jumping slash to hit Eregion's torso. Most of Eregion attacks can be easily avoided by dashing at the right moment (in case of the swoop, players must dash in the same direction Eregion is headed), except for the shot barrage, which requires a well-timed dash jump over it.
+
+Defeating Eregion unlocks the stage map, allowing players to choose their next level.
+
+
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 3\\
+		Claw Attack & 5 \\
+		Tackle & 5\\
+		Electromagnetic Shot& 3\\
+		\midrule
+		\multicolumn{2}{c}{Sky Lagoon}\\
+		Claw Slam & 5 \\
+		Punch & 5\\
+		Electromagnetic Shot& 4\\
+		\bottomrule
+	\end{tabular}
+	\caption{Maoh the giant's attacks and damages~\cite{book:Compendium,wiki:Maoh}}
+\end{table}
+
+\section{Jungle}
+The first stage the game presents the player is the jungle stage, home to Web Spider. The stage is set into a Jungle, which X/Zero must navigate to reach the boss room.
+
+The first part of the stage takes place in a waterfall area, where players navigate downstream following the waterfalls' stream. This portion is relatively straightforward, with the only danger portion being near the end, where two big gaps must be surpassed by jumping on logs falling from the waterfall.  After the moving log portion, players reach the bottom of the waterfall and must proceed upstream trough a climbing section.
+
+
+The stage's second part takes place in the depth of the forest, and leads players up to the boss door. This section can be split into two main segments, an initial one players must travel downstream some more waterfall while fighting enemies, and a second one set in between giant tree logs. The main dangers in this parts comes from enemies ambush in the form of \hyperlink{enem:obiiru}{Obiiru} falling from above, \hyperlink{enem:Mega_Nest}{mega nest} continuously spawning \hyperlink{enem:kyunnbyunn}{Kyunnbyunn} and \hyperlink{enem:Spider_Core}{spider cores} shooting and creating electrical web to hinder X's movement. Once players manage to move over such dangers they will reach the boss door where Web Spider awaits.
+
+
+The first stage of the game presents players with the Jungle Stage, home to Web Spider. Set in a dense jungle environment, this stage requires X/Zero to navigate through waterfalls and forested areas to reach the boss room.
+
+The first part of the stage takes place near a cascading waterfall. Here, players navigate downstream, following the waterfall's stream. This section is relatively straightforward, with most enemies presenting minimal threats, with the sole challenge coming near the end of this area, where two large gaps must be crossed by jumping onto moving logs that descend from the waterfall. After successfully crossing these gaps, they reach the bottom of the waterfall and proceed upstream through a climbing section, leading into the next area.
+
+The second part of the stage transitions into the heart of the jungle, where players must traverse dense forest areas filled with new hazards and enemies. This section can be divided into two segments: an initial segment, where players must travel downstream through more waterfalls while fighting enemies that attack from both above and below, and a second one, set between giant tree trunks. This portion features ambushes by various enemies, including \hyperlink{enem:Obiiru}{Obiiru} dropping from above,
+\hyperlink{enem:Mega_Nest}{Mega Nests}, which continuously spawn \hyperlink{enem:kyunnbyunn}{Kyunnbyunn}, and \hyperlink{enem:Spider_Core}{Spider Cores}, which shoot projectiles and create electrical webs to obstruct X/Zero's movement.
+Once players navigate past these obstacles, they reach the boss door, where Web Spider awaits.
+
+The jungle stage houses following enemies:
+\begin{itemize}
+	\item \hyperlink{enem:Blast_Raster}{Blast Raster}
+	\item \hyperlink{enem:Kill_Fisher}{Kill Fisher}
+	\item \hyperlink{enem:King_Poseidon}{King Poseidon}
+	\item \hyperlink{enem:Kyunnbyunn}{Kyunnbyunn}
+	\item \hyperlink{enem:Mega_Nest}{Mega Nest}
+	\item \hyperlink{enem:Metal_Gabyoall}{Metal Gabyoall}
+	\item \hyperlink{enem:Obiiru}{Obiiru}
+	\item \hyperlink{enem:Spider_Core}{Spider Core}
+\end{itemize}
+
+\subsection{Foot Parts}
+The capsule containing the foot parts can be found immediately at the beginning of the stage, in a not-so-hidden passage behind the first waterfall. Just entering the passage will lead players to the capsule with the power-up.
+
+\subsection{Heart Tank}
+The stage's Heart Tank is hidden within a burnable log in the second section. Players only need hit these particular logs using a fire based attack, either Rising Fire or Ryuenjin, to burn the log and reveal its content.
+
+\subsection{Web Spider}\label{boss:Web_spider}
+Originally a maverick hunter of the 0th special unit lead by Zero, Web Spider later enlisted himself in the ranks of repliforce, where he conducted several successful campaign which led him to become the leader of the guerrilla unit~\cite{wayback:X4_resources}. During Repliforce's coup, Spider and his unit were assigned to guard Repliforce's secret beam cannon hidden in a jungle. Spider would guard such weapon from all enemies, leading to ignore X/Zero's demand to disarm and their subsequent clash, which proved fatal for Spider.
+
+Despite Web Spider relies only on two attacks to damage the player, the high damage they deal, coupled with the possibility to Spider has to chain them together and possibly the low HP players may have if they travel this stage first can make this bossfight challenging. During the battle's first phase Spider will continuously hide himself offscreen by climbing its web, only to descend shortly after to attack with his \emph{Lightning Web}, an homing electric web which slowly follows players to trap them. If this happen, the web will start dealing damage until the player breaks free or a set quantity of damage has been reached. Upon shooting the web, Spider quickly retreats offscreen. Under certain circumstances, when the player gets trapped, Spider may descend early and land onto X/Zero for additional damages. When Spider reaches half health, the second phase triggers. Spider descends and creates a large web (which does not deal damage) and starts attacking from it, either using again the Lightning Web or with his \emph{Baby Spider Attack}, which summons four mini spiders which move along the floor and walls.
+
+Despite the lack of a big attack repertoire, dealing with Web Spider can pose a challenge, especially for players at the beginning of the game. The problem arise from the Lightning Web constantly chasing players, forcing them to use dash wall-jumps to jump over it, therefore distracting players from Spider, allowing him to retreat. During the first phase, player's best chance to hit the boss is attack as he descends, and retreat immediately to avoid getting caught in the web. X can rely on charged shots to attack from the distance, while Zero has to rely on jump slashes, making it a more dangerous approach. During the second phase, chances to attack Spider increase, as he is constantly on-screen, but his attack rate also increase. Furthermore, Spider's massive body also becomes a massive threats, due to how he moves and the contact damage he deals. In addition, baby spiders' hinder even more players' movement and, in case of X, even move below his regular buster shot, therefore requiring X a charged shot to dispose of them. Should player already face Web Spider after having defeated Slash Beast, X's Twin Slasher and Zero's Shippuuga will deal extra damage to Spider, although in Zero's case using this weapon is relatively ineffective due to Spider's position. X's Twin Slasher, on the other hand, proves to be incredibly effective, as using it during the first phase on Spider's web will cut it, causing him to fall and take even more damage. 
+
+Upon defeating Web Spider, X will gain access to the Lightning Web~(\ref{Lightning_Web}), while Zero will learn the Raijingeki~(\ref{Raijingeki}).
+\section{Cyberspace}
  
-\section{Airborne Aircraft Carrier}
+\section{Air Force}
 
-\section{Giant Dam}
+\section{Volcano}
 
-\section{Power Control Center} 
+\section{Marine Base} 
 
-\section{Shipyard}
+\section{Bio Laboratory}
 
-\section{Quarry}
+\section{Military Train}
 
-\section{Safari Park}
+\section{Snow Base}
 
 
 
