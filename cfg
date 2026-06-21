@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/YammarOption/MMX_Ultimate_Compendium.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[credential]
+	helper = store
+[user]
+	name = YammarOption
+	email = yammaroption@gmail.com
+[branch "draft"]
+	remote = origin
+	merge = refs/heads/draft
+	vscode-merge-base = origin/draft
