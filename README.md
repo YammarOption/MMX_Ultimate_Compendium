@@ -14,3 +14,4 @@ are stored to show how to perform certain tricks and/or glithces.
 - Mega Man X
 - Mega Man X2: vs X-Hunters
 - Mega Man X3
+- Mega Man X4
