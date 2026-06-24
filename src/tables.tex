@@ -1,9 +1,22 @@
 %Damage table.tex
-Here are reported damage tables for every weapon and every main bosses per game. For each sub:weapon two values are reported, standing for regular and charged shots (except sub:weapons which don't deal damages), and values refer to damage per single hit, not counting eventual multiple hits. For the X:buster four values are reported, one for each level charge included the one given by the arm parts.
+Here are reported damage tables for every weapon per game. For each subweapon two values are reported, standing for regular and charged shots (except subweapons which don't deal damages), and values refer to damage per single hit, not counting eventual multiple hits. For the X-buster four values are reported, one for each level charge included the one given by the arm parts.
 %\begin{landscape}
-\section{X1}
-Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X1}
 
+
+\section{X1}\label{sec:X1_damage}
+Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X1}.In particular, in X1, regular enemies can belong to one of two different damage tables: (1/2/4) or (2/4/5) (numbers represent damage dealt by the three level of buster shots).
+For such enemies, weapons deal following damages:
+\begin{itemize}
+	\item Homing Torpedo strikes for 3 damage to (1/2/4) and 2 to (2/4/5).
+	The charged version deals 3 damage each to (1/2/4) and 8 to (2/4/5). 
+	\item Chameleon Sting hits as a regular buster shot.
+	\item Rolling Shield deals 4x a regular buster shot in both normal and charged version.
+	\item Fire Wave hits for 1 damage every 2 frame regardless of the enemy.
+	\item Storm Tornado strikes for 1 Damage per frame. Charged version deals 4 damage per frame to (1/2/4) enemies and 1 damage per frame to (2/4/5) enemies. 
+	\item Electric Spark hits for 2 damage (1/2/4) or 6 (2/4/5). Charged version for 6 per frame to (1/2/4) or 3 per frame to (2/4/5). 
+	\item Boomerang Cutter deals 2x a regular buster shot. Charged version hits for	6/10 damage each to (1/2/4)/(2/4/5) enemies.
+	\item Each piece  of Shotgun Ice does 2x what a regular buster shot would do. Charged version hits for 8 Damage to all.
+\end{itemize}
 \begin{table}[htp]
 	\resizebox{\columnwidth}{!}{
 	\begin{tabular}{r *{10}{c}}
@@ -37,15 +50,27 @@ Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damag
 \end{table}
 %\end{landscape}
 
-\newpage
 \section{X2}
 Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X2}. 
-Please not that:
+From here on, enemies now are not divided anymore into damage class, but instead possess different weakness to X's weapons. Regular buster deals respectively 2,5 and 9 damages.A fully charged double buster shots can instead deal up to 30 damages.
+Damages dealt to regular enemies by X's weapons are:
 \begin{itemize}
-\item For the X-buster, the fourth value is the damage dealt only by the second shot when fired at full power.
-\item For the Shoryuken, damage reported is applied every two frame of contact, the first number represent the damage dealt to a boss without invincibility frame (i.e the first hit) and the second the damage dealt trough invincibility frames (check sec.~\ref{shoryuken} for detail on how damage dealt is calculated).
+	\item Enemies trapped by Crystal Hunter can be instantly destroyed yb dashing trough them. 
+	\item Bubble Splash hits for 2 damage a bubble, or 10 to those weak to it. Charged version hits for 5-25 damage per bubble.
+	\item Silk Shot deals 3 damage per piece (1 for leaves) and 15 (5) to enemies weak to it. Charged version deals 6 damage per piece (2 for leaves) and 30 (10) to enemies weak to it.
+	\item Spin Wheel strikes for 5 (25 if enemy is weak) damage every 10 frames. Charged version deals 10 (50 if enemy is weak) damage per bolt.
+	\item Strike Chain deals 5 or 20 damage if the enemy is weak to it. Charged version deals instead 2-5 damage per frame.
+	\item Sonic Slicer hits for 4 or 25 damages each slice if the enemy is weak to it. Charged version deals 1 damage per frame and 5 to those weak to it.
+	\item Magnet Mine hits for  1 Damage every 2 frames, or 5 to those weak to it, regardless of the version used.
+	\item Speed Burner's fireballs deal 5 damage (1 in water) or 25 to those weak to it (5 in water). Charged version hits for 1 damage every 2 frames.
+\end{itemize}
 
-\item For Silk Shot, the first set of data is related to the boss' original stage, while the second one refers to the boss rematch, which always results in scrap metal to be tossed. The only exception are the X-Hunters, that can be possibly faced in each stage and hence are subjected to each variant of the silk shot. In this case only the main weakness is reported. However this does not apply for their rematches, as the arena is fixed just like the other bosses.% values follow the following list: crystals $\rightarrow$ leafs $\rightarrow$ rocks $\rightarrow$ scraps.
+For bosses, please not that:
+\begin{itemize}
+	\item For the X-buster, the fourth value is the damage dealt only by the second shot when fired at full power.
+	\item For the Shoryuken, damage reported is applied every two frame of contact, the first number represent the damage dealt to a boss without invincibility frame (i.e the first hit) and the second the damage dealt trough invincibility frames (check sec.~\ref{shoryuken} for detail on how damage dealt is calculated).
+	
+	\item For Silk Shot, the first set of data is related to the boss' original stage, while the second one refers to the boss rematch, which always results in scrap metal to be tossed. The only exception are the X-Hunters, that can be possibly faced in each stage and hence are subjected to each variant of the silk shot. In this case only the main weakness is reported. However this does not apply for their rematches, as the arena is fixed just like the other bosses.% values follow the following list: crystals $\rightarrow$ leafs $\rightarrow$ rocks $\rightarrow$ scraps.
 \end{itemize}
 %\begin{landscape}	
 
@@ -87,21 +112,32 @@ Please not that:
 \footnotetext{If Wheel Gator is hit by the Strike Chain when flashing, the damage dealt will count as 5 instead of 3}
 %\end{landscape}
 
-\newpage
 \section{X3}
-Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X3}. 
-Please not that:
+Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:damage_chart_X3}. Buster shots deals respectively 3, 5 and 9 damages, while the main Cross Charge Shot hits for  18 damage.
+Damages dealt to regular enemies by X's weapons are:
+\begin{itemize}
+	\item Acid Burst hist for 9 damage in both forms.
+	\item Parasitic Bomb deals 2 damage in regular form and 5 when charged. Enemies weak are either instantly killed or take 9 damage from regular version.
+	\item Triad Thunder strikes for 15 damage against all enemies, while charged version strikes for 15 every two frames.
+	\item Spinning Blade deals 9 damage per blade, and 30 in charged form.
+	\item Ray Splasher hits for 5 damage per bullet in both forms.
+	\item Gravity Well destroys any enemies weak to it, but does nothing against other enemy.
+	\item Frost Shield strikes for 15 damage for both regular and charged version.
+	\item Tornado Fang deals 2 damage approximately every half second. Charged version deals 6 damages every 0.25 seconds.
+\end{itemize}
+
+For boss damages, please not that:
 \begin{itemize}
 	\item For the X-buster, the fourth value is the damage dealt by the combined shot.
 	\item For normal \emph{Acid Burst}, the first value refers to the glob itself, while the second indicates damage dealt by the droplets.
 	\item For normal \emph{Triad Thunder}, the first value refers to the electric pods, while the second for the bolts. For the charged version, first value indicate damage dealt by the shockwave, while the second for  the electric balls.
-	\item For charged \emph{Ray Spalsher}, the first value refers to the damage dealt by the pod itself, while the second for the beam it shots.
+	\item For charged \emph{Ray Splasher}, the first value refers to the damage dealt by the pod itself, while the second for the beam it shots.
 	\item For charged \emph{Frost Shield}, the first value refers to the damage dealt by the spikes when mounted on the X-buster, while the second for when they detach from it.
 	\item For the \emph{Z:Saber}, the first value refers to the damage dealt at close range, while the second for the shockwave plus the three slashes that follow it.
 \end{itemize}
 %\begin{landscape}	
 
-\begin{table}[htp] %TODO: controllo danni Vile tra le 2 battaglie
+\begin{table}[htp]
 	\resizebox{\columnwidth}{!}{
 		\begin{tabular}{r *{10}{c}}
 			\toprule
@@ -124,7 +160,7 @@ Please not that:
 		Neon Tiger		 &	 1:1:2:3& 1-1:1& 1:1 &  1-1:2-1& 2:4& 0:0-0& 0:0& 1:2-1& 0:0& 16:20\\
 		Bit				 &	 1:1:2:3& 1-1:1& 1:1 &  3-2:1-5& 1:1& 1:1-1& 0:0& 3:5-3& 0:0& -\\
 		Byte			 &	 1:1:2:3& 1-1:1& 1:1 &  1-1:1-1& 1:1& 2:5-2& 0:0& 1:1-1& 2:5& -\\
-GodKarmachine O Inary 	 &	 1:1:2:3& 1-1:1& 2:2 &  1-1:1-1& 1:1& 3:5-3& 0:0& 1:1-1& 0:0& -\\
+Godkarmachine O Inary 	 &	 1:1:2:3& 1-1:1& 2:2 &  1-1:1-1& 1:1& 3:5-3& 0:0& 1:1-1& 0:0& -\\
 Press Disposer		 	 &	 1:1:2:3& 1-1:1& 1:1 &  1-1:1-1& 1:1& 2:5-2& 0:0& 1:1-1& 2:5& -\\
 	Vile mk.II - DRA 00	 &	 1:1:2:3& 1-1:1& 1:1 &  0-0:1-0& 2:5& 2:5-2& 0:0& 1:1-1& 0:0& -\\
 Vile mk.II - Goliath	 &	 1:1:2:3& 1-1:1& 2:3 &  1-1:0-2& 1:1& 1:1-1& 0:0& 1:1-1& 0:0& -\\
@@ -137,4 +173,132 @@ Vile mk.II - Goliath	 &	 1:1:2:3& 1-1:1& 2:3 &  1-1:0-2& 1:1& 1:1-1& 0:0& 1:1-1&
 		\end{tabular}
 	}	
 	\caption{Damage chart for main bosses in Mega Man X3.}
+\end{table}
+
+
+\section{X4}
+Damage chart provided by the \emph{Mega Man Knowledge Database}~\cite{wiki:X4_damage_chart_X,wiki:X4_damage_chart_Z}. 
+For regular enemies, X's buster hits for 3,5 and 15 damages depending on the charge level, Stock Shots deals 8 damages, 
+Plasma Shots for 16 damages plus 2 per hit from the plasma and
+Nova Strike always deals 32 damages every 5 frames. Meanwhile, Zero's 3 slash combo deals 4 and 6 damages with the first two hits, while the third deals 4 damages every 6 frames. Zero's jump slash hits instead for 4 damage every 6 frames. Finally, regular enemies usually takes four times the weapon's regular damage when weak to it.
+
+Damages dealt to regular enemies by X's weapons are:
+\begin{itemize}
+	\item Lightning Web deals 1 damage in its regular form and 4 every few frames in the charged version.
+	\item Frost Tower hits for 4 damage every 9 frames, or 8 damage per piece when charged.
+	\item Soul Body strikes for 2 damage every 9 frames. The charged version creates a clone which attacks using the regular X-buster.
+	\item Rising Fire deals 4 damage, or 8 every few frames (amount varies) when charged.
+	\item Ground Hunter hits for 4 or 6 damages depending  on the charge level.
+	\item Aiming Laser deals 1 damage every 7 frames, while charged version deals 8 damage in the same amount of time.
+	\item Double Cyclone strikes for 2 damage every 5 frames. Charged version deals 4 damage every few frames (amount varies).
+	\item Twin Slasher hits for 1 damage each shot, whereas charged version hits for 6, except against Sigma's mini-bodies, where it hits for 4 instead.
+\end{itemize}
+
+while for Zero's techniques are:
+\begin{itemize}
+	\item Rakuhouha deals 8 damage per bolt. 
+	\item Kuuenzan hits for 6 damage every 7 frames.
+	\item Raijingeki deals 3 damage every 7 frames.
+	\item Ryuenjin hits for 8 damage every 7 frames.
+	\item Hyouretsuzan strike for 8 damage every few frames (amount varies).
+	\item Shippuuga deals 6 damage each 6 frames.
+\end{itemize}
+For boss damages, please not that:
+\begin{itemize}
+	\item For the X-buster, the third value is the damage dealt by the Arm Parts, which for bosses deals the same amount of damage regardless of the shot type. The plasma ball which remains after a fully charged plasma shot deal 1 point of damage. 
+	\item Entry for weapons that deal consecutive damages report only the first hit.
+	\item For charged \emph{Soul Body}, damage refers to shots fired by the clone.
+	\item Storm Owl can take a total of 9 points of damage when hit with a regular Aiming Laser and 12 when correctly hit with the charged version.
+	\item Similarly, in Zero's case Storm Owl takes two point of damage \textit{per bolt} which hits.
+	\item Web Spider takes 2 point of damage from regular Twin Slasher and 4 for the charged version. However, if the weapon is used to hit its web he will take 8 point of damage regardless.
+	\item For the Z-Saber, the five values refers to: first slash, second slash, third slash, jump slash (pre-Kuuenzan) and wall slash.
+	\item Damages for Zero's Tenkuuhaare not reported as they share the same with the regular Z Saber
+	\item Similarly, Zero's Hienkyaku does not deal any damage, since it is only a mobility option.
+	\item Magma Dragoon also takes 1 point of damage from Ride Armor's regular thrust, and 2 from all its other attacks.
+
+\end{itemize}
+%\begin{landscape}	
+
+\begin{table}[htp]
+	\resizebox{\columnwidth}{!}{
+		\begin{tabular}{r *{10}{c}}
+			\toprule
+			\huge{\textbf{Boss}}& {\includegraphics[width=30px,height=25px]{figures/X4/weapons/Ico_X_buster.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_web.png}}
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_frost.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_soul.png}} 
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_Rising.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_hunter.png}} 
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_aiming.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_cyclone.png}} 
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/Ico_slasher.png}} 
+			&{\includegraphics[height=25px]{figures/X4/weapons/Ico_nova.png}}\\
+			\midrule
+			\multicolumn{11}{c}{Sub-bosses}\\
+			\midrule
+			Eregion 	  &-:-:-:5:-&-&-&-&-&-&-&-&-&- \\
+			Tentoroid     &1:2:5&1:2&2:3&0:1&1:3&3:2&1:2&0:0&0:0&8 \\
+			Generaid Core &1:2:4&8:4&2:8&2:1&4:8&4:6&1:8&2:4&1:6& 6\\
+			Eyezard 	  &1:2:3&0:0&0:0&0:1&4:&1:2&0:0&2:4&1:2& 6\\
+			DG-42L		  &2:3:6&6:4&2:4&0:1&1:4&4:6&0:0&0:0&1:6& 6\\
+			\multicolumn{11}{c}{Main bosses}\\
+			\midrule
+			%name		   	X-buster 	LW  FT  SB	RF  GH  AL DC   TS   NS
+			Web Spider 			&1:2:3&0:0&1:2&1:1&1:2&1:2&0:0&1:2&2:4& 6\\
+			Cyber Peacock 		&1:2:3&0:0&0:0&4:1&1:2&0:0&0:0&2:2&0:0& 6\\
+			Storm Owl 			&1:2:3&2:2&2:2&1:1&1:2&0:0&1:1&0:0&1:2& 6\\
+			Magma Dragoon		&1:2:3&2:2&0:0&0:1&0:0&0:0&0:0&4:5&0:0& 6\\
+			Jet Stingray		&1:2:3&0:0&4:5&2:1&0:0&0:0&0:0&1:2&1:2& 6\\
+			Split Mushroom  	&1:2:3&4:2&1:1&0:1&1:1&1:1&0:0&1:1&1:1& 6\\
+			Slash Beast 		&1:2:3&1:1&1:0&0:1&1:0&4:5&0:0&0:0&0:0& 6\\
+			Frost walrus 		&1:2:3&1:1&0:0&0:1&4:5&1:1&0:0&0:0&1:0& 6\\
+			Colonel 			&1:1:2&0:0&3:4&0:1&0:0&0:0&0:0&0:0&0:0& 6\\
+			Double 				&0:0:2&0:0&0:0&0:0&0:0&0:0&0:0&5:5&0:0& 6\\
+			General 			&1:1:2&0:0&0:0&0:1&0:0&0:0&0:0&0:0&3:5& 6\\
+			Phantom Sigma 		&0:0:0&0:0&0:0&0:0&6:4&0:0&0:0&0:0&0:0& 0\\
+			Phantom Sigma (2nd) &0:0:0&4:4&0:0&0:1&0:0&0:0&0:0&0:0&0:0& 6\\
+			Earth Sigma			&0:1:2&0:0&0:0&3:0&0:0&0:0&0:0&0:0&0:0& 4\\
+			Gunner Sigma		&0:0:2&0:0&0:0&0:0&0:0&2:3&0:0&0:0&0:0& 4\\
+			\bottomrule
+		\end{tabular}
+	}	
+	\caption{Damage chart for main bosses in Mega Man X4 (X arsenal).}
+\end{table}
+
+
+\begin{table}[htp] 
+	\resizebox{\columnwidth}{!}{
+		\begin{tabular}{r *{7}{c}}
+			\toprule
+			\huge{\textbf{Boss}}& {\includegraphics[width=30px,height=25px]{figures/X4/weapons/Zero_0.png}}
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/zero_1.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/zero_2.png}} 
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/zero_3.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/zero_5.png}} 
+			&{\includegraphics[width=30px, height=25px]{figures/X4/weapons/zero_7.png}} &{\includegraphics[width=30px, height=25px]{figures/X4/weapons/zero_8.png}} 
+			\\
+			%name		   	    Z-saber Rak KUU RAI Ryu Hyo    shi
+ 			\midrule
+	    \multicolumn{8}{c}{Sub-bosses}\\	
+		\midrule		 	
+		Eregion         		&-:-:-:5:-&-&   -&   -&   -&   -&   -\\
+		Tentoroid       		&1:1:1:1:2&1&   -&   1&   2&   3&   2\\
+		Generaid Core   		&-:-:-:3:-&1&   2&   -&   2&   3&   -\\
+		Eyezard         		&2:2:1:1:2&2&   2&   0&   3&   0&   2\\
+		DG-42L          		&1:1:1:2:-&1&   2&   3&   2&   2&   2\\
+		\multicolumn{8}{c}{Main bosses}\\
+		\midrule
+		Web Spider      		&1:1:2:2:2&1&   3&   0&   3&   2&   4\\
+		Cyber Peacock   		&1:1:3:3:1&0&   2&   2&   4&   0&   1\\
+		Storm Owl       		&1:1:2:2:2&2&   2&   2&   2&   1&   1\\
+		Magma Dragoon   		&1:1:1:1:1&1&   2&   4&   0&   0&   1\\
+		Jet Stingray    		&1:1:2:2:2&1&   2&   0&   0&   4&   1\\
+		Split Mushroom  		&1:1:2:3:1&0&   2&   4&   2&   2&   1\\
+		Frost Walrus    		&2:2:3:2:2&1&   3&   1&   5&   0&   1\\
+		Slash Beast     		&1:1:2:1:2&1&   2&   4&   2&   2&   0\\
+		Colonel         		&1:1:1:-:2&1&   2&   0&   2&   4&   2\\
+		Iris            		&2:2:3:-:3&1&   2&   1&   4&   2&   2\\
+		General         		&2:2:4:-:3&1&   4&   3&   2&   2&   3\\
+		Phantom Sigma           &-:-:-:-:-&0&   0&   -&   6&   0&   -\\
+		Phantom Sigma (2nd)     &1:1:3:-:1&4&   3&   3&   0&   2&   1\\
+		Earth Sigma     		&1:1:2:-:2&0&   2&   0&   0&   3&   2\\
+		Gunner Sigma    		&-:-:-:-:2&1&   3&   -&   4&   2&   -\\
+		\bottomrule
+		\end{tabular}
+	}	
+	\caption{Damage chart for main bosses in Mega Man X4 (Zero's techniques).}
 \end{table}

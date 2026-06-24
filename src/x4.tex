@@ -1,0 +1,1988 @@
+% !TeX spellcheck = en_US
+%MEGA MAN X4.TEX
+\chapter{Game overview}
+\textit{Mega Man X4} is the fourth installment in the Mega Man X series. Initially intended to be a Sega Saturn exclusive, the game was ultimately released on both the Sega Saturn and PlayStation in August and September 1997 in Japan and America, respectively, making it the second game in the franchise to be available on these platforms, following its predecessor. The European version, however, was released exclusively for the PlayStation in October 1997. The game later became available for PC in Japan in December of the following year and in America and Europe in June 1999.
+
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}[c]{0.45\linewidth}
+		\centering
+		\includegraphics[width=\linewidth]{figures/X4/cover_jp.png}
+	\end{subfigure}
+	\begin{subfigure}[c]{0.45\linewidth}
+		\centering
+		\includegraphics[height=5cm]{figures/X4/Covers_us.png}
+	\end{subfigure}
+	\caption{Cover art for the Japanese and American release}
+\end{figure}
+
+While retaining the series' core features, \textit{Mega Man X4} significantly changes its visual style, transitioning from a 16-bit to a fully 32-bit art style. Character sprites were entirely redesigned, nearly doubling the total number of animations~\cite{wikip:X4}, and the quality of the backgrounds was also enhanced. Due to the large number of sprites, the developers implemented a compression routine to fit everything, which resulted in almost all stages being split into two sections. Additionally, this is the first game in the series to feature fully voiced FMV cutscenes, although its predecessor had non-voiced ones. Notably, the game also marks the first time that Zero is fully playable, offering a completely different playstyle and a dedicated campaign compared to X.
+
+Overall, the game was praised for the changes it introduced to the series, particularly the addition of Zero and the updated graphics. However, it faced criticism for its limited innovation in gameplay compared to its predecessor and, most notably, for the poor quality of the voice acting, which is still remembered today. Interestingly, not all the game's elements received adaptation, as the eight bosses' battle quote kept their Japanese voice acting (this does not apply to later bosses) and their pre-battle dialogue with the main characters were completely removed.
+
+\section{Main plot}
+
+In the year 21XX, the security of humans and reploids against Maverick attacks is ensured through the combined efforts of the Maverick Hunters and the Reploid Force, also known as \textit{Repliforce}. Like the Maverick Hunters, Repliforce is a military organization composed of reploids, with dedicated soldiers and scientists working to counter Maverick threats. However, unlike the Maverick Hunters, Repliforce follows a strict, military-based structure, consisting of soldiers under the guide of General, its supreme commander, and organized similarly to a traditional army, divided into forces such as land, air, and marine, all with the task of dealing with large-scale emergencies. However, following the failure of Sigma's leadership and Doppler's vaccine to stop the mavericks, Dr.~Cain decides to reorganize Repliforce into a v3 version. This new structure aims to better support the Maverick Hunters in combating mavericks by reducing response times to attacks, improving scientific collaboration between the Maverick Hunters and Repliforce scientists, and maximizing reploid efficiency~\cite{X4:Manual}. Still, six months after the reorganization, an evaluation shows that the operation has not been successful: the response times of the Maverick Hunters have not improved, and maverick attacks have increased at an alarming rate. As a result, Repliforce v3 is deemed ineffective and, also, potentially dangerous. Consequently, Cain decides to restructure the Maverick Hunters into a new V4 version, merging the 17th and 0th Units, led by X and Zero, respectively. This V4 reorganization proves successful, as the newly formed unit effectively responds to maverick attacks in the same capacity as Repliforce.
+
+It is within this context that Mega Man X4 begins. The story opens with a revived and disguised Sigma approaching General, in an attempt to persuade him to join his side. Sigma warns General about the danger the Maverick Hunters pose to all reploids, claiming that any reploid who defies humans is labeled as a maverick and therefore hunted. Therefore, he urges General to strike preemptively, claiming that it’s only a matter of time before the Hunters come for Repliforce. However, despite Sigma’s attempts, General dismisses his warnings and Sigma leaves, although with a smile, having sown doubt in General’s mind. Next, Sigma proceeds with his plan by exploiting Magma Dragoon's obsession of facing X in combat to manipulate him in leading an attack on the flying city of Sky Lagoon using a giant mechaniloid, to cause chaos and draw Repliforce into battle~\cite{wiki:repliforce_war}. Maverick Hunters X and Zero are also dispatched, unaware of Repliforce’s presence, but when they arrive, Dragoon sabotages the city's flight systems, causing Sky Lagoon to crash with immense casualties. X and Zero manage to escape and navigate the wreckage to eliminate the mechaniloid, with Zero rescuing Iris in the process. After the battle, Colonel, Repliforce’s second-in-command and Iris’s brother, arrives on the scene alongside his men, to protect his sister and deal with the threat. Suspicious of Repliforce’s involvement, X and Zero ask Colonel to disarm and come with them, suspecting him of being a maverick, but Colonel refuses due to his pride as a soldier. Therefore, Repliforce is blamed for Sky Lagoon's destruction, and its members are labeled Mavericks, forcing General to declare Repliforce’s independence from humans, and launch a coup to create a reploid-only nation to secure reploids’ freedom and safety.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/story_X_1.png}
+	\caption{General and a Sigma talking}
+\end{figure}
+
+X and Zero subsequently set out to stop Repliforce’s rebellion, X being supported by rookie-hunter Double, while Iris provides support to Zero. The pair manage to stop various mavericks attacks, and each one even face Colonel in a duel,with X defeating him, while Zero battle is prevented by Iris' intervention, who reminds Colonel of his debt to Zero. Once the primary Maverick threats are neutralized, X and Zero learn that Repliforce’s ships are leaving Earth for space, aiming to set up a colony in space where they can create their own nation. X and Zero therefore rush to the spaceport, where Colonel stays behind to delay the Hunters and buy his soldiers more time to escape, but after a fierce battle, is defeated and ultimately dies. From here X continues to pursue Repliforce, while Zero briefly returns to base, only to find that Iris has left to join Repliforce, devastated by her brother’s death. At the same time, Double reveals himself as Sigma’s spy, killing two Hunters before pursuing X into the Final Weapon, Repliforce’s space colony and supposed utopia.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/story_Z_3.png}
+	\caption{Iris stopping Zero and Colonel from fighting each other}
+\end{figure}
+
+Upon reaching their destination the couple receive a bitter welcome, as X encounters Double who starts mocking him for his trust in others, while Zero finds Iris who, overcome with grief for her brother's death, decides to fulfill Colonel's wish ans merges his core with her to attack Zero. Both X and Zero succeed in defeating their opponents, though Zero remains heartbroken, as he had to inflict fatal damages to Iris. In her final moments, Iris expresses her dream of a world where she, Zero, and her brother could have lived peacefully and happily, leaving Zero questioning the purpose of his battles. 
+
+Despite their sorrow, X and Zero press on, ultimately facing and defeating General in hope to stop the coup. However, even with General defeated, the Final Weapon begins to move independently, aiming his weapons toward Earth and revealing the presence of a hidden operator. This figure reveals himself to be Sigma, who faces off with the Maverick Hunters once more. After a fierce battle the couple manage to win but, despite Sigma's defeated, the weapon’s firing process is not halted. In this final moment General reappears, seeking forgiveness for Repliforce’s foolishness. General decides to sacrifice himself, using his damaged body to intercept the weapon’s blast and destroying it, alongside himself. As the weapon collapses and explodes, X and Zero escape, each one carrying their own burdens: X questions the nature of a ``Maverick'' and makes Zero promise to end him if he ever becomes one; Zero, haunted by Iris and Sigma’s revelations, wonders about his true identity.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/story_Z_5.png}
+	\caption{Zero holding Iris}
+\end{figure}
+
+\section{Main Characters}
+
+\subsection{X}
+One of the main protagonist of the game, X (more detail in chapter~\ref{char:X}) He is the leader of the Maverick Hunters' 17th Elite Unit and a well-renowned Maverick Hunter, especially since he was responsible of defeating Sigma thrice in the past. X takes very seriously his task of protecting humans and reploids, but this clashes with his pacifist heart and benevolent spirit which refuses violence. This cause inside him an inner conflict and a trouble very few people can understand.
+
+X's origins are considered a mystery, as nobody knows why he was built or buried away~\cite{X4:Manual}.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3.5cm]{figures/X4/X.png}
+	\caption{X}
+\end{figure}
+\subsection{Zero}
+The second protagonist of the game, Zero is an incredibly skilled SA-class maverick Hunter, leader of the special 0th unit and X's best friend. Unlikely X, Zero has a cold attitude, never hesitating to carry on his duty, and this makes him the perfect partner for X, especially since Zero is one of the very few people who seems to understand X's struggle~\cite{Xcoll1:Manual_X4}.
+
+Just like X, Zero's origins are surrounded by mystery.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3.5cm]{figures/X4/Zero.png}
+	\caption{Zero}
+\end{figure}
+
+\subsection{Repliforce}
+
+A military organization which works in parallel with the Maverick Hunters to deal with mavericks threat, with a particular focus on large-scale emergencies. At some point in time, Dr.~Cain reorganizes Repliforce's structure in a new ``v3'' program to improve collaboration between them and Maverick Hunters, and in hope to compensate the failure that were Sigma and Doppler. However, such upgrade did not provided the desired results, and Repliforce was pointed as ineffective and potentially dangerous. 
+
+In the events of Mega Man X4, Repliforce is framed responsible for the disaster in Sky Lagoon, having been lured in by Magma Dragoon's attack and refusing to disarm when Maverick Hunters requested to  follow for interrogations. Due to this accusations, Repliforce's supreme commander, General, declare Repliforce independence and start a coup aimed to create a reploid-only nation in space.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Repliforce_Logo.png}
+	\caption{Repliforce insignia}
+\end{figure}
+
+\section{Game Mechanics}
+
+Following the path set by its predecessors, Mega Man X4 continues to innovate its gameplay by introducing new features and modifying existing ones to keep the gameplay new yet familiar to long-time fans of the series. The main features in Mega Man X4 are as follows:
+\begin{itemize}
+	\item \textbf{Fully Playable Zero}: As an improvement over X3’s ``Zero Change'' feature, Mega Man X4 offers a fully playable Zero. Zero has his own dedicated campaign mirroring X’s own, and possesses his own \textit{learning system}, mimicking X's variable weapons system, which allow to obtain unique techniques from defeated bosses and collectible items. However, Zero cannot acquire any armor parts, as these are exclusive to X.
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Choose_2.png}
+		\caption{Character selection screen}
+	\end{figure}
+	\item \textbf{Sub Tank System Change}: Before Mega Man X4, collectible sub tanks consisted of four hidden sub tanks across the stages that could be filled by picking up energy drops from enemies on a one-to-one ratio, as long as the player’s health was full. Mega Man X4 modifies this system by reducing the total number of sub tanks to two and allowing them to be recharged each time a health pickup is collected, regardless of the player’s health. However, they are refilled by a fixed amount rather than the amount the player’s health would have restored~\cite{wiki:sub_tank}. Additionally, X4 compensates for the loss of two sub tanks by introducing two new types of sub tanks: a weapon sub tank, which functions similarly to the life tank but for sub weapons, and the EX-item, which increases the starting lives from two to four when beginning a stage.
+	\item The pink armor capsule system from the previous game has been removed.
+	\item Similarly, the Ride Armor system has been changed back to the way it was in the X1-X2 games, with the removal of summoning platforms and upgrade modules.
+	\item \textbf{Ride Chaser Return}: The Ride Chaser vehicles from Mega Man X2 make a return. However, unlike in X2, the Ride Chaser consists in a high-speed, auto-scrolling section limited to a single stage.
+	\item \textbf{Dual Fire Button}: Thanks to upgraded hardware, the game allows players to map two buttons to the fire command, one for the regular X-Buster and another for the sub-weapon. This enables players to use both the regular fire and sub-weapon at the same time, unlike previous games where only one could be used at once. However, it’s not possible to charge one while using the other, as firing a sub-weapon interrupts the charge of the main weapon and vice-versa.
+	\item \textbf{Two-part stages}: A new element for this game consists in having most of the stages divided into two big areas, often differentiated by enemies inside and background/environment. Reaching the second area of a stage also act as an intermediate check point, giving players the choice to restart from that point should they receive a game-over.
+\end{itemize}
+
+
+
+\section{X's Weaponry}\label{X4:sub_weapon_X}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_web.png} Lightning Web}{Lightning Web}}\label{Lightning_Web}
+Obtained after defeating Web Spider(\ref{boss:Web_spider}), the Lightning Web fires a spider net charged with electricity that can be used to attack, wall jump, or double jump. Upon firing, X will shoot an electric projectile that travels a fixed distance before opening up. In this state, the web behaves like a wall for X to jump and wall-jump on, lasting for a short amount of time. Once X jumps onto it, the web disappears shortly after, regardless of the residual time. Additionally, this weapon deals damage only in its projectile form.
+
+Upon charging, X fires a lightning web that subsequently opens up to eight more, covering a large portion of the screen and dealing continuous damage over time. This web, however, is non-solid and cannot be climbed on.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/web_1.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/web_2.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Web_charged_1.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Web_charged_2.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Web_charged_3.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Web_climb.png}
+		\caption{Climbing onto it}	
+	\end{subfigure}
+	\caption{Lighting Web sub weapon}
+	
+\end{figure}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_frost.png} Frost Tower}{Frost Tower}}\label{Frost_Tower}
+When using the Frost Tower, X generates a large ice block that acts as a shield, which can also trap enemies before disappearing. Upon usage, X creates an ice block around him that remains stationary on the ground, serving as both an obstacle for enemies and a shield for X. Once used, X can move freely since the ice block is not a solid obstacle for him, meaning he can hide behind it while shooting regularly with the X-Buster. Enemies, however, take contact damage from the ice  (4 damages every 9 frames~\cite{wiki:X4_enemies}), which lasts for a short time before shattering. Enemy projectiles, however, are not stopped by it. 
+
+When used in the air, X briefly stops mid-air to create the ice block, which will immediately fall to the ground. Only one ice block can be present on the screen at a time; creating a second one causes the previous block to disappear.
+
+When charged, this weapon causes various giant ice shards to fall from the sky in four waves, with an increasing number of falling shards: one, two, three, and four, for a total of ten shards. As with the regular version, X can move freely once the first wave begins, and the shards follow him as he moves.
+
+This weapon is obtained only after X has defeated Frost Walrus(\ref{boss:Frost_Walrus}).
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/frost_1.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/frost_2.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/frost_charge_1.png}
+		\includegraphics[height=3cm]{figures/X4/weapons/frost_charge_2.png}
+		\includegraphics[height=3cm]{figures/X4/weapons/frost_charge_3.png}
+		\includegraphics[height=3cm]{figures/X4/weapons/frost_charge_4.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\caption{Frost Tower sub weapon}
+\end{figure}
+
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_soul.png} Soul Body}{Soul Body}}\label{Soul_Body}
+Soul Body is the weapon X obtains after defeating Split Mushroom (\ref{boss:Split_Mushroom}). This weapon accumulates energy to generate an illusion, and enemies will sustain damage if struck by the soul energy. When activated, X creates a hologram of his silhouette in front of him that mimics his movements, remaining at a fixed distance and always positioned in front of X. If X turns, the copy will automatically reposition in front of him at the same distance. The hologram deals contact damage to enemies (2 damage every 9 frames~\cite{wiki:X4_enemies}) and dissipates after a certain amount of time or if it receives enough damage. Only one clone can be generated at a time.
+
+When charged, X creates an unarmored clone of himself that the player can control. This clone can move only within the current screen and can fire using the regular, uncharged X-Buster. Moreover, it is immune to all damage and disappears only after a short period of time or if it falls into a pit. While controlling the clone, X remains frozen in the location where he created it (even if in mid-air), but he is immune to all damage.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Soul_body.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Soul_charged.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\caption{Soul Body sub weapon}
+\end{figure}
+
+
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_Rising.png} Rising Fire}{Rising Fire}}\label{Rising_Fire}
+When equipping the Rising Fire, X shoots a fireball straight upward, with unlimited vertical range but minimal horizontal reach. When fired in the air, X briefly stops mid-air, extending his airborne time. This weapon also has a fast firing rate, allowing X to shoot it multiple times in quick succession. 
+
+When charged, Rising Fire causes X to rise into the air, performing a flaming uppercut in a Shoryuken-like manner, ending with a fireball similar to the regular version. Performing the charged version in mid-air allows X to perform a second jump, increasing his vertical reach.
+
+Rising Fire is the weapon X obtains after defeating Magma Dragoon (\ref{boss:Magma_dragoon}).
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.25\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Rising_fire.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{.25\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Rising_charged.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\caption{Rising Fire sub weapon}
+\end{figure}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_hunter.png} Ground Hunter}{Ground Hunter}}\label{Ground_Hunter}
+Acquired after defeating Jet Stingray (\ref{boss:Jet_Stingray}), the Ground Hunter fires small stingray drones that race across the ground, making it particularly effective against enemies on walls and floors. When firing normally, X can deploy up to three drones that glide down from the buster to the ground, then proceed to move forward following the ground and even descending along walls. By pressing down while the stingray drones are in flight, players can command them to make an immediate 90-degree turn downward. This command applies to all drones on screen regardless of when they were fired, and firing with the down direction already pressed causes the drones to launch vertically.
+
+When charged, X fires a single, larger drone that travels straight forward. Players can press up or down on the gamepad to release additional energy drones above and below as the main drone moves forward.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/ground_hunter_1.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/ground_hunter_2.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/ground_hunter_3.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/ground_hunter_4.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Ground_charged_1.png}
+		\includegraphics[height=3cm]{figures/X4/weapons/Ground_charged_2.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\caption{Rising Fire sub weapon}
+\end{figure}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_aiming.png} Aiming Laser}{Aiming Laser}}\label{Aiming_Laser}
+
+Defeating Cyber Peacock (\ref{boss:Cyber_peacock}) grants X access to the Aiming Laser. Equipping this weapon causes a cursor to appear on the screen in front of X, which players can control by pressing up or down on the gamepad to move it along its path. When the cursor moves over an enemy, it locks on, allowing X to fire a laser aimed directly at it, regardless of position. The cursor can lock onto up to three enemies at a time, and three lasers of different colors (green, yellow, and red) will simultaneously fire at the locked targets without additional energy cost.
+
+When charged, the weapon causes a fan-shaped laser to emit from the X-Buster for a short duration. This charged laser can be controlled similarly to the cursor in the regular version, dealing contact damage to all enemies within its range.
+
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Aiming_laser.png}
+		\includegraphics[height=2.9cm]{figures/X4/weapons/Aiming_laser_2.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Aiming_charged_1.png}
+		\caption{Charged version (all possible directions)}	
+	\end{subfigure}
+	\caption{Aiming Laser sub weapon}
+\end{figure}
+
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_cyclone.png} Double Cyclone}{Double Cyclone}}\label{Double_Cyclone}
+
+The Double Cyclone fires vacuum cyclones to the left and right, each curving upward in its respective direction before disappearing after a short time. If one of the projectiles hits an enemy, it will briefly stop in place before disappearing. Similar to the Rising Fire, firing this weapon in the air causes X to stall briefly. 
+
+When charged, this weapon causes X to fire two large tornadoes to his left and right, covering a significant horizontal portion of the screen.
+
+This weapon is obtained by X only after defeating Storm Owl (\ref{boss:Storm_Owl})
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.2\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Double_cyclone.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Double_cyclone_charged.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\caption{Double Cyclone sub weapon}
+\end{figure}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Ico_slasher.png} Twin Slasher}{Twin Slasher}}\label{Twin_Slasher}
+
+Defeating Slash Beast (\ref{boss:Slash_Beast})grants X the Twin Slasher. When using this weapon, X shoots two crescent-shaped beams diagonally, which travel a certain distance, gaining size as they move forward. The energy blades move quickly and can pass through walls and ground, although only two pairs can be on screen at once, and each blade deals limited damage. However, the weapon's low cost and rapid fire rate compensate for its limited damage output.
+
+When charged, the weapon causes X to fire a volley of blades—eight in total, split into two groups of four, with increased range and damage.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.25\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Twin_slasher.png}
+		\caption{Normal fire}	
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Twin_Slasher_charged.png}
+		\caption{Charged version}	
+	\end{subfigure}
+	\caption{Twin Slasher sub weapon}
+\end{figure}
+
+\section{Zero's Techniques}\label{X4:sub_weapon_Z}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_1.png} Rakuhouha}{Rakuhouha}}\label{Rakuhouha}
+
+Defeating Cyber Peacock (\ref{boss:Cyber_peacock}) grants Zero access to Rakuhouha, a powerful attack that channels all stored energy into a single blast. When pressing the Giga Attack button while grounded, Zero punches the ground and shouts ``Get Ready'' before releasing nine bolts of energy that disperse in a fan shape, destroying most enemies in a single hit and even passing through walls.
+
+This weapon is the only one that consumes Zero's energy meter. Due to its high damage output and range, it is also one of the most costly weapons in the game, depleting the energy meter in only four uses. However, this weapon restores some energy each time Zero is hit~\cite{wiki:Rakuhouha}.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_ready_1.png}
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_ready_2.png}
+	\caption{Rakuhouha}
+\end{figure}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_2.png} Kuuenbu/Kuuenzan}{Kuuenbu/Kuuenzan}}\label{Kuuenbu}
+
+In a twist never seen before in the series, defeating Split Mushroom(\ref{boss:Split_Mushroom}) grants Zero not one, but two techniques, though they share the same slot in the weapon menu.
+
+The first technique Zero obtains is Kuuenbu, which can essentially be considered a double jump. By pressing the jump button again while in the air, Zero performs a second jump, allowing him to reach higher in the air. However, this move cannot be performed after a dash jump or out of a Hienkyaku.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_spin_4.png}
+	\caption{Kuuenzan}
+\end{figure}
+
+The second technique Zero obtains alongside Kuuenbu is Kuuenzan, a spinning blade attack performed by pressing the attack button while in the air. This technique permanently replaces the midair slash Zero starts with, and unlike the original midair slash, players can change the direction Zero is facing while performing the attack. This allows to slightly move left or right while in air, allowing hit-and-run tactics.
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_3.png} Raijingeki}{Raijingeki}}\label{Raijingeki}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_raijin.png}
+	\caption{Raijingeki}
+\end{figure}
+Raijingeki is the technique Zero obtains after defeating Web Spider (\ref{boss:Web_spider}). Activated by pressing the special-weapon button, this technique causes Zero to perform a forward thrust with his blade, infusing it with electric power. The charging process takes a short amount of time to complete, creating a delay between the input and the move’s execution that leaves Zero vulnerable to attacks. However, the attack is immediate if used mid-combo, i.e., after the first or second slash of Zero's regular attack, as shown in file \path{videos/X4/Fast_Raijingeki.mp4}. Additionally, this weapon can also deal damage to enemies behind Zero, having a small hitbox in the first frames of the animation while Zero extract the blade (see video \path{videos/X4/Raijingeki_behind.mp4}).
+
+
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_4.png} Hienkyaku}{Hienkyaku}}\label{Hienkyaku}
+Defeating Jet Stingray(\ref{boss:Jet_Stingray}) allows Zero to learn Hienkyaku. This techniques allows Zero to perform an air dash, by pressing the dash command while Zero is in the air. However, Zero cannot use this technique out of a dash-jump.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_dash.png}
+	\caption{Hienkyaku}
+\end{figure}
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_5.png} Ryuenjin}{Ryuenjin}}\label{Ryuenjin}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_fire.png}
+	\caption{Ryuenjin}
+\end{figure}
+Ryuenjin is the special technique Zero learns after defeating Magma Dragoon (\ref{boss:Magma_dragoon}). This technique, activated by pressing the up direction + special-weapon button, causes Zero to perform a powerful upward attack that burns enemies with a blade covered in flames, which makes Zero rise diagonally into the air. The attack deals damage for its entire duration, meaning a well-placed strike can destroy even the toughest enemies in one blow.
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_6.png} Tenkuuha}{Tenkuuha}}\label{Tenkuuha}
+
+Upon defeating Storm Owl (\ref{boss:Storm_Owl}) Zero gains access to the Tenkuuha. This permanent upgrade allows the Z-Saber to destroy energy projectiles aimed at Zero with a single attack, while also changing its color to purple.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_slash.png}
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_slash_1.png}
+	\caption{Zero's saber before and after obtaining Tenkuuha}
+\end{figure}
+
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_7.png} Hyouretsuzan}{Hyouretsuzan}}\label{Hyouretsuzan}
+
+When using Hyouretsuzan, Zero performs a downward thrust with his saber, covered in ice, by pressing down + the special-weapon button while in the air. This technique inflicts continuous damage while active, allowing Zero to deal heavy damage to most non-boss enemies. The technique ends when Zero reaches the ground, causing the ice to shatter, or if he performs a double jump out of it. In the latter case, Zero can immediately perform the move again. It is also possible to use this technique as a follow-up to Ryuenjin.
+
+To obtain this technique, Zero must first defeat Frost Walrus (\ref{boss:Frost_Walrus})
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_ice.png}
+	\caption{Hyouretsuzan}
+\end{figure}
+
+
+\subsection{\texorpdfstring{\includegraphics[width=10px, height=10px]{figures/X4/weapons/Zero_8.png} Shippuuga}{Shippuuga}}\label{Shippuuga}
+Shippuuga is Zero's final technique, obtained after defeating Slash Beast (\ref{boss:Slash_Beast}) Activated by pressing the special-weapon button while dashing, this attack causes Zero to perform a half-circular slash with his saber. This technique can only be executed while dashing on the ground.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/zero_dash_attack.png}
+	\caption{Shippuuga}
+\end{figure}
+
+
+\section{Fourth Armor}\label{X4:Armor}
+Following the tradition established by previous games, Mega Man X4 introduces a new set of armor parts split into four different capsules hidden across distinct stages. However, unlike previous entries, Mega Man X4 breaks the tradition of having a secret fifth capsule obtainable by collecting all hidden collectibles. Obviously, the capsule system is exclusive to X's campaign, as armor capsules do not appear at all during Zero's campaign.
+
+The Fourth Armor, also referred to in different sources as the \textit{Normal Armor}~\cite{book:Compendium} or \textit{Force Armor}~\cite{X5:Manual}, consists of the following parts:
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Armor.png}
+	\caption{The Fourth Armor}
+\end{figure}
+
+\begin{itemize}
+	\item \emph{Foot Parts:} These allow X to perform an air dash, similar to previous games. Additionally, by pressing the jump button a second time while in the air, X can hover in place for a few seconds. While hovering, X can move slightly forward or backward without turning, though moving significantly reduces hover time. The capsule containing the Foot Parts is hidden in Web Spider's stage, in a side path behind a waterfall near the beginning.
+	
+	\item \emph{Body Parts:} Found in Magma Dragoon's stage, near the end of the second section and where the Ride Armor can be found, hidden behind a wall breakable only by using a charged Twin Slasher. These parts reduce all incoming damage of approximately 33\%~\cite{wiki:X4_enemies} and convert it into energy for the Nova Strike—an invincible, high-damage air dash executed by pressing the Giga-Attack button.
+	\begin{figure}[htp]
+		\centering
+		\includegraphics[height=3cm]{figures/X4/weapons/Nova_strike_1.png}
+		\caption{The Nova Strike}
+	\end{figure}
+	
+	\item \emph{Arm Parts:} Upgrade the X-Buster, allowing to charge-up special weapons and unlocking a third level of charged shots. Hidden in Storm Owl's stage, these parts are located in a secret path accessible only by using the Lightning Web before the stage's mini-boss. Uniquely, players will find two capsules and can choose one of two versions of this upgrade, which can be swapped any time by revisiting the other capsule:
+	\begin{itemize}
+		\item \emph{Stock Charged Shot:} Allows X to store up to four smaller charged shots, which are displayed as icons under X's health bar. Pressing the shoot button fires a stored charged shot instead of a regular one if available. The Arm Parts for this version are white and blue.
+		\begin{figure}[htp]
+			\centering
+			\includegraphics[height=3cm]{figures/X4/weapons/Multi_shot.png}
+			\caption{Two Stock Charged Shot}
+		\end{figure}
+		
+		\item \emph{Plasma Charged Shot:} Fires a single, larger charged shot that travels through enemies and walls, leaving up to three smaller plasma balls upon impact. These plasma balls deal continuous damage but take priority over other damage sources, canceling out other attacks. The Arm Parts for this version are black and yellow.
+		\begin{figure}[htp]
+			\centering
+			\includegraphics[height=3cm]{figures/X4/weapons/shot_plasma_1.png}
+			\includegraphics[height=3cm]{figures/X4/weapons/shot_plasma_2.png}
+			\caption{Plasma Shot and remaining plasma ball}
+		\end{figure}
+	\end{itemize}
+	
+	\item \emph{Head Parts:} Located in Cyber Peacock's stage, these are awarded for achieving an S Rank in the third time trial. These parts reduce the energy cost of all sub-weapons to zero for their regular fire, making them effectively infinite unless energy is used for charged attacks.
+\end{itemize}
+
+Although, as stated, there is no secret capsule in this game, players can unlock an alternate armor by inputting a special code on the character selection screen. If entered correctly, X appears with a darker color scheme and receives the full \emph{Ultimate Armor} set upon entering any capsule. This armor, which becomes a staple in subsequent games, replaces the secret capsule mechanic from previous entries.%A better description on who and how the armor was developed are instead given in section \ref{boss:X}
+
+Technically, the Ultimate Armor functions identically to the regular Fourth Armor in most respects, except for its darker color scheme and the key addition of an infinite charge for the Nova Strike. This enhanced Nova Strike also features a larger hitbox, making it exceptionally effective for quickly defeating bosses.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Ultimate_Armor.png}
+	\includegraphics[height=3cm]{figures/X4/weapons/U_armor_Nova.png}
+	\caption{Ultimate armor and its own Nova Strike}
+\end{figure}
+
+
+\chapter{Stages}
+
+\section{Opening Stage: Sky Lagoon}\label{X4:intro_stage}
+Sky Lagoon is the first stage players encounter in the game, regardless of whether they choose X or Zero. The stage is split into two distinct halves: the first takes place in the floating city of Sky Lagoon, which is under attack by Maverick forces, while the second in the ruins after the city's fall. As with any introductory stage, this level serves as a tutorial to teach players the basic game mechanics.
+
+The first area is a linear section where the stage boss, Eregion, intermittently attacks from the background or foreground, attacking with either its claws or by firing plasma shots. Players must progress while avoiding these attacks and dealing with shut doors which can either be destroyed or jumped over, except for the final one, that has to be destroyed, causing Eregion to flee. Interestingly, players can also defeat Eregion by attacking its claws when it strikes, forcing it to retreat earlier but without any significant consequences. After Eregion retreats, players must travel a long corridor filled with enemies, eventually reaching the generator room of Sky Lagoon. Here, X or Zero encounters Magma Dragoon, who declares that Sky Lagoon is doomed to fall before escaping. X or Zero are forced to teleport away as the floating city crashes to the ground.
+
+The ruins of Sky Lagoon provide the setting for the second half of the stage. The primary threats here include falling debris, which can crush X or Zero, and \hyperlink{enem:Trap_Blast}{Trap Blast} enemies, which emerge from the debris. Near the end of the stage, the floor collapses, leading to a pit containing collectibles that requires players to wall-jump to escape. However, skilled players who move quickly can avoid falling into the pit altogether, reaching the next section where Eregion, the stage boss, is.
+
+
+Sky Lagoon is home to following enemies:
+\begin{itemize}
+	\item \hyperlink{enem:Knot_Beret_B}{Knot Beret B}
+	\item \hyperlink{enem:Knot_Beret_G}{Knot Beret G}
+	\item \hyperlink{enem:Kyunnbyunn}{Kyunnbyunn}
+	\item \hyperlink{enem:Mad_Bull_97}{Mad Bull 97}
+	\item \hyperlink{enem:Spike_Marl}{Spike Marl}
+	\item \hyperlink{enem:Tonboroid_S}{Tonboroid S}
+	\item \hyperlink{enem:Trap_Blast}{Trap Blast}
+\end{itemize}
+\subsection{Eregion}\label{boss:Eregion}
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/enemies/Eregion_Dive.png}
+	\caption{Eregion unused artwork from Mega Man X Dive}
+\end{figure}
+Eregion was a giant, dragon-like Mechaniloid equipped with massive wings that allowed it to soar through the skies and attack with electric shots fired from its mouth. The origins and purpose of Eregion remain unknown, the only certain thing being that under the orders of Magma Dragoon, Eregion kidnapped Iris from Repliforce command center~\cite{wayback:X4_resources}, and wreaked havoc on the city of Sky Lagoon to serve as a distraction, giving Magma Dragoon the opportunity to sabotage the city's systems and cause it to crash to the ground. Surviving the impact due to its ability to fly, Eregion resumed its rampage, only to be ultimately stopped by X or Zero (with Zero arriving to rescue Iris).
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{0.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/enemies/Eregion_bg_shot.png}
+		\caption{Electromagnetic shots}
+	\end{subfigure}
+	\begin{subfigure}{0.25\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/enemies/eregion_slam.png}
+		\caption{Claw Slam}
+	\end{subfigure}
+	\begin{subfigure}{0.25\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/enemies/Eregion_punch.png}
+		\caption{Punch}
+	\end{subfigure}
+	\caption{Eregion's attack in the first section}
+\end{figure}
+As the first boss in the game, Eregion is relatively straightforward and manageable. During its first appearance in Sky Lagoon, it attacks the player either by slamming his claw onto the ground, throwing a punch from below, piercing the floor, or firing plasma shots after flying in the foreground.
+Players can counter only during the Claw Slam and the punch attacks by striking its claws, damaging it and eventually forcing it to retreat. However, hitting Eregion during this phase has no impact on the final boss fight.
+
+
+The actual battle against Eregion takes place at the end of the stage, within the ruins of Sky Lagoon. During this encounter, Eregion lands to fight the player directly and uses three main attacks~\cite{book:Compendium}: \emph{Claw Attack}, a wide swing of its claw aimed at the player; \emph{Tackle}, a flying swoop across the screen to reposition, and the \emph{Electromagnetic Shot}, an electric attacks from its mouth, either as a three-sphere projectile or a rapid stream that sweeps the ground. Which form this last attack has depends on Eregion's remaining health.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{0.5\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/enemies/Eregion_shot.png}
+		\includegraphics[height=3cm]{figures/X4/enemies/eregion_multishot.png}
+		\caption{Electromagnetic Shot}
+	\end{subfigure}
+	\begin{subfigure}{0.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/enemies/eregion_claw.png}
+		\caption{Claw Attack}
+	\end{subfigure}
+	\begin{subfigure}{0.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/enemies/eregion_dive.png}
+		\caption{Tackle}
+	\end{subfigure}
+	\caption{Eregion's attacks}
+\end{figure}
+
+
+As the first boss, players have no access to any technique or weapon, meaning the only way to deal with it is either X's charged shots and Zero's jumping slash to hit Eregion's torso. Most of Eregion attacks can be easily avoided by dashing at the right moment (in case of the swoop, players must dash in the same direction Eregion is headed), except for the shot barrage, which requires a well-timed dash jump over it.
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 3\\
+		Claw Attack & 5 \\
+		Tackle & 5\\
+		Electromagnetic Shot& 3\\
+		\midrule
+		\multicolumn{2}{c}{Sky Lagoon}\\
+		Claw Slam & 5 \\
+		Punch & 5\\
+		Electromagnetic Shot& 4\\
+		\bottomrule
+	\end{tabular}
+	\caption{Eregion's attacks and damages~\cite{book:Compendium,wiki:Maoh}}
+\end{table}
+
+Defeating Eregion unlocks the stage map, allowing players to choose their next level.
+
+
+\section{Jungle}
+
+The first stage the game presents is the jungle stage, home to Web Spider. The stage is set into a Jungle, which X/Zero must navigate to reach the boss room.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=5cm]{figures/X4/map.png}
+	\caption{Stage Map}
+\end{figure}
+The first part of the stage takes place in a waterfall area, where players navigate downstream following the waterfalls. This portion is relatively straightforward, with the only danger portion being near the end, where players must surpass two big gaps by jumping on logs falling from the waterfall.  After the moving log portion, players reach the bottom of the waterfall and must proceed upstream trough a climbing section.
+
+
+The stage's second part takes place in the depth of the forest, and leads players up to the boss door. This section can be split into two main segments: an initial one players must travel downstream some more waterfall while fighting enemies, and a second one set in between giant tree logs. The main dangers in this parts comes from enemies ambush in the form of \hyperlink{enem:Obiiru}{Obiiru} falling from above, \hyperlink{enem:Mega_Nest}{mega nest} continuously spawning \hyperlink{enem:Kyunnbyunn}{Kyunnbyunn} and \hyperlink{enem:Spider_Core}{spider cores} shooting and creating electrical web to hinder X's movement. Once players manage to move over such dangers they will reach the boss door where Web Spider awaits.
+
+The jungle stage houses following enemies:
+\begin{itemize}
+	\item \hyperlink{enem:Blast_Raster}{Blast Raster}
+	\item \hyperlink{enem:Kill_Fisher}{Kill Fisher}
+	\item \hyperlink{enem:King_Poseidon}{King Poseidon}
+	\item \hyperlink{enem:Kyunnbyunn}{Kyunnbyunn}
+	\item \hyperlink{enem:Mega_Nest}{Mega Nest}
+	\item \hyperlink{enem:Metal_Gabyoall}{Metal Gabyoall}
+	\item \hyperlink{enem:Obiiru}{Obiiru}
+	\item \hyperlink{enem:Spider_Core}{Spider Core}
+\end{itemize}
+
+\subsection{Foot Parts}
+The capsule containing the foot parts can be found immediately at the beginning of the stage, in a not-so-hidden passage behind the first waterfall. Just entering the passage will lead players to the capsule with the power-up.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_capsule_1.png}
+	\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_capsule_2.png}
+	\caption{Foot Part Locations}
+\end{figure}
+
+\subsection{Heart Tank}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_heart_1.png}
+	\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_heart_2.png}		\caption{Heart Tank Locations}
+\end{figure}
+The stage's Heart Tank is hidden within a burnable log in the second section. Players only need hit these particular logs using a fire based attack, either Rising Fire or Ryuenjin, to burn the log and reveal its content.
+
+
+\subsection{Web Spider}\label{boss:Web_spider}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Web_Spider/Mmx4webspider.png}
+	\caption{Web Spider artworks from~\cite{book:MMX_Complete_art}}
+\end{figure}
+
+Originally a Maverick Hunter of the 0th Special Unit led by Zero, Web Spider later joined Repliforce, where he conducted several successful campaigns and eventually became the leader of their guerrilla unit~\cite{wayback:X4_resources}, obtaining the tile of \textit{Guerrilla Commander of the Jungle~\cite{wayback:X4_resources,book:MH_field_guide}/Thick Forest~\cite{wiki:Web_spider,book:MMX_Complete_art}}. During Repliforce's coup, Spider and his unit were tasked with guarding Repliforce's secret beam cannon hidden in the jungle. Dedicated to his mission, Spider ignored X/Zero's demand to disarm, leading to a clash with the Hunters which ultimately proved fatal for him.
+
+
+Web Spider relies on only two primary attacks to damage the player, both of which inflicts high damages and that are often chained together. This makes the battle particularly dangerous if players face this stage early, due to their limited HP. During the first phase of the battle, Web Spider frequently retreats offscreen by climbing his web, reappearing to attack with his \emph{Lightning Web}, a homing electric web slowly that pursues the player and traps them upon contact. While trapped, the web deals continuous damage until the player breaks free or a set damage threshold is reached. After firing the web, Spider quickly retreats offscreen again and, occasionally, falls early to land on X/Zero for additional damages. When Web Spider's health is reduced to half, the second phase begins and Spider stop retreating and creates a large, non-damaging web spanning the screen where he moves on. From this position, he alternates between two attacks, the same \emph{Lightning Web} used in the first phase, and the \emph{Baby Spider Attack}, which summons four mini spiders that crawl along the floor and walls, obstructing the player's movement.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_web.png}
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_web_2.png}
+		\caption{Lightning Web}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_phase2.png}
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/spider_mini.png}
+		\caption{Phase two and mini spiders}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/Spider_stun_1.png}
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/Spider_stun_2.png}
+		\includegraphics[height=3cm]{figures/X4/Web_Spider/Spider_stun_3.png}
+		\caption{Stunned by Twin Slasher}
+	\end{subfigure}
+	\caption{Web Spider's attacks}
+\end{figure}
+
+Dealing with Web Spider requires careful movement and precise attacks. During Phase 1, players should focus on attacking Spider as he falls down while avoiding the Lightning Web, which stop chasing them as soon as it goes offs-screen. For X, charged shots are effective for keeping the distance, while Zero must rely on jump slashes, which are riskier due to Spider's proximity and the risk of getting cough in the web. In Phase 2 Spider becomes more vulnerable but also more aggressive, as the boss constantly moves along an unpredictable patter on the web, threatening to deal heavy contact damages. Players should exploit his increased on-screen presence to deal consistent damage while avoiding his attacks, X's being advantaged due the charged shots helping to clean up baby spiders (which are small enough to craw under regular shots) and damaging Spider simultaneously, while Zero must focus on avoiding being overwhelmed by their movements. Should player already face Web Spider after having defeated Slash Beast, X's Twin Slasher and Zero's Shippuuga will deal increased damage to Spider, although in Zero's case using this weapon is relatively ineffective due to Spider never being on the ground. X's Twin Slasher, on the other hand, is incredibly effective, as hitting Spider's web during the first phase will cut it, causing him to fall and take heavy damages. Finally, it is worth signaling a minor glitch in Spider's invincibility system, which cause him to loose invincibility frame while off-screen while still being hittable, meaning it is possible to hit him for massive damage (for better explanation, see section~\ref{sec:spider_if_glitch}).
+
+Upon defeating Web Spider, X will gain access to the Lightning Web~(\ref{Lightning_Web}), while Zero will learn the Raijingeki~(\ref{Raijingeki}).
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Contact (string)& 3 \\
+		Lightning Web & 4+4 \\
+		Baby Spider& 4\\
+		\bottomrule
+	\end{tabular}
+	\caption{Web Spider's attacks and damages~\cite{book:Compendium,wiki:Web_spider}}
+\end{table}
+
+\section{Cyberspace}
+The Cyberspace stage sees X and Zero traveling through a cybernetic maze in order to reach its deepest part and defeat Cyber Peacock.  
+
+Just like other stages, this one also is split into two sections. The first is set around time trials, where players must navigate three separate areas, racing to reach the end in the shortest amount of time: the first area consists of a corridor filled with obstacles that players must jump over, the second is a large room divided into three levels, connected by gaps that allow movement across layers, and the third is a vertical room where players must climb using ladders or wall jumps.  
+Throughout these sections enemies also spawn to obstacle players, especially \hyperlink{enem:Spike_Marl}{Spike Marls}, which appear through portals and roll towards X/Zero but that can be easily avoided by dashing underneath the spawn portal, and the \hyperlink{enem:Miru_Toraeru}{Miru Toraeru}, which traps players and slows them down, and thus representing a much bigger threat. These enemies are either stationary or roll towards the player, and are strategically positioned to block certain passages. They are also immune to all attacks except X's Soul Body and Zero's Kuuenzan.  
+At the end of each section, players receive a score ranging from S to B, depending on the time taken to complete the trial. A portal will then open, leading to different parts of the stage based on the rank obtained: achieving an S rank grants access to a bonus area with a collectible inside; rank A allows players to proceed to the next trial; rank B instead forces to repeat the trial. Although players cannot see their score directly, the cursor following X and Zero will occasionally display a downward red arrow, indicating that the score has decreased.  
+
+The second section takes a slower approach, replacing time trials with puzzles involving \hyperlink{enem:Protecton}{Protectons} and switches that flip the path upside down. The key to progressing is to activate the switches strategically, causing Protectons to roll down and break otherwise indestructible barriers, while also avoiding them to prevent damage. Once past this section, players will reach the boss room, where Cyber Peacock awaits.  
+
+This stage is probably the one with less enemy variety, housing only the five kind of enemies listed below~\cite{wiki:Cyberspace}, only three of which will try to actively hurt the player.
+
+\begin{itemize}
+	\item \hyperlink{enem:Hover_Gunner}{Hover Gunner}
+	\item \hyperlink{enem:Miru_Toraeru}{Miru Toraeru}
+	\item \hyperlink{enem:Protecton}{Protecton}
+	\item \hyperlink{enem:Spike_Marl}{Spike Marl}
+	\item \hyperlink{enem:TriScan}{TriScan}
+\end{itemize}
+
+\subsection{Heart Tank}
+The stage's Heart Tank con be found in the first bonus area, accessed by earning an S-rank in the first time trial. The collectible can be found immediately in the middle of the room.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_heart.png}
+	\caption{Heart Tank Location}
+\end{figure}
+
+\subsection{Sub Tank}
+
+Similarly to the heart tank, the sub tank con be found in the second bonus area, accessed by earning an S-rank in the second time trial. The collectible can be found immediately in the middle of the room.
+
+\begin{figure}[htp]
+	\centering
+	\begin{minipage}{.49\linewidth}
+		\centering
+	\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_sub.png}
+	\caption{Sub Tank Location}
+	\end{minipage}
+\begin{minipage}{.49\linewidth}
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/Peacock_capsule.png}
+	\caption{Head Parts Location}
+\end{minipage}
+\end{figure}
+
+\subsection{Head Parts}
+Just like previous collectible, the capsule containing the head parts con be found in a bonus area, accessed by earning an S-rank in the third and last time trial. Should Zero reach this bonus area, a life up can be found instead.
+
+
+
+\subsection{Cyber Peacock}\label{boss:Cyber_peacock}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Cyber_Peacock/CyberPeacock2.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Cyber_Peacock/Mega_Man_X_DiVE_Boss_Cyber_Peacock.png}
+	\caption{Cyber Peacock artworks from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+
+Originally an anti-hacker defense system, the \textit{Network Guardian} Cyber Peacock was specifically designed to protect the network and computer systems from hackers attempting to steal valuable data~\cite{wayback:X4_resources,wiki:Cyber_peacock}. However, his program was rewritten by Sigma, who turned him arrogant, cruel, and prone to attack anyone who enters the network—be they civilians, Hunters, or Repliforce members. Deployed by Sigma during Repliforce's rebellion, his primary role was to act as a distraction for the Maverick Hunters and to test X and Zero's abilities. In particular, X's performance in these tests caused great surprise in Peacock, as X's results could not quantify the limitless potential hidden within him, much to Peacock's astonishment. Ultimately, Peacock faced X and Zero in a fierce battle, leading to his doom.  Interestingly, in the Japanese version, Peacock's voice lines (which were removed in the English localization) use words and kanji traditionally associated with femininity, including female-only pronouns when referring to himself~\cite{wiki:Cyber_peacock}, seemingly emphasizing his effeminate nature.  
+
+
+The battle against Cyber Peacock primarily tests players' reflexes. During the fight, he constantly teleports near the player and executes one of his two main attacks: the \emph{Feather Attack} or the \emph{Rising Slash}. With the first, Peacock extends his feathers in all directions after teleporting near the player, covering a considerable range around him. In the second, he quickly rise up, sacrificing horizontal coverage for a better vertical reach. After having taken damage at least once~\cite{wiki:Cyber_peacock}, Peacock will also start using his \emph{Tracking Shot}. In this attack, he teleports to either the left or right side of the arena and locks onto X with a crosshair before firing homing feathers. These projectiles move relatively fast but disappear after chasing X for a short duration.  
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_aim.png}
+		\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_missile.png}
+		\caption{Tracking Shot}
+	\end{subfigure}
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_blade.png}
+		\caption{Feather Attack}
+	\end{subfigure}
+	\begin{subfigure}{.2\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_rise.png}
+		\caption{Rising Slash}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/peacock_stun_2.png}
+		\includegraphics[height=3cm]{figures/X4/Cyber_Peacock/Peacock_stun.png}
+		\caption{Stunned by his weakness}
+	\end{subfigure}
+	\caption{Cyber Peacock's attacks}
+\end{figure}
+
+Facing Cyber Peacock early in the game can be particularly challenging due to the high damage output and speed of his attacks, capable of defeating unequipped players in just two or three hits. Without exploiting his weakness, the best strategy is to take advantage of the brief interval between his appearance on screen and the execution of his attack, striking as soon as he appears and retreating immediately to avoid damage. Another key opportunity arises when Peacock uses his Tracking Shot, as he remains stationary while firing, but this forces, players to attack while also avoiding the homing feathers. Between X and Zero, the former has a clear advantage due to his ability to attack from a distance, whereas Zero must expose himself to greater risk.  The situation changes drastically when fighting Peacock using his weakness, which differs depending on the character. For X, the weakness is the Soul Body, while for Zero, it is the Ryuenjin. In both cases, hitting Peacock with his respective weakness causes him to static out and immediately teleport away, effectively removing any challenge from the fight, as he won't be able to perform any other attack  due to lacking invincibility frames when he reappears, meaning it is possible to force him in a lethal loop just by striking him as soon as he appears on screen.
+
+Upon defeat, X gains access to the Aiming Laser (\ref{Aiming_Laser}), while Zero obtains the Tenkuuha (\ref{Tenkuuha}).  
+
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Contact (Tracking Shot)& 5\\
+		Feather Attack & 9\\
+		Rising Slash & 6\\
+		Tracking Shot - feather&6\\
+		\bottomrule
+	\end{tabular}
+	\caption{Cyber Peacock's attacks and damages~\cite{book:Compendium,wiki:Cyber_peacock}}
+\end{table}
+ 
+\section{Air Force}
+The third stage available in the game is the Air Force stage. Set in the sky, this stage follows X and Zero as they battle Repliforce's air fleet, aiming to reach the main ship and take down Storm Owl, the fleet's commander.  
+
+The first half of the stage consists primarily of platforming across airships while avoiding numerous enemies that attempt to knock X and Zero into the pits below. Among these foes, \hyperlink{enem:Metal_Hawk}{Metal Hawks} can also serve as temporary platforms, though they will still attack  using their missiles and lasers. About one-third into the stage, players will encounter the \hyperlink{vehicle:Ride_Armor_Eagle}{Ride Armor Eagle}, a ride armor equipped with thrusters that enable hovering, air dashing, and firing homing energy shots, which helps in navigating the remaining of the stage. However, while the Ride Armor can hover indefinitely, taking damage from an enemy will cause it to fall, which can become particularly dangerous when hovering over a pit.  The rest of this first section alternates between sequences featuring flying platforms which are destroyed by large lasers as the player approaches and a segment populated by multiple \hyperlink{enem:Plasma_Cannon}{Plasma Cannons}.  
+
+The second half of the stage takes place within a single airship. Here, \hyperlink{enem:Beam_Cannon}{Beam Cannons} swarm the area, firing lasers that leave only small spaces for players to hide, unless players manage to destroy them first. The most dangerous part of this section is a spiked pit near the beginning, which, when combined with the aforementioned enemies, can become a deadly trap. Past the spiked section, players will encounter the stage's sub-boss, the \hyperlink{miniboss:Generaid_Core}{Generaid Core}, which, unlike most minibosses, does not actively attack; instead, it remains stationary, occasionally exposing its red core—te only vulnerable spot—while summoning waves of Beam Cannons to fill the room and hit the player. The best strategies for quickly defeating the miniboss include using Zero's Ryuenjin or X's Lightning Web. Additionally, a well-timed charged Aiming Laser can continuously damage the core upon impact, potentially destroying it before it has the chance to hide the weak point again.  
+
+Defeating the Generaid Core will cause an opening to appear in the right wall, leading directly to Storm Owl's location.  
+
+Below is a list of all enemies present in the stage~\cite{wiki:Airforce}:
+\begin{itemize}
+	\item \hyperlink{enem:Beam_Cannon}{Beam Cannon}
+	\item \hyperlink{miniboss:Generaid_Core}{Generaid Core}.  
+	\item \hyperlink{enem:Giga_Death}{Giga Death}
+	\item \hyperlink{enem:Metal_Hawk}{Metal Hawk}
+	\item \hyperlink{enem:Plasma_Cannon}{Plasma Cannon}
+	\item \hyperlink{enem:Walk_Shooter}{Walk Shooter}
+\end{itemize}
+
+\subsection{Heart Tank}
+The stage's heart tank can be found in plain sight on the first platform destroyed by the laser. Players must grab it quickly, otherwise the laser will fire, destroying the platform and causing the heart tank to fall.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_heart.png}
+	\caption{Heart Tank Location}
+\end{figure}
+
+\subsection{Arm Parts}
+
+The capsules storing the arm parts are found shortly after the spiked section in the stage's second half. After it, player may notice an opening on the roof, with spikes along the wall and, by carefully firing a lightning web with X onto it, players may use it to wall jump up to reach a portion without spikes (see file \path{videos/X4/Owl_capsule_jump.mp4} for reference on how to perform the jump). From here, player can reach a secret room hiding the two capsules for the arm parts. The first one stores the Stock Charged Shot, while the second stores the Plasma Charged Shot. Player can freely switch among the two by simply entering the corresponding capsule.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_armor_1.png}
+	\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_armor_2.png}
+	\caption{Arm Parts Location}
+\end{figure}
+
+\subsection{Storm Owl}\label{boss:Storm_Owl}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Storm_Owl/Mmx4stormowl.png}
+	\caption{Storm Owl artworks from~\cite{book:MMX_Complete_art}}
+\end{figure}
+Storm Owl was a cunning and proud Reploid, known for his close friendship with fellow aerial Reploid Storm Eagle(\ref{boss:Storm_Eagle}); however, following Eagle's death by the end of X, Owl developed a lasting grudge against him~\cite{book:MH_field_guide}. Interestingly, it is noted that Storm Owl also did not get along with Chill Penguin, possibly due to a misunderstanding where Owl was once mistaken for a penguin himself due to is short stature.
+
+Some time after the event of the first game Storm Owl joined Repliforce, where he quickly rose through the ranks and eventually became the military's chief intellectual office, making him worth the title of \textit{Chief Officer of the Skies}~\cite{wayback:X4_resources}/\textit{Aerial Chief of Staff}~\cite{wiki:Storm_owl,book:MMX_Complete_art}/\textit{Staff Chief of he Skies}~\cite{book:MH_field_guide}. As a prideful soldier, Owl stood by his commanders during the rebellion, feeling deeply insulted that Repliforce had been branded as Mavericks~\cite{wayback:X4_resources}. Consequently, he was tasked with leading his air force fleet to attack a city~\cite{wiki:Storm_owl} and act as distraction. During the operation, he was confronted by Maverick Hunters X and Zero, who reached him after destroying his fleet and ordered him to disarm and surrender. Owl refused, claiming he would only take orders from his superiors, thus leading to a fierce battle with the Hunters, which ultimately lead to Owl's demise. 
+
+Throughout his boss battle, Storm Owl primarily flies around the arena, following a relatively straightforward pattern of attacking, disappearing off-screen, and reappearing to attack again. His first attack option is the \emph{swoop} attack, where he grabs the player with his talons and slams them into the ground for significant damage. Alternatively, he can reappear from one of the arena’s corners to use his \emph{3-way shot}, launching a spread of feather projectiles in three directions, either aimed upward or downward depending on his position. These feathers can be destroyed with standard attacks, and Owl stops using this move once his health falls below 50\%. Another possible move is his \emph{Cyclone Attack}, which comes in three variations: if X or Zero is on the central platform, Owl flies to the middle and fires a single cyclone at the player, if instead the player is on the ground, Owl scatters four cyclones that home in simultaneously from one of the corner. Additionally, once his health is below half, Owl adds another variant where he hover to the center of the arena and fires four cyclone streams rotating around himself. Finally, once Owl reaches critical health, he also begins starts using the \emph{Giant Tornado}, summoning three tornadoes directly beneath the player’s position shortly after a visual warning.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.15\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_grab.png}
+		\caption{Swoop}
+	\end{subfigure}
+	\begin{subfigure}{.2\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_feathers.png}
+		\caption{3-Way Shot}
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_tornado.png}
+		\caption{Giant Tornado}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_shot.png}
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_4_shots.png}
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_cross_1.png}
+		\caption{Cyclone Attack variants}
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_stun.png}
+		\caption{Stun by his weakness}
+	\end{subfigure}
+	\caption{Storm Owl's attacks}
+\end{figure}
+
+Although many of Storm Owl’s attacks may seem easy to dodge in theory, they are executed rapidly and deliver substantial damage, giving players only brief windows to react. As a result, players must anticipate his movements and position strategically as soon as the boss reappears on screen. In this scenario, X has the advantage due to his ability to attack from a distance, while Zero is forced to take more risks in order to deal meaningful damage. To simplify the battle, players can take advantage of the weapons obtained from Cyber Peacock: X can use the Aiming Laser, which automatically locks onto Owl and allows to put focus on dodging attacks; conversely, Zero can rely on Rakuhouha, which inflicts massive damage as each projectile deals two points of damage to Owl, meaning that a close-range barrage can severely injure the boss.
+
+Upon defeating Storm Owl, X adds the \emph{Double Cyclone} (\ref{Double_Cyclone}) to his arsenal, while Zero learns the \emph{Tenkuuha} (\ref{Tenkuuha}) ability.
+
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Swoop& 9 \\
+		3-Way Shot & 6 \\
+		Cyclone Attack& 6\\
+		Giant Tornado& 9\\
+		\bottomrule
+	\end{tabular}
+	\caption{Storm Owl's attacks and damages~\cite{book:Compendium,wiki:Storm_owl}}
+\end{table}
+ 
+
+\section{Volcano}\label{volcano}
+The Volcano Stage sees X and Zero venturing into an active volcano in pursuit of their former teammate, Magma Dragoon, with the goal of stopping him.
+
+Most of the stage follows a traditional platforming structure, were players must jump over bottomless pits while avoiding rocks falling from above. In the first section rocks slide down slopes, with the first one being near the beginning and the second near the end, which can be avoided by clinging to nearby walls and wait until the slide ends. Additionally, lava occasionally erupts from the ground and arcs forward or backward, with very little time to react unless players already know their position. Fortunately, players equipped with the Frost Tower or Hyouretsuzan can use it to freeze both the lava and the rocks, neutralizing these hazards entirely.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Frozen_lava_1.png}
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Frozen_lava_2.png}\\\vspace{3pt}
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Frozen_lava_3.png}
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Frozen_lava_4.png}
+	\caption{Using Frost Tower to freeze lava}
+\end{figure}
+
+The second part of the stage continues in a similar way, but introduces crumbling platforms that collapse shortly after X or Zero steps on them. Toward the end, players are given the option to pilot a Ride Armor, which can ignore the lava hazards entirely. Alternatively, they can proceed on foot by jumping between platforms, but using the Ride Armor is highly recommended, as ahead are numerous enemies , including Raiden with their own armor. If players manage to keep the Ride Armor intact to the end, they can smash through blocks that reveals a hidden entrance to the boss arena, granting the ability to fight the boss while still in the Ride Armor fir the first time in the series. Alternatively, players who don’t take the hidden route must follow the standard path, which leads to an elevated platform with a gap which drops players directly into the boss' arena.
+
+This stage confronts players with following variety of enemies:
+\begin{itemize}
+	\item \hyperlink{enem:Batton_Bone_B81}{Batton Bone B81}
+	\item \hyperlink{enem:Giga_Death}{Giga Death}
+	\item \hyperlink{enem:Mettaur_D2}{Mettaur D2}
+	\item \hyperlink{enem:Raiden}{Raiden}
+	\item \hyperlink{enem:Spiky_Mk-II}{Spiky Mk-II}
+\end{itemize}
+
+\subsection{Heart Tank}
+This stage's heart tank can be found in plain sight at the beginning of the second part. The collectible can be spotted  on top of a platform accessible via a well-performed dash jump, air dash, double jump (Zero) or jump from the Lightning Web (X)
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_heart_1.png}
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_heart_2.png}
+	\caption{Heart Tank Location}
+\end{figure}
+
+\subsection{Body Parts}
+The capsule containing the body parts is hidden on top of a platform above where the Ride Armor can be found. The platform is accessible simply by a dash jump, but the path is blocked by rocky wall which cannot be destroyed normally. The sole weapons capable of destroying it are X's charged twin slasher or an attack from the ride armor, which can reach the platform as shown in section~\ref{misc:armor_body}.
+ \begin{figure}[htp]
+ 	\centering
+ 	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_Capsule.png}
+ 	\caption{Body Parts Location}
+ \end{figure}
+ 
+\subsection{Magma Dragoon}\label{boss:Magma_dragoon}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Magma_Dragoon/Mmx4magmadragoon.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Magma_Dragoon/Mega_Man_X_DiVE_Magma_Dragoon.png}
+	\caption{Magma Dragoon's artworks from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+
+Magma Dragoon (\textit{Explosive Martial Artist}~\cite{wiki:Magma_dragoon,book:MMX_Complete_art}, \textit{Martial Artist of the Exploding Flame}~\cite{book:MH_field_guide}, or \textit{Fireblast Warrior}~\cite{wayback:X4_resources}) was a formidable warrior and the leader of the 14th Maverick Hunter special unit, also referred to as the ``grapple unit'' in some sources~\cite{wayback:X4_resources}. A masterful martial artist who developed his own unique fighting style, similar to the Ansatsuken~\cite{book:MH_field_guide}, Dragoon was a fierce and passionate warrior who constantly sought the thrill of battle. During his time as a Hunter, Dragoon befriended X and Zero~\cite{wiki:Magma_dragoon}, members of the 17th and 0th units respectively, and developed the ambition of challenging them to a duel. As time went on, Dragoon’s desire to face the legendary Reploids grew stronger, eventually surpassing his duties as a Hunter. This flaw ultimately led to Dragoon's downfall, as Sigma approached him with an irresistible offer: power and a chance to duel X and Zero in exchange for his loyalty. Viewing this as a once-in-a-lifetime opportunity, Dragoon agreed to assist Sigma, setting Eregion to wreak havoc in Sky Lagoon and sabotaging the city’s reactor, leading to the catastrophic collapse and destruction of the city, while also framing Repliforce for the incident. After his betrayal, Dragoon retreated to an active volcano, where he attacked any Hunter who ventured too close~\cite{Xcoll1:Manual_X1} and waiting eagerly for the duel he had longed for. His wait did not last long, as either X or Zero eventually faced him in a duel to the death, but despite Dragoon’s exceptional prowess he ultimately fell to X or Zero. Mortally wounded, he confessed the truth about his actions to the Hunters, claiming that everything had been worth it for the sake of a final, glorious duel.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.5\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_had_1.png}
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_had_2.png}
+		\caption{Hadouken}
+	\end{subfigure}
+	\begin{subfigure}{.2\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_punch.png}
+		\caption{Rising Fire}
+	\end{subfigure}
+	\begin{subfigure}{.15\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_kick.png}
+		\caption{Nosedive}
+	\end{subfigure}
+	\begin{subfigure}{.45\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_pillar_1.png}
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_pillar_2.png}
+		\caption{Fire Pillar}
+	\end{subfigure}
+	\begin{subfigure}{.35\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_fire.png}
+		\caption{Fire Attack}
+	\end{subfigure}
+\end{figure}
+Magma Dragoon’s fight is a true test of agility and pattern recognition. Most of his attacks can be avoided either by dashing underneath them or jumping over them, as Dragoon continuously cycles through his moves in predictable patterns. His first attack, the \emph{Hadouken}, is based of the iconic move from the Street Fighter series and sees Dragoon firing a fireball horizontally. When executed while standing, the fireball must be dodged by dashing underneath it, whereas a crouching Hadoken requires players to jump over it. His second move, the \emph{Rising Fire}, is a blazing uppercut attack he performs after shouting \textit{Shoryuken}, which covers a significant vertical and horizontal area and can only be avoided by quickly dashing beneath Dragoon as he leaps upward or dashing away from him. Additionally, Dragoon can also employ his \emph{Nosedive}, a rapid diving kick performed after a brief hop and that can be avoided by dashing away. Beyond close-range techniques, Dragoon also utilizes a series of ranged attacks to control the battlefield and create deadly traps: the \emph{Fire Pillar Attack} causes flames to erupt from one side of the arena, making the adjacent wall useless for wall-jumping; the \emph{Fire Attack} sees Dragoon unleashing a stream of fire across the entire horizontal span of the arena, leaving only the walls and a narrow strip of ground behind him safe; finally, the \emph{Flame Shot} summons meteors that rain diagonally from the top right, forcing players to retreat to the top left corner for safety. However, Dragoon only uses the Flame Shot once his health falls below half.
+\begin{figure}[htp]
+	\ContinuedFloat
+	\centering
+	\begin{subfigure}{.45\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Dragoon_desp.png}
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Dragoon_desp_2.png}
+		\caption{Flame Shot}
+	\end{subfigure}
+	\begin{subfigure}{.35\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_stun.png}
+		\caption{Stunned by his weakness}
+	\end{subfigure}
+	\caption{Magma Dragoon's attacks}
+\end{figure}
+
+As previously mentioned, quick reflexes and memorization are essential to defeating Magma Dragoon. It is critical to understand that Dragoon rarely performs isolated attacks; instead, he chains them in sequences following a strict patter, before shifting to another one. Quickly recognizing these sequences is crucial, as it allows players to dodge effectively and capitalize on the openings each attack provides, since many of Dragoon's moves leave him vulnerable for counterattacks. Positioning also plays a crucial role: the edges of the arena are lined with deadly lava, further restricting available space and punishing players who over-rely on wall jumping to avoid Dragoon's attacks. During the first phase of the battle, Dragoon often initiates combat with a Nosedive to close the distance, followed by one of two possible combinations: either two consecutive Hadoken, one high and one low, or a crouching Hadoken followed by a Rising Fire. Alternatively, if Dragoon summons a fire pillar, he will always follow it up with two Rising Fires. In the latter half of the battle, Dragoon modifies his combos, unleashing three Hadoken in succession—high, low, then high again. In between this sequences, Dragoon can insert his other attacks, to catch players off guard. Among all his moves, the Fire Attack presents perhaps the best opportunity for damaging him, as Dragoon remains stationary for a significant period, allowing players to jump behind him and strike.
+
+Despite the apparent difficulty of the fight, players have access to several advantages to ease the battle. Bringing in the arena the Ride Armor provides invaluable assistance, as it makes the player temporarily invincible and allows a rapid and heavy damage output. Furthermore, in X’s case, using Dragoon’s weakness—the Double Cyclone—greatly simplifies the battle, as striking Dragoon with it interrupts his attack pattern and forces him to leap to the opposite side of the arena (as shown in file \path{videos/X4/Dragoon_loop.mp4}). Unfortunately, Zero lacks such an advantage; while his strongest technique, the Raijingeki, deals substantial damage, it offers no additional effects beyond raw power and the long animation, combined with the hit-stop caused by Dragoon's invincibility frames, lock Zero in place and expose him a lot to Dragoon's attacks. This last cons can however be avoided, as hitting Dragoon using Raijingeki hitbox behind Zero do not trigger Zero's hit-stop animation.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/dragoon_vs_armor.png}
+	\caption{Fighting using the Ride Armor}
+\end{figure}
+
+Upon defeating Magma Dragoon, X acquires the \emph{Rising Fire} (\ref{Rising_Fire}) as part of his arsenal, while Zero learns the \emph{Ryuenjin} (\ref{Ryuenjin}).
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 4 \\
+		Hadouken& 6 \\
+		Rising Fire & 8 \\
+		Nosedive& 6\\
+		Fire Pillar (fireball)& 4\\
+		Fire Pillar (pillar)& 9\\
+		Fire Attack& 9\\
+		Flame Shot& 4 (each meteor)\\
+		\bottomrule
+	\end{tabular}
+	\caption{Magma Dragoon's attacks and damages~\cite{book:Compendium,wiki:Magma_dragoon}}
+\end{table}
+
+\section{Marine Base} 
+The Marine Base Stage is almost certainly the most unique in the game, as it presents itself as an expansion of the Ride Chaser sections introduced in the second installment of the series, rather than following the structure of a traditional run-and-gun level. The stage, in fact, consists entirely of a single auto-scrolling section in which the player controls the Ride Chaser. The vehicle is limited to three basic actions: jumping, firing, and dashing forward, the latter option which can be executed either on the ground or in mid-air; in the latter case, the Ride Chaser will briefly hover before falling back down. The dash, while being a powerful offensive move that can destroy any obstacle in a single hit, is a high-risk, high-reward move, as mistiming it may cause the player to fall into a pit or crashing into an obstacle, due to the dash’s relatively long cooldown period and the inability to move immediately after.
+
+The first part of the stage tasks the player to drive the Ride Chaser through a tunnel, throughout which enemy Ride Chasers will approach in an attempt to hit into the player. Additionally, mines are also scattered across the path, requiring well-timed jumps to avoid damage. Near the end of this sequence the tunnel begins to collapse, with explosions and flames rapidly coming from behind. Simultaneously, metallic barriers appear as new obstacles, that must be either shot down or destroyed by dashing through them. While dashing is the more effective method, it also carries greater risk, especially since the barriers often appear in rapid succession and in some occasions are immediately followed by pits.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_chase.png}
+	\caption{Jet Stingray attacking the player}
+\end{figure}
+Upon escaping the tunnel the second portion of the stage begins, now set outdoor. Here obstacles become more frequent and dangerous, as the level design makes use of steel scaffolding coming from both the ground and ceiling to punish players who abuse the air dash. To further increase the difficulty, Jet Stingray himself appears to interfere with the player's progress, by flying ahead of the player and releases projectiles while moving. Fortunately, it is possible to make him flee by dashing directly into him and forcing him to retreat immediately. During this outdoor segment, Stingray appears twice in total, but in subsequent revisits after his defeat he will no longer appears. Upon reaching the end of the route, X or Zero will automatically dismount the Ride Chaser, leaving the player only with the task of walking through the boss door.
+
+Being an autoscroller, only few actual enemies appear in this stage~\cite{wiki:Marine_base}:
+\begin{itemize}
+	\item \hyperlink{enem:Hornet}{Hornet}
+	\item \hyperlink{enem:Hover_Gunner}{Hover Gunner}
+	\item Jet Stingray (both boss and enemy, does not reappear after his defeat)
+\end{itemize}
+\subsection{Heart Tank}
+The stage's heart tank can be found in its first part. in plain sight on a lower platform near a pit. To reach it, players only have to NOT jump while approaching the pit, as jumping will cause them to land on an upper platform and miss the collectible. Avoiding the jump will instead result in landing safely onto the correct platform.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_heart.png}
+\end{figure}
+
+
+\subsection{Sub Tank}
+This stage's sub tank can be found in the second part of the stage, near the end. To get it, players must remain in the upper path when reaching the last portion of the stage, by performing precise jumps between the platforms and destroying the crate that hides the collectible.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_tank.png}
+\end{figure}
+
+\subsection{Jet Stingray}\label{boss:Jet_Stingray}
+Jet Stingray, the \emph{Aqua Destroyer}, worked hard to rise through the ranks of Repliforce~\cite{wiki:Jet_stingray}, and eventually became the top naval officer in the organization’s navy division. Taking immense pride in his troops~\cite{wayback:X4_resources}, Stingray viewed Colonel and General as ideal soldiers and pledged loyalty to them. Consequently, when General initiated a coup against humanity in response to the false accusation of Repliforce being Mavericks, Jet Stingray did not hesitate to follow orders. His assigned mission was to create a diversion for the Maverick Hunters, by attacking a power plant in an unnamed city and plunging it into chaos.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Jet_Stingray/Mmx4jetstingray.png}
+	\caption{Jet Stingray's artwork from~\cite{book:MMX_Complete_art}}
+\end{figure} 
+After carrying out the sabotage, he fled the scene, pursued by the Hunters. During the chase, Maverick Hunter X or Zero ultimately caught up to him, resulting in a battle that led to Stingray's defeat and death.
+
+Jet Stingray's boss fight takes place in a semi-submerged arena, with approximately half of the battlefield underwater. For most of the encounter, Stingray remains above the water's surface to execute his attacks, submerging only briefly to perform certain moves before retreating off-screen and reappearing elsewhere. His primary form of attack is the \emph{Ground Hunter}, in which he releases four stingray-shaped drones that travel the surface of the water until they hit a wall; upon impact, they climb onto the wall and proceed to crawl along the arena floor, moving back and forth until destroyed. Once Stingray's health drops below half, he begins deploying red variants of the drones, which fall directly downwards as soon as they align vertically with the player’s position.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_hunter_1.png}
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_hunter_2.png}
+		\caption{Ground Hunter}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_hit.png}
+		\caption{Swoop}
+	\end{subfigure}
+\end{figure}
+
+In addition, Stingray employs several close-range techniques, all of which involve sudden, aggressive dashes. Typically, after deploying Ground Hunters, he follows up with a low \emph{swoop}—a dash in a ``U''-shaped arc across the screen that ends with him repositioning on the opposite side. Alternatively, Stingray may descend and start his \emph{Jet Stream}, pulling the player toward him before following up with a horizontal dash across the arena floor. The last move in his arsenal is the \emph{Tackle}, where he dashes off-screen, then suddenly dives into the player and the ground before leaping up again. Notably, both the Jet Stream and Tackle are only used when Stingray's health is below half.
+
+\begin{figure}[htp]
+	\centering
+	\ContinuedFloat
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_suck.png}
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_dive.png}
+		\caption{Jet Stream}
+	\end{subfigure}
+	\begin{subfigure}{.45\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_top.png}
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_bottom.png}
+		\caption{Tackle}
+	\end{subfigure}
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Jet_Stingray/stingray_stun.png}
+		\caption{Frozen by ice attack}
+	\end{subfigure}
+	\caption{Jet Stingray's attacks}	
+\end{figure}
+Given the sheer number of attacks and the significant damage they inflict, fighting Jet Stingray without the proper equipment can be challenging. While the first half of the battle is relatively manageable thanks to the limited number and predictability of his moves, the second half becomes increasingly chaotic, especially since ground hunters can quickly accumulate and overwhelm the player if left unchecked. Therefore, it’s crucial to prioritize destroying the drones while also watching Stingray's positioning to prepare for incoming attacks. Fortunately, all of Stingray's moves follow fixed paths, allowing players to dodge them consistently with practiced timing. and, unfortunately for Stingray, he is particularly vulnerable to his elemental weakness, ice-based weapons, as both the Frost Tower (for X) and Hyouretsuzan (for Zero) can freeze him solid. Once frozen, he always follows the same recovery pattern: a vertical dash off-screen followed by a slow descend on the side side we was before. However, during this cycle he lacks invincibility frames, allowing players to trap him in a repeatable loop (see file \path{videos/X4/Stingray_loop.mp4}). For X, this strategy is easy to execute, as Frost Tower’s vertical hitbox can even reach Stingray when he's off-screen; Zero's Hyouretsuzan, however, may require the \emph{Kuuenbu} technique to gain enough height for a successful hit, but once connected the loop can still be maintained. It's also important to note that Stingray's tail has no hitbox, allowing skilled players to safely climb the wall behind him and launch attacks from above.
+
+Upon defeat, X integrates the \emph{Ground Hunter} (\ref{Ground_Hunter}) into his arsenal, while Zero learns the \emph{Hienkyaku} (\ref{Hienkyaku}).
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 (both chase and boss battle) \\
+		Ground Hunter& 6 (both chase and boss battle)\\
+		Swoop & 6\\
+		Jet Stream (fan)& 0 \\
+		Jet Stream (contact)& 9 \\
+		Tackle & 9\\
+		\bottomrule
+	\end{tabular}
+	\caption{Jet Stingray's attacks and damages~\cite{book:Compendium,wiki:Jet_stingray}}
+\end{table}
+
+\section{Bio Laboratory}
+Among the eight stages, the Bio Laboratory is arguably the largest in terms of navigation time, featuring an impressive total of seven distinct sections—four in the first half and three in the second. In this level, X and Zero venture into a long-abandoned research facility to investigate the cause of its sudden reactivation.
+
+The first half of the stage is divided into four different sections: the opening segment consists of a spiral staircase filled with hostile enemies; following is a more traditional platforming segment suspended above bottomless pits; the third section involves a vertical climb, during which invincible \hyperlink{enem:Tentoroid_BS}{Tentoroid BS} enemies ram into the player from outside the tower walls; finally, the fourth segment culminates in a battle against the miniboss \hyperlink{miniboss:Tentoroid}{Tentoroid}, which attacks by moving back and forth before aligning itself with the player's position and launching upward. This action destroys the floor tiles above it and reveals a spiked pit, placing the player under a time limit to defeat the boss. The only opportunities to damage Tentoroid occur when it rises to attack, making upward strikes like Zero's \emph{Ryuenjin} especially effective. Additionally, attacks that can penetrate the floor, such as Zero’s \emph{Hyouretsuzan} and X’s \emph{Aiming Laser}, \emph{Ground Hunter}, and \emph{Frost Tower} can also hit the boss, although the latter two require at least one broken tile for the attack to pass through. Alternatively, it is possible to skip entirely the battle, by performing the glitch shown in section~\ref{x4_misc_mushroom_skip}.
+
+The second half of the stage mirrors the first in structure, only with slight variations in enemy placement. It begins with another staircase section, this time featuring a \hyperlink{enem:Death_Guardian}{Death Guardian} chasing the player; the next section is another platforming area, complicated by the return of the \hyperlink{enem:Tentoroid_BS}{Tentoroid BS}, which now destroy portions of the stage and cause them to gradually collapse into the pit below. The final part is an elevator ride where \hyperlink{enem:Togerics}{Togerics} suddenly sprout up to become crushing obstacles. Upon reaching the top of the tower, the player finally arrives at the arena where Split Mushroom awaits
+
+This stage houses following enemies:
+\begin{itemize}
+	\item \hyperlink{enem:Batton_Bone_B81}{Batton Bone B81}
+	\item \hyperlink{enem:Blast_Raster}{Blast Raster}
+	\item \hyperlink{enem:Death_Guardian}{Death Guardian}
+	\item \hyperlink{enem:Dejira}{Dejira}
+	\item \hyperlink{enem:Guardian}{Guardian}
+	\item \hyperlink{enem:Hover_Gunner}{Hover Gunner}
+	\item \hyperlink{enem:Spiky_Mk-II}{Spiky Mk-II}
+	\item \hyperlink{miniboss:Tentoroid}{Tentoroid}
+	\item \hyperlink{enem:Tentoroid_BS}{Tentoroid BS}
+	\item \hyperlink{enem:Tentoroid_RS}{Tentoroid RS}
+	\item \hyperlink{enem:Togerics}{Togerics}
+\end{itemize}
+
+\subsection{Heart Tank}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=2.5cm]{figures/X4/Split_Mushroom/mushroom_heart.png}
+	\caption{Heart Tank location}
+\end{figure}
+The stage's Heart Tank can be find in plain sight at the very beginning of level's second part, on top of the first corridor players start in. To reach it, players must allow \hyperlink{enem:Tentoroid_BS}{Tentoroid BS} to make  the first portion of the corridor collapse, opening a path to outside. To reach the collectible, players can either use the collapsing part as a temporary platform to reach it, or use X's Lightning Web or Zero's Double Jump to gain enough height to reach it.
+
+
+\subsection{Split Mushroom}\label{boss:Split_Mushroom}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Split_Mushroom/Mmx4splitmushroom.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Split_Mushroom/Mega_Man_X_DiVE_Boss_Split_Mushroom.png}
+	\caption{Split Mushroom's artwork from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+Split Mushroom (\emph{Little Devil of the Ruins~\cite{wayback:X4_resources}/Wasteland~\cite{book:MMX_Complete_art}}) was once the administrator of the Bio Laboratory, until his research facility was shut down, leading to his decommissioning~\cite{Xcoll1:Manual_X4}. It is unclear how long this condition lasted, but what is certain is that Sigma eventually revived Mushroom to assist during Repliforce's coup. Under Sigma’s orders, Mushroom turned the laboratory into a stronghold and began attacking anyone who came near, following his cruel and child-like tendencies. Ultimately, however, Split Mushroom was discovered by X and Zero, who proceeded to put him down for good.
+
+
+Among all the bosses in the series, Split Mushroom ranks last in terms of attack variety, possessing only two distinct moves, which he simply alternates. His first attack, \emph{Clone Attack}, begins with him clinging to one of the two walls and summoning six energy clones. These clones fall to the ground and wait until the sixth is generated; at that point, they all launch themselves toward the player, while Mushroom is free to move around the arena. In his second attack, \emph{Clone Attack 2}, Mushroom spins in the air and clones himself. Next, the two begin running in circles around the arena, occasionally performing coordinated rolling attacks by bouncing from wall to wall,  reuniting only after a while. Additionally, when low on health, both Mushrooms can slam into the ground one after the other, releasing spores in the process.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.23\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Split_Mushroom/mushroom_soul_1.png}
+		\includegraphics[height=3cm]{figures/X4/Split_Mushroom/mushroom_soul_2.png}
+		\caption{Clone Attack}
+	\end{subfigure}
+	\begin{subfigure}{.53\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Split_Mushroom/mushroom_clone_1.png}
+		\includegraphics[height=3cm]{figures/X4/Split_Mushroom/mushroom_clone_2.png}
+		\includegraphics[height=3cm]{figures/X4/Split_Mushroom/mushroom_headbonk_1.png}	
+		\caption{Clone Attack 2 (with spore release)}
+	\end{subfigure}
+	\centering
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Split_Mushroom/mushroom_stun.png}
+		\caption{Shocked by electric attacks}
+	\end{subfigure}
+	\caption{Split Mushroom's attacks}	
+\end{figure}
+
+
+The battle against Split Mushroom is set around avoiding being overwhelmed by his numerical advantage and finding the right opportunities to strike. In particular, he is highly vulnerable while generating his energy clones, as he remains stationary and the attack can be easily dodged as the clones will all launch themselves at player's current position without changing direction. Alternatively, Mushroom can be hit while running alongside his clone, while remembering that the clone is invincible and moves slower than the real Mushroom, helping to identify the true target. Despite not being an especially difficult boss, the fight becomes even more trivial when the correct weapons are used against him. Specifically, electric-type attacks, such as X’s Lightning Web or Zero’s Raijingeki, can heavily stun Mushroom, interrupting all his actions and even destroying any active clones, therefore making the battle significantly easier.
+
+
+Following his defeat, X will adapt the Soul Body (\ref{Soul_Body}) into his arsenal, whereas Zero will learn both the Kuuenbu and Kuuenzan (\ref{Kuuenbu}) techniques.
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 5 \\
+		Clone Attack & 6 \\
+		Clone Attack 2 (contact) & 9\\
+		Clone Attack 2 (spores) & 6\\
+		\bottomrule
+	\end{tabular}
+	\caption{Split Mushroom's attacks and damages~\cite{book:Compendium,wiki:Split_Mushroom}}
+\end{table}
+
+\section{Military Train} 
+Home to Slash Beast, the Military Train stage follows X and Zero as they navigate a heavily armed supply convoy, attempting to reach the front of the train and bring it to a halt.
+
+The first part of the stage plays like a traditional Mega Man level, with players moving from one wagon to the next while destroying crates and defeating enemies positioned on top of them. On three occasions during the stage a \hyperlink{enem:Knot_Beret_B}{Knot Berets B} appears and destroys the connection between wagons; however, this situation is easily solved with a quick jump onto the next car. At the end of the first section the players’ wagon is approached from behind by the \hyperlink{miniboss:DG-42L}{DG-42L} miniboss, which starts attacking. This enemy follows a simple attack pattern, extending its spikes one at a time and occasionally firing a cannon from its top. To defeat it, players must destroy all of its weapons, keeping in mind that the shafts of the spikes do not deal damage and are safe to stand in between.
+
+Once the miniboss is defeated, players proceed to the second section of the stage, which takes place inside a tunnel. Here, they are provided with a Ride Armor, which can be used to destroy enemies, heavy crates, and even parts of the wagons themselves. After progressing for a while, players reach the head of the train, which comes to a stop; from this point, they must exit the Ride Armor and cross a series of pits to board the next train, which begins moving as soon as they land on it. From there, players have only a short distance to travel before arriving at the final wagon, where Slash Beast will attack them.
+
+Following enemies can be found inside this stage~\cite{wiki:Military_Train}:
+\begin{itemize}
+	\item \hyperlink {enem:Batton_Bone_B81}{Batton Bone B81}
+	\item \hyperlink{miniboss:DG-42L}{DG-42L}
+	\item \hyperlink {enem:Knot_Beret_B}{Knot Beret B}
+	\item \hyperlink {enem:Knot_Beret_G}{Knot Beret G}
+	\item \hyperlink {enem:Mettaur_D2}{Metall D2}
+	\item \hyperlink {enem:Plasma_Cannon}{Plasma Cannon}
+	\item \hyperlink {enem:Raiden}{Raiden}
+\end{itemize}
+
+\subsection{Heart Tank}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/beast_heart_2.png}
+	\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/beast_heart_1.png}
+	\caption{Heart Tank location}
+\end{figure}
+This stage's Heart Tank can be found in plain sight on top of a wagon in the second section of the stage. No requirements are needed to obtain it. If the wagon is destroyed by using the Ride Armor, the collectible will simply drop down onto the wagon's remains.
+
+\vspace{2cm}
+\subsection{Slash Beast}\label{boss:Slash_Beast}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Slash_Beast/Mmx4slashbeast.png}
+	\caption{Slash Beast's artwork from~\cite{book:MMX_Complete_art}}
+\end{figure}
+The \emph{Steel King of Destruction}~\cite{book:MMX_Complete_art}, known as Slash Beast, was a formidable Repliforce captain, renowned for being a bold and fearless soldier whom others could rely on~\cite{wayback:X4_resources}. 
+In truth, Slash Beast was a rough, tough, fighter who enlisted in Repliforce primarily to showcase his strength and satisfy his urge to carve up enemies~\cite{Xcoll1:Manual_X4}, often engaging opponents twice his size. Due to this behavior, however, he was not well-regarded by his fellow Repliforce captains, with whom he did not get along. Once General launched the Repliforce coup, Beast took charge of defending the military train convoy supplying ammunition and weapons to other units, but his mission early came to an end when he confronted X and Zero, who aimed to disrupt the supply chain and defeated him after a fierce battle.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Slash_Beast/beast_stomp.png}
+		\includegraphics[height=3cm]{figures/X4/Slash_Beast/beast_grab_1.png}
+		\includegraphics[height=3cm]{figures/X4/Slash_Beast/beast_grab_2.png}
+		\caption{Jump Attack (stomp and grab)}
+	\end{subfigure}
+	\begin{subfigure}{.45\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Slash_Beast/beast_slasher.png}
+		\includegraphics[height=3cm]{figures/X4/Slash_Beast/Beast_slasher_2.png}
+		\caption{Twin Slasher (full and debilitated)}
+	\end{subfigure}
+	\begin{subfigure}{.25\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Slash_Beast/beast_parry.png}
+		\caption{Guard stance}
+	\end{subfigure}
+\end{figure}
+
+Among all eight bosses, Slash Beast is perhaps the one players should underestimate the least, as he has the highest damage output of the main Mavericks thanks to a set of fast and powerful attacks. During the battle’s first phase, Slash Beast relies on two attacks: the \emph{Jump Attack}, where he leaps into the air to stomp on the player, and the \emph{Twin Slasher}, in which he performs a front flip kick and fires two energy blades. However, once his health drops below 50\%, the second phase begins, marked by the train exiting the tunnel, and Beast introduces new moves while also enhancing previous ones. In particular, the \emph{Jump Attack} gains a variation, a diagonal leap followed by a grab that slams the player into the wall for massive damage. Additionally, Beast occasionally performs a counterattack by entering a defensive stance and firing a \emph{Twin Slasher} if struck during it. Lastly, in this phase, he also gains access to the \emph{Charge} attack, during which he dashes into both the arena walls to shake them and try to knock the player down of walls.
+\begin{figure}[htp]
+	\centering
+	\ContinuedFloat
+		\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/beast_slam_1.png}
+		\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/beast_slam.png}
+		\caption{Charge}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/Beast_start.png}
+		\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/Beast_trip.png}
+		\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/Beast_no_claw.png}
+		\caption{Before and after tripping and breaking his claws}
+	\end{subfigure}
+	\caption{Slash Beast's attacks}	
+\end{figure}
+
+Fighting Slash Beast without the proper equipment can be a tough challenge, mainly due to his high damage potential. However, most of his attacks are clearly telegraphed, giving players the opportunities to avoid them. For instance, he always growls before executing a Jump Attack—either versions, and the Charge attack is also heavily telegraphed, while also being easily avoidable with a well-placed wall jump. This is not however the case for the \emph{Twin Slasher}, which can only be anticipated by watching for a slight delay after he assumes the attack pose. Still, the energy waves can still be dodged with a well-timed dash. To make the fight easier, X can use the Ground Hunter, which is especially effective: a single hit will cause Slash Beast to trip and fall, dealing significant damage and breaking his claws,  weakening the Twin Slasher to a single upward projectile. More importantly, using the Ground Hunter forces Beast to follow up with a Charge regardless of his health status, allowing players to trap him in a predictable loop (see file \path{videos/X4/Beast_loop.mp4}). Zero, on the other hand, does not benefit from such a weakness and must fight Beast head-on, relying on Raijingeki as his most effective tool, with the downside of high exposition due its long animation.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/beast_bg_1.png}
+	\includegraphics[height=2.5cm]{figures/X4/Slash_Beast/beast_bg_2.png}
+	\caption{Battle background at the start and after half health is depleted}
+\end{figure}
+
+Upon defeat, X acquires the Twin Slasher ability (\ref{Twin_Slasher}), while Zero learns the Shippuuga technique (\ref{Shippuuga}).
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Jump Attack (stomp)& 7 \\
+		Jump Attack (wall smash) & 9\\
+		Twin Slasher & 6\\
+		Charge& 9\\
+		\bottomrule
+	\end{tabular}
+	\caption{Slash Beast's attacks and damages~\cite{book:Compendium,wiki:Slash_Beast}}
+\end{table}
+
+
+
+\section{Snow Base}
+The final stage available to players is the Snow Base, where X and Zero venture into an icy cavern in search of Repliforce captain Frost Walrus. As in previous entries in the series, this stage centers around slippery terrain, leading to spikes and bottomless pits.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_buffalo.png}
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_penguin.png}
+	\caption{Frozen Blizzard Buffalo and Chill Penguin}
+\end{figure}
+
+At the very beginning of the stage, near a statue of a frozen Blizzard Buffalo (\ref{boss:Blizzard_buffalo}), players are presented with two possible paths. The upper path, accessible by wall-climbing and only traversable if players have previously obtained either the Kuuenbu or the Lightning Web, contains numerous item pickups and fewer enemies. The lower path, on the other hand, consists of crumbling snow-covered platforms and ladders that collapse after being stepped on and reappear shortly after. Both paths eventually converge midway through the first section, leading into a short platforming sequence on icy platforms suspended above spike-filled pits.
+Immediately afterward is a long segment involving crumbling snow platforms, where players must quickly advance along a collapsing trail to avoid falling into the spikes below. This is followed by a large vertical shaft filled with rising ice platforms. Here, players must descend carefully while avoiding being crushed or falling into the abyss, eventually reaching the door to the stage's miniboss room, decorated with a frozen Chill Penguin and housing the \hyperlink{miniboss:Eyezard}{Eyezard} miniboss. This enemy shields itself in ice and takes on different forms depending on its remaining health: it may charge players in claw form, bounce around the room to cause falling stalactites, or launch ice spikes itself when below half health. Its weak point is the red core, and unsurprisingly, Fire-type weapons are highly effective, melting its ice armor and exposing the vulnerable core.
+
+
+The second half of the stage takes place within the Snow Base itself. Here, large ice blocks obstruct nearly every part of the path, forcing players to carve their way forward by destroying them. However, some blocks contains enemies or bombs, functioning as traps. Following, the last part of the stage focuses on \hyperlink{enem:Ice_Wing}{Ice Wings} enemies, that occasionally appear on-screen and, if not destroyed quickly, will freeze parts of the stage. This process makes platforms more slippery, creates damaging icicles, and encases other enemies in ice. Frozen enemies do not move or shoot, but they are also covered in spikes, which are launched outward if the enemy is destroyed or touched. Fortunately, the freezing effect is not instantaneous, and players have a brief window to intercept and destroy the Ice Wings before they complete their action.
+Following this final stretch, players reach the boss door, leading to their confrontation with Frost Walrus.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_frozen_2.png}
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_frozen.png}
+	\caption{Portion of stage frozen by a Ice Wings}
+\end{figure}
+
+Following enemies can be found in the stage~\cite{wiki:Snow_base}:
+\begin{itemize}
+	\item \hyperlink {enem:E-AT}{E-AT}
+	\item \hyperlink{miniboss:Eyezard}{Eyezard}
+	\item \hyperlink {enem:Fly_Gunner}{Fly Gunner}
+	\item \hyperlink {enem:Ice_Wing}{Ice Wing}
+	\item \hyperlink {enem:Knot_Beret_S}{Knot Beret S}
+	\item \hyperlink {enem:Mettaur_D2}{Mettaur D2}
+	\item \hyperlink {enem:Yukidarubon}{Yukidarubon}
+\end{itemize}
+
+\subsection{Heart Tank}
+The stage's Heart Tank can be found near the start of the stage while traversing the lower path, in plain sight on top of an ice block sealing the access. Unsurprisingly, using a fire attack will melt the ice and let the pickup drop on the ground ready to be collected.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_heart.png}
+	\caption{Heart Tank location}
+\end{figure}
+
+\subsection{EX-Item}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_ex.png}
+	\caption{Ex Tank location}
+\end{figure}
+
+The EX-Item, which raises the available life after a game over from two to four, can be found at about halfway during the section on the crumbling snow trail, when players are required to descend and start running to the left. In this situation, players can also opt to jump onto the rightmost wall and climb it up to the far right corner of the map. Here, they will notice the Ex-Item sitting on top of a platform, which however requires either Zero's double jump or X's Lightning Web to be reached.
+
+
+\subsection{Weapon Sub Tank}
+The Weapon Sub Tank can be found at the end of the ice block section in the stage's second part. Specifically, players can notice it sealed inside an ice block in the top right part of the map.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_tank_.png}
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_tank_2.png}
+	\caption{Weapon Sub Tank location}
+\end{figure}
+
+
+\subsection{Frost Walrus}\label{boss:Frost_Walrus}
+\begin{figure}
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Frost_Walrus/Mmx4frostwalrus.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Frost_Walrus/Mega_Man_X_DiVE_Boss_Frost_Walrus.png}
+	\caption{Frost Walrus' artworks from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+Frost Walrus had always been something of a loose cannon—a rowdy, short-tempered Reploid with an impulsive urge for destruction. Despite this, General offered him a place among the Repliforce ranks, which Walrus gladly accepted, believing that a soldier’s duty was to destroy everything in sight~\cite{Xcoll1:Manual_X4}. Even so, his personality did not change, and he continued to cause trouble within Repliforce. At one point in his life, Walrus was even suspected of being a Maverick: according to~\cite{Xcoll1:Manual_X4}, he was under suspicion of Maverick behavior and was enlisted for disposal before joining Repliforce; alternatively,~\cite{wayback:X4_resources} suggests that General himself initiated investigations into Walrus’s behavior. Nevertheless, when General launched his coup, he needed every capable soldier and thus assigned Walrus to guard a secret weapon being developed at the North Pole. Walrus gladly accepted the task,  eager for battle and the opportunity to cause more destruction, welcoming war at open arms. This would be his final assignment, ending in his fatal confrontation with X and Zero.
+
+As a boss, Frost Walrus is one of the largest among the eight main Mavericks in the series, but despite his size, his attack repertoire is relatively limited. His primary attack, \emph{Tackle}, involves sliding across the arena and ramming into a wall, creating a shockwave that can knock players off the walls. When his health drops below two-thirds, he gains access to the \emph{Ice Blade} attack, in which he launches four icicles from his shoulder into the air and fall shortly after, embedding themselves into the ground, acting as hazards. Finally, when his health is below one-third, he uses the \emph{Frost Tower}, creating a massive icicle and then shattering it with a punch, scattering shards across the ground and walls.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.7\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_slide.png}
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_slide_2.png}
+		\caption{Tackle (regular and after getting hit by a fire attack)}
+	\end{subfigure}
+	\begin{subfigure}{.6\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_spike_1.png}
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_spike_2.png}
+		\caption{Ice Blade}
+	\end{subfigure}
+	\begin{subfigure}{.33\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_fire.png}
+		\caption{On fire}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_dm_1.png}
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_dm_2.png}
+		\includegraphics[height=3cm]{figures/X4/Frost_Walrus/walrus_dm_3.png}
+		\caption{Frost Tower}
+	\end{subfigure}
+	\caption{Frost Walrus's attacks}	
+\end{figure}
+
+Despite his imposing presence, the battle against Walrus is arguably the easiest among the eight Mavericks. His large size makes him an easy target for X’s shots, and during his slide, his lowered hitbox allows players to wall-jump over him. Combined with his relatively slow sliding speed, this makes avoiding taking damage quite easy. Furthermore, all of his ice-based hazards can be neutralized: both icicles and shards are destroyed by a single charged shot from X (which also passes through them) or a single sword swing from Zero. Walrus is also extremely vulnerable to fire-based attacks, specifically Rising Fire and Ryuenjin, which melt his ice armor and force him into a predictable pattern of sliding followed by Frost Tower. While these weapons require close-range use, posing some risk especially for X, they are well-suited to Zero’s naturally close-combat style.
+
+Upon defeat, X obtains the Frost Tower (\ref{Frost_Tower}), while Zero learns the Hyouretsuzan (\ref{Hyouretsuzan}). According to various sources, Walrus is assigned different titles:~\cite{wayback:X4_resources} refers to him as the \textit{Savage of the North Pole}; \cite{book:Compendium} and \cite{book:MH_field_guide} both use \textit{Arctic Rumbler}; and \cite{wiki:Frost_walrus} lists him as the \textit{Rumbler of the Far North}. In the original Japanese version, his name is given as Frost Kibatodos (``Frost Steller Sea Lion'').
+
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Ice Blades & 6 \\
+		Frost Tower & 9\\
+		Frost Tower (shards) & 6\\
+		\bottomrule
+	\end{tabular}
+	\caption{Frost Walrus's attacks and damages~\cite{book:Compendium,wiki:Frost_walrus}}
+\end{table}
+
+\section{Memorial Hall}
+Once half of the eight main bosses have been defeated, Colonel will contact X or Zero and challenge them to a duel, forcing players to pick as next location the Memorial Hall. By itself, the Memorial Hall is a very simple stage, as it houses only a boss fight against Colonel (\ref{boss:Colonel}). Importantly, the boss fight is accessible to X only, as when playing as Zero a cutscene will play in place of the actual fight.
+
+\section{Space port}
+Once all eight Mavericks have been defeated, players gain access to the first of the final three stages: the Space Port. In this mission, Maverick Hunters X and Zero are tasked with stopping the Repliforce, who are fleeing Earth to relocate to the heavily armed space colony, \emph{Final Weapon}.
+
+The stage plays much like a traditional Mega Man level, though it is relatively short. It combines platforming and enemy busting, beginning with an exterior section of jumps and hazards, followed by an interior area packed with foes. The final stretch is a vertical climb leading to a showdown with Colonel, who has stayed behind to buy his forces time to escape.
+
+
+\subsection{Colonel}\label{boss:Colonel}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/X4_colonel1.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mega_Man_X_DiVE_Hunter_Program_Colonel_Auraless.png}
+	\caption{Colonel's artwork from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+Colonel was a young officer in Repliforce and the older brother of Iris. Created by Repliforce scientists as the perfect soldier and model officer, he was gifted with a strong will~\cite{wiki:Colonel} and great pride, showing compassion only toward his subordinates and his sister~\cite{Xcoll1:Manual_X4}. An exceptionally skilled swordsman, Colonel was said to rival even Zero’s abilities~\cite{wayback:X4_resources}, and the two shared a mutual respect that bordered on friendship.
+
+As part of Repliforce, Colonel was among the first Reploids to respond to the disaster at Sky Lagoon, rushing in to rescue his sister. Luckily, he found out she had already been saved by Zero, thus developing a debt of pride toward the Hunter. However, when X and Zero encountered Colonel at the scene and demanded he to disarm under suspicion of Maverick behavior, he refused—preferring to be labeled a Maverick rather than surrender his weapon and pride. As a result, Colonel and the entire Repliforce were declared Mavericks, forcing General to launch a coup and declare independence from humanity, igniting the Great Repliforce War. During the coup, Colonel remained largely in the background, except for one duel against X or Zero in the Repliforce Memorial Hall. In X’s case, Colonel fought to stop what he saw as the Hunters’ greatest threat to Repliforce, only to be defeated and forced to retreat. In Zero’s case, the battle was interrupted by Iris, who had fallen in love with Zero and reminded her brother of his debt to the Hunter. Once Repliforce completed its preparations and began evacuating to the Final Weapon space station, Colonel stayed behind to hold off X and Zero, buying his forces time to escape. This second confrontation proved fatal for Colonel, who got mortally wounded. Even in his final moments, he held fast to the belief that Repliforce’s dream would be realized, asking Zero only to tell Iris that her brother died happily.
+
+In battle, Colonel demonstrates his swordsmanship through a variety of sword-based techniques. His most basic move is the \emph{Shockwave}, in which he fires three energy slashes at alternating height two low and one high. He also uses \emph{Teleport}, briefly vanishing and reappearing next to the player for a sword slash, immediately followed by a retreating dash. These two are also the only two attacks he performs against X during the Memorial Hall encounter. Additionally, in his final confrontation, Colonel adds two more moves: the \emph{Thunder attack}, announced with the shout ``\textit{Energy Breaker}'', sends several energy bolts across the ground which then rise upward once evenly spaced, and the \emph{Giant Shockwave}, signaled by the scream ``\textit{Ground Crush}'', sees Colonel leap high into the air and slam into the ground, releasing a shockwave that travels forward and grows in size as it moves. This last move is only used when Colonel’s health drops below half.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_beam.png}
+		\caption{Shockwaves}
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_tp.png}
+		\caption{Teleport}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_break_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_break_2.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_break_3.png}
+		\caption{Thunder Attack}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_wave_3.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_wave_2.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/colonel_wave_1.png}
+		\caption{Giant Shockwave}
+	\end{subfigure}
+	\caption{Colonel's attacks}	
+\end{figure}
+
+At first glance, Colonel’s speed and high damage output make him seem like a difficult opponent. However, all of his attacks are predictable and can be countered with practice. The \emph{Shockwave} always follows the same low–high–low sequence, and players can avoid it with a dash, a jump, and another dash in rhythm, or by using the fourth armor's hover function while X is a the jump's peak high. The \emph{Teleport} is telegraphed by his brief disappearance, and its hitbox is smaller than it appears—a simple jump, or X’s hover for extra safety, avoids it entirely. Importantly, Colonel becomes intangible during his retreating dash, meaning he deals no contact damage but also cannot be harmed. Finally, Both the \emph{Thunder attack} and the \emph{Giant Shockwave} are verbally announced; the former can be dodged by jumping over the ground bolts and landing between them, while the latter requires only a wall jump to avoid. Offensively, Colonel often leaves himself open after attacking, especially during \emph{Shockwave} and \emph{Thunder Attack}, which have long recovery times. For extra damages, ice-based weapons, Frost Tower and Hyouretsuzan, are the most effective, though they require close range. 
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Shockwaves & 6 (Mem. Hall), 7 (Space Port) \\
+		Teleport & 9\\
+		Thunder Attack - floor & 6\\
+		Thunder Attack - rising & 9\\
+		Giant Shockwave & 9\\
+		\bottomrule
+	\end{tabular}
+	\caption{Colonel's attacks and damages~\cite{book:Compendium,wiki:Colonel}}
+\end{table}
+
+\section{Final Weapon 1}
+The second-to-last stage of the game takes place in the first half of the so-called \textit{Final Weapon}, a massive space station intended to serve as the foundation for a Reploid-only nation in deep space. The station is also equipped with a colossal cannon aimed at Earth, meant as both a deterrent and a defensive weapon against human attacks. In-game, the station is divided into two stages: the first leads to the main chamber where Repliforce’s leader, General, resides, while the second takes players deeper into the station, eventually reaching its core.
+
+The peculiarity of the Final Weapon 1 stage becomes clear immediately. After a short skirmish with a few enemies, players are confronted with a boss door right at the start. Uniquely, this stage puts players against \emph{two} major bosses: either Double or Iris (depending on the chosen character) at the very beginning, and General at the end.
+The path between these encounters is also unusual, as players are offered two possible routes to the final boss door. The upper route emphasizes precision platforming, with spiked pits and walls designed to hinder wall jumps, as well as laser traps similar to those in Storm Owl’s stage. The lower route instead focuses on combat and platforming over bottomless pits, though it provides a Ride Armor Eagle to ease part of the challenge. Both paths ultimately converge at the entrance to the final confrontation with General.
+
+
+Within the stage, players will find following enemies:
+\begin{itemize}	
+	\item \hyperlink {enem:Beam_Cannon}{Beam Cannon}
+	\item \hyperlink {enem:Death_Guardian}{Death Guardian}
+	\item \hyperlink {enem:Giga_Death}{Giga Death}
+	\item \hyperlink {enem:Hover_Gunner}{Hover Gunner}
+	\item \hyperlink {enem:Walk_Shooter}{Walk Shooter}
+\end{itemize}
+
+\subsection{Double}\label{boss:Double}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Double.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mmx4double2.png}
+	\caption{Double's artwork from~\cite{book:MMX_Complete_art}}
+\end{figure}
+Double was a clumsy but lovable rookie hunter assigned to the 17th Elite Unit as X's navigator, and he was willing to do all he could to help X in his tasks. Or, at least, this was what he wanted everyone to believe. In truth, Double was a fiendish and cruel reploid built by direct order of Sigma (although the original X4 manual stated he was Dr.~Cain's last creation~\cite{X4:Manual}), with the precise task of infiltrating the Maverick Hunters, gaining X's trust, and spying on him. To achieve this, he was given a false personality synthesized from an analysis of X's own personal traits, to create the perfect match that could immediately gain X's trust. Because he was granted two opposite personalities, he was given the name \emph{Double}. To complete the facade of a good-natured ally, Double was provided with transformation capabilities that enabled him to switch between his disguise and his battle mode. This was made possible through the use of liquid metal, which allowed Double to transform whenever Sigma commanded, but more importantly, made Double's internal structure unrecognizable from that of any other reploid, even under close inspection. The transformation also granted Double a noticeable power boost, elevating him from a simple C-rank hunter in his spy form to a potential threat in his liquid metal form, where he became capable of generating energy blades~\cite{wayback:X4_resources}.
+
+For the entire duration of the Repliforce war, Double played the part of X's navigator according to Sigma's plan, up until the hunter decided to leave for the Final Weapon to stop General. At that moment, Sigma ordered Double to prevent the hunters from reaching the space station, which led him first to transform and kill two hunters who mocked him and were preparing to assist X, and later to intercept X himself inside the Final Weapon in an attempt to kill him. Despite his initial disbelief, X was forced to fight Double, who was ultimately destroyed, his last words taunting X to meet him in the afterlife once he fell victim to his own naiveness.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_slash_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_slash_2.png}
+		\caption{Tackle}
+	\end{subfigure}
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_wave.png}
+		\caption{Wave Shot}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.4cm]{figures/X4/Final_Stages/Double_blade_1.png}
+		\includegraphics[height=2.4cm]{figures/X4/Final_Stages/Double_blade_2.png}
+		\caption{Light Shot}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_drone_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_drone_2.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_drone_3.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_drone_4.png}
+		\caption{Split Attacks (Blade and Bat forms)}
+	\end{subfigure}
+	\caption{Double's attacks}	
+\end{figure}
+
+The battle against Double can proceed in two main ways: it can be a relatively simple fight, as Double's attack patterns and movements are predictable and leave enough room to be dodged, or it can quickly spiral into chaos due to his main gimmick. Double's primary attack is his \emph{Tackle}, anticipated by the cry ``Evil Slash,'' in which he leaps to the ceiling, dives toward the center of the arena, and follows up with a horizontal or diagonal slash aimed at X, before crashing into the wall behind him. This attack is easily avoided by jumping at the right moment, causing Double to pass beneath X harmlessly (here, again, the hover ability greatly helps). His second move is the \emph{Light Shot}, where he fires a spinning energy disc toward the player while shouting ``Destroy.'' The disc is aimed at X's current position and remains stationary for a short while before disappearing. Once his health falls below half, Double begins firing two discs instead of one. As with all bosses, Double also possesses a special attack that triggers only when his health is low-in this case, the \emph{Wave Shot}. This attack, anticipated by Double's roar, sees him float near one of the arena's walls and unleash two consecutive energy waves that cover most of the arena’s vertical height. To avoid them, players must dash beneath the first wave and then quickly wall-jump above the second. This move is always preceded by Double's \emph{Tackle}.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_start_1.png}
+	\includegraphics[height=3cm]{figures/X4/Final_Stages/Double_start_2.png}
+	\caption{Transformation at battle's start}
+\end{figure}
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 6 \\
+		Tackle & 9 \\
+		Light Shot & 6\\
+		Wave Shot& 9\\
+		Split Attack Cutter - Blade & 4\\
+		Split Attack Cutter - Bat & 3 (contact), 4 (laser)\\
+		\bottomrule
+	\end{tabular}
+	\caption{Double's attacks and damages~\cite{book:Compendium,wiki:Double}}
+\end{table}
+As can be seen, none of Double's core attacks pose a significant threat to players, and the damage they deal is relatively minor, especially if X is armored. However, the situation changes drastically if players make the mistake of using Double's weakness against him, which ironically is the Double Cyclone. While this weapon inflicts heavy damage and, aside from a fully charged buster shot, is the only one capable of harming him, it also causes portions of Double's body to detach and become independent enemies, triggering his \emph{Split Attack Cutter}. Using this attack, when struck by the Double Cyclone, Double releases two blobs from his body that quickly reshape into one of two types of attack drones: either a spinning blade that ricochets around the arena, or a bat-like drone that hovers above the player and fires downward. These drones are invincible and persist for the entire fight, meaning that excessively using the Double Cyclone can plunge the battle into chaos, making it nearly impossible to dodge all of Double's attacks. Consequently, this encounter represents one of the very rare cases, if not the only one, in the franchise where using a boss’s weakness is strongly discouraged.
+
+
+\subsection{Iris}\label{boss:Iris}
+Iris was a reploid developed by Repliforce scientists as Colonel's younger sister, embodying a gentle soul who wished only for peace in contrast to Colonel's stern attitude. Although she originally worked for Repliforce, Iris was later reassigned as a Maverick Hunter navigator, assisting hunters from the base and acting as a liaison between the two forces~\cite{book:MH_field_guide}.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/X4_iris2.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mega_Man_X_DiVE_Hunter_Program_Iris.png}
+	\caption{Iris's artwork from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+During this period, she came into contact with Zero, who shared a mutual respect for Colonel, and the three formed a bond, with Iris in particular developing feelings for Zero. However, those peaceful days were destined to end when Iris was kidnapped by Eregion and brought to Sky Lagoon, getting caught in the incident. Iris was gravely wounded, and it was only Zero’s intervention that saved her life, with Colonel arriving shortly afterward to check on his sister. Iris was therefore present when Colonel refused to disarm, rejecting cooperation with the Hunters and leading to Repliforce being branded as Mavericks. Despite her brother’s allegiance to Repliforce, Iris remained loyal to her role as navigator, supporting Zero in his missions. Yet, much like with her brother, Iris’s convictions soon began to clash with Zero’s; her begging him to avoid fighting, especially against Colonel, while Zero saw no other solution than to face his enemies head-on.
+
+This conflict in Iris’s heart deepened after Colonel challenged Zero to a duel in the Memorial Hall, as Iris rushed in to stop them and managed to dissuade Colonel only by reminding him of the debt he owed to Zero, making him retreat. However, Iris’s words could not prevent a second clash: when Repliforce began escaping into space, Zero Zero headed to the Space Port convinced he had to stop Colonel and Repliforce, leaving Iris to watch as her brother was slain by the man she loved. Overcome with grief, she fled to the space colony ``Final Weapon,'' fully aligning herself with Repliforce’s goals. There, when Zero began his assault on the colony, Iris chose to intercept him and avenge her brother’s death. Lacking combat ability of her own~\cite{wayback:X4_resources}, she decided to install Colonel’s core crystal~\cite{wiki:Iris} (also referred to as his ``memory chip'' or simply his ``essence''~\cite{wayback:X4_resources,book:MH_field_guide}) into her body, thus fulfilling, although unwillingly, her creators’ original intention for her (see Chapter~\ref{char:Iris}). This act transformed her into the ``Ultimate Battle Reploid,'' granting her immense combat power and covering her body in massive armor. However, the incompatibility between her program and Colonel’s, born from their contradictory natures, caused severe rejection symptoms, and Iris lost control of her powers. Therefore, Zero was forced to fight her until her armor was destroyed, reverting her Iris normal state, but the injuries she sustained in the battle proved fatal, leaving her only a few to live. In her final moments, as she lay in Zero’s arms, Iris confessed her true wish: to live in a world inhabited only by reploids alongside Zero and her brother, even if it remained only a fantasy. As she died, Zero was left alone, questioning the purpose of his battles.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_3.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_4.png}
+		\caption{Transformation sequence at the beginning of the fight}
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_core.png}
+		\caption{Exposing the core}
+	\end{subfigure}
+	\begin{subfigure}{.4\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_mine_1.png}
+		\caption{Surrounded by her mines}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_laser.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/Iris_laser_2.png}
+		\caption{Laser}
+	\end{subfigure}
+	\caption{Iris' attacks}	
+\end{figure} 
+As the ``Ultimate Battle Reploid'', Iris appears covered in heavy, Ride Armor-like plating, which grants her the ability to fly and, most importantly, makes her completely immune to all damage. Despite her formidable power, however, Iris’s gentle heart is reflected in her behavior throughout the battle. She generally approaches the player at a slow pace, attempting to close the distance and inflict contact damage; only occasionally does she retreat to a corner to fire her \emph{Laser}, which sweeps across the floor. The only other way she can harm the player is through her innate counterattack system, which causes her to deploy two \emph{Floating Mines} whenever she is struck. These mines, much like Iris herself, move steadily toward Zero, only slightly faster than Iris, and they can be destroyed by any type of attack.
+
+While avoiding damage from Iris is relatively straightforward, inflicting damage on her is the true challenge. As noted earlier, Iris is completely immune to all attacks, and striking only pushes her back  and cause the deployment of additional mines. The sole way to harm her is to target Colonel’s Core, which emerges and floats alongside her only if forced out of her armor. The main method to do so requires players to land eight hits before she fires her Laser (which resets the counter), causing to deploy sixteen mines, the maximum possible, in the process. A secondary condition can also reveal the core regardless of hits: if Zero’s health drops below 8 HP, Iris exposes the core herself, symbolizing her reluctance to truly harm him. Regardless of how it is revealed, however, attacking the core remains difficult, as it constantly floats around Iris and is hard to strike consistently, especially given Zero’s limited range. Matters are further complicated by the fact that the core’s primary weakness is the \emph{Ryuenjin}, which requires precision to land effectively and, more importantly, while the core usually remains passive it can assists Iris by repositioning itself beneath the player and firing its own vertical Laser a few seconds after hers. If players manage to avoid being caught in the crossfire, however, this creates an ideal opening to strike the core, as it is likely to be far away from Iris.
+
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 4 \\
+		Floating Mines & 4 \\
+		Laser (both)& 8\\
+		\bottomrule
+	\end{tabular}
+	\caption{Iris's attacks and damages~\cite{book:Compendium,wiki:Iris}}
+\end{table}
+
+\subsection{General}\label{boss:General}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/General.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mega_Man_X_DiVE_Boss_General.png}
+	\caption{General's artworks from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+General was the supreme commander of Repliforce, a mighty leader respected by every soldier under his command. A massive reploid, he complemented his incredible strength with a strong will, a sense of justice and dignity, and a cultured knowledge, as symbolized by the bookshelves in his room during X's route introduction scene~\cite{wiki:General,wayback:X4_resources}. Although similar in ideals to his second-in-command, Colonel, General tended to use softer words when addressing his goals, particularly when speaking about his human creators. Interestingly, in the Japanese script for X4, General refers to himself using a pronoun typical of middle-aged men, emphasizing his role as a wise and seasoned veteran rather than a fresh soldier.
+
+As leader of Repliforce, General’s task was to lead his troops in assisting the Maverick Hunters in their missions. However, as time went on, Repliforce’s efforts failed to meet expectations, leading the government’s high command to question whether Repliforce was useful at all, or even potentially dangerous. Within this climate, General was approached by Sigma, who warned him of the danger the Hunters posed and suggested he strike first. General, however, ignored Sigma’s advice and simply dismissed him, claiming he had no intention of betraying humanity. Sigma left, laughing, as his true was merely to sow doubt in General’s mind. Shortly afterward, Sigma ordered Magma Dragoon to sabotage Sky Lagoon’s reactor, causing the city to crash and leaving Repliforce framed as the culprits. Wishing to protect his soldiers from the false accusation, General declared a coup d’état, intending to migrate Repliforce to space and establish a reploid-only nation free from human interference. On that occasion, however, General stressed that they did not aim to fight humanity, insisting that Repliforce was neither rebelling nor rising in insurrection against their creators, but only seeking freedom and security.
+
+
+Following this decision, Repliforce began preparing to flee aboard the space station Final Weapon, though their efforts were hindered by the Maverick Hunters’ intervention, particularly by X and Zero, who ultimately attacked the station itself. There, they confronted General, accusing his actions to be cause of countless victims. Surprisingly, General did not back down, taking full responsibility and declaring that, branded as Mavericks, fighting was their only option and that the struggle for independence always required sacrifice~\cite{wordpress:X4_japanese_script_X,wordpress:X4_japanese_script_Z}. General then proceeded to face the Hunters himself, but despite his incredible size and power, he too succumbed to X and Zero’s assault, receiving severe damage to his body. However, he was spared destruction when Sigma hijacked Final Weapon’s main cannon and aimed it at Earth in an attempt to wipe out humanity, letting General realize he had been serving Sigma’s interests all along. Regained clarity, General asked X and Zero to reach the weapon’s core and defeat Sigma and stop the weapon, in which they succeed only partially, as even with Sigma gone, the cannon already reached the point of no return and got ready to fire. Knowing such catastrophe was his fault, General took the only action left to him as a soldier: he placed what remained of his giant body in the cannon’s line of fire, absorbing the blast and destroying the weapon at the cost of his own life. In his final words, General asked forgiveness in the name of all Repliforce, while affirming that, as a soldier, he must follow his men who had died because of him.
+
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/general_slam.png}
+		\caption{Tackle}
+	\end{subfigure}
+	\begin{subfigure}{.25\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/general_desp.png}
+		\caption{Shuriken Laser}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/general_punch_2.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/general_laser.png}
+		\caption{Ring Laser}
+	\end{subfigure}
+	\caption{General' attacks}	
+\end{figure} 
+As a boss, General towers over the arena with his imposing stature, so tall that players must wall-climb simply to reach his head, which is his only weak point, as the rest of his body is completely immune to damage. General employs only three attacks: with his \emph{Tackle}, General flies across the arena and slams into the ground, summoning bursts of flame when the player is directly beneath him; with his \emph{Ring Laser}, he detaches his fists, which begin flying back and forth across the arena, while he fires ring-shaped projectiles from his elbows; finally, when below half health, General gains access to his \emph{Shuriken Laser}, firing two sets of three energy shurikens with only a narrow opening in the middle.
+
+With the exception of his Tackle, which is easily avoidable, all of General’s attacks do not inflict heavy damage, leaving some room for minor mistakes. This is particularly significant since his only weak point is his head which, especially for Zero, is difficult to reach. While, in fact, X can handle the fight more easily by attacking from a distance with his buster, or more effectively with the Twin Slasher, General’s weakness, Zero is instead forced into close combat. In this regard, using General’s fists as platforms to reach his head can be a useful strategy, provided players manage to dodge the ring lasers and the fists’ propellers, that also deals damage. Alternatively, clinging to a wall and striking from behind is also viable, though players must take care not to slide too far down, or they risk taking contact damage from General’s body and fall down.
+
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 9 \\
+		Tackle & 9 \\
+		Ring Laser &6 (laser), 6(fist propellers)\\
+		Shuriken Laser& 3\\
+		\bottomrule
+	\end{tabular}
+	\caption{General's attacks and damages~\cite{book:Compendium,wiki:General}}
+\end{table}
+
+\section{Final Weapon 2}
+The game's last stage continue X and Zero's mission to venture within the depths of the Final Weapon, to reach Sigma and put a stop to his plans. As per tradition, this stage only house the boss rematches, set within a big chamber where eight teleport are active, allowing players to choose the order they face the bosses. After each fight, an energy and health pickup will spawn in the two top platforms, and when all the bosses have been defeated, the golden teleport will activate leading players to the final chamber. No other enemies are present in the stage.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=5cm]{figures/X4/boss_layout.png}
+	\caption{Boss' rematch teleport layout}
+\end{figure}
+
+
+\subsection{Phantom Sigma}
+The true mastermind behind Repliforce's rebellion, Sigma presents himself as the game's final boss. Once the leader of the 17th Maverick Hunter Elite unit, Sigma was the perfect reploid, a special A-class hunter admired and relied upon by all, gifted with immense strength and reasoning power. This changed when he was called to deal with a dangerous red Maverick who had awakened and killed every reploid who drew near: Sigma confronted the threat to defend his soldiers and challenged the out-of-control Zero to a duel, but his pride was shattered when Zero defeated and mocked him while laughing maniacally. Sigma survived only by chance, as Zero suddenly succumbed to a mental block, giving Sigma the opportunity to strike back and neutralize Zero. Alive by a miracle, Sigma ordered his soldiers to bring the mysterious reploid to Dr.~Cain for analysis, while he himself went under repair for the heavy damage sustained in the fight. Little did he know, however, that during the battle the Maverick Virus within Zero’s body had spread into him, slowly dragging him to the dark side. Several months later, the virus’s grip on Sigma was complete, twisting his vision of the world until he came to see humanity as an obstacle to reploid evolution~\cite{wayback:X4_resources}. Taking advantage of his genius and power, he began to subdue countless reploids and soldiers, rising in revolt against humanity, but was stopped by the combined efforts of X and Zero three times.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/X4Sigma.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mega_Man_X_DiVE_Hunter_Program_Sigma_(X4_2nd_form)_Auraless.png}
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mega_Man_X_DiVE_Boss_Sigma_(X4_1st_form).png}
+	\caption{Phantom Sigma's artworks from~\cite{book:MMX_Complete_art} and the X Dive game}
+\end{figure}
+
+Having survived Doppler’s vaccine in the previous game, Sigma obtained a new body and returned once more, this time setting his sights on exploiting Repliforce’s military strength, orchestrating a scheme to put Repliforce and the Maverick Hunters against one another, so that the resulting conflict would leave both sides weakened and vulnerable to his forces. To that end, he planted seeds of doubt in General’s mind and framed Repliforce for the sabotage of Sky Lagoon, thereby igniting hostilities between the two factions, while he remained in the shadows, watching as Repliforce, X, Zero, Iris, and Double all played into his hands. In the end, Sigma decided to act directly, having assisted in first person at General's defeat, by hijacking Final Weapon’s main cannon, built by Repliforce as a deterrent against human attacks, and preparing to fire it at Earth to annihilate humanity.  He was however reached by X and Zero, who attempt to stop him and engage in battle, with Sigma mocking X for his ingenuity that had allowed Double to spy on him so easily, and Zero for once being a Maverick who had destruction as his true nature. Although Sigma’s body was destroyed once more, he left laughing, having already set the cannon to fire and delayed the Hunters long enough. It was only General’s sacrifice, placing his body in the cannon’s path, that prevented the catastrophe Sigma sought.
+
+
+As a boss, Sigma presents himself in two distinct phases, each marked by a separate health bar and a completely different attack pattern. In the first phase, Phantom Sigma levitates in midair, hidden beneath his cloak, and teleports across the room while following a strict cycle: twice in a row he appears above the player and uses his \emph{Shot Attack}, releasing six electric projectiles in pairs that split left and right upon hitting the ground and travel to the walls; on the third attack, he always performs the \emph{Scythe Attack}, teleporting to one side of the arena and sweeping his scythe across the entire area below while becoming invincible.\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.35\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_plasma.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_plasma_1.png}
+		\caption{Shot Attack}
+	\end{subfigure}
+		\begin{subfigure}{.15\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_burn.png}
+		\caption{On fire}
+	\end{subfigure}
+	\begin{subfigure}{.6\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_sweep_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_scythe_dodge.png}
+		\caption{Scythe Attack (avoided by jumping over it)}
+	\end{subfigure}
+	\caption{Phantom Sigma's first phase attacks}	
+\end{figure}  After this, he restarts the cycle from the beginning. Recognizing this pattern allows players to avoid all damage, which is vital since this is only the first of three battles. His cloak makes him immune to all damage except fire-based attacks, meaning that only Rising Fire and Ryuenjin can harm him, burning his cloak and forcing him to teleport away. Conveniently, he often teleports directly above X or Zero, creating the perfect opportunity to strike. However, Sigma is completely immune during his sweeping third attack, so players must either climb a wall or dash above the scythe to avoid it. Mastering this phase without taking damage is crucial preparation for the fights ahead.
+
+
+Once Phantom Sigma’s health bar is depleted, his cloak burns away, exposing his body and restoring all of his health. In this form, his moveset changes drastically, though he still follows a rigid cycle. First, he always begins with the \emph{Scythe Throw}, sending the weapon spinning in a circle around him; immediately afterward, he uses the \emph{Laser Attack}, hurling the scythe at the player; upon impact with a surface, the weapon emits electricity, making that surface unusable for players. The location where the scythe sticks itself determines Sigma’s next move: if it lands to a wall, he performs the \emph{Laser Eye}, leaping to the opposite wall and firing lasers from his eyes onto the ground; if it sticks to the floor instead, he unleashes the \emph{Boomerang Attack}, deploying four shoulder-mounted boomerangs that home in on the player one at a time, stalls briefly, and then all converge together before flying off-screen. After either attack, Sigma retrieves his weapon and repeats the cycle.
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.49\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Final_Stages/sigma_schyte.png}
+		\caption{Scythe Throw}
+	\end{subfigure}
+		\begin{subfigure}{.49\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Final_Stages/sigma_boomerang.png}
+		\caption{Boomerang Attack}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Final_Stages/sigma_blind_spot.png}
+		\caption{Laser Attack and safe spot behind Sigma}
+	\end{subfigure}
+
+	\caption{Phantom Sigma's second phase attacks}	
+\end{figure} 
+
+As with the first phase, memorizing Sigma’s pattern and anticipating his moves is the key to surviving without heavy damage. Players are strongly advised to avoid triggering the Boomerang Attack, since it is by far his most chaotic and difficult ability to evade, especially since it must be done without ever touching the electrified ground. To prevent it, they must bait Sigma into throwing the scythe into a wall, which is easily achieved by climbing one as the weapon circles around him; once it is put in place, they should quickly run to the opposite wall, the only safe area from his Laser Eye. In this phase, Sigma is vulnerable only to X’s Lightning Web and buster, while Zero can use Rakuhouha, Kuuenzan, and Raijingeki, with the first dealing slightly higher damage. X still holds an advantage at range with his buster, but Sigma’s patterns often favor close combat, reducing the gap between the two protagonists and even granting Zero a small edge thanks to his superior mobility and the fact that it is possible to stand directly behind Sigma while he fires his lasers to hit him repeatedly.
+
+\begin{table}[htp]
+
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health}  & 48\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 4 \\
+		Shot Attack & 6 \\
+		Scythe Attack&9 \\
+		\bottomrule
+	\end{tabular}
+	\vspace{0pt}
+	\begin{tabular}[h]{l c}
+			\toprule
+			\multicolumn{1}{c}{Health}  & 48\\
+			\midrule
+			\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+			Contact & 4 \\
+			Scythe Throw & 9 \\
+			Laser Attack&6\\ 
+			Boomerang Attack& 6\\
+			Laser Eye& 9\\
+			\bottomrule
+		\end{tabular}
+	\caption{Phantom Sigma 1st and 2nd phases attacks and damages~\cite{book:Compendium,wiki:Sigma_X4}}
+\end{table}
+
+
+
+\subsection{Gunner Sigma \& Earth Sigma}
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=\portraitsize]{figures/X4/Final_Stages/Mega_Man_X_DiVE_Boss_Sigma_(X4_3rd_form).png}
+	\caption{Gunner Sigma's artwork from the X Dive game}
+\end{figure}
+
+Following Phantom Sigma's defeat, his body explodes and opens a passage to Final Weapon's core, where Sigma attacks using multiple bodies at once, known as Gunner Sigma and Earth Sigma and accompanied by the Mini Body drones. Just like his previous form, these too follow a strict attack pattern, meaning players can always predict the next move: the Mini Bodies attack first, followed by Earth Sigma, then another strike from the Mini Bodies, and finally Gunner Sigma closing the sequence. Notably, each of the two main Sigma forms has its own separate health bar, so when one is defeated the other replace it in the rotation.
+
+
+The Mini Bodies are three drones shaped like Sigma's head, each one colored according to its element: red for fire, blue for ice, and yellow for electricity. 
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Final_Stages/sigma_fire.png}
+		\caption{Flame Shot}
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Final_Stages/sigma_spark.png}
+		\caption{Electromagnetic shot}
+	\end{subfigure}
+	\begin{subfigure}{.3\linewidth}
+		\centering
+		\includegraphics[height=2.5cm]{figures/X4/Final_Stages/sigma_snow.png}
+		\caption{Ice Fog}
+	\end{subfigure}
+	\caption{Mini Bodies' attacks}	
+\end{figure}
+They represent the only random factor in the battle, as the attacking drone is chosen at random, forcing players to remain alert and adapt quickly. Only one drone attacks at a time, while the others act as physical obstacles or platforms, though none deal contact damage except when they deploy their spikes. When the red drone attacks it appears on the far left, while the other two stack to the right to form a wall, and uses the \emph{Flame Shot}, firing three sets of four fireballs each after aligning vertically with the player, meaning that the best solution to avoid them it to rapidly move up and down the makeshift wall. If the yellow drone appears in the center, with the others to the sides, it signals it will use the \emph{Electromagnetic Shot}, firing six fast electric spheres aimed directly at the player, which split upon impact into two bolts traveling horizontally.
+ To avoid this, players should keep moving and use the drones as platforms. Finally, the blue drone mirrors the red, appearing on the far right but releasing an \emph{Ice Fog} across the floor. This is the easiest attack to avoid, as players must simply stay off the ground until the attack ends. Dealing with the Mini Bodies is essential for survival: they are Sigma’s most frequent attack, so mastering how to dodge them allows players some margin for error against the main bodies. It is important to note that the drones do not count as Sigma’s actual body, so destroying them serves only to interrupt the attack cycle, as they regenerate anyway.
+
+
+After the drones, Earth Sigma (sometimes referred to as the \emph{Slime Body}~\cite{book:Compendium}) attacks from the bottom left corner. He has two possible moves: the \emph{Spike Attack}, which summons spikes on the rightmost wall and blows wind to push players into them, and the \emph{Slime Body}, where he inhales debris, pulling players toward him in the process, and then spits them in random directions.  
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_pull_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_pull_2.png}
+		\caption{Slime Body}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_push_1.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_push.png}
+		\caption{Spike Attack}
+	\end{subfigure}
+	\caption{Earth Sigma's attacks}	
+\end{figure}
+
+Earth Sigma is, among the two main forms, probably the hardest form to deal with, mainly due to how difficult is to damage to him. This form, in  particular, can only be hit when his mouth is open, which coincides exactly to him attacking. To do so, the best option is to attack while Sigma is blowing wind, as his mouth is constantly opened, ad the wind's push can be easily compensated by dashing, although Zero can find this difficult. The second best option is to strike while Sigma is blowing debris, but this means inevitably taking damage in the process. This Sigma's form is particularly weak to Zero's Hyouretsuzan and X's Ground Hunter, which however must be shot in mid-air, as Sigma's mouth hitbox is positioned slightly above the ground, enough to avoid ground hunters sliding on the floor.
+
+Closing the sequence is Gunner Sigma (also called the \emph{Cyborg Body}~\cite{book:Compendium}), who appears in the top right corner. Like the previous form, he also has two attacks: with the \emph{Tracking Laser}, he aims his gun at the player and fires a cone-shaped beam three times in succession; meanwhile, with the \emph{Clear Laser}, announced by his shout of ``The End!’’, he sweeps a massive beam across the entire floor.  
+\begin{figure}[htp]
+	\centering
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_aim.png}
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_hitbox.png}
+		\caption{Tracking Laser and safe spot on the gun itself}
+	\end{subfigure}
+	\begin{subfigure}{\linewidth}
+		\centering
+		\includegraphics[height=3cm]{figures/X4/Final_Stages/sigma_sweep.png}
+		\caption{Clear Laser}
+	\end{subfigure}
+	\caption{Gunner Sigma's attacks}	
+\end{figure}
+Among the two forms, Gunner Sigma is the easier to manage, as his attacks are straightforward to avoid: the floor-sweeping laser is countered by staying airborne or clinging to a wall, which the Mini Bodies conveniently build by stacking on top of each others, and the Tracking Laser only fires in three directions, with its hitbox limited to the cone itself, as the gun does not cause contact damage. This is particularly convenient for offense, since his only weak point is his face atop the robotic body, high in the air and difficult to reach. X can rely on fully charged shots or the Soul Body, though the latter’s limited range forces him to close in, possibly using the hover function of the Fourth Armor. Zero, meanwhile, can reach the head with his double jump and strike with Kuuenzan, though Ryuenjin launched from the blue Mini Body platform is also an alternative choice.
+
+
+
+Ultimately, this final Sigma battle is a test of reflexes and adaptability. While each attack is manageable on its own, the sheer combination of patterns, their frequency, the inability to permanently remove the Mini Bodies, and the difficulty of consistently hitting Sigma’s small weak points can cause players to accumulate damage faster than they deal it, leading to defeat over time. Sub-Tanks can provide some relief, but players must remember they do not refill upon defeat, and the game’s pick-ups only restore them partially, thus requiring multiple attempts to fully recharge them. As such, they should be saved for moments when victory is within reach.
+ 
+Upon defeating Sigma, a cutscene plays showing General’s sacrifice, immediately followed by an FMV unique to the character used, and then the game’s credits.
+ 
+\begin{table}[htp]
+	\centering
+	\begin{tabular}[h]{l c}
+		\toprule
+		\multicolumn{1}{c}{Health - Gunner Sigma}  & 48\\
+		\multicolumn{1}{c}{Health - Earth Sigma}  & 48\\
+		\multicolumn{1}{c}{Health - Mini Bodies}  & 16\\
+		\midrule
+		\multicolumn{1}{c}{Attack} & \multicolumn{1}{c}{Damage}\\
+		Contact & 9 (both forms) \\
+		Flame Shot &6 \\		
+		Electromagnetic Shot &6 \\
+		Ice Fog &6 \\
+		Spike Attack&24 \\
+		Slime Body& 6 (debris)\\
+		Tracking Laser & 9\\
+		Clear Laser & 9\\
+		\bottomrule
+	\end{tabular}
+	\caption{Gunner and Earth Sigma's attacks and damages~\cite{book:Compendium,wiki:Sigma_X4}}
+\end{table}
+ 
+ 
+\chapter{Miscellaneous}\label{X4:misc} %
+In this chapter we provide a series of less known fact and glitches related to the game.
+
+\section{Saber Dash Cancel}\label{SDC}
+The Saber Dash Cancel (or SDC for short) is a technique used by speedrunners to quickly defeat enemies and bosses when using Zero. The key to this technique lies in the fact that almost all enemies and bosses (except Cyber Peacock and Frost Walrus~\cite{wiki:X4_tricks}) do not trigger invincibility frames when hit by the first and second swings of Zero's sword. By combining this with the ability to cancel the sword swing animation with a dash, which can in turn be canceled by another sword swing, players can create a rapid sequence of hits that completely ignores invincibility frames. This sequence can quickly decimate bosses' health and is performed simply by rapidly alternating the attack and dash buttons. File \path{videos/X4/Saber_dash_cancel} gives a visual example of how SDC can be performed.
+
+
+There also exists a minor variation called the \emph{Double Saber Dash Cancel} (or SSDC)~\cite{rta:x4}, which consists of performing two slashes before canceling with a dash.
+
+
+\section{Extra Air Movement}
+This minor exploit allows players to gain a second air dash, jump (if Zero has Kuuenbu), or Nova Strike (if X has the Ultimate Armor) while in the air. To perform it, players must simply get hit while airborne, which refreshes these techniques and allows them to use them again~\cite{wiki:X4_tricks}. Video \path{videos/X4/Extra_jump} shows this tech in action.
+
+
+\section{Dash Speed out of Ryuenjin}
+This trick is achieved by inputting the Ryuenjin command while also pressing the dash button. As a result, Zero performs the technique, but the speed he gains afterward matches the dash speed~\cite{wiki:X4_tricks}. Video \path{videos/X4/Fast_Ryuenjin} shows this tech in action.
+
+
+\section{Web Spider Invincibility Bug}\label{sec:spider_if_glitch}
+This dangerous bug can occur during Web Spider's rematch. If players were to start the fight by immediately releasing a charged Twin Slasher as Web Spider climbs up, a bug triggers in which Spider’s health bar is completely emptied while he remains frozen in place, taking no damage from further attacks. This leads to an endless fight that only ends when the player is defeated~\cite{wiki:X4_tricks},as seen in file \path{videos/X4/Spider_softlock.mp4}.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Web_Spider/Spider_glitch.png}
+	\caption{Web Spider with his glitched health bar}
+\end{figure}
+
+
+\section{Web Spider Off-Screen Kill}
+In contrast to the previous bug, this glitch allows players to deal massive damage to Web Spider, potentially killing him instantly and exploits the brief moment when Spider loses all invincibility while hiding in the trees~\cite{rta:x4}. To perform it, players must hit Spider and trigger his I-frames as he disappears, causing him to loose them  for the entire time he remains hidden. At this point, players should climb to the very top of the arena and attack ideally with the Plasma Shot, Nova Strike, or, in Zero's case, Kuuenbu. Since Spider is still present in the map, if the attack is aligned correctly, he can take serious damages, potentially skipping his second phase. Once the second phase begins, however, this glitch can no longer be performed. The video file \path{videos/X4/Spider_nova_glitch.mp4} shows this glitch in action.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Web_Spider/Spider_fast_kill.png}
+	\caption{Web Spider struck offscreen for massive damage}
+\end{figure}
+
+\section{Split Mushroom Miniboss Skip}\label{x4_misc_mushroom_skip}
+This skip can only be performed by X. By using either the Nova Strike and arm parts with Rising Fire, or the Lightning Web and foot parts, players can bypass the miniboss entirely. To do so, they must jump from the ledge just before the platform where the fight normally occurs and release a charged Rising Fire immediately followed by a Nova Strike. Alternatively, they can substitute Rising Fire with the Lightning Web and Nova Strike with a regular air dash, though this narrows the window of success. If executed correctly, X gains enough height to bypass the camera lock trigger while still triggering the miniboss, allowing him to skip the fight entirely. File \path{videos/X4/Mushroom_midboss_skip.mp4} shows how to perform this glitch using the first method.
+
+\section{Starting Magma Dragoon's Fight Near Him}
+This small trick is exclusive to X when equipped with the Body Parts and a charged Nova Strike. Players must slide down the wall leading to Dragoon's arena and perform a Nova Strike as X falls. If timed correctly, X lands directly next to Dragoon instead of at the usual position on the left. If the timing fails, however, X falls into the lava and dies as the fight begins. File \path{videos/X4/Dragoon_close_start.mp4} shows how to achieve such glitch.
+
+\section{Magma Dragoon's Armor Parts Using the Ride Armor}\label{misc:armor_body}
+This trick relies on two glitches involving the Ride Armor and allows X to use it to break the wall sealing the armor capsule instead of the usual charged Twin Slasher.  
+
+The first glitch allows players to push an empty Ride Armor using Lightning Web, which pushes the armor depending on how the web expands, potentially even into walls. If pushed upward, the armor falls normally due to gravity, but if it becomes stuck inside a wall, it is considered ``on ground’’ and remains suspended.  
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Dragoon_armor_glitch.png}
+	\includegraphics[height=3cm]{figures/X4/Magma_Dragoon/Dragoon_armor_glitch.png}
+	\caption{Glitching the Ride Armor to reach the wall hiding the capsule}
+\end{figure}
+
+The second glitch allows the Ride Armor to glide through the air. The exact setup is unclear, but the most common method is placing the armor at the edge of a ledge, then performing a dash attack while getting hit at the same time. If successful, the armor is pushed off the ledge and begins gliding at dash speed, allowing players to reach otherwise inaccessible areas.  
+
+By combining these glitches, players can push the armor near the end of the Volcano up to the highest part of the stage using the Lightning Web, then trigger the glide glitch by getting hit near the border of the upper platform using the \hyperlink{enem:Giga_Death}{Giga Death} enemy. When executed correctly, the armor can glide onto the platform hiding the Body Parts and break the wall. File \path{videos/X4/Dragoon_capsule_with_armor.mp4} shows how to perform such glitch.
+
+
+\section{Fighting Slash Beast Using the Ride Armor}
+Using the same glitches, players can bring the Ride Armor into the Slash Beast fight: first, they must push the armor up onto the train engine, normally the obstacle preventing its advance; then, by baiting an enemy attack, they trigger the glide glitch to fly over the pits with the armor. Once on the last train, they push the armor forward so that when the train departs, both the player and the armor ride together. If the setup fails, the armor is left behind, if successful, players can enter Slash Beast’s arena with the Ride Armor. File \path{videos/X4/Beast_armor_glitch.mp4} and \path{videos/X4/Beast_vs_Armor.mp4} gives visuals clues on how to perform the glitch and its effect.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Slash_Beast/Armor_beast_1.png}
+	\includegraphics[height=3cm]{figures/X4/Slash_Beast/Armor_beast_2.png}
+	\includegraphics[height=3cm]{figures/X4/Slash_Beast/Armor_beast_4.png}
+	\caption{Bringing the Ride Armor against Slash Beast}
+\end{figure}
+
+\section{Storm Owl's ``Shield Break''}
+During Storm Owl's fight, there are instances where the boss loses all invincibility frames, allowing players to deal heavy damage with multi-hit attacks~\cite{rta:x4}.  
+
+The first method involves baiting his four-shot cyclone attack, waiting for him to fire the last shot, and striking just before he makes them converge. When Owl spreads his arms to recall the spheres, his invincibility is removed and will not activate for the entire duration of the animation (about 59 frames), allowing spheres from plasma shots to strike consecutively.  
+
+The second method involves hitting Owl with his weakness, the Aiming Laser. Upon impact, he enters a short stun before retreating, during which he also loses any invincibility associated with the Nova Strike. Depending on the retreat direction, this attack can deal up to 80\% of his health in one strike~\cite{rta:x4}.
+
+\section[Storm Owl's Weakness Glitch]{Storm Owl's Weakness Glitch (Legacy Collection Only)}
+This glitch, exclusive to the Legacy Collection release, occurs if the rotating cyclone attack is interrupted by hitting Storm Owl with the Aiming Laser. When this happens, the attack is abruptly canceled, causing him to fly off-screen, but when he next uses the same attack, he reappears already performing it, with the cyclone stream rotating as he moves toward the arena’s center, where a new set of cyclones is generated~\cite{wiki:Storm_owl}. This latter part can be seen in file \path{videos/X4/Owl_glitched_cross.mp4}.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Storm_Owl/owl_glitched_cross.png}
+	\caption{Owl returning in the arena already surrounded by cyclones}
+\end{figure}
+
+
+\section{Exiting Storm Owl Boss Room}
+This glitch allows players to escape the boss arena and enter a glitched zone with Owl following them. Performing it requires near frame-perfect timing, using the Lightning Web to wall-jump in the air and skip the trigger that locks the camera. Because of the precision required, this glitch has only been documented in TAS~\cite{Owl_glitch_TAS}.
+
+
+\section{Frost Walrus Glitched Area}
+It is possible to enter a glitched area in Frost Walrus’s stage, though it contains nothing of value. Players must first reach the miniboss room entrance, then backtrack and climb up to the EX-Tank location. Due to the boss room loading, the camera shifts right, allowing them to continue along the platform. By descending from the right, they can enter the glitched area, but it offers no advantages or skips.
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/Walrus_glitch.png}
+	\includegraphics[height=3cm]{figures/X4/Frost_Walrus/Walrus_glitch_2.png}
+	\caption{Glitched zone outside the stage's bounds}
+\end{figure}
+
+\section{Multiple Hits on Colonel}
+Every time Colonel’s animation changes, his invincibility frames reset. As a result, players can hit him multiple times with a single attack if attacking at the right moment. This glitch applies to both X and Zero.
+
+\section{Fighting General Using a Ride Armor}
+A glitch similar to the one used to face Slash Beast with the Ride Armor can also be performed against General. However, it requires several frame-perfect inputs, making it much more difficult compared to the previous glitch. If executed correctly, however, players can attack General with the Ride Armor, dealing massive damage. So far, this glitch has only been performed during TAS~\cite{General_TAS}, with no known recordings on original hardware.
+
+
+\section{Ultimate Armor and Black Zero}
+At the start of a new game players can enter two secret passwords, one for each playable character. For X, the password requires selecting him and inputting the sequence $\circ\circ\leftarrow\leftarrow\leftarrow\leftarrow\leftarrow\leftarrow$ (six left inputs), then holding L1 and R1 before pressing Start. If successful, X’s color palette becomes slightly darker, with light purple replacing the light blue under his armor. From then on, entering any armor capsule grants him the Ultimate Armor instead of the regular parts.  
+
+For Zero, the code requires highlighting him on the character selection screen, holding R1, and inputting $\rightarrow\rightarrow\rightarrow\rightarrow\rightarrow\rightarrow$ (six right inputs), then releasing R1, holding B, and pressing Start. If entered correctly, Zero appears in his black armor. This change, however, is purely cosmetic and does not alter gameplay.
+
+\begin{figure}[htp]
+	\centering
+	\includegraphics[height=3cm]{figures/X4/weapons/Ultimate_X.png}
+	\includegraphics[height=3cm]{figures/X4/weapons/Ultimate_armor.png}
+	\includegraphics[height=3cm]{figures/X4/weapons/black_zero.png}
+	\caption{Ultimate armor X (unarmored and armored) and black Zero}
+\end{figure}
